@@ -1,1 +1,0 @@
-# homeworld-mobile-guide
