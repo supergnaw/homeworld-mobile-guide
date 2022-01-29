@@ -34,7 +34,7 @@ Welcome to what will probably be your first Heroic strike. As of the three curre
 
 As you might have noticed from the lack of changes in the images to the left, the tactics are unchanged compared the PHT1. Although one thing is abundantly clear, that is the amount of additional enemies that spawn in the strike compared to the previous one. If you don't find a way to deal with them then you can say goodbye to your armour and hull in no time. Do bring in some decent anti-strike craft units or weapons to clear the waves. Next up will be the additional turrets, each group now has an extra turret to them. The difference between the T1 and T2 turrets is quite large, both in the tank and damage department. Don't underestimate the additional firepower on the field and make sure you have a good distance between group 1 and group 3 so you don't get targeted by all turrets.
 
-### PHT2 can technically be farmed, but you will need a high-end T3 loadout to make it worthwhile. If you're looking for a xp farm, PHT1 will be your preferred strike.
+PHT2 can technically be farmed, but you will need a high-end T3 loadout to make it worthwhile. If you're looking for a xp farm, PHT1 will be your preferred strike.
 
 ### Recommendations and gear
 
