@@ -1,5 +1,5 @@
 | Part                  | Location Found                                                           |
---|-|
+|-|-|
 | Small hull II         | Market                                                                   |
 | Small hull III        | Main quest - 'Exploration'                                               |
 | Small machinery II    | Market                                                                   |
