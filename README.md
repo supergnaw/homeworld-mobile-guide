@@ -16,23 +16,42 @@ There are items drop so commonly that the specific location is not needed. If le
 
 As of now, the document has the following tabs:
 
-FAQ: Frequently Asked Questions, if you've a question about the game, begin here. It also has multiple tips that will help you with your career
-Strike guide: guides about the different strikes,  objectives, tactics, recommendations and solo-clearing guide.
-Officer List & explanation: A list of most officers in the game, and an explanation of what stats do, abilities and passive perks, best placement for them and how to level them up
-Ship List: List of all available flagships, escorts and strike craft in the game, few notes on them and drop location
-Modules: List of all available flagship modules, few notes on them and drop location
-Intermediate Products: List of available intermediate parts and where to get them (small and large components)
-System list: An overview of all systems in the game, if they have a trading station or asteroid belt and side notes
-Enemy units: List of all enemies in the game, what there strength and weaknesses are
-List of side-missions: A list of all side-missions in the game (who would have thought that?)
-Scannable farm routes: A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route
+### FAQ: 
+Frequently Asked Questions, if you've a question about the game, begin here. It also has multiple tips that will help you with your career
+
+### Strikes:
+guides about the different strikes,  objectives, tactics, recommendations and solo-clearing guide.
+
+### Ships:
+List of all available flagships, escorts and strike craft in the game, few notes on them and drop location
+
+### Enemies: 
+List of all enemies in the game, what there strength and weaknesses are
+
+### Officer List & explanation:
+A list of most officers in the game, and an explanation of what stats do, abilities and passive perks, best placement for them and how to level them up
+
+### Missions: 
+A list of all side-missions in the game.
+
+### Farming: 
+A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route
+
+### Modules:
+List of all available flagship modules, few notes on them and drop location
+
+### Products: 
+List of available intermediate parts and where to get them (small and large components)
+
+### Systems: 
+An overview of all systems in the game, if they have a trading station or asteroid belt and side notes
 
 
-Patchnotes 29-1-22 - Strike guide update
-Added the 'Strike guide' tab, to help newer players with strikes and offer some tips for the higher tier strikes available
-Overall styling and formatting changes to help readability
-Additions to the FAQ tab to offer more answers to new questions
-Fixed a faulty drop location, 'Spoils of war' to the correct location 'Spoils of battle' (spoils of war do not exist)
-Added extra info in the 'Officers List & Explanation', new highest stat for Physical officers, explanation about leveling officers
-Into adjusted for more info about the document
-Added patchnotes in the patchnotes, if there are patchnotes in the patchnotes, are they patchnotes of patchnotes? Or patchnotes of patchnotes?
+### Patchnotes 29-1-22 - Strike guide update
+- Added the 'Strike guide' tab, to help newer players with strikes and offer some tips for the higher tier strikes available
+- Overall styling and formatting changes to help readability
+- Additions to the FAQ tab to offer more answers to new questions
+- Fixed a faulty drop location, 'Spoils of war' to the correct location 'Spoils of battle' (spoils of war do not exist)
+- Added extra info in the 'Officers List & Explanation', new highest stat for Physical officers, explanation about leveling officers
+- Intro adjusted for more info about the document
+- Added patchnotes in the patchnotes, if there are patchnotes in the patchnotes, are they patchnotes of patchnotes? Or patchnotes of patchnotes?
