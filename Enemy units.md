@@ -27,15 +27,17 @@ In the next table there are spoilers for the main quest, read at your own risk
 >! Jolja	
 >! Tanoch Destroyer:
 >! First seen in the 'Jolja' mission. Tanky brawlers but very slow. Make sure that move units that are targeted by the destroyer outside of its range.
+-----
 
 >! Tanochet			
 >! Yaot Deep Space Torpedo:
 >! Used in the 'Tanochet' mission. Need to be destroyed before they reach the targeted stations. BE AWARE that upon destruction, it'll do AoE damage around itself, enough to insta-kill frigates.
+------
 
 >! Temple Tonaati			
 >! Tanoch Temple Fleet defense turret:
 >! First seen in the 'Temple Tonaati' mission. These turrets are NOT meant to be fought. Find a gap in the defense line and rush past the defenses.
-			
+
 >! Additional intel			
 >! Yaot Destroyer:
 >! Boss of the 'Temple Tonaati' mission. The strongest unit in game that can be fought as of 2.28 (for its tier). Has a lot of armour so make sure to stock up in armour dealing weapons and ships before attempting this mission
