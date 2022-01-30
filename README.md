@@ -28,17 +28,17 @@ List of all available flagships, escorts and strike craft in the game, few notes
 ### Enemies: 
 List of all enemies in the game, what there strength and weaknesses are
 
-### Officer List & explanation:
+### Officers:
 A list of most officers in the game, and an explanation of what stats do, abilities and passive perks, best placement for them and how to level them up
 
 ### Missions: 
 A list of all side-missions in the game.
 
-### Farming: 
-A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route
-
 ### Modules:
 List of all available flagship modules, few notes on them and drop location
+
+### Farming: 
+A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route
 
 ### Products: 
 List of available intermediate parts and where to get them (small and large components)
