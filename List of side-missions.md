@@ -3,21 +3,21 @@
 As of version 0.2.28, the following side mission series are available: (The Path of the Exile quest line is bugged, and is currently not available in the game). Aside from the side missions 'Production' and 'Combat', the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
 
 ### Priority side missions that give T3 small components as its rewards 
-#### (T3 Small weapon parts from Production & T3 small machinery parts from Combat)
+### (T3 Small weapon parts from Production & T3 small machinery parts from Combat)
 
-##### Production series
+### Production series
 - Production 1
 - Production 2
 - Production 3
  
-##### Combat series
+### Combat series
 - Combat 1
 - Combat 2
 - Combat 3
 
 ### Cumulative series that gives non-blueprints as its rewards
 
-##### T1 Mining
+### T1 Mining
 -  Mining equipment
 -  Mining procedure
 -  Mineral samples
@@ -29,7 +29,7 @@ As of version 0.2.28, the following side mission series are available: (The Path
 -  Resource collection certification
 -  Refinery certification
   
-##### T2 Mining
+### T2 Mining
 - New mining equipment
 -  New mining procedures
 -  Refinery tests
@@ -41,7 +41,7 @@ As of version 0.2.28, the following side mission series are available: (The Path
 -  Refinery trials 4
 -  Refinery upgrade certification
   
-##### T3 Mining
+### T3 Mining
 - Advanced mining equipment 
 - Advanced mining procedures
 - Refinery overprocessing 
@@ -56,7 +56,7 @@ As of version 0.2.28, the following side mission series are available: (The Path
 Note for the mining side quests, the last step is to mine 768k of type A, B and C ores
 
 
-##### Scanning / exlporation
+### Scanning / exlporation
 - Exploration assignment
 - System charts
 - Scanning test
@@ -68,7 +68,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Sensor shakedown emissions
 - Sensor shakedown certification
 
-##### Cangacian / pirate destruction
+### Cangacian / pirate destruction
 - Cangacian raider fleets
 - Pirate chase
 - Local defense
@@ -80,7 +80,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Wave of Rams
 - Challenge the Rams
 
-##### Yaot destruction
+### Yaot destruction
 - Yaot rebel fleets
 - Yaot pursuit
 - Local interference
@@ -92,7 +92,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Sector disruption
 - Maximum threat
 
-##### Tanoch destruction
+### Tanoch destruction
 - Rising to the challenge
 - Tanoch renegade fleets
 - Tanoch hunts
