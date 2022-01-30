@@ -4,7 +4,7 @@
 
 ### Objectives and spawns
 
-Pirate hideout is the first strike available to daring new commanders. In this strike you are tasked with destroying the pirate base (marked with O) and the surrounding turrets (marked with the hexagons). After these two targets are destroyed, the boss wave will spawn (marked with B) and patrol between its spawn point and near the end of the now destroyed base (marked with the red line). The player group will spawn at the green square.
+Pirate hideout is the first strike available to daring new commanders. In this strike you are tasked with destroying the pirate base (marked with Base) and the surrounding turrets (marked with the hexagons). After these two targets are destroyed, the boss wave will spawn (marked with B) and patrol between its spawn point and near the end of the now destroyed base (marked with the red line). The player group will spawn at the green square.
 
 In this strike there are four spawning points that will keep spawning enemies until both the base and turrets are destroyed. These are the frigate spawns at 135° segment, two corvette spawn points near 270° and an interceptor spawn point near 225°.
 
@@ -54,7 +54,7 @@ Station defense, as the name states, tasks you to defend the station located in 
 
 Depending on the amount of players in the group, your best tactic is to split up and attack a beacon on your own. Focus this down and ignore the spawning enemies, they don't have enough armour damage to really hurt your fleet or the station itself. So if you're with 4 players, move to a beacon closet to your spawning point and focus it down. If say you are in a two-man group, a player can take beacons 3 & 1, whilst the other takes beacons 4 & 2.
 
-After the beacons are destroyed, the boss wave (Marked with B) will spawn a distance away from the station. This fleet consist of multiple frigates and commandships. If they reach the station unopposed, they will quickly destroy it. After has destroyed a beacon, it's advised to move directly to the 'north' of the station to engage this fleet. Once again target down the frigates first to remove the dps from the hostile fleet and save the commandships until all frigates are destroyed. There is very little time for repairs unless you leave a single beacon open, and move well outside the enemies that will spawn and attack the station for repairs. If you manage to beat the boss wave, the strike will be completed and you'll be some T2 loot richer.
+After the beacons are destroyed, the boss wave (Marked with Foe) will spawn a distance away from the station. This fleet consist of multiple frigates and commandships. If they reach the station unopposed, they will quickly destroy it. After has destroyed a beacon, it's advised to move directly to the 'north' of the station to engage this fleet. Once again target down the frigates first to remove the dps from the hostile fleet and save the commandships until all frigates are destroyed. There is very little time for repairs unless you leave a single beacon open, and move well outside the enemies that will spawn and attack the station for repairs. If you manage to beat the boss wave, the strike will be completed and you'll be some T2 loot richer.
 
 ### Recommendations and gear
 
@@ -86,7 +86,7 @@ Solo clearing SDT3 is similar to its T2 variant, race against the clock aka the 
 
 ### Objectives and spawns
 
-Although the images to the left might seem overwhelming, let me break it down. The main and only objective of PRT2, is to destroy the pirate base (marked with O). That's it, turrets don't have to be destroyed not is there a boss wave for you to deal with. The base is your goal and destroying it will complete the strike. Now as you might have noticed by all the red markers, there is quite a lot preventing you from simply blasting the base. It is surrounded by various turrets on all sides, the 4 flanks will keep spawning frigates and strike craft until the base is destroyed and when the base gets enough hull damage, additional pockets of enemies will spawn into the instance (80% hull for R1, 60% for R2 and 40% for R3).
+Although the images to the left might seem overwhelming, let me break it down. The main and only objective of PRT2, is to destroy the pirate base (marked with Foe). That's it, turrets don't have to be destroyed not is there a boss wave for you to deal with. The base is your goal and destroying it will complete the strike. Now as you might have noticed by all the red markers, there is quite a lot preventing you from simply blasting the base. It is surrounded by various turrets on all sides, the 4 flanks will keep spawning frigates and strike craft until the base is destroyed and when the base gets enough hull damage, additional pockets of enemies will spawn into the instance (80% hull for R1, 60% for R2 and 40% for R3).
 
 ### Tactics part 1
 
