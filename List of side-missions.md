@@ -2,8 +2,8 @@
 
 As of version 0.2.28, the following side mission series are available: (The Path of the Exile quest line is bugged, and is currently not available in the game). Aside from the side missions 'Production' and 'Combat', the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
 
-### Priority side missions that give T3 small components as its rewards 
-### (T3 Small weapon parts from Production & T3 small machinery parts from Combat)
+## Priority side missions that give T3 small components as its rewards
+**(T3 Small weapon parts from Production & T3 small machinery parts from Combat)**
 
 ### Production series
 - Production 1
@@ -15,7 +15,7 @@ As of version 0.2.28, the following side mission series are available: (The Path
 - Combat 2
 - Combat 3
 
-### Cumulative series that gives non-blueprints as its rewards
+## Cumulative series that gives non-blueprints as its rewards
 
 ### T1 Mining
 -  Mining equipment
@@ -54,7 +54,6 @@ As of version 0.2.28, the following side mission series are available: (The Path
 - Refinery overhaul certification
  
 Note for the mining side quests, the last step is to mine 768k of type A, B and C ores
-
 
 ### Scanning / exlporation
 - Exploration assignment
