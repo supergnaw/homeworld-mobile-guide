@@ -14,7 +14,8 @@ For convenience sake, there is a FAQ tab with what we've perceived as the most c
 Some stats and drop location are not added into the document, the reason for this is that there is currently no method to determine the base stats of units. So until this can be showed, stats wont be added. Some
 There are items drop so commonly that the specific location is not needed. If left blank, assume that the items drops from all activities.
 
-If you want to download the data behind this site, there is a Google drive excel sheet available at: https://docs.google.com/spreadsheets/d/12iWLhVbR2lXX7tMhICaBAc8EpBKkGWWv/edit?usp=sharing&ouid=111816125531395485671&rtpof=true&sd=true
+If you want to download the data behind this site, there is a Google drive excel sheet available at: 
+https://docs.google.com/spreadsheets/d/12iWLhVbR2lXX7tMhICaBAc8EpBKkGWWv/edit?usp=sharing&ouid=111816125531395485671&rtpof=true&sd=true
 
 
 As of now, the document has the following tabs:
@@ -59,7 +60,6 @@ An overview of all systems in the game, if they have a trading station or astero
 - Added extra info on officer drops in the FAQ - Where can I find officers? What do the stats / perks do?
 - Added 'Fleet' page, with pictures of the different units across the tiers
 - Added extra page explanation about the 'Fleet' page in the intro
-- Fixed typo within the fleet page: Triishak is now Tiirshak
 
 
 ### Patchnotes 29-1-22 - Strike guide update
