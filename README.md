@@ -14,37 +14,52 @@ For convenience sake, there is a FAQ tab with what we've perceived as the most c
 Some stats and drop location are not added into the document, the reason for this is that there is currently no method to determine the base stats of units. So until this can be showed, stats wont be added. Some
 There are items drop so commonly that the specific location is not needed. If left blank, assume that the items drops from all activities.
 
+If you want to download the data behind this site, there is a Google drive excel sheet available at: https://docs.google.com/spreadsheets/d/12iWLhVbR2lXX7tMhICaBAc8EpBKkGWWv/edit?usp=sharing&ouid=111816125531395485671&rtpof=true&sd=true
+
+
 As of now, the document has the following tabs:
 
 ### FAQ: 
-Frequently Asked Questions, if you've a question about the game, begin here. It also has multiple tips that will help you with your career
+Frequently Asked Questions, if you've a question about the game, begin here. It also has multiple tips that will help you with your career.
 
 ### Strikes:
 guides about the different strikes,  objectives, tactics, recommendations and solo-clearing guide.
 
+### Fleet:
+List of all available flagships, escorts and strike craft in the game, few notes on them and drop location.
+
 ### Ships:
-List of all available flagships, escorts and strike craft in the game, few notes on them and drop location
+List of all available flagships, escorts and strike craft in the game, few notes on them and drop location.
 
 ### Enemies: 
-List of all enemies in the game, what there strength and weaknesses are
+List of all enemies in the game, what there strength and weaknesses are.
 
 ### Officers:
-A list of most officers in the game, and an explanation of what stats do, abilities and passive perks, best placement for them and how to level them up
+A list of most officers in the game, and an explanation of what stats do, abilities and passive perks, best placement for them and how to level them up.
 
 ### Missions: 
 A list of all side-missions in the game.
 
 ### Modules:
-List of all available flagship modules, few notes on them and drop location
+List of all available flagship modules, few notes on them and drop location.
 
 ### Farming: 
-A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route
+A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route.
 
 ### Products: 
-List of available intermediate parts and where to get them (small and large components)
+List of available intermediate parts and where to get them (small and large components).
 
 ### Systems: 
-An overview of all systems in the game, if they have a trading station or asteroid belt and side notes
+An overview of all systems in the game, if they have a trading station or asteroid belt and side notes.
+
+
+### Patchnotes 1-2-22 - Officer list and Fleet page update
+- Added Google drive document ad in the intro
+- Added 55 new entries in the officer list, additional notes added to existing officers
+- Added extra info on officer drops in the FAQ - Where can I find officers? What do the stats / perks do?
+- Added 'Fleet' page, with pictures of the different units across the tiers
+- Added extra page explanation about the 'Fleet' page in the intro
+- Fixed typo within the fleet page: Triishak is now Tiirshak
 
 
 ### Patchnotes 29-1-22 - Strike guide update
