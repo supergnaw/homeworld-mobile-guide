@@ -36,7 +36,7 @@ Note that both the T2 as the T3 have the same model as of version 2.28
 
 ### Mohaava
 
-### Tiirshak
+### Triishak
 
 ## Resource Collection
 Note that T1, T2 and T3 have the same models as of version 2.28
