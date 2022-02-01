@@ -94,6 +94,8 @@ All flagships, escorts, strike craft and weapons have their pro and cons. It's u
 Most content in the game has a chance to drop officers. Scannable missions - token of gratitude, liaison rewards, strikes, weekly missions and salvage from enemies drop officers
 There are also daily / weekly purchasable officers in the market. With the daily on costing credits and weekly ones costing adamant
 For info on what officers do, see the tab 'Officers List & explanation' in this document (starts at E2). Note that officer with active abilites are quite rare, but still drop from the same locations as the other officers
+Officer Cryopods have a chance to give you a higher rarity then the rarity of the item, with chances increasing with a higher rarity pod (So a common pod has a lower chance to drop an epic as to a rare pod).
+After level 420, Cryopod Level Up Rewards are structured so that every 60 levels, the minimum rarity is Rare, and on the 300 level mark, the minimum is Epic.
 
 ### Should I level up my officers / can I sell my insignias?
 Yes and no, in the early game leveling up your officers will be way to costly for its benefit. Use the credits for other upgrades like blueprints from the market. Do yourself a favor and DON'T sell your insignias. This will be a bottleneck for late game in which you need thousands upon thousands of them for your crew. More info on this in the 'Officer List & explanation' tab.
