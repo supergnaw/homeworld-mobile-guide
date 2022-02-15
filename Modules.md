@@ -13,11 +13,11 @@
 | Standard battery I                | Medium weapon | Kinetic / Captial mass drivers | Main quest                            |
 | Standard battery II               | Medium weapon | Kinetic / Captial mass drivers | Market                                |
 | Elite standard battery II         | Medium weapon | Kinetic / Captial mass drivers | Liasons                               |
-| Standard battery III              | Medium weapon | Kinetic / Captial mass drivers | scannables - spoils of battle         |
+| Standard battery III              | Medium weapon | Kinetic / Captial mass drivers | Scannables - spoils of battle         |
 | Elite standard battery III        | Medium weapon | Kinetic / Captial mass drivers | Liasons                               |
-| Heavy battery I                   | Large weapons | Kinetic / Captial mass drivers | scannables - spoils of battle         |
-| Heavy battery II                  | Large weapons | Kinetic / Captial mass drivers | scannables - spoils of battle         |
-| Heavy battery III                 | Large weapons | Kinetic / Captial mass drivers | scannables - spoils of battle         |
+| Heavy battery I                   | Large weapons | Kinetic / Captial mass drivers | Scannables - spoils of battle         |
+| Heavy battery II                  | Large weapons | Kinetic / Captial mass drivers | Scannables - spoils of battle         |
+| Heavy battery III                 | Large weapons | Kinetic / Captial mass drivers | Scannables - spoils of battle         |
 | Epic heavy battery III            | Large weapons | Kinetic / Captial mass drivers | Liasons                               |
 | Light missile I                   | Small weapon  | Missiles (not torpedo's)       | Main quest                            |
 | Advanced Light missile I          | Small weapon  | Missiles (not torpedo's)       | Strikes, scannable - spoils of battle |
@@ -34,10 +34,10 @@
 | Fusion missiles II                | Large weapons | Missiles (not torpedo's)       | Strikes, Liaisons                     |
 | Fusion missiles III               | Large weapons | Missiles (not torpedo's)       | Strikes, Liaisons                     |
 | Epic Fusion missiles III          | Large weapons | Missiles (not torpedo's)       | Liaisons                              |
-| Standard Ion cannon I             | Medium weapon | Ion weapons                    | Strikes                               |
+| Standard Ion cannon I             | Medium weapon | Ion weapons                    | Scannable - spoils of battle          |
 | Standard Ion cannon II            | Medium weapon | Ion weapons                    | Liaisons                              |
 | Elite standard ion cannon II      | Medium weapon | Ion weapons                    | Liaisons                              |
-| Standard Ion cannon II            | Medium weapon | Ion weapons                    | Liaisons                              |
+| Standard Ion cannon III           | Medium weapon | Ion weapons                    | Liaisons                              |
 | Elite standard ion cannon III     | Medium weapon | Ion weapons                    | Market (adamant), Liaisons            |
 | Heavy twin ion cannon I           | Large weapons | Ion weapons                    | Strikes, Liaisons                     |
 | Heavy twin ion cannon II          | Large weapons | Ion weapons                    | Strikes                               |
