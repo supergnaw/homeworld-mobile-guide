@@ -101,7 +101,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 | 1 to 10    | 94  | 188 | 470  | 752  |
 | 11 to 20   | 235 | 470 | 1175 | 1880 |
 | 21 to 30   | 375 | 750 | 1875 | 3000 |
-| 31 to 40   | 484 | 968 | 2420 | 3872 |
+| 31 to 40   | 515 | 1030 | 2575 | 4120 |
 
 
 ## Officer list
