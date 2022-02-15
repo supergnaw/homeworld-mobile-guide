@@ -1,6 +1,8 @@
 # Introduction
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
+- We're looking for information and data on the T2 Ion frigate blueprint. If you managed to get one, please send me a DM (Dalco#0413) with the details!
+
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
 If there are any issues with the document or you've found relevant data, please @Dalco in the discord or send me a DM (Dalco#0413). I'll try to keep this doc up-to-date as soon as I can.
@@ -51,6 +53,16 @@ List of available intermediate parts and where to get them (small and large comp
 
 ### Systems: 
 An overview of all systems in the game, if they have a trading station or asteroid belt and side notes.
+
+
+### Patchnotes 15-2-22 - Officer list and stats update:
+- New info about the Fusion missile ability, upgrading costs and 54 new officers + extra info
+- Added the Officer stats (made by Dustybin) to show the various stat differences for the various officers and rarities
+- Added the new side questline 'Path of the Exile' to the List of side-missions tab (keep in mind, only newer accounts have access to these quests
+- Added a request for additional data on the T2 Ion frigate drop location. Please DM me if you have more info on it!
+- Removed non-existing ships in the ship list tab (advanced corvettes, elite T3 assault corvette, advanced T3 assault frigate, elite T2 assault frigate
+- Fixed drop location on the T1 medium ion cannon, fixed typo for the T3 medium ion cannon
+- Fixed a spoiler enemy first spawn location
 
 
 ### Patchnotes 1-2-22 - Officer list and Fleet page update
