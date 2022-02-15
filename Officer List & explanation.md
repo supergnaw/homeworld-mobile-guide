@@ -208,7 +208,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Scientist - Perks
 
 | Officer name     | Officer category | Officer perk              | Additional info                                            |
-| ---------------- | ---------------- | ------------------------- | ---------------------------------------------------------- |
+|-|-|-|-|
 | Abdon Paktu      | Scientist        | Research point production |                                                            |
 | Abel Paktu       | Scientist        | Research point capacity   |                                                            |
 | Abel Paktu       | Scientist        | Research point production | Different skill                                            |
@@ -263,7 +263,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Scientist - Stats
 
 | Name             | Rarity  | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ---------------- | ------- | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Abdon Paktu      | U       | Scientist        | 24       | 192      | 31       |          |          |          |          |          |          |          |          |          |
 | Abel Paktu       | U       | Scientist        | 24       | 192      | 31       |          |          |          |          |          |          |          |          |          |
 | Abel Paktu       | R       | Scientist        | 24       | 192      | 31       |          |          |          |          |          |          |          |          |          |
@@ -343,7 +343,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Operator - Perks
 
 | Officer name  | Officer category | Officer perk            | Additional info                                         |
-| ------------- | ---------------- | ----------------------- | ------------------------------------------------------- |
+|-|-|-|-|
 | Abdon Paktu   | Operator         | Kinetic burst ability   | r2 -0.65, r3 -?.??, r4 -1.17                            |
 | Abdon Paktu   | Operator         | Fusion Missile          | r2 -0.65, r3 -?.??, r4 -1.17                            |
 | Adam Magann   | Operator         | Kinetic burst ability   |                                                         |
@@ -370,7 +370,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Operator - Stats
 
 | Name          | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Abdon Paktu   | C      | Operator         | 24       | 156      | 95       |          |          |          |          |          |          |          |          |          |
 | Abdon Paktu   | R      | Operator         | 24       | 156      | 95       |          |          |          |          |          |          |          |          |          |
 | Adam Magann   | C      | Operator         | 24       | 110      | 66       | 24       | 128      | 87       |          |          |          |          |          |          |
@@ -407,7 +407,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Quartermaster - Perks
 
 | Officer name     | Officer category | Officer perk     | Additional info                             |
-| ---------------- | ---------------- | ---------------- | ------------------------------------------- |
+|-|-|-|-|
 | Abdon Kaale      | Quartermaster    | Fabrication cost |                                             |
 | Abiah Kaalel     | Quartermaster    | Fabrication time |                                             |
 | Abriam Magann    | Quartermaster    | Fabrication cost |                                             |
@@ -460,7 +460,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Quartermaster - Stats
 
 | Name             | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ---------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Abdon Kaale      | C      | Quartermaster    | 90       | 91       | 50       |          |          |          |          |          |          |          |          |          |
 | Abiah Kaalel     | U      | Quartermaster    | 90       | 79       | 48       |          |          |          |          |          |          |          |          |          |
 | Abriam Magann    | U      | Quartermaster    | 90       | 63       | 49       |          |          |          |          |          |          |          |          |          |
@@ -533,7 +533,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Pilot - Perks
 
 | Officer name     | Officer category | Officer perk                   | Additional info                                             |
-| ---------------- | ---------------- | ------------------------------ | ----------------------------------------------------------- |
+|-|-|-|-|
 | Aaron Manaan     | Pilot            | Fighter squadron hull damage   |                                                             |
 | Abel Jaraci      | Pilot            | Fighter squadron armor damage  |                                                             |
 | Abiah Kaalel     | Pilot            | Fighter squadron hull damage   |                                                             |
@@ -599,7 +599,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Pilot - Stats
 
 | Name             | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ---------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Aaron Manaan     | C      | Pilot            | 24       | 28       | 114      |          |          |          |          |          |          |          |          |          |
 | Abel Jaraci      | R      | Pilot            | 24       | 37       | 165      |          |          |          |          |          |          |          |          |          |
 | Abel Jaraci      | E      | Pilot            | 24       | 37       | 165      |          |          |          |          |          |          |          |          |          |
@@ -695,7 +695,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Medic - Perks
 
 | Officer name     | Officer category | Officer perk   | Additional info |
-| ---------------- | ---------------- | -------------- | --------------- |
+|-|-|-|-|
 | Aaron Tambuur    | Medic            | Refining yield |                 |
 | Abel Tambuur     | Medic            | Refining time  |                 |
 | Balak Hraal      | Medic            | Refining yield |                 |
@@ -718,7 +718,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Medic - Stats
 
 | Name             | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ---------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Aaron Tambuur    | U      | Medic            | 49       | 90       | 28       | 64       | 99       | 31       |          |          |          |          |          |          |
 | Aaron Tambuur    | R      | Medic            | 49       | 90       | 28       | 86       | 111      | 36       |          |          |          |          |          |          |
 | Aaron Tambuur    | E      | Medic            | 49       | 90       | 28       |          |          |          |          |          |          |          |          |          |
@@ -752,7 +752,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Gunner - Perks
 
 | Officer name     | Officer category | Officer perk                     | Additional info                        |
-| ---------------- | ---------------- | -------------------------------- | -------------------------------------- |
+|-|-|-|-|
 | Abdon Tambuur    | Gunner           | Capital mass driver range        |                                        |
 | Abdon Tambuur    | Gunner           | Missile launcher hull damage     | Uncommon, rare and epic rarity         |
 | Abel Hraal       | Gunner           | Ion cannon armor damage          |                                        |
@@ -828,7 +828,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Gunner - Stats
 
 | Name             | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ---------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Abdon Tambuur    | C      | Gunner           | 49       | 46       | 160      |          |          |          |          |          |          |          |          |          |
 | Abdon Tambuur    | U      | Gunner           | 49       | 46       | 160      |          |          |          |          |          |          |          |          |          |
 | Abdon Tambuur    | E      | Gunner           | 49       | 46       | 160      | 89       | 46       | 192      |          |          |          |          |          |          |
@@ -933,7 +933,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Miner - Perks
 
 | Officer name     | Officer category | Officer perk        | Additional info                        |
-| ---------------- | ---------------- | ------------------- | -------------------------------------- |
+|-|-|-|-|
 | Abel Jaraci      | Miner            | Type B mining yield | Type C mining yield                    |
 | Abel S'jet       | Miner            | Type A mining yield |                                        |
 | Achan Manaan     | Miner            | Type C mining yield |                                        |
@@ -975,7 +975,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Miner - Stats
 
 | Name             | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| ---------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Abel Jaraci      | C      | Miner            |          |          |          |          |          |          |          |          |          | 238      |          |          |
 | Abel S'jet       | U      | Miner            | 114      | 33       | 39       |          |          |          |          |          |          |          |          |          |
 | Achan Manaan     | C      | Miner            | 114      | 38       | 47       | 131      | 53       | 63       | 178      | 53       | 63       | 229      | 53       | 63       |
@@ -1029,7 +1029,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Engineer - Perks
 
 | Officer name   | Officer category | Officer perk        | Additional info      |
-| -------------- | ---------------- | ------------------- | -------------------- |
+|-|-|-|-|
 | Abdon Paktu    | Engineer         | Fabrication time    |                      |
 | Abiah S'jet    | Engineer         | Fabrication time    |                      |
 | Ada Paktu      | Engineer         | Fabrication time    |                      |
@@ -1070,7 +1070,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 ### Engineer - Stats
 
 | Name           | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
-| -------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Abdon Paktu    | R      | Engineer         | 90       | 42       | 95       |          |          |          |          |          |          |          |          |          |
 | Abiah S'jet    | C      | Engineer         | 90       | 46       | 89       |          |          |          |          |          |          |          |          |          |
 | Abiah S'jet    | U      | Engineer         |          |          |          |          |          |          |          |          |          |          |          |          |
