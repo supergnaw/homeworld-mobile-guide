@@ -24,7 +24,7 @@
 
 In the next table there are spoilers for the main quest, read at your own risk
 
->! Jolja	
+>! Clouds of ashes	
 >! Tanoch Destroyer:
 >! First seen in the 'Jolja' mission. Tanky brawlers but very slow. Make sure that move units that are targeted by the destroyer outside of its range.
 -----
@@ -44,7 +44,7 @@ In the next table there are spoilers for the main quest, read at your own risk
 >! Boss of the 'Temple Tonaati' mission. The strongest unit in game that can be fought as of 2.28 (for its tier). Has a lot of armour so make sure to stock up in armour dealing weapons and ships before attempting this mission
 -----
 
->! The thing		
+>! Oh Sajuuk have mercy on me-		
 >! Progenitor Keeper: 
 >! The Keeper is aware. The Keeper understands. The Keeper has seen the enemy. 
 >! The keepers cannot be stopped.
