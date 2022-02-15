@@ -24,7 +24,7 @@
 
 In the next table there are spoilers for the main quest, read at your own risk
 
->! Clouds of ashes	
+>! Cloud of Ash	
 >! Tanoch Destroyer:
 >! First seen in the 'Jolja' mission. Tanky brawlers but very slow. Make sure that move units that are targeted by the destroyer outside of its range.
 -----
