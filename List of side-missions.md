@@ -1,6 +1,6 @@
 # List of all side missions
 
-As of version 0.2.28, the following side mission series are available: (The Path of the Exile quest line is bugged, and is currently not available in the game). Aside from the side missions 'Production' and 'Combat', the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
+As of version 0.2.28, the following side mission series are available: (The Path of the Exile quest line is bugged, and is currently only available for newer accounts). Aside from the side missions 'Production' and 'Combat', the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
 
 ## Priority side missions that give T3 small components as its rewards
 **(T3 Small weapon parts from Production & T3 small machinery parts from Combat)**
@@ -14,6 +14,16 @@ As of version 0.2.28, the following side mission series are available: (The Path
 - Combat 1
 - Combat 2
 - Combat 3
+
+
+## Path of the Exile, additional quests after Temple Tonaati main quest. 
+**They give decent T2 rewards so it's advised to do these after temple**
+
+### Path of the Exile
+- A test of might
+- The nomad's walk
+- The cartographer's promise
+
 
 ## Cumulative series that gives non-blueprints as its rewards
 
