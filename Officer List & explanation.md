@@ -455,7 +455,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 | Yossarian Kaalel | Quartermaster    | Fabrication time |                                             |
 | Yossarian Kaalel | Quartermaster    | Fabrication time | Different picture than the officer above    |
 
-### Quartermaster - Perks
+### Quartermaster - Stats
 
 | Name             | Rarity | Officer category | Phys–L01 | Mind–L01 | Aero–L01 | Phys-L10 | Mind-L10 | Aero-L10 | phys-L20 | Mind-L20 | Aero-L20 | phys-L30 | Mind-L30 | Aero-L30 |
 | ---------------- | ------ | ---------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
