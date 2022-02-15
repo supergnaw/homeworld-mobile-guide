@@ -51,6 +51,8 @@ On a side note, it seems that kinetic / mass driver officers also buff the damag
 
 Down below is the costs of lvling your officers based on their rarity (C = common, U = uncommon, R = rare and E = epic)
 
+( Officer stats and costs brought to you by Dustybin / Idatae#0027 from the document shorturl.at/hrCOT )
+
 | to reach level | C   | U   | R    | E    |
 |-|-|-|-|-|
 | 2              | 2   | 4   | 10   | 16   |
@@ -82,16 +84,16 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 | 28             | 28  | 56  | 140  | 224  |
 | 29             | 29  | 58  | 145  | 232  |
 | 30             | 150 | 300 | 750  | 1200 |
-|                | 31  | 62  | 155  | 248  |
-|                | 32  | 64  | 160  | 256  |
-|                | 33  | 66  | 165  | 264  |
-|                | 34  | 68  | 170  | 272  |
-|                | 35  | 70  | 175  | 280  |
-|                | 36  | 72  | 180  | 288  |
-|                | 37  | 74  | 185  | 296  |
-|                | 38  | 76  | 190  | 304  |
-|                | 39  | 78  | 195  | 312  |
-|                | 200 | 400 | 1000 | 1600 |
+| 31             | 31  | 62  | 155  | 248  |
+| 32             | 32  | 64  | 160  | 256  |
+| 33             | 33  | 66  | 165  | 264  |
+| 34             | 34  | 68  | 170  | 272  |
+| 35             | 35  | 70  | 175  | 280  |
+| 36             | 36  | 72  | 180  | 288  |
+| 37             | 37  | 74  | 185  | 296  |
+| 38             | 38  | 76  | 190  | 304  |
+| 39             | 39  | 78  | 195  | 312  |
+| 40             | 200 | 400 | 1000 | 1600 |
 
 
 | Total cost | C   | U   | R    | E    |
