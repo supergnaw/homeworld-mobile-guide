@@ -1,7 +1,9 @@
 # Introduction
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
-- We're looking for information and data on the T2 Ion frigate blueprint. If you managed to get one, please send me a DM (Dalco#0413) with the details!
+- Warning commanders, PvP is active in the following systems: Edowana (T1), Guijinar (T2) and Kredulsa (T3)
+Fog of war is active, so you won't see hostile players until they are in your sensor range. Use interceptors as scouts or sensor range officers to help with spotting them
+The different systems are tier locked, you can only access Guijinar for example when equipped with at least one T2 item (weapons, ships). Higher tier gear is not allowed in lower tier zones
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
