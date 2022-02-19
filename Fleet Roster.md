@@ -30,7 +30,6 @@ Down below you will find the various models of all ship types in the game. Keep 
 ### Carrier
 
 ### Battlecruiser
-Note that both the T2 as the T3 have the same model as of version 2.28
 
 ### Explorer
 
@@ -39,8 +38,22 @@ Note that both the T2 as the T3 have the same model as of version 2.28
 ### Triishak
 
 ## Resource Collection
-Note that T1, T2 and T3 have the same models as of version 2.28
+Resouce collection (all three tiers have the same model, somne for the special Iyateque variants)
 
 ### Resource Collector
 
 ### Resource Controller
+
+## Tanoch ships
+
+### Assault corvette
+
+### Missile corvette
+
+### Destroyer
+
+## Yaot ships							
+
+### Pulsar fighters
+
+### Assault frigate
