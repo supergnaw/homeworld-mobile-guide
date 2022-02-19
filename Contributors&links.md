@@ -9,3 +9,7 @@ Down below are various links of the ongoing projects and additional info that ma
 - Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
 
 - Thanks to Enjoii#1872 for the fabrication calculator ( shorturl.at/qCFY0 )
+
+- Thanks to Dustybin / Idatae#0027 for the scannable missions document ( shorturl.at/elsJU )
+
+- Thanks to Dustybin / Idatae#0027 for the RE drop calculator document ( shorturl.at/nrBUW )
