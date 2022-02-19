@@ -1,6 +1,6 @@
 # List of all side missions
 
-As of version 0.2.28, the following side mission series are available: (The Path of the Exile quest line is bugged, and is currently only available for newer accounts). Aside from the side missions 'Production' and 'Combat', the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
+As of version 0.2.37, the following side mission series are available: (The Path of the Exile quest line is bugged, and is currently only available for newer accounts). Aside from the side missions 'Production' and 'Combat', the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
 
 ## Priority side missions that give T3 small components as its rewards
 **(T3 Small weapon parts from Production & T3 small machinery parts from Combat)**
@@ -16,14 +16,24 @@ As of version 0.2.28, the following side mission series are available: (The Path
 - Combat 3
 
 
-## Path of the Exile, additional quests after Temple Tonaati main quest. 
-**They give decent T2 rewards so it's advised to do these after temple**
+## Additional story quests after Temple Tonaati main quest. They give decent rewards so it's advised to do these after temple / before grinding down the cumulative side quests
 
 ### Path of the Exile
 - A test of might
 - The nomad's walk
 - The cartographer's promise
 
+### Keid	
+- The Siege of Keid
+- Rebuilding Keid
+- The future of Keid"
+
+### Ytep	
+- Ytep Under Fire
+- Supplying the War Effort
+- To Strengthen Ytep"
+
+(The Ytep questline gives a Epic T3 torpedo frigate as its reward)	
 
 ## Cumulative series that gives non-blueprints as its rewards
 
