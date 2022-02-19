@@ -1,9 +1,11 @@
 # Farming
 
 ## Scannable farm routes
-Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types. Down below is my farm route for Tanoch signal missions, which consists of 5 systems which have at least 1 signal mission, and 2 systems that have the most scanable objects to progress the sensor side missions as well:
+Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types. Down below is my farm route for Tanoch signal missions (OUTDATED, serves as an example), which consists of 5 systems which have at least 1 signal mission, and 2 systems that have the most scanable objects to progress the sensor side missions as well:
 
-### Tanoch farm route
+For up to date info on scannable missions, check out this document from Dustybin: shorturl.at/elsJU
+
+### Tanoch farm route (OUTDATED)
 - Kisho Re T2
 - Saaret T2
 - Cival Tem (+2 after clearing one and scanning again) T2
@@ -21,7 +23,7 @@ Since scanable missions seem to be static to each system, and the 1st scanned sy
 - Xelasii - 8 belts
 - Furlaan - 8 belts
 
-### T3 Progenitor farm route
+### T3 Progenitor farm route (OUTDATED)
 - Vaal - 1st scan relic signature
 - Briuun - 1st scan relic signature
 - Dasolat Tem - 2nd scan Progenitor Signal
