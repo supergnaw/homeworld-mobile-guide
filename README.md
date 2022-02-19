@@ -57,6 +57,19 @@ List of available intermediate parts and where to get them (small and large comp
 An overview of all systems in the game, if they have a trading station or asteroid belt and side notes.
 
 
+### Patchnotes 19-2-22 - Game update 2.37
+- Added new ships from the latest update, updated stats for the T3BC and additional notes
+- Added images for the new ship models (placeholders, better images are slightly delayed. Website images are delayed)
+- Changed locations from certain intermediate products
+- Added the two new questlines
+- Added two documents in the contributors list from Dustybin
+- Added an outdated warning on the old farm-routes, linked the scannable mission document
+- Added new weapons from the latest update
+- Updated the System overview for Dustybin's link & pvp systems
+- Added a warning about PvP in the intro
+- Changed the 2.28 tags to 2.37
+
+
 ### Patchnotes 15-2-22 - Officer list and stats update:
 - New info about the Fusion missile ability, upgrading costs and 54 new officers + extra info
 - Added the Officer stats (made by Dustybin) to show the various stat differences for the various officers and rarities
