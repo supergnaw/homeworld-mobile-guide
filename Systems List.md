@@ -1,3 +1,5 @@
+For the different scannable missions in systems, please check out this document by Dustybin ( shorturl.at/elsJU )
+
 | System Name   | Territory | Tier | Trade Station | Resource Belts | Other           |
 |-|-|-|-|-|-|
 | Ariitar       | Iyatequa  | 1    | no            | yes            |                 |
@@ -44,6 +46,6 @@
 | Nevopan       | Yaot      | 3    | yes           | yes            |                 |
 | Tuule         | Yaot      | 3    | no            | no             |                 |
 | Ytep          | Yaot      | 3    | yes           | yes            |                 |
-| Edowana       | Iyatequa  | 1    | yes           | yes            | Ex-PvP system   |
-| Guijnar       | Tanoch    | 2    | yes           | yes            | Ex-PvP system   |
-| Kredulsa      | Yaot      | 3    | yes           | yes            | Ex-PvP system   |
+| Edowana       | Iyatequa  | 1    | yes           | yes            | T1-PvP system   |
+| Guijnar       | Tanoch    | 2    | yes           | yes            | T2-PvP system   |
+| Kredulsa      | Yaot      | 3    | yes           | yes            | T3-PvP system   |
