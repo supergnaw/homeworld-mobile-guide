@@ -35,7 +35,7 @@ Down below you will find the various models of all ship types in the game. Keep 
 
 ### Mohaava
 
-### Triishak
+### Tiirshak
 
 ## Resource Collection
 Resouce collection (all three tiers have the same model, somne for the special Iyateque variants)
