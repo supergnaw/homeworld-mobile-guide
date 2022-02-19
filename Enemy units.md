@@ -41,7 +41,7 @@ In the next table there are spoilers for the main quest, read at your own risk
 
 >! Additional intel Temple Tonaati		
 >! Yaot Destroyer:
->! Boss of the 'Temple Tonaati' mission. The strongest unit in game that can be fought as of 2.28 (for its tier). Has a lot of armour so make sure to stock up in armour dealing weapons and ships before attempting this mission
+>! Boss of the 'Temple Tonaati' mission. The strongest unit in game that can be fought as of 2.37 (for its tier). Has a lot of armour so make sure to stock up in armour dealing weapons and ships before attempting this mission
 -----
 
 >! Oh Sajuuk have mercy on me-		
