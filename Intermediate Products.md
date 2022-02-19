@@ -5,7 +5,7 @@
 | Small machinery II    | Market                                                                   |
 | Small machinery III   | Side quest - 'Combat' (Combat I, Combat II and Combat III)               |
 | Small weapon II       | Market                                                                   |
-| Small weapon III      | Side quest - 'Production' (ProductionI, Production II and ProductionIII) |
+| Small weapon III      | Side quest - 'Production' (Production I, Production II and Production III) |
 | Small electronics III | Market                                                                   |
 | Large hull II         | Market                                                                   |
 | Large hull III        | Yaot liaison requisitions - reputation 6                                 |
