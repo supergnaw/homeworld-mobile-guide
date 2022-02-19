@@ -120,7 +120,7 @@ PH = Pirate hideout, SD = Station defense and PR = Pahra's rock
 Some strikes are locked behind the main story quests. If you're missing certain strikes that other players do have, progress through the main quest line.
 In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pahra's rock (T2), Pirate hideout Heroic (T2), Station defense Heroic (T3) and Pahra's rock Heroic (T3)
 
-### Whilst queuing up in strikes, I keep getting into an instance alone. What's going on?
+### Whilst queuing up in strikes, I keep getting into an instance alone. What's going on? (Old update, if you haven't already, update your client)
 Update 2.27 and 2.28 are both playable versions, but when players are trying to do strike together, they seem to disconnect from each other. Update your game to the latest game version to fix this issue
 
 ### I've built a destroyer, but can't find it anywhere
@@ -135,7 +135,7 @@ On the tab 'Strike guide' you can find info on the different strikes, tactics us
 
 ## Weapons and Aggro Issues
 ### My weapon dont seem to fire / animations are broken?
-Weapon animations can be a bit wacky at times, currently (2.28) large missile turrets have broken animations and whilst using weapon abilities, weapons can have 10x the ordnance then normal. As long as you still do damage, then it's just a graphical problem
+Weapon animations can be a bit wacky at times, weapons can have 10x the ordnance then normal. As long as you still do damage, then it's just a graphical problem
 If your weapons don't seem to do damage, it might be that your flagship or units are targeting an enemy that is outside of your weapon range. Re-target an enemy within your range to start blasting again
 
 ### Kinetic burst is not working / my weapon abilities are broken?
