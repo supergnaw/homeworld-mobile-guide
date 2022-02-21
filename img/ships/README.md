@@ -2,7 +2,7 @@
 
 ## Proper Screenshot Guidelines
 
-In order to maintain consistency accross all screenshot submissions of fleet ships, a small set of guidelines have been created:
+In order to maintain consistency accross all screenshot submissions of fleet ships, a small set of guidelines has been created:
 
 ### Formatting
 
