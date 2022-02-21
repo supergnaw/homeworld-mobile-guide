@@ -1,5 +1,5 @@
 # Strikes
-
+{{table-of-contents}}
 ## Pirate hideout (PHT1)
 
 ### Objectives and spawns
