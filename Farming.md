@@ -1,5 +1,5 @@
 # Farming
-
+{{table-of-contents}}
 ## Scannable farm routes
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types. Down below is my farm route for Tanoch signal missions (OUTDATED, serves as an example), which consists of 5 systems which have at least 1 signal mission, and 2 systems that have the most scanable objects to progress the sensor side missions as well:
 
