@@ -50,12 +50,12 @@ Fires an EMP capsule, disabling the target ship or squad. Requires at least one 
 Lastly officers can be upgraded to get higher stats and better abilities. Every level increases a stat, with the main stat (the highest the officer has) increasing much more than those who start with a lower amount. Every 10 levels the passive perk or active ability gets an upgrade. For the active abilities the cooldowns will decrease with a small margin. For passive perks the percentage gets better for every 10 levels, or an officer gets an additional passive perk when research the tens of levels. No matter the position the officer is in, leveling them up will always boost their performance in a way (with the exception for bridge officer, in which only level 10, 20 and 30 have any real benefit)
 
 On a side note, it seems that kinetic / mass driver officers also buff the damage for destroyer escorts
-Down below is the costs of lvling your officers based on their rarity (C = common, U = uncommon, R = rare and E = epic)
+Down below is the costs of lvling your officers based on their rarity,
 
 (Officer stats and costs brought to you by Dustybin / Idatae#0027 from the document shorturl.at/hrCOT)
 
 ### Cost Per Level
-| Level | C   | U   | R    | E    |
+| Level | Common   | Uncommon   | Rare    | Epic    |
 |-|-|-|-|-|
 | 2              | 2   | 4   | 10   | 16   |
 | 3              | 3   | 6   | 15   | 24   |
@@ -98,7 +98,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 | 40             | 200 | 400 | 1000 | 1600 |
 
 ### Total Cumulative Cost
-| Level | C   | U   | R    | E    |
+| Level | Common   | Uncommon   | Rare    | Epic    |
 |-|-|-|-|-|
 | 1 to 10    | 94  | 188 | 470  | 752  |
 | 11 to 20   | 235 | 470 | 1175 | 1880 |
