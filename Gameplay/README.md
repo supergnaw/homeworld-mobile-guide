@@ -2,7 +2,7 @@
 ### Strikes:
 Guides about the different strikes, objectives, tactics, recommendations and solo-clearing guide.
 
-{{table-of-contents|gameplay}}
+{{table-of-contents|strikes}}
 
 ### Farming:
 A short introduction to scanning missions, and a few existing farm route (Tanoch signal missions, scan side mission route and T3 progenitors route.
