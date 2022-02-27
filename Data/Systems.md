@@ -1,5 +1,3 @@
-For the different scannable missions in systems, please check out this document by Dustybin ( shorturl.at/elsJU )
-
 | System Name   | Territory | Tier | Trade Station | Resource Belts | Other           |
 |-|-|-|-|-|-|
 | Ariitar       | Iyatequa  | 1    | no            | yes            |                 |
