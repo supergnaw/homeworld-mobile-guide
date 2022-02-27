@@ -1,4 +1,4 @@
-| Module                            | Size          | Module group                   | Location Found                             |
+| Module                            | Size          | Module Group                   | Location Found                             |
 |-|-|-|-|
 | Basic Sensor Array I              | Sensors       | Sensor array                   | Market                                     |
 | Basic Sensor Array II             | Sensors       | Sensor array                   | Market                                     |
