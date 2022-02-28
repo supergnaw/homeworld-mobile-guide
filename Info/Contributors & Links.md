@@ -1,5 +1,5 @@
 ## Contributions
-### Overview
+### About
 As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
 
 Down below are various links of the ongoing projects and additional info that may be of help to you
