@@ -1,6 +1,10 @@
+## Contributions
+### Overview
 As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
 
 Down below are various links of the ongoing projects and additional info that may be of help to you
+
+### Specific Contributions
 
 - Thanks to supergnaw#8465 for developing the website version of this document (homeworldsource.net)
 
