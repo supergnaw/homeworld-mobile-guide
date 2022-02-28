@@ -2,11 +2,19 @@
 
 {{table-of-contents}}
 
+## Overview
+
+### Welcome
+
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
+
+### Notes
 
 - Warning commanders, PvP is active in the following systems: Edowana (T1), Guijinar (T2) and Kredulsa (T3)
 - Fog of war is active, so you won't see hostile players until they are in your sensor range. Use interceptors as scouts or sensor range officers to help with spotting them
 - The different systems are tier locked, you can only access Guijinar for example when equipped with at least one T2 item (weapons, ships). Higher tier gear is not allowed in lower tier zones
+
+### Current Notices
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
@@ -23,6 +31,7 @@ There are items drop so commonly that the specific location is not needed. If le
 
 If you want to download the data behind this site, there is a Google drive excel sheet available at: shorturl.at/nqwCW
 
+## Sections Overview
 
 As of now, the document has the following tabs:
 
@@ -58,7 +67,6 @@ List of available intermediate parts and where to get them (small and large comp
 
 ### Systems: 
 An overview of all systems in the game, if they have a trading station or asteroid belt and side notes.
-
 
 ### Contributors & links
 As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
