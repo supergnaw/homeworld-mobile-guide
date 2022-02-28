@@ -1,5 +1,7 @@
 # Patch notes
 
+## Current
+
 ### Patch notes 19-2-22 - Game update 2.37
 - Added new ships from the latest update, updated stats for the T3BC and additional notes
 - Added images for the new ship models (placeholders, better images are slightly delayed. Website images are delayed)
@@ -12,6 +14,7 @@
 - Added a warning about PvP in the intro
 - Changed the 2.28 tags to 2.37
 
+## Previous
 
 ### Patch notes 15-2-22 - Officer list and stats update:
 - New info about the Fusion missile ability, upgrading costs and 54 new officers + extra info
