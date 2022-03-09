@@ -64,7 +64,7 @@ Since station defense is a T2 strike, you'll notice a difficulty spike compared 
 
 As described above, you're racing against the clock. It might be necessary for you to send one of your escorts (preferably a T2 assault frigate) to guard the station, so it can stall for the rest of your fleet destroy the beacons. If you notice that your fleet is taken too much damage to deal with the boss wave, you can leave one beacon untouched. This way the boss wave won't spawn and you'll be able to make some time for repairs. Make sure that the station has enough health to tank the remaining enemies before you do so.
 
-## Station defense Heroic (SDT3)
+## Station defense Heroic (SDT3) (OUTDATED)
 
 ### Objecitves and spawns
 
