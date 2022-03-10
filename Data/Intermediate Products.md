@@ -8,9 +8,9 @@
 | Small weapon III      | Side quest - 'Production' (Production I, Production II and Production III) |
 | Small electronics III | Market                                                                   |
 | Large hull II         | Market                                                                   |
-| Large hull III        | Yaot liaison requisitions - reputation 6                                 |
-| Large weapons II      | Tanoch liaison requisitions - reputation 2                               |
-| Large weapons III     | Tanoch liaison requisitions - reputation 6                               |
-| Large machinery II    | Iyateque liaison requisitions - reputation 2                             |
-| Large machinery III   | Iyateque liaison requisitions - reputation 6                             |
-| Large electronics III | Iyateque liaison requisitions - reputation 6                             |
+| Large hull III        | Yaot liaison requisitions - reputation 3                                 |
+| Large weapons II      | Tanoch liaison requisitions - reputation 1 (Unlocked at the start)       |
+| Large weapons III     | Tanoch liaison requisitions - reputation 3                               |
+| Large machinery II    | Iyateque liaison requisitions - reputation 1 (Unlocked at the start      |
+| Large machinery III   | Iyateque liaison requisitions - reputation 3                             |
+| Large electronics III | Iyateque liaison requisitions - reputation 3                             |
