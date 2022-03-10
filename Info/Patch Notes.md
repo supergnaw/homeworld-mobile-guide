@@ -2,6 +2,20 @@
 
 ## Current
 
+### Patch notes 10-3-22 - Game rebalance update part 1
+- Warning and info about PvP on the intro / landing page has been removed
+- Added a 'OUTDATED' tag to the strike guide for SDT3, new guide soon:TM:
+- Changed drop location info for the rebalanced liaisons market items
+- Removed the PvP tag on the 3 old PvP systems
+- Removed the old strike lobby bug fix from version 2.27 to 2.28
+#### Website specific changes
+- Fixed the description of the Fleet page in the intro
+- Fixed some text in the FAQ
+- Fixed the text in the strike guide from left to right
+
+
+## Previous
+
 ### Patch notes 19-2-22 - Game update 2.37
 - Added new ships from the latest update, updated stats for the T3BC and additional notes
 - Added images for the new ship models (placeholders, better images are slightly delayed. Website images are delayed)
@@ -14,7 +28,6 @@
 - Added a warning about PvP in the intro
 - Changed the 2.28 tags to 2.37
 
-## Previous
 
 ### Patch notes 15-2-22 - Officer list and stats update:
 - New info about the Fusion missile ability, upgrading costs and 54 new officers + extra info
