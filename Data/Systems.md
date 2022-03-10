@@ -44,6 +44,6 @@
 | Nevopan       | Yaot      | 3    | yes           | yes            |                 |
 | Tuule         | Yaot      | 3    | no            | no             |                 |
 | Ytep          | Yaot      | 3    | yes           | yes            |                 |
-| Edowana       | Iyatequa  | 1    | yes           | yes            | T1-PvP system   |
-| Guijnar       | Tanoch    | 2    | yes           | yes            | T2-PvP system   |
-| Kredulsa      | Yaot      | 3    | yes           | yes            | T3-PvP system   |
+| Edowana       | Iyatequa  | 1    | yes           | yes            | Ex- T1-PvP system   |
+| Guijnar       | Tanoch    | 2    | yes           | yes            | Ex- T2-PvP system   |
+| Kredulsa      | Yaot      | 3    | yes           | yes            | Ex- T3-PvP system   |
