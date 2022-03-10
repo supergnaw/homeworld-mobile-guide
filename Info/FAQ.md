@@ -44,7 +44,7 @@ To upgrade your sensors array, you can use RE to lvl it up, get a higher tier se
 Asteroid do not deplete. So keep shooting rocks to your hearts content!
 
 ### Where can I find D type ore? Asteroid identification
-Every ore type can be found in every belt. But it won't always show up in your list. When going into a scanned asteroid belt, you'll see a ore type that is focused in the system map. This only decides the Majority of the asteroids present but not all. As the picture to the left shows, the 4 asteroid types have  distinct looks, with D type being capped on a lower purity then the other types.
+Every ore type can be found in every belt. But it won't always show up in your list. When going into a scanned asteroid belt, you'll see a ore type that is focused in the system map. This only decides the Majority of the asteroids present but not all. The 4 asteroid types have  distinct looks, with D type being capped on a lower purity then the other types.
 
 A type has reddish looks to them, B type is silvery, C type is green and orange whilst D type is completely brown, and is faded on the sensors manager compared to the other types
 
@@ -61,8 +61,7 @@ Currently the following RE's are in the game in order of rarity: T1: Sc, Yy (bot
 
 ### My collectors are dropping off ores to another player / how many resource collectors do I need?
 A players' flagship and resource controllers get a drop off point for resource collectors. When your collectors are mining close to the fleet of another player, they will try to drop off their ores into their drop off point. When collectors do this, the ores they mine will be yours, the reverse can also happen when another players collectors drop off into your drop off point. Rule of thumb is that YOUR collectors mine will be YOURS, THEIR collectors ores will be THEIRS.
-
-### As to how many collectors you need, depends on the amount of drop off points your fleet has and how long they have to travel. If to many collectors are dropping off at the same point, they will queue up resulting into a loss in total mining yield
+As to how many collectors you need, depends on the amount of drop off points your fleet has and how long they have to travel. If to many collectors are dropping off at the same point, they will queue up resulting into a loss in total mining yield
 The most efficient ratio of collectors to drop off points is 2-3 per point (depending on the speed of the collector). But if you're mining with just a flagship, that number goes up depending on the distance to the asteroids and your flagship location
 If you notice that there is a queue, you can cut down on the collectors and add more combat squads, if not add more collectors for extra mining yield
 
@@ -120,9 +119,6 @@ PH = Pirate hideout, SD = Station defense and PR = Pahra's rock
 ### I'm not seeing certain strike, missing strikes?
 Some strikes are locked behind the main story quests. If you're missing certain strikes that other players do have, progress through the main quest line.
 In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pahra's rock (T2), Pirate hideout Heroic (T2), Station defense Heroic (T3) and Pahra's rock Heroic (T3)
-
-### Whilst queuing up in strikes, I keep getting into an instance alone. What's going on? (Old update, if you haven't already, update your client)
-Update 2.27 and 2.28 are both playable versions, but when players are trying to do strike together, they seem to disconnect from each other. Update your game to the latest game version to fix this issue
 
 ### I've built a destroyer, but can't find it anywhere
 Destroyers take up 2 escort slots for fielding one. So if you are either running a T1 flagship, or already have an escort equipped in a T2/3 flagship, you don't see it in your escort roster
