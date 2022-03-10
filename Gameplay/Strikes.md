@@ -32,7 +32,7 @@ Welcome to what will probably be your first Heroic strike. As of the three curre
 
 ### Tactics
 
-As you might have noticed from the lack of changes in the images to the left, the tactics are unchanged compared the PHT1. Although one thing is abundantly clear, that is the amount of additional enemies that spawn in the strike compared to the previous one. If you don't find a way to deal with them then you can say goodbye to your armour and hull in no time. Do bring in some decent anti-strike craft units or weapons to clear the waves. Next up will be the additional turrets, each group now has an extra turret to them. The difference between the T1 and T2 turrets is quite large, both in the tank and damage department. Don't underestimate the additional firepower on the field and make sure you have a good distance between group 1 and group 3 so you don't get targeted by all turrets.
+As you might have noticed from the lack of changes in the images to the right, the tactics are unchanged compared the PHT1. Although one thing is abundantly clear, that is the amount of additional enemies that spawn in the strike compared to the previous one. If you don't find a way to deal with them then you can say goodbye to your armour and hull in no time. Do bring in some decent anti-strike craft units or weapons to clear the waves. Next up will be the additional turrets, each group now has an extra turret to them. The difference between the T1 and T2 turrets is quite large, both in the tank and damage department. Don't underestimate the additional firepower on the field and make sure you have a good distance between group 1 and group 3 so you don't get targeted by all turrets.
 
 PHT2 can technically be farmed, but you will need a high-end T3 loadout to make it worthwhile. If you're looking for a xp farm, PHT1 will be your preferred strike.
 
@@ -86,7 +86,7 @@ Solo clearing SDT3 is similar to its T2 variant, race against the clock aka the 
 
 ### Objectives and spawns
 
-Although the images to the left might seem overwhelming, let me break it down. The main and only objective of PRT2, is to destroy the pirate base (marked with Foe). That's it, turrets don't have to be destroyed not is there a boss wave for you to deal with. The base is your goal and destroying it will complete the strike. Now as you might have noticed by all the red markers, there is quite a lot preventing you from simply blasting the base. It is surrounded by various turrets on all sides, the 4 flanks will keep spawning frigates and strike craft until the base is destroyed and when the base gets enough hull damage, additional pockets of enemies will spawn into the instance (80% hull for R1, 60% for R2 and 40% for R3).
+Although the image to the right might seem overwhelming, let me break it down. The main and only objective of PRT2, is to destroy the pirate base (marked with Foe). That's it, turrets don't have to be destroyed not is there a boss wave for you to deal with. The base is your goal and destroying it will complete the strike. Now as you might have noticed by all the red markers, there is quite a lot preventing you from simply blasting the base. It is surrounded by various turrets on all sides, the 4 flanks will keep spawning frigates and strike craft until the base is destroyed and when the base gets enough hull damage, additional pockets of enemies will spawn into the instance (80% hull for R1, 60% for R2 and 40% for R3).
 
 ### Tactics part 1
 
@@ -116,7 +116,7 @@ To solo PRT3 is to have patience and fast reaction. You want to dock your squads
 
 ### Objectives and spawns
 
-If you thought the burning of Kharak was bad, I welcome you to Phara's rock Heroic, devourer of strike craft, destroyer of fleets and top producer of salt in the Nimbus galaxy. As you can see from the image to the left, it is even more red than before. Turret count has been doubled, enemies are on steroids and there are a lot more frigates, and I mean A LOT more frigates. On first contact you can meet up to 12 to 14 enemy frigates in a short period of time, with a very fast respawn time. The bottom left and top right spawning zones will spawn two frigates at once, whilst the bottom right and top left will have one. Taking in account the reinforcing fleets when the base gets on low hull, the bottom right seems to still be the best angle of attack.
+If you thought the burning of Kharak was bad, I welcome you to Phara's rock Heroic, devourer of strike craft, destroyer of fleets and top producer of salt in the Nimbus galaxy. As you can see from the image to the right, it is even more red than before. Turret count has been doubled, enemies are on steroids and there are a lot more frigates, and I mean A LOT more frigates. On first contact you can meet up to 12 to 14 enemy frigates in a short period of time, with a very fast respawn time. The bottom left and top right spawning zones will spawn two frigates at once, whilst the bottom right and top left will have one. Taking in account the reinforcing fleets when the base gets on low hull, the bottom right seems to still be the best angle of attack.
 
 ### Tactics
 
