@@ -1,5 +1,5 @@
 # Officers List & explanation
-{{table-of-contents}}
+
 ## Officer stats and perks
 
 Officers in HWM give various buffs depending on the location they are placed in, what stats they have and if they have passive perks or active abilities. The three stats that officer have, are Physical, Mind and Aerospace.the green square.
