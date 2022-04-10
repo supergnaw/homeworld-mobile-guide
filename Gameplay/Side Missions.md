@@ -1,7 +1,6 @@
 # List of all side missions
-{{table-of-contents}}
 
-As of version 0.2.37, the following side mission series are available: Aside from the side missions 'Production' and 'Combat' and the additional story quests, the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
+Checklist for side missions: As of version 0.2.49, the following side mission series are available. Aside from the side missions 'Production' and 'Combat' and additional story quests, the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
 
 ## Priority side missions that give T3 small components as its rewards
 **(T3 Small weapon parts from Production & T3 small machinery parts from Combat)**
