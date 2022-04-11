@@ -1,9 +1,9 @@
 # Frequently Asked Questions & Basic Info
-{{table-of-contents}}
+
 ## Basic Info
 ### What Kiithid / faction should I choose?
 With the current game balance, all kiithid are a viable choice. The buff and debuffs you get from them are minimal, so choose which group you like the most lore or colour scheme wise
-Same can be said for the weapons and units, the balance right now is pretty solid so dont be afraid to min max a specific route for gear
+Same can be said for the weapons and units, the balance right now is pretty solid so dont be afraid to pick whatever you want
 
 ### What are tiers / where to find Tx loot?
 In the current version, there are three tiers, tier 1 (T1), tier 2 (T2) and tier 3 (T3). These are marked with Roman numerals (so T1 is I, T2 II, T3 III). Every item, location, enemy and mission has a designated tier to it.
@@ -12,7 +12,7 @@ If you're looking for a certain tier item (lets say T2 ores), you'll find it in 
 ### My game crashed after buying IRL purchases / I don't see my bought packs?
 Currently only android devices / accounts are able to buy IRL purchases. iOS devices seem to crash when attempting to buy something. This is due to testflight being a bit weird.
 For android devices, you'll find the bought items in your ships storage (internal view -> storage). If this is not the case, double check if you see the 'sold out' tag on packs.
-If this tag is not present, then you might want to try a different payment method (if money has been withdrawn, the playstore will refund you in like 24h). Is this is present but you still don't have the items (after a reset)? Make a ticket in the #bug-report channel
+If this tag is not present, then you might want to try a different payment method (if money has been withdrawn, the playstore will refund you in a 24h timespan). If this is present but you still don't have the items (after a reset)? Make a ticket in the #bug-report channel
 
 ### I can't progress the main quest anymore / main quest missions are too hard?
 The main quest is not meant to be progressed or rushed with back to back missions. If you feel like your fleet is too weak, take a bit of time off to mine and complete other missions to get stronger before attempting the main mission again
@@ -27,16 +27,12 @@ In your system overview (On the top right, the 3rd button from the right) you ca
 ## Mining & Upgrades
 ### Can I mine without being attacked / Any tips for mining?
 Yes and no. By completing a scannable mission or a strike, you can stay in that instance and mine the asteroids that are present there. But the mining yield of those asteroid are abysmal because of its low purity.
-
-"To increase your mining yield, you need to scan down an asteroid belt (marked with a triangle on the map, check the System list tab). Those asteroids have 10x the purity then those in missions. But you'll be attack by pirates when you stay long enough in that instance. And most belts will have continuously spawns"
-
-You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you.
-
+To increase your mining yield, you need to scan down an asteroid belt (marked with a triangle on the map, check the System list tab). Those asteroids have 10x the purity then those in missions. But you'll be attack by pirates when you stay long enough in that instance. And most belts will have continuously spawns
+You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you
 Popular mining systems are: Jishun for T1, Bishaan tel for T2 and Darodiir for T3
 
-### My scanner does not work / button is greyed out?
-Scanning something down can be a bit difficult depending on your sensors array. Spamming the scan button does work if you for example have a T1 sensors array and you want to scan down a T2 site.
-
+### My scanner does not work / button is greyed out? (Could be fixed in 2.49)
+Scanning something down can be a bit difficult depending on your sensors array. Spamming the scan button does work if you for example have a T1 sensors array and you want to scan down a T2 site
 If your scan button grey's out and is no longer press able, then you've encountered a known bug. A fix for this is to restart your game client.
 To upgrade your sensors array, you can use RE to lvl it up, get a higher tier sensors array or fit in a high aerospace stat officer into your sensors room
 
@@ -45,32 +41,30 @@ Asteroid do not deplete. So keep shooting rocks to your hearts content!
 
 ### Where can I find D type ore? Asteroid identification
 Every ore type can be found in every belt. But it won't always show up in your list. When going into a scanned asteroid belt, you'll see a ore type that is focused in the system map. This only decides the Majority of the asteroids present but not all. The 4 asteroid types have  distinct looks, with D type being capped on a lower purity then the other types.
-
-A type has reddish looks to them, B type is silvery, C type is green and orange whilst D type is completely brown, and is faded on the sensors manager compared to the other types
-
+A type has reddish looks to them, B type is silvery, C type is green and orange whilst D type is completely brown, and is faded on the sensors manager compared to the other types.
 Now as stated before, those asteroids won't always show up on your asteroid list. But no worries, every asteroid that shows up on your sensors manager is mine-able. By dragging and dropping your mining units on an asteroid, you can manually mine the types not present in your list.
 
 ### Where can I find RE / Which asteroid type gives the most RE?
-RE is a side-product from mining asteroids, and can be dropped from strike loot and progenitor salvage. But mining asteroids will be your main source.
-After numerous tests, the RE drop rate don't seem to differ from the different types. The most important thing is the asteroid's purity, which decides the drop quantity of RE.
-Aside from mining, there are also options in the market to get RE's from each tiers. If you're planning to play for a long time, I recommend you to buy the T3 cache as early as you can since the drop rate is really low when mining.
+RE is a side-product from mining asteroids, and can be dropped from strike loot and progenitor salvage. But mining asteroids will be your main source
+After numerous tests, the RE drop rate don't seem to differ from the different types. The most important thing is the asteroid's purity, which decides the drop quantity of RE
+Aside from mining, there are also options in the market to get RE's from each tiers. If you're planning to play for a long time, I recommend you to buy the T3 cache as early as you can since the drop rate is really low when mining
 
 ### Where can I find a specific RE / What RE's do I need?
 Each tier has its own RE's. If you're looking to upgrade a T1 weapon, you'll need to find yourself T1 RE's.
 Currently the following RE's are in the game in order of rarity: T1: Sc, Yy (both needed for weapons and utilities) T2: La (Weapons and utilities), Ce (Weapons), Pr (Utilities). T3: Nd (Utilities), Pm (Weapons), Sm (Weapons), Eu (Utilities)
 
 ### My collectors are dropping off ores to another player / how many resource collectors do I need?
-A players' flagship and resource controllers get a drop off point for resource collectors. When your collectors are mining close to the fleet of another player, they will try to drop off their ores into their drop off point. When collectors do this, the ores they mine will be yours, the reverse can also happen when another players collectors drop off into your drop off point. Rule of thumb is that YOUR collectors mine will be YOURS, THEIR collectors ores will be THEIRS.
-As to how many collectors you need, depends on the amount of drop off points your fleet has and how long they have to travel. If to many collectors are dropping off at the same point, they will queue up resulting into a loss in total mining yield
-The most efficient ratio of collectors to drop off points is 2-3 per point (depending on the speed of the collector). But if you're mining with just a flagship, that number goes up depending on the distance to the asteroids and your flagship location
-If you notice that there is a queue, you can cut down on the collectors and add more combat squads, if not add more collectors for extra mining yield
+A players' flagship and resource controllers get a drop off point for resource collectors. When your collectors are mining close to the fleet of another player, they will try to drop off their ores into their drop off point. When collectors do this, the ores they mine will be yours, the reverse can also happen when another players collectors drop off into your drop off point. Rule of thumb is that whatever YOUR collectors mine will be YOURS, THEIR collectors ores will be THEIRS.
+Currently a instance have a maximum cap for mining units (collectors and controllers). If there are 10 units present, other players can't deploy their own. So in general if you are mining with other players, keep in mind to evenly split the mining units
+Testing shows that collectors will only drop off their ores one at the time, excluding the amount of drop off points available. Meaning that if you have 2 controllers active, the collectors at controller B will wait until the drop off at controller A is finished
+So TLDR; if you are mining in a group, 1 controller and 4 collectors is a good mix so other players can deploy units as well (reduce units if more players want to mine). If solo, deploy as many units as you want
 
 ### How do I earn credits / adamant?
 Credits can be earned by various activities in the game, but there are methods that really help:
 Early on, you can mine T1 resources, make T1 interceptors and sell those on the market. This is currently a very fast and easy way to earn some creds
 When you unlock T2 small components, make and sell those instead of the T1 interceptors. This will net you more credits
 If you're strong enough, you can camp the frigate spawn point on pirate hideout T1 strike for xp farming. Level-up rewards give out generous credit caches
-Power-leveling is also the best method to get yourself adamant. Aside from the daily cache and rare drops from progenitor salvage, xp farming will net you a lot of adamant.
+Power-leveling is also the best method to get yourself adamant. Aside from the daily cache and rare drops from progenitor salvage, xp farming will net you a lot of adamant
 
 ## Blueprints
 ### Building parts & component requirements
@@ -78,7 +72,7 @@ When you start building your first T2 gear, you will notice that it takes multip
 Every 'order' you build, is 25 parts. This is for both small and large parts. So if you're building 10 small hull part orders, after the order is done, you get 250 parts in your inventory
 
 ### Where can I find xyz blueprint?
-See the tabs below. Ship list shows all flagships, escorts and squads. Modules for sensors and turrets, Intermediate products for small and large components
+See the tabs above this page. "Ships" shows you the location of all flagships, escorts and strike craft. "Modules" shows you the location of various flagship specific gear
 
 ### Where can I find the T2 interceptor blueprint?
 The blueprint for the T2 interceptor can be bought for credits in the market at a trading station (all stations have a shared inventory). Scroll down till you see the option for the normal blueprint (non-common / rarity T2 interceptors also work)
@@ -135,12 +129,8 @@ On the tab 'Strike guide' you can find info on the different strikes, tactics us
 Weapon animations can be a bit wacky at times, weapons can have 10x the ordnance then normal. As long as you still do damage, then it's just a graphical problem
 If your weapons don't seem to do damage, it might be that your flagship or units are targeting an enemy that is outside of your weapon range. Re-target an enemy within your range to start blasting again
 
-### Kinetic burst is not working / my weapon abilities are broken?
-Currently there is a bug with kinetic / capital mass driver weapons. When you research damage upgrades (both hull and armour) has a chance to bug out your kinetic burst ability, this issue should be fixed in the next update
-There is also an issue with assigning officers to your turret slots. This has a chance to bug out weapon abilities too. But removing those officer, restarting your game, and re-assigning them should fix that issue.
-
 ### My flagship is being targeted down, what is happening?
-Normally the enemy AI will target the first unit they see in their range, and switch between targets every so often. But there is an issue with repair modules and repairing in general.
+Normally the enemy AI will target the first unit they see in their range, and switch between targets ever so often. But there is an issue with repair modules and repairing in general.
 If you have a repair module equipped on your flagship and you are repairing a unit, enemies will instantly target you down. Same happens to collectors who repair units mid fight. This can be a death sentence for strike and higher tier content
 Unless you're trying to tank a strike, its advised to un-equip repair turrets before going into them. This way the enemies will spread damage across the fleets of all players present.
 
