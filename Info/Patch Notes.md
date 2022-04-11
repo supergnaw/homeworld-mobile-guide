@@ -3,7 +3,7 @@
 ## Current
 
 
-### Patch notes 10-4-22 - Update 2.47 + Officer list and various fixes
+### Patch notes 10-4-22 - Update 2.49 + Officer list and various fixes
 - Changed the names off all modules to the current version
 - Updated the SDT3 guide with the current version of the strike
 - Added the 'Rock rush' section to the strike guide for PRT2/3
