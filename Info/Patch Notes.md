@@ -2,6 +2,30 @@
 
 ## Current
 
+
+### Patch notes 10-4-22 - Update 2.47 + Officer list and various fixes
+- Changed the names off all modules to the current version
+- Updated the SDT3 guide with the current version of the strike
+- Added the 'Rock rush' section to the strike guide for PRT2/3
+- Added warning about a bug in Station defense strikes (Hyperspace beacon spawning enemies after it has been destroyed)
+- Added new officers (280 new), new rarity variants (141 new) and additional data
+- Changed Ion weapons buff being effected from Mind stat to Physical stat
+- Added notes about Lvl 31-40 officers (that the currency is not in the game atm)
+- Changed the format for the officers listings
+- Added new enemies to the enemies list. Also, added neutral / friendly npc's list. Removed the spoiler sections
+- (Note that the neutral / friendly list only consists of the npc's that are not Hostile towards the player. Mixed units (like a unit that can attack you but also patrols a trading station) is listed under the enemy list) )
+- Removed old farm routes and added an Epic signal route as an example. Added a OUTDATED tag the Dusty's sheet link
+- Changed various version tags from 2.37 to 2.49
+- updated various FAQ subjects to fit the current version of the game
+- Added a 'Could be fixed' tag on the greyed out sensors button in the FAQ
+- Updated the 'how many resource collectors do I need?' subject with the latest tested info
+- Deleted the 'kinetic burst is broken'FAQ subject since this issue has long been fixed
+- Added a link for the Homeworld Mobile discord in the intro / landing page
+- Removed the Mohaava market drop location, changed it to Tiirshak
+- Fixed a typo in various places (Iyatequa instead of Iyateque)
+- Fixed a bunch of text in various pages due to me being drunk (don't drink and write kids)
+
+
 ### Patch notes 10-3-22 - Game rebalance update part 1
 - Warning and info about PvP on the intro / landing page has been removed
 - Added a 'OUTDATED' tag to the strike guide for SDT3, new guide soon:TM:
