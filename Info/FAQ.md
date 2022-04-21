@@ -136,7 +136,7 @@ Unless you're trying to tank a strike, its advised to un-equip repair turrets be
 
 ## End of Beta / Release
 ### When does the beta end / when is release?
-End of the beta and / or release is unknown as of now. There have been speculations that release will be close around 2022 Q4 around the launch of Homeworld 3, but nothing has been confirmed yet.
+Fall of 2022 is the predicated release date for Homeworld Mobile.
 
 ### Do I keep my progress after the beta?
 Yes and no, ALL progress will be reset on launch of the game, except for the IRL purchases made (bought packs, adamant or daily resource caches). These will be given to your account upon release
