@@ -73,7 +73,7 @@ Checklist for side missions: As of version 0.2.49, the following side mission se
 - Refinery final refitting
 - Refinery overhaul certification
  
-Note for the mining side quests, the last step is to mine 768k of type A, B and C ores
+Note for the mining side quests, the last step is to mine 768k of type A, B and C ores.
 
 ### Scanning / exlporation
 - Exploration assignment
@@ -124,4 +124,4 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Attack on sight
 - Declared public enemy
 
-Note for the scanning and destruction quests, last step for scans is 40k total scans. For destruction its 6.4k for each faction
+Note for the scanning and destruction quests, last step for scans is 40k total scans. For destruction its 6.4k for each faction.
