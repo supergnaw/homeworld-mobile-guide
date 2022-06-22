@@ -70,6 +70,7 @@ As a little ending / credits, I want to thank the various community members for 
 
 #### Down below are various links of the ongoing projects and additional info that may be of help to you
 
+- Thanks to mkb1#2542 for his Youtube channel featuring Homeworld mobile guides (shorturl.at/bgqzF)
 - Thanks to supergnaw#8465 for developing the website version of this document (homeworldsource.net)
 - Thanks to Darth Soban#6657 for the original document (stolen and edited by Dalco#0413 shorturl.at/nqwCW)
 - Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
