@@ -37,26 +37,27 @@
 
 # Friendly / Neutral
 
-|Name                   |Class        |Faction |Notes / Tactics                                                                                                                                                              |
-|-----------------------|-------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Assault frigate        |Frigate      |Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
-|Torpedo frigate        |Frigate      |Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
-|Ion frigate            |Frigate      |Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
-|Destroyer              |Destroyer    |Hiigaran|Destoryer acting as a 'main' ship, patrolling around Iyatequa trading station. Escorted by other Hiigaran frigates                                                           |
-|Turret platform        |Turret       |Hiigaran|Strongest turret type of all factions, can be seen guarding Iyatequa trading stations. Icons shows both kinetic as pulsar turrets                                            |
-|Freighter              |Frigate      |Hiigaran|Fast transport unit, can be seen around trading stations and as a escort target for scannable missions                                                                       |
-|Trading ship           |Frigate      |Iyatequa|Smaller cousin of the 'main' trading ship. Can be seen around trading stations                                                                                               |
-|Trading ship           |Destroyer    |Iyatequa|Slow but tanky transport unit, can be seen around trading stations and as a escort target for scannable missions                                                             |
-|Stardock               |Station      |Iyatequa|Trading station of the Iyatequa faction, can be seen with various models. Repairs your fleet when near you are at its location                                               |
-|Battlecruiser          |Battlecruiser|Tanoch  |Bigger cousin of the Tanoch destroyer. Seems to be equipped with missiles and kinetics, so most likely a close range unit. Can be seen patrolling Tanoch stations            |
-|Turret platform        |Turret       |Tanoch  |The weakest turrets of all factions, can be seen around Tanoch stations. Both as a Kinetic turrets as a Missile turret                                                       |
-|Freighter              |Destroyer    |Tanoch  |Transport unit of the Tanoch faction                                                                                                                                         |
-|Large freighter        |Destroyer    |Tanoch  |Transport unit of the Tanoch faction, Larger and slower than its cousin                                                                                                      |
-|Liner                  |Destroyer    |Tanoch  |Transport unit of the Tanoch faction, seem to be the fastest of the three transport units                                                                                    |
-|Stardock               |Station      |Tanoch  |Trading station of the Tanoch faction, can be seen with various models. Repairs your fleet when near you are at its location                                                 |
-|Station                |Station      |Tanoch  |Act as a objective in the 'station defense' strikes. Has some armour and a large hull pool. Can survive a bit on its own but has no weapons to defend itself with            |
-|Solar obeservation post|Station      |Tanoch  |Station present in the Main quest 'Temple Toonati'. This is a defensive objective for the quest                                                                              |
-|Freighter              |Destroyer    |Yaot    |Transport unit of the Yaot faction. Can be seen with two or four container models                                                                                            |
-|Command ship           |Destroyer    |Yaot    |Stronger version of the Yaot destroyer, can be seen with a hangar bay. Patrols Yaot stations                                                                                 |
-|Defense platform       |Turret       |Yaot    |Middle of the line when it comes to combat power, can be seen around Yaot stations. Equiped with Yaot pulsar weapons                                                         |
-|Station                |Station      |Yaot    |Trading station of the Yaot faction, can be seen with various models. Repairs your fleet when near you are at its location. Has the lowest combat power of the three factions|
+|Faction |Notes / Tactics                                                                                                                                                              |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
+|Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
+|Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
+|Hiigaran|Destoryer acting as a 'main' ship, patrolling around Iyatequa trading station. Escorted by other Hiigaran frigates                                                           |
+|Hiigaran|Strongest turret type of all factions, can be seen guarding Iyatequa trading stations. Icons shows both kinetic as pulsar turrets                                            |
+|Hiigaran|Fast transport unit, can be seen around trading stations and as a escort target for scannable missions                                                                       |
+|Iyatequa|Smaller cousin of the 'main' trading ship. Can be seen around trading stations                                                                                               |
+|Iyatequa|Slow but tanky transport unit, can be seen around trading stations and as a escort target for scannable missions                                                             |
+|Iyatequa|Trading station of the Iyatequa faction, can be seen with various models. Repairs your fleet when near you are at its location                                               |
+|Tanoch  |Bigger cousin of the Tanoch destroyer. Seems to be equipped with missiles and kinetics, so most likely a close range unit. Can be seen patrolling Tanoch stations            |
+|Tanoch  |The weakest turrets of all factions, can be seen around Tanoch stations. Both as a Kinetic turrets as a Missile turret                                                       |
+|Tanoch  |Transport unit of the Tanoch faction                                                                                                                                         |
+|Tanoch  |Transport unit of the Tanoch faction, Larger and slower than its cousin                                                                                                      |
+|Tanoch  |Transport unit of the Tanoch faction, seem to be the fastest of the three transport units                                                                                    |
+|Tanoch  |Small frigate that works in pairs to transport containers around stations, can be found in Tanoch stations                                                                   |
+|Tanoch  |Trading station of the Tanoch faction, can be seen with various models. Repairs your fleet when near you are at its location                                                 |
+|Tanoch  |Act as a objective in the 'station defense' strikes. Has some armour and a large hull pool. Can survive a bit on its own but has no weapons to defend itself with            |
+|Tanoch  |Station present in the Main quest 'Temple Toonati'. This is a defensive objective for the quest                                                                              |
+|Yaot    |Transport unit of the Yaot faction. Can be seen with two or four container models                                                                                            |
+|Yaot    |Stronger version of the Yaot destroyer, can be seen with a hangar bay. Patrols Yaot stations                                                                                 |
+|Yaot    |Middle of the line when it comes to combat power, can be seen around Yaot stations. Equiped with Yaot pulsar weapons                                                         |
+|Yaot    |Trading station of the Yaot faction, can be seen with various models. Repairs your fleet when near you are at its location. Has the lowest combat power of the three factions|
