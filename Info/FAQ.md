@@ -9,6 +9,10 @@ Same can be said for the weapons and units, the balance right now is pretty soli
 In the current version, there are three tiers, tier 1 (T1), tier 2 (T2) and tier 3 (T3). These are marked with Roman numerals (so T1 is I, T2 II, T3 III). Every item, location, enemy and mission has a designated tier to it.
 If you're looking for a certain tier item (lets say T2 ores), you'll find it in a tier 2 system, marked with II (so for example Bishaan Tel II). If a mission requires you to build a T2 interceptor, look for the II on the top right of the blueprint
 
+### Where can I find large Weapons / Hull / Machinery parts blueprint?
+Since the introduction of requisitions, the different blueprints can be found in the requisitions stores of the different factions. Large weapon parts blueprints can be found from the Tanoch stations (Stations in the red zone, Gero Niir for example)
+Large hull parts blueprints can be found from the Yaot stations (Stations in the green zone, Xelasii for example) and the large machinery blueprints can be found from the Iyatequa stations (the zone without colour, Bishaan tel for example)
+
 ### My game crashed after buying IRL purchases / I don't see my bought packs?
 Currently only android devices / accounts are able to buy IRL purchases. iOS devices seem to crash when attempting to buy something. This is due to testflight being a bit weird.
 For android devices, you'll find the bought items in your ships storage (internal view -> storage). If this is not the case, double check if you see the 'sold out' tag on packs.
@@ -43,6 +47,8 @@ Asteroid do not deplete. So keep shooting rocks to your hearts content!
 Every ore type can be found in every belt. But it won't always show up in your list. When going into a scanned asteroid belt, you'll see a ore type that is focused in the system map. This only decides the Majority of the asteroids present but not all. The 4 asteroid types have  distinct looks, with D type being capped on a lower purity then the other types.
 A type has reddish looks to them, B type is silvery, C type is green and orange whilst D type is completely brown, and is faded on the sensors manager compared to the other types.
 Now as stated before, those asteroids won't always show up on your asteroid list. But no worries, every asteroid that shows up on your sensors manager is mine-able. By dragging and dropping your mining units on an asteroid, you can manually mine the types not present in your list.
+
+- For images on asteroid identification, please go to the Mirrored Google doc: shorturl.at/cdiDF
 
 ### Where can I find RE / Which asteroid type gives the most RE?
 RE is a side-product from mining asteroids, and can be dropped from strike loot and progenitor salvage. But mining asteroids will be your main source
@@ -101,6 +107,46 @@ Note that you can't collect RP when you're researching something. RP will still 
 ### How do I get more research?
 There are 3 different tiers of the various research upgrades. T1 research is unlocked by doing your main story quests, and by lvling up (until level 420, after that no more T1 research drops)
 For T2 and T3 research, you'll need to do missions. Liaisons, scanabales and strikes all have a chance to drop research upgrades for that tier of missions
+
+### What do the different research upgrades do / what is the complete research list?
+Research upgrade will buff your fleet in various ways, down below is the list of all research upgrades currently in the game. With the exception of the pulsar corvette, all research upgrades have a T1, T2 and T3 variant.
+For clarity sake, the different tiers of research stack with each other. So for example, a T1 interceptor will benefit from T1, T2 and T3 research. Units above or below the tier of a research upgrade will still be effected by them.
+- Pulsar corvette T1 blueprint: Unlocks the infinite common blueprint for T1 Pulsar corvettes (this is the only upgrade that unlocks a blueprint, the rest are pure stat upgrades)
+- Beam armor damage: Increases the armor damage on flagship pulsar and ion weapons, pulsar corvettes, Yaot pulsar fighters and the Yaot assault frigate by 5%
+- Beam hull damage: Increases the hull damage on flagship pulsar and ion weapons, pulsar corvettes, Yaot pulsar fighters and the Yaot assault frigate by 5%
+- Beam range: Increases the weapon range on flagship pulsar and ion weapons by 5%
+- Collector armor: Increases the armor of resource collectors by 5%
+- Collector engines: Increases the total speed and acceleration of resource collectors by 5%
+- Collector hull: Increases the hull of resource collectors by 5%
+- Corvette engines: Increases the total speed and acceleration of corvette class units by 5%
+- Corvette hull: Increases the hull of corvette class units by 5%
+- Energy armor damage: Increases the armor damage on energy weapons (right now only the plasma bombers have access to energy weapons) by 5%
+- Energy hull damage: Increases the hull damage on energy weapons (right now only the plasma bombers have access to energy weapons) by 5%
+- Energy range: Increases the range on energy weapons (currently no effect in game) by 5%
+- Fabrication speed: Decreases the total time needed for fabricating orders by 5%
+- Fighter engines: Increases the total speed and acceleration of interceptor and bomber class units by 5%
+- Fighter hull: Increases the hull of interceptor and bomber class units by 5%
+- Flagship armor: Increases the armor of your flagship by 5%
+- Flagship engines: Increases the total speed and acceleration of your flagship by 5%
+- Flagship hull: Increases the hull of your flagship by 5%
+- Frigate armor: Increases the armor of your frigate class units by 5%
+- Frigate engines: Increases the total speed and acceleration of your frigate class units by 5%
+- Frigate hull: Increases the hull of your frigate class units by 5%
+- Kinetic armor damage: Increases the armor damage on your flagship kinetic weapons and destroyer damage by 5%
+- Kinetic hull damage: Increases the hull damage on your flagship kinetic weapons and destroyer damage by 5%
+- Kinetic range: Increases the range on your flagship kinetic weapons by 5%
+- Mining yield: Increases the yield of all ore types of the tier from that research upgrade by 10% (so a T2 upgrade gives additional yield for T2 ores)
+- Missile armor damage: Increases the armor damage on your flagship missile weapons and the Tanoch missile corvette by 5%
+- Missile hull damage: Increases the hull damage on your flagship missile weapons and the Tanoch missile corvette by 5%
+- Missile range: Increases the range on your flagship missile weapons by 5%
+- Rare earth chance: Increases the change for your collectors to harvest rare earth resources by 15% (per tier, stackable)
+- Refining speed: Decreases the total time needed for refining orders by 5%
+- Refining efficiency: Decreases the total amount of ores needed to start a refining order (so instead of the base 200 ores for 100 refined metals, it goes down by 5% per upgrade)
+- Research capacity: Increases the total cap on the generated research points capacity by 5%
+- Torpedo armor damage: Increases the armor damage for torpedo based units (torpedo frigate and the T2 / T3 Hiigaran destroyer) by 5%
+- Torpedo hull damage: Increases the hull damage for torpedo based units (torpedo frigate and the T2 / T3 Hiigaran destroyer) by 5%
+- Torpedo range: Increases the range for torpedo based weapons (currently no effect in game) by 5%
+In total there are 103 research upgrades. 102 of those are stat based upgrades (34 categories and 3 tiers per category) and the last one is the T1 Pulsar corvette common blueprint unlock
 
 ## Strikes & Destroyers
 ### How do I find strikes / join strikes?
