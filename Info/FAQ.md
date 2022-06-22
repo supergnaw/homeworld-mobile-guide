@@ -146,6 +146,7 @@ For clarity sake, the different tiers of research stack with each other. So for 
 - Torpedo armor damage: Increases the armor damage for torpedo based units (torpedo frigate and the T2 / T3 Hiigaran destroyer) by 5%
 - Torpedo hull damage: Increases the hull damage for torpedo based units (torpedo frigate and the T2 / T3 Hiigaran destroyer) by 5%
 - Torpedo range: Increases the range for torpedo based weapons (currently no effect in game) by 5%
+
 In total there are 103 research upgrades. 102 of those are stat based upgrades (34 categories and 3 tiers per category) and the last one is the T1 Pulsar corvette common blueprint unlock
 
 ## Strikes & Destroyers
