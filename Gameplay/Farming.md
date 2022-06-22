@@ -3,8 +3,6 @@
 ## Scannable farm routes
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types. Down below is my farm route for Epic signal missions, which consists of 6 systems which have a epic signal mission, and 1 system that resests the first scanned location.
 
-- (OUTDATED AS OF 2.49) For info on scannable missions, check out this document from Dustybin: shorturl.at/elsJU
-
 ### T3
 - Zaatas, Cangacian Signal Alpha (1st scan)
 - Hakna Mir, Tanoch Signal Gamma (2nd scan)
