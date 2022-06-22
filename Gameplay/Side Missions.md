@@ -16,7 +16,7 @@ Checklist for side missions: As of version 0.2.49, the following side mission se
 - Combat 3
 
 
-## Additional story quests after Temple Tonaati main quest. They give decent rewards so it's advised to do these after temple / before grinding down the cumulative side quests
+## Additional story quests after Temple Tonaati main quest.
 
 ### Path of the Exile
 - A test of might
@@ -35,7 +35,7 @@ Checklist for side missions: As of version 0.2.49, the following side mission se
 
 (The Ytep questline gives a Epic T3 torpedo frigate as its reward)	
 
-## Cumulative series that gives non-blueprints as its rewards
+## Cumulative series that gives non-blueprints / resources as its rewards
 
 ### T1 Mining
 -  Mining equipment
