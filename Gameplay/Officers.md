@@ -8,6 +8,7 @@ The three stats that officer have, are Physical, Mind and Aerospace.
 ### Physical:
 - Kinetic weapons (K-A3 Turret, Twin Javelin Cannon, Karos-8 Battery). It gives a damage buff to both hull and armour damage
 - Ion weapons (Crimson-4 Array, Fleet Model X2 Battery). It gives a damage buff to both hull and armour damage
+- Pulsar weapons (LT-4 MAG Pointer, Yaot SSL light pulsar, DR-3 MAG Repeater, Yaot SSV Standard pulsar). It gives a damage buff to both hull and armour damage
 - Mining yield increase for collectors (when slotted into a resource collectors slot)
 - Remote mining yield for controllers (when slotted into a resource controller slot)
 - Armour damage buff for escort ships (when slotted into the escort itself)
