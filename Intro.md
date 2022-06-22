@@ -8,7 +8,7 @@ Welcome to the Homeworld mobile tips, tricks and data document! In this document
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
-If there are any issues with the document or you've found relevant data, please @Dalco in the discord or send me a DM (Dalco#0413). I'll try to keep this doc up-to-date as soon as I can. (Offical Homeworld mobile discord: shorturl.at/pzGMT )
+If there are any issues with the document or you've found relevant data, please @Dalco in the discord or send me a DM (Dalco#0413). I'll try to keep this doc up-to-date as soon as I can. (Offical Homeworld mobile discord: shorturl.at/vxBSV )
 
 Most questions that players have, are already answered in the discord. Use the search function or Ctrl + F with a few keywords of your questions, and you'll most likely find the answer. Also, check out the #tips-and-tricks channel posts for additional info. For bug-reporting, check out the pin posted for the right format and see the #known-issues channel to avoided duplicate reports.
 
@@ -58,13 +58,24 @@ List of available intermediate parts and where to get them (small and large comp
 ### Systems: 
 An overview of all systems in the game, if they have a trading station or asteroid belt and side notes.
 
+
 ### Contributors & links
 As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
-Down below are various links of the ongoing projects and additional info that may be of help to you
+
+#### Discords / communities
+
+- Official Homeworld mobile discord (shorturl.at/vxBSV)
+- Offcial Homeworld universe discord (shorturl.at/fFLRY)
+- German Homeworld Alliance (German speaking discord) (shorturl.at/axN36)
+
+#### Down below are various links of the ongoing projects and additional info that may be of help to you
 
 - Thanks to supergnaw#8465 for developing the website version of this document (homeworldsource.net)
 - Thanks to Darth Soban#6657 for the original document (stolen and edited by Dalco#0413 shorturl.at/nqwCW)
 - Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
 - Thanks to Enjoii#1872 for the fabrication calculator ( shorturl.at/qCFY0 )
-- Thanks to Dustybin / Idatae#0027 for the scannable missions document ( shorturl.at/elsJU )
 - Thanks to Dustybin / Idatae#0027 for the RE drop calculator document ( shorturl.at/nrBUW )
+
+#### Outdated projects that are a (few) game versions behind
+
+- Thanks to Dustybin / Idatae#0027 for the scannable missions document ( shorturl.at/elsJU )
