@@ -11,7 +11,7 @@ Since scanable missions seem to be static to each system, and the 1st scanned sy
 
 ### T2
 - Jol Altaain, Yaot Signal Alpha (1st scan)
-- Kamaami, Yaot Signal Alpha (2nd scan)
+- Kamaani, Yaot Signal Alpha (2nd scan)
 
 And to reset, any other system will do. For example Xelasii or Torugul Nai for the additional scan progresion
 
