@@ -122,7 +122,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 
 ## Ion weapons
 
-Ion weapons are beam type weapons that go zooooom. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Burst (from Operator officers).
+Ion weapons are beam type weapons that go vooomm. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Burst (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
 
 ### Blueprints
