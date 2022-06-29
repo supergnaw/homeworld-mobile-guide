@@ -12,8 +12,6 @@ If there are any issues with the document or you've found relevant data, please 
 
 Most questions that players have, are already answered in the discord. Use the search function or Ctrl + F with a few keywords of your questions, and you'll most likely find the answer. Also, check out the #tips-and-tricks channel posts for additional info. For bug-reporting, check out the pin posted for the right format and see the #known-issues channel to avoided duplicate reports.
 
-Side-note for the technical beta testers, there have been a lot of balancing since the last phase of the test. All Kiithid are viable, strike craft are not useless and missiles & ions are on par with kinetics. Mining, (refining) and selling D type ore is no longer a money maker.
-
 For convenience sake, there is a FAQ tab with what we've perceived as the most common questions asked both in game as in the discord. If you've a question, see if it pops-up there. If not ask away in global chat or in the #game-discussion channel.
 
 Some stats and drop location are not added into the document, the reason for this is that there is currently no method to determine the base stats of units. So until this can be showed, stats wont be added.
@@ -76,7 +74,33 @@ As a little ending / credits, I want to thank the various community members for 
 - Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
 - Thanks to Enjoii#1872 for the fabrication calculator ( shorturl.at/qCFY0 )
 - Thanks to Dustybin / Idatae#0027 for the RE drop calculator document ( shorturl.at/nrBUW )
+- Thanks to LostWaif#7428 for the DPS info on various weapon types ( shorturl.at/aegoJ )
 
 #### Outdated projects that are a (few) game versions behind
 
 - Thanks to Dustybin / Idatae#0027 for the scannable missions document ( shorturl.at/elsJU )
+
+#### Homeworld mobile related social media
+
+- Official website: https://www.homeworldmobile.com/
+- Twitter: https://twitter.com/homeworldmobile
+- Facebook: https://www.facebook.com/HomeworldMobile
+- Instagram: https://www.instagram.com/homeworldmobile/
+
+#### Homeworld 3
+
+- Homeworld 3 site: https://www.homeworlduniverse.com/
+- Fig page: https://www.fig.co/campaigns/homeworld3
+- Steam page: https://store.steampowered.com/app/1840080/Homeworld_3/
+- Homeworld twitter: https://twitter.com/HomeworldGame
+- Facebook: https://www.facebook.com/HomeworldGame
+- Instagram: https://www.instagram.com/homeworldgame/
+- Youtube: https://www.youtube.com/playlist?list=PLrIrx8C5BtV0jecOIPhMGv_1-5dXdm5GL
+
+#### Older Homeworld titles
+
+- Homeworld remasterd: https://www.homeworldremastered.com/
+- Remasterd steam page: https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/
+- Homeworld Deserts of Kharak: https://desertsofkharak.com/
+- Deserts of Kharak steam page: https://store.steampowered.com/app/281610/Homeworld_Deserts_of_Kharak/
+- Homeworld Cataclysm / Emergence GoG: https://www.gog.com/en/game/homeworld_emergence
