@@ -23,6 +23,11 @@ Checklist for side missions: As of version 0.2.49, the following side mission se
 - The nomad's walk
 - The cartographer's promise
 
+The Path of the Exile quest can sometimes bug out and not show the current objectives. If that happens to you, do the following actions: (if this doesn't fix it, please report it in the discord #bug-reports channel)
+- A test of might - Complete 10x T2 strikes and destroy 150 canagacian enemies
+- The nomad's walk - part 1: Mine 15k T2 A, B and C ores. Part 2: Construct 10x T2 strike craft
+- The cartographer's promise - Part 1: Move the the navpoints of Kredulsa, Estaiir and Darodiir. Part 2: Go to the trading station of Earodiir. Part 3: Scan 50 T1's and T2's objects
+
 ### Keid	
 - The Siege of Keid
 - Rebuilding Keid
