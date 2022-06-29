@@ -5,7 +5,7 @@
 Sensor array modules can be equipped to your flagship to help the player with scanning objects within a system. They do not affect targeting range or weapon range.
 Sensors can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs scan strength) or fitting in Comms Officers (passive perks).
 
-### Blueprints
+### Sensor arrays Blueprints
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
@@ -14,7 +14,7 @@ Sensors can be buffed by upgrading them, fitting in a high aerospace stat office
 |Basic Sensor Array III  |Sensors|Liaisons                      |
 |Tiirshak sensor array II|Sensors|Fixed on the Triishak flagship|
 
-### Build requirements
+### Sensor arrays Build requirements
 
 |Module name           |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |----------------------|--------------------|----------|----------|----------|-------------------------|----------|
@@ -29,7 +29,7 @@ Kinetic or CMD weapons are ballistic weapons that go bang bang. With decent hull
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a CMD gunner (passive perks) or completing kinetic research upgrades.
 - Tanoch Kinetics Have a higher fire rate, but a shorter range compared to the normal / Hiigaran variant
 
-### Blueprints
+### Kinetics Blueprints
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
@@ -51,7 +51,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Karos-8 Battery III             |Large weapons|Scannables - spoils of battle             |
 |Epic Karos-8 Battery III        |Large weapons|Liasons                                   |
 
-### Build requirements
+### Kinetics Build requirements
 
 |Module name           |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |----------------------|--------------------|----------|----------|----------|-------------------------|----------|
@@ -79,7 +79,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 Missiles (not to be confused with torpedo's) are a weapon type that go fwoosh boom. With mostly hull damage and very little armour damage, they will shred any unarmoured targets but struggle with armoured enemies. They have two active abilities called Missile Barrage and Fusion Missile (from Operator officers).
 They can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs weapon range), a missile gunner (passive perks) and completing missile research upgrades.
 
-### Blueprints
+### Missiles Blueprints
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
@@ -99,7 +99,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 |Thundercloud Launch Complex III     |Large weapons|Strikes, Liaisons                    |
 |Epic Thundercloud Launch Complex III|Large weapons|Liaisons                             |
 
-### Build requirements
+### Missiles Build requirements
 
 |Module name           |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |----------------------|--------------------|----------|----------|----------|-------------------------|----------|
@@ -125,7 +125,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 Ion weapons are beam type weapons that go vooomm. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Burst (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
 
-### Blueprints
+### Ion Blueprints
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
@@ -139,7 +139,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Fleet Model X2 Battery III     |Large weapons|Strikes                      |
 |Epic Fleet Model X2 Battery III|Large weapons|Liasons                      |
 
-### Build requirements
+### Ion Build requirements
 
 |Module name           |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |----------------------|--------------------|----------|----------|----------|-------------------------|----------|
@@ -160,7 +160,7 @@ Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a pulsar gunner (passive perks) and completing beam research upgrades.
 - Yaot pulsars have more damage and range, but a lower fire rate compared to the normal / Hiigaran variant
 
-### Blueprints
+### Pulsar Blueprints
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
@@ -170,7 +170,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Yaot SSV standard pulsar III|Medium weapon|Yaot liaison requisitions - reputation 7|
 |Twin DR-M MAG Lance III     |Large weapons|Strikes                                 |
 
-### Build requirements
+### Pulsar Build requirements
 
 |Module name           |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |----------------------|--------------------|----------|----------|----------|-------------------------|----------|
@@ -187,7 +187,7 @@ Repair modules are 'healing' turrets that go brrrt hummmm. They will repair unit
 They can be buffed by upgrading them and fitting in a high aerospace stat officer (buffs the range of the module)
 - WARNING using repair modules might pull a lot of agro towards your flagship when they are active. Keep this in mind when doing strikes or harder content
 
-### Blueprints
+### Repair modules Blueprints
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
@@ -200,7 +200,7 @@ They can be buffed by upgrading them and fitting in a high aerospace stat office
 |REL-12DX Twin Matter Projector III  |Medium weapon|Strikes                      |
 |REL-14XF Mohaava Matter Projector II|Medium weapon|Fixed on the Mohaava flagship|
 
-### Build requirements
+### Repair modules Build requirements
 
 |Module name           |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |----------------------|--------------------|----------|----------|----------|-------------------------|----------|
