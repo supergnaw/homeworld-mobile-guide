@@ -1,6 +1,6 @@
 # Fleet Roster
 
-- For more images of ship models, please go to the Mirrored Google doc: shorturl.at/gqrtG
+- THIS PAGE IS OUTDATED. For the correct and more images of ship models, please go to the mirrored Google doc: shorturl.at/gqrtG
 
 Down below you will find the various models of all ship types in the game. Keep in mind that not all tiers have different models and that all colour schemes are based on Kiith Kaalel's. If you are part of a different kiithid, expect a different colour scheme.
 
