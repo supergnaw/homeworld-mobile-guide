@@ -13,7 +13,7 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 - Mohaava: dedicated repair ships with three fixed repair modules that can't be replaced
 - Tiirshak: dedicated scanner ship with a fixed sensor array and large targeting range
 
-### Blueprints
+### Flagships Blueprints
 
 |Unit name                |Ship Type    |Location Found                        |Notes                                                                                                                                                                         |
 |--------------------|-------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 |Battlecruiser II    |Battlecruiser|Strikes (T2)                          |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                                                      |
 |Battlecruiser III   |Battlecruiser|Strikes (T3)                          |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                                                      |
 
-### Build requirements
+### Flagships Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -45,7 +45,7 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 |Battlecruiser III       |Large Hull Parts III|5670|Large Weapon Parts III|1620|Large Machinery Parts III|810 |
 
 
-## Escorts - frigate
+## Escorts - Frigate
 
 Frigates are an escort class unit that costs one escort slot. Although they have less health than a flagship or destroyer, they supplement a good amount of additional damage for your fleet. Two frigate will out damage a destroyer of the same tier and rarity.
 
@@ -54,7 +54,7 @@ There are various frigate types:
 - Torpedo: A hard hitting close range frigate that does great hull and armour damage
 - Ion: A long range frigate that does a lot of armour damage
 
-### Blueprints
+### Frigate Blueprints
 
 |Unit name                       |Location Found                                             |Notes                                                       |
 |---------------------------|-----------------------------------------------------------|------------------------------------------------------------|
@@ -72,7 +72,7 @@ There are various frigate types:
 |Ion Frigate III            |Strikes (T3)                                               |Benefits from beam research upgrades                        |
 |Yaot assault frigate       |Yaot liaison requisitions - reputation 6                   |Benefits from beam research upgrades                        |
 
-### Build requirements
+### Frigate Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -94,7 +94,7 @@ There are various frigate types:
 Destroyers are tanky escort units that costs TWO escort slots, so you will need at least an T2 flagship with no other escort unit equipped. They have a lot of hull and armour, sometimes more than a flagship. They can act as a dedicated tank for you fleet and will be fine on its own for a long time. They deal mostly hull damage and a bit of armour damage. Although a destroyer has more health than two frigates combined, it'll have less damage in total.
 - WARNING a destroyer needs two free escort slots to be deployed
 
-### Blueprints
+### Destroyers Blueprints
 
 |Unit name                  |Location Found                              |
 |----------------------|--------------------------------------------|
@@ -106,7 +106,7 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 |Rare Destroyer III    |strikes (T3) (drops more frequently on PRT3)|
 |Tanoch Destroyer III  |Tanoch liaison requisitions - reputation 9  |
 
-### Build requirements
+### Destroyers Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -123,7 +123,7 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 Resource controllers are a mining escort unit, unarmed and lightly armoured, they are not meant for any combat roles. Controllers act as a drop-off point of collectors, can mine themselves and go onto a 'remote mining' task that sends them off-map for a couple of hours (depending on the type of controller) and come back with ores of the controllers tier. Meaning that you can deploy a bunch of controllers, and before you log-off for the day, send them on a remote mining session to mine for you whilst you are not on your phone (for example, you deploy 2x T2 controllers, they will return to you with a bunch of T2 ores)
 
-### Blueprints
+### Resource controller Blueprints
 
 |Unit name                        |Location Found                              |Notes                                               |
 |----------------------------|--------------------------------------------|----------------------------------------------------|
@@ -133,7 +133,7 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 |Gilded short-term controller II |Iyatequa liaison requisitions - reputation 3|Has the ability to remote mine / afk mine (2 hours).|
 |Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5|Has the ability to remote mine / afk mine (8 hours).|
 
-### Build requirements
+### Resource controller Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -149,7 +149,7 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 Interceptors and bombers (also both known as fighters) are the smallest unit you can deploy from your flagship. Each squad takes up one squad slot, so for most flagships, you are able to deploy four units (unless you use a carrier flagship). Interceptors generally have quite a bit of hull damage, only lacking behind the assault corvettes. They also have a larger sensor radius then other squad types, so they can act as scouts for your fleet. Bombers however have the highest armour damage of all squads in the game. Interceptors are fast and agile, but have lower health then other squad types. Bombers are slower and less agile, but have a bit more tank.
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
-### Blueprints
+### Interceptors and bombers Blueprints
 
 |Unit name                        |Ship Type  |Location Found                          |Notes                                 |
 |----------------------------|-----------|----------------------------------------|--------------------------------------|
@@ -173,7 +173,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Rare Plasma Bomber III      |Bomber     |Strikes                                 |Benefits from energy research upgrades|
 |Epic Plasma Bomber III      |Bomber     |Strikes                                 |Benefits from energy research upgrades|
 
-### Build requirements
+### Interceptors and bombers Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -203,7 +203,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 Corvettes are the largest combat squads you can deploy, with a lot more tank than fighters, they are a less agile, slower but harder hitting variant of their smaller cousins. Assault corvettes have the most hull damage out of all squads, and pulsar corvettes have a good mix of hull and armour damage (although less armour damage than a bomber). Normally corvette squads have 3 units in them, tanoch corvettes seem to have 5 unit within a squad.
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
-### Blueprints
+### Corvettes Blueprints
 
 |Unit name                      |Location Found                            |Notes                                                |
 |--------------------------|------------------------------------------|-----------------------------------------------------|
@@ -220,7 +220,7 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 |Rare Pulsar Corvette II   |Strikes                                   |Benefits from beam research upgrades                 |
 |Rare Pulsar Corvette III  |Strikes                                   |Benefits from beam research upgrades                 |
 
-### Build requirements
+### Corvettes Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -243,7 +243,7 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 Lastly in the squads section, we have resource collectors. These are you main workhorses for your fleet, able to mine asteroids, interact with objectives and repair your units for both hull and armour. They are not armed and have very little tank (but they are armoured!) so don't put them to close to an enemy. It may look that the different tiers and rarities have the same stats, but there are hidden modifiers that effect mining speed, repair increases and speed of the unit itself. So it is worth upgrading to a higher tier or rarity.
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
-### Blueprints
+### Resource collectors Blueprints
 
 |Unit name                        |Location Found                                 |
 |----------------------------|-----------------------------------------------|
@@ -253,7 +253,7 @@ Lastly in the squads section, we have resource collectors. These are you main wo
 |Resource Collector III      |Market                                         |
 |Rare Resource Collector III |Strikes, scannable - Spoils of battle, Liaisons|
 
-### Build requirements
+### Resource collectors Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
