@@ -7,12 +7,12 @@ Sensors can be buffed by upgrading them, fitting in a high aerospace stat office
 
 ### Blueprints
 
-|Module                  |Size   |Module group|Location Found                |
-|------------------------|-------|------------|------------------------------|
-|Basic Sensor Array I    |Sensors|Sensor array|Market                        |
-|Basic Sensor Array II   |Sensors|Sensor array|Market                        |
-|Basic Sensor Array III  |Sensors|Sensor array|Liaisons                      |
-|Tiirshak sensor array II|Sensors|Sensor array|Fixed on the Triishak flagship|
+|Module                  |Size   |Location Found                |
+|------------------------|-------|------------------------------|
+|Basic Sensor Array I    |Sensors|Market                        |
+|Basic Sensor Array II   |Sensors|Market                        |
+|Basic Sensor Array III  |Sensors|Liaisons                      |
+|Tiirshak sensor array II|Sensors|Fixed on the Triishak flagship|
 
 ### Build requirements
 
@@ -31,25 +31,25 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ### Blueprints
 
-|Module                  |Size   |Module group|Location Found                |
-|------------------------|-------|------------|------------------------------|
-|K-A3 Turret I                   |Small weapon |Kinetic / Captial mass drivers|Market                                    |
-|Uncommon K-A3 Turret I          |Small weapon |Kinetic / Captial mass drivers|Strikes, scannable - spoils of battle     |
-|K-A3 Turret II                  |Small weapon |Kinetic / Captial mass drivers|Market                                    |
-|Uncommon K-A3 Turret II         |Small weapon |Kinetic / Captial mass drivers|Strikes, scannable - spoils of battle     |
-|Tanoch AX-44 light kinetic II   |Small weapon |Kinetic / Captial mass drivers|Tanoch liaison requisitions - reputation 3|
-|K-A3 Turret III                 |Small weapon |Kinetic / Captial mass drivers|Market                                    |
-|Uncommon K-A3 Turret III        |Small weapon |Kinetic / Captial mass drivers|Strikes, scannable - spoils of battle     |
-|Twin Javelin Cannon I           |Medium weapon|Kinetic / Captial mass drivers|Main quest                                |
-|Twin Javelin Cannon II          |Medium weapon|Kinetic / Captial mass drivers|Market                                    |
-|Rare Twin Javelin Cannon II     |Medium weapon|Kinetic / Captial mass drivers|Liasons                                   |
-|Tanoch AX-48 Standard kinetic II|Medium weapon|Kinetic / Captial mass drivers|Tanoch liaison requisitions - reputation 3|
-|Twin Javelin Cannon III         |Medium weapon|Kinetic / Captial mass drivers|Scannables - spoils of battle             |
-|Rare Twin Javelin Cannon III    |Medium weapon|Kinetic / Captial mass drivers|Liasons                                   |
-|Karos-8 Battery I               |Large weapons|Kinetic / Captial mass drivers|Scannables - spoils of battle             |
-|Karos-8 Battery II              |Large weapons|Kinetic / Captial mass drivers|Scannables - spoils of battle             |
-|Karos-8 Battery III             |Large weapons|Kinetic / Captial mass drivers|Scannables - spoils of battle             |
-|Epic Karos-8 Battery III        |Large weapons|Kinetic / Captial mass drivers|Liasons                                   |
+|Module                  |Size   |Location Found                |
+|------------------------|-------|------------------------------|
+|K-A3 Turret I                   |Small weapon |Market                                    |
+|Uncommon K-A3 Turret I          |Small weapon |Strikes, scannable - spoils of battle     |
+|K-A3 Turret II                  |Small weapon |Market                                    |
+|Uncommon K-A3 Turret II         |Small weapon |Strikes, scannable - spoils of battle     |
+|Tanoch AX-44 light kinetic II   |Small weapon |Tanoch liaison requisitions - reputation 3|
+|K-A3 Turret III                 |Small weapon |Market                                    |
+|Uncommon K-A3 Turret III        |Small weapon |Strikes, scannable - spoils of battle     |
+|Twin Javelin Cannon I           |Medium weapon|Main quest                                |
+|Twin Javelin Cannon II          |Medium weapon|Market                                    |
+|Rare Twin Javelin Cannon II     |Medium weapon|Liasons                                   |
+|Tanoch AX-48 Standard kinetic II|Medium weapon|Tanoch liaison requisitions - reputation 3|
+|Twin Javelin Cannon III         |Medium weapon|Scannables - spoils of battle             |
+|Rare Twin Javelin Cannon III    |Medium weapon|Liasons                                   |
+|Karos-8 Battery I               |Large weapons|Scannables - spoils of battle             |
+|Karos-8 Battery II              |Large weapons|Scannables - spoils of battle             |
+|Karos-8 Battery III             |Large weapons|Scannables - spoils of battle             |
+|Epic Karos-8 Battery III        |Large weapons|Liasons                                   |
 
 ### Build requirements
 
@@ -81,23 +81,23 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 
 ### Blueprints
 
-|Module                  |Size   |Module group|Location Found                |
-|------------------------|-------|------------|------------------------------|
-|Type-5 Launch Pad I                 |Small weapon |Missiles (not torpedo's)|Main quest                           |
-|Uncommon Type-5 Launch Pad I        |Small weapon |Missiles (not torpedo's)|Strikes, scannable - spoils of battle|
-|Type-5 Launch Pad II                |Small weapon |Missiles (not torpedo's)|Liaisons                             |
-|Uncommon Type-5 Launch Pad II       |Small weapon |Missiles (not torpedo's)|Strikes, scannable - spoils of battle|
-|Type-5 Launch Pad III               |Small weapon |Missiles (not torpedo's)|Liaisons                             |
-|Uncommon Type-5 Launch Pad III      |Small weapon |Missiles (not torpedo's)|Strikes, scannable - spoils of battle|
-|Colchis Launch Cluster I            |Medium weapon|Missiles (not torpedo's)|Market                               |
-|Colchis Launch Cluster II           |Medium weapon|Missiles (not torpedo's)|Market                               |
-|Rare Colchis Launch Cluster II      |Medium weapon|Missiles (not torpedo's)|Liasons                              |
-|Colchis Launch Cluster III          |Medium weapon|Missiles (not torpedo's)|Market                               |
-|Rare Colchis Launch Cluster III     |Medium weapon|Missiles (not torpedo's)|Liasons                              |
-|Thundercloud Launch Complex I       |Large weapons|Missiles (not torpedo's)|Market                               |
-|Thundercloud Launch Complex II      |Large weapons|Missiles (not torpedo's)|Strikes, Liaisons                    |
-|Thundercloud Launch Complex III     |Large weapons|Missiles (not torpedo's)|Strikes, Liaisons                    |
-|Epic Thundercloud Launch Complex III|Large weapons|Missiles (not torpedo's)|Liaisons                             |
+|Module                  |Size   |Location Found                |
+|------------------------|-------|------------------------------|
+|Type-5 Launch Pad I                 |Small weapon |Main quest                           |
+|Uncommon Type-5 Launch Pad I        |Small weapon |Strikes, scannable - spoils of battle|
+|Type-5 Launch Pad II                |Small weapon |Liaisons                             |
+|Uncommon Type-5 Launch Pad II       |Small weapon |Strikes, scannable - spoils of battle|
+|Type-5 Launch Pad III               |Small weapon |Liaisons                             |
+|Uncommon Type-5 Launch Pad III      |Small weapon |Strikes, scannable - spoils of battle|
+|Colchis Launch Cluster I            |Medium weapon|Market                               |
+|Colchis Launch Cluster II           |Medium weapon|Market                               |
+|Rare Colchis Launch Cluster II      |Medium weapon|Liasons                              |
+|Colchis Launch Cluster III          |Medium weapon|Market                               |
+|Rare Colchis Launch Cluster III     |Medium weapon|Liasons                              |
+|Thundercloud Launch Complex I       |Large weapons|Market                               |
+|Thundercloud Launch Complex II      |Large weapons|Strikes, Liaisons                    |
+|Thundercloud Launch Complex III     |Large weapons|Strikes, Liaisons                    |
+|Epic Thundercloud Launch Complex III|Large weapons|Liaisons                             |
 
 ### Build requirements
 
@@ -127,17 +127,17 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ### Blueprints
 
-|Module                  |Size   |Module group|Location Found                |
-|------------------------|-------|------------|------------------------------|
-|Crimson-4 Array I              |Medium weapon|Ion weapons|Scannables - spoils of battle|
-|Crimson-4 Array II             |Medium weapon|Ion weapons|Liaisons                     |
-|Rare Crimson-4 Array II        |Medium weapon|Ion weapons|Liaisons                     |
-|Crimson-4 Array III            |Medium weapon|Ion weapons|Liaisons                     |
-|Rare Crimson-4 Array III       |Medium weapon|Ion weapons|Market (adamant), Liaisons   |
-|Fleet Model X2 Battery I       |Large weapons|Ion weapons|Strikes, Liaisons            |
-|Fleet Model X2 Battery II      |Large weapons|Ion weapons|Strikes                      |
-|Fleet Model X2 Battery III     |Large weapons|Ion weapons|Strikes                      |
-|Epic Fleet Model X2 Battery III|Large weapons|Ion weapons|Liasons                      |
+|Module                  |Size   |Location Found                |
+|------------------------|-------|------------------------------|
+|Crimson-4 Array I              |Medium weapon|Scannables - spoils of battle|
+|Crimson-4 Array II             |Medium weapon|Liaisons                     |
+|Rare Crimson-4 Array II        |Medium weapon|Liaisons                     |
+|Crimson-4 Array III            |Medium weapon|Liaisons                     |
+|Rare Crimson-4 Array III       |Medium weapon|Market (adamant), Liaisons   |
+|Fleet Model X2 Battery I       |Large weapons|Strikes, Liaisons            |
+|Fleet Model X2 Battery II      |Large weapons|Strikes                      |
+|Fleet Model X2 Battery III     |Large weapons|Strikes                      |
+|Epic Fleet Model X2 Battery III|Large weapons|Liasons                      |
 
 ### Build requirements
 
@@ -162,13 +162,13 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ### Blueprints
 
-|Module                  |Size   |Module group|Location Found                |
-|------------------------|-------|------------|------------------------------|
-|LT-4 MAG Pointer III        |Small weapon |Pulsar weapons|Market                                  |
-|Yaot SSL Light pulsar III   |Small weapon |Pulsar weapons|Yaot liaison requisitions - reputation 6|
-|DR-3 MAG Repeater III       |Medium weapon|Pulsar weapons|Scannables - spoils of battle           |
-|Yaot SSV standard pulsar III|Medium weapon|Pulsar weapons|Yaot liaison requisitions - reputation 7|
-|Twin DR-M MAG Lance III     |Large weapons|Pulsar weapons|Strikes                                 |
+|Module                  |Size   |Location Found                |
+|------------------------|-------|------------------------------|
+|LT-4 MAG Pointer III        |Small weapon |Market                                  |
+|Yaot SSL Light pulsar III   |Small weapon |Yaot liaison requisitions - reputation 6|
+|DR-3 MAG Repeater III       |Medium weapon|Scannables - spoils of battle           |
+|Yaot SSV standard pulsar III|Medium weapon|Yaot liaison requisitions - reputation 7|
+|Twin DR-M MAG Lance III     |Large weapons|Strikes                                 |
 
 ### Build requirements
 
@@ -185,19 +185,20 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 Repair modules weirdly enough don't make a sound, so no cheeky joke there. They will repair units in your fleet within range if they have damaged armour (So keep in mind, just your unit, not friendlies. Also, they will only auto repair armour, not hull). They have one ability called Repair Burst that will also repair the armour of friendly units (from Operator officers).
 They can be buffed by upgrading them and fitting in a high aerospace stat officer (buffs the range of the module)
+- WARNING using repair modules might pull a lot of agro towards your flagship when they are active. Keep this in mind when doing strikes or harder content
 
 ### Blueprints
 
-|Module                  |Size   |Module group|Location Found                |
-|------------------------|-------|------------|------------------------------|
-|REL-12 Matter Projector I           |Small weapon |Repair modules|Liaisons                     |
-|REL-12 Matter Projector II          |Small weapon |Repair modules|Liaisons                     |
-|REL-12 Matter Projector III         |Small weapon |Repair modules|Liaisons                     |
-|REL-14F Mohaava Matter Projector II |Small weapon |Repair modules|Fixed on the Mohaava flagship|
-|REL-12DX Twin Matter Projector I    |Medium weapon|Repair modules|Strikes                      |
-|REL-12DX Twin Matter Projector II   |Medium weapon|Repair modules|Strikes                      |
-|REL-12DX Twin Matter Projector III  |Medium weapon|Repair modules|Strikes                      |
-|REL-14XF Mohaava Matter Projector II|Medium weapon|Repair modules|Fixed on the Mohaava flagship|
+|Module                  |Size   |Location Found                |
+|------------------------|-------|------------------------------|
+|REL-12 Matter Projector I           |Small weapon |Liaisons                     |
+|REL-12 Matter Projector II          |Small weapon |Liaisons                     |
+|REL-12 Matter Projector III         |Small weapon |Liaisons                     |
+|REL-14F Mohaava Matter Projector II |Small weapon |Fixed on the Mohaava flagship|
+|REL-12DX Twin Matter Projector I    |Medium weapon|Strikes                      |
+|REL-12DX Twin Matter Projector II   |Medium weapon|Strikes                      |
+|REL-12DX Twin Matter Projector III  |Medium weapon|Strikes                      |
+|REL-14XF Mohaava Matter Projector II|Medium weapon|Fixed on the Mohaava flagship|
 
 ### Build requirements
 
