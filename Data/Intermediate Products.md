@@ -25,10 +25,10 @@
 |---------------------------|----------|----------|------------------------|----------|
 |Small Hull Parts II        |RU A II   |14        |RU A I                  |9         |
 |Small Hull Parts III       |RU A III  |35        |Small Hull Parts II     |30        |
-|Small Weapon Parts II      |RU B II   |14        |RU B I                  |9         |
-|Small Weapon Parts III     |RU B III  |35        |Small Weapon Parts II   |30        |
 |Small Machinery Parts II   |RU C II   |14        |RU C I                  |9         |
 |Small Machinery Parts III  |RU C III  |35        |Small Machinery Parts II|30        |
+|Small Weapon Parts II      |RU B II   |14        |RU B I                  |9         |
+|Small Weapon Parts III     |RU B III  |35        |Small Weapon Parts II   |30        |
 |Small Electronics Parts III|RU D III  |25        |RU D II                 |18        |
 |Large Hull Parts II        |RU A II   |29        |RU A I                  |18        |
 |Large Hull Parts III       |RU A III  |70        |Large Hull Parts II     |30        |
