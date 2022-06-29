@@ -1,5 +1,7 @@
 # Intermediate products / parts
 
+Parts are needed for most T2 and T3 construction processes. Every order you fabricate gives you a batch of 25 parts (So when you build 1x large hull II, you get 25 large hull II parts).
+
 ### Blueprints
 
 |Part                 |Location Found                                                            |
