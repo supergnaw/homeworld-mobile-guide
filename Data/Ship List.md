@@ -31,8 +31,8 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Carrier I               |RU A I              |4725|RU B I                |1350|RU C I                   |675 |
 |Carrier II              |Large Hull Parts II |7087|Large Weapon Parts II |2025|Large Machinery Parts II |1012|
 |Carrier III             |Large Hull Parts III|4725|Large Weapon Parts III|1350|Large Machinery Parts III|675 |
@@ -74,8 +74,8 @@ There are various frigate types:
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Assault Frigate I          |RU A I              |787 |RU B I                |225|RU C I                     |112|
 |Assault Frigate II         |Large Hull Parts II |945 |RU B II               |450|RU C II                    |225|
 |Assault Frigate III        |Large Hull Parts III|630 |Large Weapon Parts III|180|RU C III                   |360|
@@ -108,8 +108,8 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Destroyer I           |RU A I              |2362|RU B I                |675|RU C I                     |337|
 |Destroyer II          |Large Hull Parts II |2362|Large Weapon Parts II |675|Large Machinery Parts II   |337|
 |Destroyer III         |Large Hull Parts III|1732|Large Weapon Parts III|495|Large Machinery Parts III  |247|
@@ -135,8 +135,8 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Resource Controller I          |RU A I              |787 |RU B I  |225|RU C I                   |112|
 |Resource Controller II         |Large Hull Parts II |945 |RU B II |450|RU C II                  |225|
 |Resource Controller III        |Large Hull Parts III|630 |RU B III|360|Large Machinery Parts III|180|
@@ -175,8 +175,8 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Interceptor I             |RU A I              |393 |RU B I                |112|RU C I                     |56 |
 |Interceptor II            |Small Hull Parts II |945 |RU B II               |225|RU C II                    |112|
 |Interceptor III           |Small Hull Parts III|630 |Small Weapon Parts III|180|RU C III                   |180|
@@ -222,8 +222,8 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Assault Corvette I        |RU A I              |472 |RU B I                |135|RU C I                     |67 |
 |Assault Corvette II       |Small Hull Parts II |1134|RU B II               |270|RU C II                    |135|
 |Assault Corvette III      |Small Hull Parts III|756 |Small Weapon Parts III|216|RU C III                   |216|
@@ -255,8 +255,8 @@ Lastly in the squads section, we have resource collectors. These are you main wo
 
 ### Build requirements
 
-|Units name|Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
-|------------------------|--------------------|----|----------------------|----|-------------------------|----|
+|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
+|-------------|----------|----------|----------|----------|----------|----------|
 |Resource Collector I        |RU A I              |52 |RU B I                     |15|RU C I                   |7 |
 |Resource Collector II       |Small Hull Parts II |126|RU B II                    |30|RU C II                  |15|
 |Gilded Resource Collector II|Small Hull Parts II |168|RU D II                    |30|RU C II                  |20|
