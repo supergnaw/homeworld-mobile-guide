@@ -31,12 +31,12 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 ### Keid	
 - The Siege of Keid
 - Rebuilding Keid
-- The future of Keid"
+- The future of Keid
 
 ### Ytep	
 - Ytep Under Fire
 - Supplying the War Effort
-- To Strengthen Ytep"
+- To Strengthen Ytep
 
 (The Ytep questline gives a Epic T3 torpedo frigate as its reward)	
 
