@@ -183,7 +183,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ## Repair modules
 
-Repair modules are 'healing' turrets that go hummmm. They will repair units in your fleet within range if they have damaged armour (So keep in mind, just your unit, not friendlies. Also, they will only auto repair armour, not hull). They have one ability called Repair Burst that will also repair the armour of friendly units (from Operator officers).
+Repair modules are 'healing' turrets that go brrrt hummmm. They will repair units in your fleet within range if they have damaged armour (So keep in mind, just your unit, not friendlies. Also, they will only auto repair armour, not hull). They have one ability called Repair Burst that will also repair the armour of friendly units (from Operator officers).
 They can be buffed by upgrading them and fitting in a high aerospace stat officer (buffs the range of the module)
 - WARNING using repair modules might pull a lot of agro towards your flagship when they are active. Keep this in mind when doing strikes or harder content
 
