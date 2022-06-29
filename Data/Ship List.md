@@ -15,7 +15,7 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 
 ### Blueprints
 
-|Ship                |Ship Type    |Location Found                        |Notes                                                                                                                                                                         |
+|Unit name                |Ship Type    |Location Found                        |Notes                                                                                                                                                                         |
 |--------------------|-------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Expedition          |Expedition   |Starter ship                          |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 4 squads 1 escort                                                                                                          |
 |Carrier I           |Carrier      |Market / Liaisons (T1)                |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                                                                |
@@ -56,7 +56,7 @@ There are various frigate types:
 
 ### Blueprints
 
-|Ship                       |Location Found                                             |Notes                                                       |
+|Unit name                       |Location Found                                             |Notes                                                       |
 |---------------------------|-----------------------------------------------------------|------------------------------------------------------------|
 |Assault Frigate I          |Main questline                                             |                                                            |
 |Assault Frigate II         |Main questline                                             |                                                            |
@@ -96,7 +96,7 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 ### Blueprints
 
-|Ship                  |Location Found                              |
+|Unit name                  |Location Found                              |
 |----------------------|--------------------------------------------|
 |Destroyer I           |Strikes (T1)                                |
 |Destroyer II          |Strikes (T2)                                |
@@ -125,7 +125,7 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 
 ### Blueprints
 
-|Ship                        |Location Found                              |Notes                                               |
+|Unit name                        |Location Found                              |Notes                                               |
 |----------------------------|--------------------------------------------|----------------------------------------------------|
 |Resource Controller I       |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours).|
 |Resource Controller II      |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours).|
@@ -151,7 +151,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 
 ### Blueprints
 
-|Ship                        |Ship Type  |Location Found                          |Notes                                 |
+|Unit name                        |Ship Type  |Location Found                          |Notes                                 |
 |----------------------------|-----------|----------------------------------------|--------------------------------------|
 |Interceptor I               |Interceptor|Market                                  |                                      |
 |Interceptor II              |Interceptor|Market                                  |                                      |
@@ -205,7 +205,7 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 
 ### Blueprints
 
-|Ship                      |Location Found                            |Notes                                                |
+|Unit name                      |Location Found                            |Notes                                                |
 |--------------------------|------------------------------------------|-----------------------------------------------------|
 |Assault Corvette I        |                                          |                                                     |
 |Assault Corvette II       |Market                                    |                                                     |
@@ -245,7 +245,7 @@ Lastly in the squads section, we have resource collectors. These are you main wo
 
 ### Blueprints
 
-|Ship                        |Location Found                                 |
+|Unit name                        |Location Found                                 |
 |----------------------------|-----------------------------------------------|
 |Resource Collector I        |Main questline                                 |
 |Resource Collector II       |Market                                         |
