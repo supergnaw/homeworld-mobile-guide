@@ -13,6 +13,10 @@ If you're looking for a certain tier item (lets say T2 ores), you'll find it in 
 Since the introduction of requisitions, the different blueprints can be found in the requisitions stores of the different factions. Large weapon parts blueprints can be found from the Tanoch stations (Stations in the red zone, Gero Niir for example)
 Large hull parts blueprints can be found from the Yaot stations (Stations in the green zone, Xelasii for example) and the large machinery blueprints can be found from the Iyatequa stations (the zone without colour, Bishaan tel for example)
 
+### My fleet is not repairing / after jumping, repairs are not registered? (Repair bug 2.49)
+In version 2.49, there is a desync bug that stops trading stations from repairing your fleet, or stop registering repairs that had happened when you jump to another location. The following action seems to fix the issue.
+When you notice your repairs not getting through, jump to a trading station and repair to full. After that, jump to another trading station and repair again. Keep doing this until the desync issue is resolved
+
 ### My game crashed after buying IRL purchases / I don't see my bought packs?
 Currently only android devices / accounts are able to buy IRL purchases. iOS devices seem to crash when attempting to buy something. This is due to testflight being a bit weird.
 For android devices, you'll find the bought items in your ships storage (internal view -> storage). If this is not the case, double check if you see the 'sold out' tag on packs.
@@ -33,7 +37,7 @@ In your system overview (On the top right, the 3rd button from the right) you ca
 Yes and no. By completing a scannable mission or a strike, you can stay in that instance and mine the asteroids that are present there. But the mining yield of those asteroid are abysmal because of its low purity.
 To increase your mining yield, you need to scan down an asteroid belt (marked with a triangle on the map, check the System list tab). Those asteroids have 10x the purity then those in missions. But you'll be attack by pirates when you stay long enough in that instance. And most belts will have continuously spawns
 You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you
-Popular mining systems are: Jishun for T1, Bishaan tel for T2 and Darodiir for T3
+Popular mining systems are: Jishun for T1, Bishaan tel for T2 and Darodiir for T3 (Not all T3 systems have enemy spawns, check out the systems page for more info)
 
 ### My scanner does not work / button is greyed out? (Could be fixed in 2.49)
 Scanning something down can be a bit difficult depending on your sensors array. Spamming the scan button does work if you for example have a T1 sensors array and you want to scan down a T2 site
@@ -80,11 +84,21 @@ Every 'order' you build, is 25 parts. This is for both small and large parts. So
 ### Where can I find xyz blueprint?
 See the tabs above this page. "Ships" shows you the location of all flagships, escorts and strike craft. "Modules" shows you the location of various flagship specific gear
 
+### What are Spoils of battle / Token of gratitude, and where can I find them?
+In older game versions, scan missions used to give you loot called Spoils of battle or Token of gratitude depending on the missions type. Now since recent changes, loot is auto opened once you complete a mission.
+Whilst selecting a scannable mission, you see a preview of the reward you will get for completing it. If it's a grey cache (that has the same icon as the recruitment token in the market), that mission will give a Spoils of battle
+If the mission shows a coloured cache (depends on what tier mission it is, looks similar to the 'daily' prefixed caches in the market), then that mission will give a Token of gratitude
+On a side-note, if the preview of a mission doesn't show either, just credits, that is called an epic signal mission. Read the farming page for more info on that
+
 ### Where can I find the T2 interceptor blueprint?
 The blueprint for the T2 interceptor can be bought for credits in the market at a trading station (all stations have a shared inventory). Scroll down till you see the option for the normal blueprint (non-common / rarity T2 interceptors also work)
 
 ### What is the difference between a T1 and a T2 resource collectors?
 Resource collectors have hidden stats. Higher tier collectors can mine higher tier ores faster. They also have more speed and repair more hull and armour per repair tick
+
+### What are Elite or Advanced items?
+In older game versions, rarity items used to have a prefix before their name. This has been removed in favor of a coloured variants in the unit icons. Rare was Elite item and Uncommon was Advanced items
+For example, the T3 rare destroyer was called a 'T3 Elite destroyer', or 'EDD' for short. Some of the older players still use these terms in chat, so don't be alarmed that you are missing out
 
 ### Which is better, x or y?
 All flagships, escorts, strike craft and weapons have their pro and cons. It's up to you to look for a build that you like, or find what you need within your fleet
