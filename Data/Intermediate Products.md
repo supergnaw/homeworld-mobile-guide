@@ -7,7 +7,7 @@ Parts are needed for most T2 and T3 construction processes. Every order you fabr
 |Part                 |Location Found                                                            |
 |---------------------|--------------------------------------------------------------------------|
 |Small hull II        |Market                                                                    |
-|Small hull III       |Main quest - 'Exploration'                                                |
+|Small hull III       |Side quest - 'Exploration' (Exploration I, Exploration II and Exploration III)                                                 |
 |Small machinery II   |Market                                                                    |
 |Small machinery III  |Side quest - 'Combat' (Combat I, Combat II and Combat III)                |
 |Small weapon II      |Market                                                                    |
