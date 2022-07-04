@@ -1,49 +1,163 @@
-|System Name  |Territory|Tier|Trade Station|Resource Belts|Other                                                                                      |
-|-------------|---------|----|-------------|--------------|-------------------------------------------------------------------------------------------|
-|Ariitar      |Iyatequa |1   |no           |yes           |                                                                                           |
-|Niirea Paas  |Iyatequa |1   |yes          |no            |                                                                                           |
-|Devadaasi    |Iyatequa |1   |yes          |yes           |                                                                                           |
-|Estraiir     |Iyatequa |1   |yes          |no            |                                                                                           |
-|Inayat       |Iyatequa |1   |no           |yes           |                                                                                           |
-|Jishun       |Iyatequa |1   |yes          |yes           |                                                                                           |
-|Naredra      |Iyatequa |1   |yes          |no            |                                                                                           |
-|Ekaam Nar    |Iyatequa |1   |yes          |yes           |                                                                                           |
-|Tela Diim    |Iyatequa |1   |yes          |no            |                                                                                           |
-|Saraal       |Iyatequa |1   |yes          |no            |                                                                                           |
-|Gero Niir    |Tanoch   |1   |yes          |no            |                                                                                           |
-|Tanochetlan  |Tanoch   |1   |yes          |yes           |                                                                                           |
-|Niodamma     |Tanoch   |2   |yes          |no            |pirate hideout                                                                             |
-|Bishaan Tel  |Iyatequa |2   |yes          |yes           |                                                                                           |
-|Sobel Rem    |Iyatequa |2   |no           |yes           |                                                                                           |
-|Kisho Re     |Iyatequa |2   |yes          |no            |                                                                                           |
-|Marat Kan    |Iyatequa |2   |no           |yes           |                                                                                           |
-|Keid         |Iyatequa |2   |yes          |no            |                                                                                           |
-|Mituul       |Iyatequa |2   |yes          |yes           |station defence                                                                            |
-|Jol Ataain   |Tanoch   |2   |yes          |yes           |                                                                                           |
-|Kamaani      |Tanoch   |2   |yes          |yes           |                                                                                           |
-|Saaret       |Tanoch   |2   |no           |yes           |                                                                                           |
-|Altuun       |Tanoch   |2   |yes          |no            |pahra's rock                                                                               |
-|Ciival Tem   |Tanoch   |3   |yes          |no            |                                                                                           |
-|Namanaii     |Tanoch   |2   |no           |yes           |                                                                                           |
-|Nokuu Nai    |Tanoch   |2   |yes          |no            |                                                                                           |
-|Teaabal      |Tanoch   |2   |no           |yes           |                                                                                           |
-|Torugul Nai  |Tanoch   |2   |yes          |yes           |                                                                                           |
-|Xelasii      |Yaot     |2   |yes          |yes           |                                                                                           |
-|Furlaan      |Yaot     |2   |no           |yes           |                                                                                           |
-|Ishanai      |Yaot     |2   |yes          |no            |                                                                                           |
-|Zaatas       |Iyatequa |3   |yes          |yes           |                                                                                           |
-|Vaal         |Iyatequa |3   |no           |yes           |                                                                                           |
-|Briuun       |Iyatequa |3   |yes          |no            |                                                                                           |
-|Hakna Miir   |Tanoch   |3   |yes          |yes           |                                                                                           |
-|Dasolat Tem  |Tanoch   |3   |no           |no            |                                                                                           |
-|Philoraan Tem|Tanoch   |3   |no           |no            |                                                                                           |
-|Jona Amaan   |Tanoch   |3   |no           |yes           |                                                                                           |
-|Mako Nar     |Tanoch   |3   |yes          |yes           |                                                                                           |
-|Kara Luun    |Tanoch   |3   |yes          |no            |                                                                                           |
-|Darodiir     |Tanoch   |3   |yes          |yes           |                                                                                           |
-|Nevopan      |Yaot     |3   |yes          |yes           |Asteroid belt Beta has permanent enemy spawns, nav point and belt Alpha have limited spawns|
-|Tuule        |Yaot     |3   |no           |no            |                                                                                           |
-|Ytep         |Yaot     |3   |yes          |yes           |Asteroid belts Alpha and Beta have permanent enemy spawns, nav point have limited spawns   |
-|Edowana      |Iyatequa |1   |yes          |yes           |                                                                        |
-|Guijnar      |Tanoch   |2   |yes          |yes           |                                                                         |
-|Kredulsa     |Yaot     |3   |yes          |yes           |Asteroid belt Beta and Gamma have limited spawns                        |
+# Systems
+
+Homeworld mobile is set around a bunch of systems, that are owned by various factions. On this page, there will be lists of the various systems, who owns them, what tier they represent, if they have an Trade station or a outpost, are there asteroid belts present and what jump strength is needed to jump to these systems.
+
+- With the removal of nav points, and the addition of the outpost and safe haven stations, every Iyatequa, Tanoch and Yaot system have liaisons. But only trade stations have access to a shipyard and liaison requisitions.
+
+## Hiigaran systems
+
+The Hiigaran faction, marked with blue, staked their claim on the south west of the known galactic map. They are the only faction with access to T0 systems, which is the only location that has T0M ores. All systems except their 'capital' system of Lazarus have asteroid belts. But only Lazarus has a trade station with access to a shipyard. The Hiigaran faction currently does not have liaison missions.
+
+- T0 systems are the only systems with T0M ores, these do not need to be refined for use
+
+|System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
+|-----------|--------|----|-------------|--------------|-------------------------|
+|Lazarus    |Hiigaran|0   |yes          |no            |5                        |
+|Nokuuna    |Hiigaran|0   |no           |yes           |11                       |
+|Sumaar     |Hiigaran|0   |no           |yes           |18                       |
+|Iniim      |Hiigaran|0   |no           |yes           |11                       |
+|Saaret     |Hiigaran|0   |no           |yes           |20                       |
+|Mitorai    |Hiigaran|0   |no           |yes           |13                       |
+|Roa Tisaad |Hiigaran|0   |no           |yes           |11                       |
+|Fer Lamaan |Hiigaran|0   |no           |yes           |14                       |
+|Toasiim    |Hiigaran|0   |no           |yes           |10                       |
+|Jonalli    |Hiigaran|0   |no           |yes           |19                       |
+
+
+## Iyatequa systems
+
+The Iyatequa faction, marked with brown, are mainly traders in the center of the Nimbus universe. They seem to have a close relation with the Hiigaran's, as can be seen with Hiigaran units protecting their stations and interest. All there systems have liaison missions, and their belts seems to be the main target of Cangacian pirates.
+
+- All systems of the Iyatequa have liaison offices
+
+|System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
+|-----------|--------|----|-------------|--------------|-------------------------|
+|Ariitar    |Iyatequa|1   |yes          |no            |30                       |
+|Niirea Paas|Iyatequa|1   |no           |no            |30                       |
+|Devadaasi  |Iyatequa|1   |yes          |yes           |30                       |
+|Estraiir   |Iyatequa|1   |yes          |no            |30                       |
+|Inayat     |Iyatequa|1   |yes          |no            |30                       |
+|Jishun     |Iyatequa|1   |yes          |yes           |30                       |
+|Naredra    |Iyatequa|1   |yes          |no            |30                       |
+|Ekaam Nar  |Iyatequa|1   |no           |yes           |30                       |
+|Tela Diim  |Iyatequa|1   |no           |no            |30                       |
+|Saraal     |Iyatequa|1   |yes          |no            |30                       |
+|Bishaan Tel|Iyatequa|2   |no           |no            |110                      |
+|Sobel Rem  |Iyatequa|2   |no           |yes           |110                      |
+|Kisho Re   |Iyatequa|2   |no           |yes           |110                      |
+|Marat Kan  |Iyatequa|2   |no           |yes           |110                      |
+|Keid       |Iyatequa|2   |no           |no            |110                      |
+|Mituul     |Iyatequa|2   |no           |yes           |110                      |
+|Zaatas     |Iyatequa|3   |yes          |yes           |210                      |
+|Vaal       |Iyatequa|3   |no           |yes           |210                      |
+|Briuun     |Iyatequa|3   |yes          |yes           |210                      |
+|Edowana    |Iyatequa|1   |yes          |yes           |50                       |
+
+## Tanoch systems
+
+The Tanoch, marked with yellow, are an imperial faction that seems to be in a conflict with the Yaot. They are located on the north east of the known map. Their liaisons are mostly based to counter the Cangacian pirates and Yaot invaders of their turf. As with the Iyatequa, all their systems have a liaison office.
+
+- All systems of the Tanoch have liaison offices
+
+|System Name|Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
+|-----------|-------|----|-------------|--------------|-------------------------|
+|Tecoalte   |Tanoch |2   |no           |no            |110                      |
+|Chihuat    |Tanoch |2   |no           |yes           |110                      |
+|Jol Ataain |Tanoch |2   |yes          |yes           |110                      |
+|Xocotila   |Tanoch |2   |yes          |yes           |110                      |
+|Cempoalt   |Tanoch |2   |no           |no            |110                      |
+|Tuxpante   |Tanoch |2   |no           |yes           |110                      |
+|Tecpan     |Tanoch |2   |yes          |yes           |110                      |
+|Malinalc   |Tanoch |2   |no           |yes           |110                      |
+|Xalapan    |Tanoch |2   |yes          |no            |110                      |
+|Tlacozau   |Tanoch |2   |no           |yes           |110                      |
+|Cuernava   |Tanoch |2   |yes          |yes           |110                      |
+|Ixtepec    |Tanoch |3   |no           |yes           |210                      |
+|Ayotla     |Tanoch |3   |no           |no            |210                      |
+|Tepecoma   |Tanoch |3   |yes          |no            |210                      |
+|Cuilan     |Tanoch |3   |yes          |no            |210                      |
+|Teozaan    |Tanoch |3   |no           |yes           |210                      |
+|Misantep   |Tanoch |3   |yes          |no            |210                      |
+|Axocotil   |Tanoch |3   |yes          |yes           |210                      |
+|Sijin      |Tanoch |3   |yes          |yes           |210                      |
+|Chiapa     |Tanoch |2   |no           |yes           |150                      |
+|Ixtlan     |Tanoch |2   |yes          |no            |118                      |
+|Teozauhq   |Tanoch |2   |yes          |no            |115                      |
+|Cuilco     |Tanoch |2   |no           |yes           |114                      |
+|Chuua      |Tanoch |2   |no           |yes           |110                      |
+|Tixpan     |Tanoch |2   |no           |no            |110                      |
+|Tepecoal   |Tanoch |2   |yes          |no            |114                      |
+|Tlatlan    |Tanoch |2   |yes          |yes           |110                      |
+|Yoalco     |Tanoch |2   |no           |no            |112                      |
+|Tepec      |Tanoch |2   |yes          |no            |117                      |
+|Ocuitepe   |Tanoch |2   |no           |no            |110                      |
+|Oaxtepex   |Tanoch |2   |no           |yes           |120                      |
+|Zempoalt   |Tanoch |2   |no           |no            |114                      |
+|Tecoacui   |Tanoch |2   |yes          |no            |120                      |
+|Telapente  |Tanoch |2   |yes          |no            |116                      |
+|Tlapan     |Tanoch |2   |no           |yes           |113                      |
+|Tetelad    |Tanoch |2   |no           |yes           |117                      |
+|Cempoalc   |Tanoch |2   |yes          |yes           |111                      |
+|Xala       |Tanoch |2   |yes          |yes           |113                      |
+|Acatlahu   |Tanoch |2   |no           |no            |115                      |
+|Zempoala   |Tanoch |2   |no           |no            |110                      |
+|Coixl      |Tanoch |2   |no           |yes           |117                      |
+|Acatla     |Tanoch |2   |no           |no            |113                      |
+|Teozacoz   |Tanoch |2   |no           |yes           |111                      |
+|Tochteop   |Tanoch |2   |no           |yes           |113                      |
+|Xilotepe   |Tanoch |2   |yes          |yes           |113                      |
+
+
+## Yaot systems
+
+The Yaot faction, marked in green, are a mostly unknown faction but seems to be in an aggressive conflict with the Tanoch. They are focused on the south east, and have the most T3 systems of any faction. Their liaisons are mostly based to counter the Cangacian pirates and Tanoch incursions. As with the previous two factions, every system has liaison offices.
+
+- All systems of the Yaot have liaison offices
+
+|System Name |Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
+|------------|-------|----|-------------|--------------|-------------------------|
+|Saami Ra    |Yaot   |3   |yes          |no            |110                      |
+|Tunda Miraan|Yaot   |3   |yes          |yes           |110                      |
+|Tibata      |Yaot   |3   |no           |yes           |110                      |
+|Subaca      |Yaot   |3   |yes          |no            |210                      |
+|Tocon       |Yaot   |3   |yes          |no            |210                      |
+|Ytep        |Yaot   |3   |no           |yes           |210                      |
+|Yaotl       |Yaot   |3   |yes          |yes           |210                      |
+|Charatl     |Yaot   |3   |no           |yes           |250                      |
+|Subacuy     |Yaot   |3   |no           |no            |216                      |
+|Chocata     |Yaot   |3   |no           |no            |216                      |
+|Ziipaga     |Yaot   |3   |yes          |yes           |211                      |
+|Oica        |Yaot   |3   |yes          |yes           |216                      |
+|Teuascate   |Yaot   |3   |no           |no            |214                      |
+|Paipaga     |Yaot   |3   |no           |no            |214                      |
+|Topaconta   |Yaot   |3   |no           |yes           |210                      |
+|Topa        |Yaot   |3   |no           |yes           |211                      |
+|Samacon     |Yaot   |3   |yes          |yes           |216                      |
+|Rama        |Yaot   |3   |no           |yes           |216                      |
+|Tocata      |Yaot   |3   |no           |yes           |218                      |
+|Turmequi    |Yaot   |3   |yes          |no            |211                      |
+|Zipate      |Yaot   |3   |yes          |yes           |213                      |
+|Topaque     |Yaot   |3   |no           |yes           |218                      |
+|Teuasia     |Yaot   |3   |no           |yes           |218                      |
+|Zipate      |Yaot   |3   |yes          |yes           |213                      |
+|Topaque     |Yaot   |3   |no           |yes           |218                      |
+|Teuasia     |Yaot   |3   |no           |yes           |218                      |
+|Tiba        |Yaot   |3   |yes          |no            |215                      |
+|Sabio       |Yaot   |3   |no           |no            |210                      |
+|Ubacontl    |Yaot   |3   |yes          |yes           |220                      |
+|Tinjo       |Yaot   |3   |no           |no            |212                      |
+|Tenjaca     |Yaot   |3   |no           |yes           |212                      |
+
+
+## Cangacian
+
+The Cangacian factions, marked in red, made their wretched hives of scum and villainy in the north west of the known map. They have special outpost called 'safe haven' that gives you a nice little flavor text when you enter the system. As you could expect, outside of the safe haven, cangacians seem to attack you quite a lot in their space. They currently have no liaison offices.
+
+|System Name|Faction  |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
+|-----------|---------|----|-------------|--------------|-------------------------|
+|Bescava    |Cangacian|2   |no           |no            |120                      |
+|Larcava    |Cangacian|2   |no           |no            |114                      |
+|Cancava    |Cangacian|2   |no           |no            |120                      |
+|Lura       |Cangacian|2   |no           |yes           |117                      |
+|Kaluari    |Cangacian|2   |no           |yes           |112                      |
+|Larinca    |Cangacian|2   |no           |no            |118                      |
