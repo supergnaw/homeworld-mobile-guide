@@ -1,6 +1,6 @@
 # List of all side missions
 
-Checklist for side missions: As of version 0.2.49, the following side mission series are available. Aside from the side missions 'Production' and 'Combat' and additional story quests, the other quests don't give special rewards and can be effectively ignored unless you want to clear to board / completionist sake.
+Checklist for side missions: As of version 0.2.63, the following side mission series are available.
 
 ## Priority side missions that give T3 small components as its rewards
 - (T3 Small weapon parts from Production & T3 small machinery parts from Combat)
@@ -15,6 +15,24 @@ Checklist for side missions: As of version 0.2.49, the following side mission se
 - Combat 2
 - Combat 3
 
+### Exploration series
+- Exploration I
+- Exploration II
+- Exploration III
+
+## Hiigaran quests, short quest lines with some flavor text for the Hiigaran faction
+- Crew promotion
+- Pest control
+- Increasing Firepower
+- Resource collector T2
+- Ore deal
+- Resource controler
+- Remote mining
+- Gold rush
+- Elite ships
+- Pulsar corvette Schematics
+- Weapon turret T2
+- Station Defense
 
 ## Additional story quests after Temple Tonaati main quest.
 
@@ -39,6 +57,32 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 - To Strengthen Ytep
 
 (The Ytep questline gives a Epic T3 torpedo frigate as its reward)	
+
+## Various other story quests
+- Defiance
+- Map of the Beast
+- Stone Hearth
+- A Black Eye
+- A Wide Exchange
+- Hunting the Wren
+- A Full Quiver
+- Repurpose the Past
+- An Honest Job
+- The Barrier
+- The Sheriff
+- The Dealer
+- Reverse Engineering
+- Rebuilding Efforts
+- Enemy Intentions
+- Preemptive Strike
+- Mining Opportunities
+- Secure the Perimeter
+- Motivation Boost
+- Empty the Lairs
+- Delivery Run
+- Patrolling Trade Routes
+- The Catch
+- Art of Escape
 
 ## Cumulative series that gives non-blueprints / resources as its rewards
 
@@ -129,4 +173,16 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Attack on sight
 - Declared public enemy
 
-Note for the scanning and destruction quests, last step for scans is 40k total scans. For destruction its 6.4k for each faction.
+### Signal scans completion
+- Keeping an Eye Open
+- Signal Search
+- Scout Group
+- Scout Mission
+- Scout Force
+- Reconnaissance Methods
+- Reconnaissance Mission
+- Reconnaissance Force
+- Cartographer
+- Galactic Observer
+
+Note for the scanning and destruction quests, last step for scans is 40k total scans. For destruction its 6.4k for each faction. The signal scans quests, the last step is 1.3k completed scans
