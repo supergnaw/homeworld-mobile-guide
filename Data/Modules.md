@@ -31,26 +31,25 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ### Kinetics Blueprints
 
-|Module                  |Size   |Location Found                |
-|------------------------|-------|------------------------------|
-|K-A3 Turret I                   |Small weapon |Kinetic / Captial mass drivers|Market                                    |
-|Uncommon K-A3 Turret I          |Small weapon |Kinetic / Captial mass drivers|Strikes, scannable - spoils of battle     |
-|K-A3 Turret II                  |Small weapon |Kinetic / Captial mass drivers|Research                                  |
-|Uncommon K-A3 Turret II         |Small weapon |Kinetic / Captial mass drivers|Strikes, scannable - spoils of battle     |
-|Tanoch AX-44 light kinetic II   |Small weapon |Kinetic / Captial mass drivers|Tanoch liaison requisitions - reputation 3|
-|K-A3 Turret III                 |Small weapon |Kinetic / Captial mass drivers|Research                                  |
-|Uncommon K-A3 Turret III        |Small weapon |Kinetic / Captial mass drivers|Strikes, scannable - spoils of battle     |
-|Twin Javelin Cannon I           |Medium weapon|Kinetic / Captial mass drivers|Main quest                                |
-|Twin Javelin Cannon II          |Medium weapon|Kinetic / Captial mass drivers|Research                                  |
-|Rare Twin Javelin Cannon II     |Medium weapon|Kinetic / Captial mass drivers|Liasons                                   |
-|Tanoch AX-48 Standard kinetic II|Medium weapon|Kinetic / Captial mass drivers|Tanoch liaison requisitions - reputation 3|
-|Twin Javelin Cannon III         |Medium weapon|Kinetic / Captial mass drivers|Research                                  |
-|Rare Twin Javelin Cannon III    |Medium weapon|Kinetic / Captial mass drivers|Liasons                                   |
-|K-X3C Thunderbolt Cannon III    |Medium weapon|Kinetic / Captial mass drivers|Scannables - spoils of battle             |
-|Karos-8 Battery I               |Large weapons|Kinetic / Captial mass drivers|Scannables - spoils of battle             |
-|Karos-8 Battery II              |Large weapons|Kinetic / Captial mass drivers|Research                                  |
-|Karos-8 Battery III             |Large weapons|Kinetic / Captial mass drivers|Research                                  |
-|Epic Karos-8 Battery III        |Large weapons|Kinetic / Captial mass drivers|Liasons                                   |
+| K-A3 Turret I                    | Small weapon  | Market                                     |
+| -------------------------------- | ------------- | ------------------------------------------ |
+| Uncommon K-A3 Turret I           | Small weapon  | Strikes, scannable - spoils of battle      |
+| K-A3 Turret II                   | Small weapon  | Research                                   |
+| Uncommon K-A3 Turret II          | Small weapon  | Strikes, scannable - spoils of battle      |
+| Tanoch AX-44 light kinetic II    | Small weapon  | Tanoch liaison requisitions - reputation 3 |
+| K-A3 Turret III                  | Small weapon  | Research                                   |
+| Uncommon K-A3 Turret III         | Small weapon  | Strikes, scannable - spoils of battle      |
+| Twin Javelin Cannon I            | Medium weapon | Main quest                                 |
+| Twin Javelin Cannon II           | Medium weapon | Research                                   |
+| Rare Twin Javelin Cannon II      | Medium weapon | Liasons                                    |
+| Tanoch AX-48 Standard kinetic II | Medium weapon | Tanoch liaison requisitions - reputation 3 |
+| Twin Javelin Cannon III          | Medium weapon | Research                                   |
+| Rare Twin Javelin Cannon III     | Medium weapon | Liasons                                    |
+| K-X3C Thunderbolt Cannon III     | Medium weapon | Scannables - spoils of battle              |
+| Karos-8 Battery I                | Large weapons | Scannables - spoils of battle              |
+| Karos-8 Battery II               | Large weapons | Research                                   |
+| Karos-8 Battery III              | Large weapons | Research                                   |
+| Epic Karos-8 Battery III         | Large weapons | Liasons                                    |
 
 ### Kinetics Build requirements
 
@@ -84,21 +83,21 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
-|Type-5 Launch Pad I                 |Small weapon |Missiles (not torpedo's)|Main quest                           |
-|Uncommon Type-5 Launch Pad I        |Small weapon |Missiles (not torpedo's)|Strikes, scannable - spoils of battle|
-|Type-5 Launch Pad II                |Small weapon |Missiles (not torpedo's)|Research                             |
-|Uncommon Type-5 Launch Pad II       |Small weapon |Missiles (not torpedo's)|Strikes, scannable - spoils of battle|
-|Type-5 Launch Pad III               |Small weapon |Missiles (not torpedo's)|Research                             |
-|Uncommon Type-5 Launch Pad III      |Small weapon |Missiles (not torpedo's)|Strikes, scannable - spoils of battle|
-|Colchis Launch Cluster I            |Medium weapon|Missiles (not torpedo's)|Market                               |
-|Colchis Launch Cluster II           |Medium weapon|Missiles (not torpedo's)|Research                             |
-|Rare Colchis Launch Cluster II      |Medium weapon|Missiles (not torpedo's)|Liasons                              |
-|Colchis Launch Cluster III          |Medium weapon|Missiles (not torpedo's)|Research                             |
-|Rare Colchis Launch Cluster III     |Medium weapon|Missiles (not torpedo's)|Liasons                              |
-|Thundercloud Launch Complex I       |Large weapons|Missiles (not torpedo's)|Market                               |
-|Thundercloud Launch Complex II      |Large weapons|Missiles (not torpedo's)|Research                             |
-|Thundercloud Launch Complex III     |Large weapons|Missiles (not torpedo's)|Research                             |
-|Epic Thundercloud Launch Complex III|Large weapons|Missiles (not torpedo's)|Liaisons                             |
+|Type-5 Launch Pad I                 |Small weapon |Main quest                           |
+|Uncommon Type-5 Launch Pad I        |Small weapon |Strikes, scannable - spoils of battle|
+|Type-5 Launch Pad II                |Small weapon |Research                             |
+|Uncommon Type-5 Launch Pad II       |Small weapon |Strikes, scannable - spoils of battle|
+|Type-5 Launch Pad III               |Small weapon |Research                             |
+|Uncommon Type-5 Launch Pad III      |Small weapon |Strikes, scannable - spoils of battle|
+|Colchis Launch Cluster I            |Medium weapon|Market                               |
+|Colchis Launch Cluster II           |Medium weapon|Research                             |
+|Rare Colchis Launch Cluster II      |Medium weapon|Liasons                              |
+|Colchis Launch Cluster III          |Medium weapon|Research                             |
+|Rare Colchis Launch Cluster III     |Medium weapon|Liasons                              |
+|Thundercloud Launch Complex I       |Large weapons|Market                               |
+|Thundercloud Launch Complex II      |Large weapons|Research                             |
+|Thundercloud Launch Complex III     |Large weapons|Research                             |
+|Epic Thundercloud Launch Complex III|Large weapons|Liaisons                             |
 
 ### Missiles Build requirements
 
@@ -130,15 +129,15 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 |Module                  |Size   |Location Found                |
 |------------------------|-------|------------------------------|
-|Crimson-4 Array I              |Medium weapon|Ion weapons|Scannables - spoils of battle|
-|Crimson-4 Array II             |Medium weapon|Ion weapons|Research                     |
-|Rare Crimson-4 Array II        |Medium weapon|Ion weapons|Liaisons                     |
-|Crimson-4 Array III            |Medium weapon|Ion weapons|Research                     |
-|Rare Crimson-4 Array III       |Medium weapon|Ion weapons|Market (adamant), Liaisons   |
-|Fleet Model X2 Battery I       |Large weapons|Ion weapons|Strikes, Liaisons            |
-|Fleet Model X2 Battery II      |Large weapons|Ion weapons|Research                     |
-|Fleet Model X2 Battery III     |Large weapons|Ion weapons|Research                     |
-|Epic Fleet Model X2 Battery III|Large weapons|Ion weapons|Liasons                      |
+|Crimson-4 Array I              |Medium weapon|Scannables - spoils of battle|
+|Crimson-4 Array II             |Medium weapon|Research                     |
+|Rare Crimson-4 Array II        |Medium weapon|Liaisons                     |
+|Crimson-4 Array III            |Medium weapon|Research                     |
+|Rare Crimson-4 Array III       |Medium weapon|Market (adamant), Liaisons   |
+|Fleet Model X2 Battery I       |Large weapons|Strikes, Liaisons            |
+|Fleet Model X2 Battery II      |Large weapons|Research                     |
+|Fleet Model X2 Battery III     |Large weapons|Research                     |
+|Epic Fleet Model X2 Battery III|Large weapons|Liasons                      |
 
 ### Ion Build requirements
 
@@ -217,7 +216,7 @@ They can be buffed by upgrading them and fitting in a high aerospace stat office
 
 Internal modules are various boost that can buff up your flagship, from additional fabrication or refinery slots, to weapon boosts that gives you insane total stats, internal modules are the way to go for both min-maxers as new players alike. Every flagship has a front, middle and back slots to place modules in. Every flagship has a base capacity of 170 front, 220 middle and 170 back. But T1 flagships and higher get a 50+ boost depending on the class of flagship. Explorer will get +50 front (so 220 front, 220 middle and 170 back), carriers will get extra middle (170, 270, 170) and battlecruisers more in the back (170, 220, 220). A higher tier modules doesn't always mean that the module itself is stronger (aside from fabricators and refineries), but the higher the tier, the lower the capacity cost of the module will be.
 
-## Internal modules blueprints
+### Internal modules blueprints
 
 |Internal modules                      |Size    |Module group |Module capacity cost|Effect                                        |Location Found                              |
 |--------------------------------------|--------|-------------|--------------------|----------------------------------------------|--------------------------------------------|
@@ -247,7 +246,7 @@ Internal modules are various boost that can buff up your flagship, from addition
 |Sensor range booster II               |Front   |Sensor boost |                    |Increases flagship sensor range               |Market                                      |
 |Sensor scan booster II                |Front   |Sensor boost |                    |Increases flagship scan reliability           |
 
-## Internal modules Build requirements
+### Internal modules Build requirements
 
 |Internal modules                      |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |--------------------------------------|--------------------|----------|----------|----------|-------------------------|----------|
