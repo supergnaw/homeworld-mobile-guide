@@ -5,15 +5,29 @@
 With the current game balance, all kiithid are a viable choice. The buff and debuffs you get from them are minimal, so choose which group you like the most lore or colour scheme wise
 Same can be said for the weapons and units, the balance right now is pretty solid so dont be afraid to pick whatever you want
 
+### I can't access a specific game feature  / I had access to something but now it's locked?
+The main quest now has certain unlocks for gameplay element like fabrication, liaisons, hyperspace jumps and other systems. The list below shows what chapter and quest unlocks these features:
+Chapter 1 - Local Currency, unlocks the fabricator
+Chapter 4 - Bridge, unlocks the shipyard
+Chapter 6 - Delver, unlocks Kiith selection
+Chapter 6 - Blood Ties, unlocks name change
+Chapter 6 - Declaration, unlocks T1 Hyperspace jump research
+Chapter 7 - New Minerals, unlocks the refinery
+Chapter 12 - Hostile History, unlocks external modules
+Chapter 15 - Iyatequa Business, unlocks research
+Chapter 16 - Laboratories, unlocks T2 Hyperspace jump research
+Chapter 20 - Escort ships T2, unlocks the liaison office
+Chapter 23 - Temple Tonaati, unlocks T3 Hyperspace jump research
+
 ### What are tiers / where to find Tx loot?
-In the current version, there are three tiers, tier 1 (T1), tier 2 (T2) and tier 3 (T3). These are marked with Roman numerals (so T1 is I, T2 II, T3 III). Every item, location, enemy and mission has a designated tier to it.
+In the current version, there are four tiers, tier 0 (T0) tier 1 (T1), tier 2 (T2) and tier 3 (T3). These are marked with Roman numerals (so T0 is 0, T1 I, T2 II, T3 III). Every item, location, enemy and mission has a designated tier to it.
 If you're looking for a certain tier item (lets say T2 ores), you'll find it in a tier 2 system, marked with II (so for example Bishaan Tel II). If a mission requires you to build a T2 interceptor, look for the II on the top right of the blueprint
 
 ### Where can I find large Weapons / Hull / Machinery parts blueprint?
 Since the introduction of requisitions, the different blueprints can be found in the requisitions stores of the different factions. Large weapon parts blueprints can be found from the Tanoch stations (Stations in the red zone, Gero Niir for example)
 Large hull parts blueprints can be found from the Yaot stations (Stations in the green zone, Xelasii for example) and the large machinery blueprints can be found from the Iyatequa stations (the zone without colour, Bishaan tel for example)
 
-### My fleet is not repairing / after jumping, repairs are not registered? (Repair bug 2.49)
+### My fleet is not repairing / after jumping, repairs are not registered? (could be fixed in 2.63)
 In version 2.49, there is a desync bug that stops trading stations from repairing your fleet, or stop registering repairs that had happened when you jump to another location. The following action seems to fix the issue.
 When you notice your repairs not getting through, jump to a trading station and repair to full. After that, jump to another trading station and repair again. Keep doing this until the desync issue is resolved
 
@@ -33,11 +47,11 @@ Sometimes during extended sessions, your camera can become stuck. There are two 
 In your system overview (On the top right, the 3rd button from the right) you can scan missions and locations. Press the scan button on the button left to start send your first ever ping across the system.
 
 ## Mining & Upgrades
-### Can I mine without being attacked / Any tips for mining?
-Yes and no. By completing a scannable mission or a strike, you can stay in that instance and mine the asteroids that are present there. But the mining yield of those asteroid are abysmal because of its low purity.
+### Can I mine without being attacked / Any tips for mining?											
+Yes and no. By completing a scannable mission or a strike, you can stay in that instance and mine the asteroids that are present there. But the mining yield of those asteroid are abysmal because of its low purity.											
 To increase your mining yield, you need to scan down an asteroid belt (marked with a triangle on the map, check the System list tab). Those asteroids have 10x the purity then those in missions. But you'll be attack by pirates when you stay long enough in that instance. And most belts will have continuously spawns
-You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you
-Popular mining systems are: Jishun for T1, Bishaan tel for T2 and Darodiir for T3 (Not all T3 systems have enemy spawns, check out the systems page for more info)
+You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you											
+Popular mining systems are: Toasiim for T0, Jishun for T1, Cuernava for T2 and Tunda Miraan for T3											
 
 ### My scanner does not work / button is greyed out? (Could be fixed in 2.49)
 Scanning something down can be a bit difficult depending on your sensors array. Spamming the scan button does work if you for example have a T1 sensors array and you want to scan down a T2 site
@@ -48,9 +62,8 @@ To upgrade your sensors array, you can use RE to lvl it up, get a higher tier se
 Asteroid do not deplete. So keep shooting rocks to your hearts content!
 
 ### Where can I find D type ore? Asteroid identification
-Every ore type can be found in every belt. But it won't always show up in your list. When going into a scanned asteroid belt, you'll see a ore type that is focused in the system map. This only decides the Majority of the asteroids present but not all. The 4 asteroid types have  distinct looks, with D type being capped on a lower purity then the other types.
+Every ore type can be found in every belt. When going into a scanned asteroid belt, you'll see a ore type that is focused in the system map. This only decides the Majority of the asteroids present but not all. The 4 asteroid types have  distinct looks, with D type being capped on a lower purity then the other types.
 A type has reddish looks to them, B type is silvery, C type is green and orange whilst D type is completely brown, and is faded on the sensors manager compared to the other types.
-Now as stated before, those asteroids won't always show up on your asteroid list. But no worries, every asteroid that shows up on your sensors manager is mine-able. By dragging and dropping your mining units on an asteroid, you can manually mine the types not present in your list.
 
 - For images on asteroid identification, please go to the Mirrored Google doc: shorturl.at/cdiDF
 
@@ -62,6 +75,9 @@ Aside from mining, there are also options in the market to get RE's from each ti
 ### Where can I find a specific RE / What RE's do I need?
 Each tier has its own RE's. If you're looking to upgrade a T1 weapon, you'll need to find yourself T1 RE's.
 Currently the following RE's are in the game in order of rarity: T1: Sc, Yy (both needed for weapons and utilities) T2: La (Weapons and utilities), Ce (Weapons), Pr (Utilities). T3: Nd (Utilities), Pm (Weapons), Sm (Weapons), Eu (Utilities)
+
+### Where can I find T0 M ores?
+T0M ores are only found in T0 systems, check out the system pages for which systems have asteroid belts.
 
 ### My collectors are dropping off ores to another player / how many resource collectors do I need?
 A players' flagship and resource controllers get a drop off point for resource collectors. When your collectors are mining close to the fleet of another player, they will try to drop off their ores into their drop off point. When collectors do this, the ores they mine will be yours, the reverse can also happen when another players collectors drop off into your drop off point. Rule of thumb is that whatever YOUR collectors mine will be YOURS, THEIR collectors ores will be THEIRS.
@@ -90,9 +106,6 @@ Whilst selecting a scannable mission, you see a preview of the reward you will g
 If the mission shows a coloured cache (depends on what tier mission it is, looks similar to the 'daily' prefixed caches in the market), then that mission will give a Token of gratitude
 On a side-note, if the preview of a mission doesn't show either, just credits, that is called an epic signal mission. Read the farming page for more info on that
 
-### Where can I find the T2 interceptor blueprint?
-The blueprint for the T2 interceptor can be bought for credits in the market at a trading station (all stations have a shared inventory). Scroll down till you see the option for the normal blueprint (non-common / rarity T2 interceptors also work)
-
 ### What is the difference between a T1 and a T2 resource collectors?
 Resource collectors have hidden stats. Higher tier collectors can mine higher tier ores faster. They also have more speed and repair more hull and armour per repair tick
 
@@ -109,7 +122,7 @@ Most content in the game has a chance to drop officers. Scannable missions - tok
 There are also daily / weekly purchasable officers in the market. With the daily on costing credits and weekly ones costing adamant
 For info on what officers do, see the tab 'Officers List & explanation' in this document (starts at E2). Note that officer with active abilites are quite rare, but still drop from the same locations as the other officers
 Officer Cryopods have a chance to give you a higher rarity then the rarity of the item, with chances increasing with a higher rarity pod (So a common pod has a lower chance to drop an epic as to a rare pod).
-After level 420, Cryopod Level Up Rewards are structured so that every 60 levels, the minimum rarity is Rare, and on the 300 level mark, the minimum is Epic.
+Cryopod Level Up Rewards are structured so that every 50 levels, a uncommon crypod drops, at 250 levels, the minimum rarity is Rare, and on the 1250 level mark, the minimum is Epic.
 
 ### Should I level up my officers / can I sell my insignias?
 Yes and no, in the early game leveling up your officers will be way to costly for its benefit. Use the credits for other upgrades like blueprints from the market. Do yourself a favor and DON'T sell your insignias. This will be a bottleneck for late game in which you need thousands upon thousands of them for your crew. More info on this in the 'Officer List & explanation' tab.
@@ -122,58 +135,126 @@ Note that you can't collect RP when you're researching something. RP will still 
 There are 3 different tiers of the various research upgrades. T1 research is unlocked by doing your main story quests, and by lvling up (until level 420, after that no more T1 research drops)
 For T2 and T3 research, you'll need to do missions. Liaisons, scanabales and strikes all have a chance to drop research upgrades for that tier of missions
 
-### What do the different research upgrades do / what is the complete research list?
-Research upgrade will buff your fleet in various ways, down below is the list of all research upgrades currently in the game. With the exception of the pulsar corvette, all research upgrades have a T1, T2 and T3 variant.
-For clarity sake, the different tiers of research stack with each other. So for example, a T1 interceptor will benefit from T1, T2 and T3 research. Units above or below the tier of a research upgrade will still be effected by them.
-- Pulsar corvette T1 blueprint: Unlocks the infinite common blueprint for T1 Pulsar corvettes (this is the only upgrade that unlocks a blueprint, the rest are pure stat upgrades)
-- Beam armor damage: Increases the armor damage on flagship pulsar and ion weapons, pulsar corvettes, Yaot pulsar fighters and the Yaot assault frigate by 5%
-- Beam hull damage: Increases the hull damage on flagship pulsar and ion weapons, pulsar corvettes, Yaot pulsar fighters and the Yaot assault frigate by 5%
-- Beam range: Increases the weapon range on flagship pulsar and ion weapons by 5%
-- Collector armor: Increases the armor of resource collectors by 5%
-- Collector engines: Increases the total speed and acceleration of resource collectors by 5%
-- Collector hull: Increases the hull of resource collectors by 5%
-- Corvette engines: Increases the total speed and acceleration of corvette class units by 5%
-- Corvette hull: Increases the hull of corvette class units by 5%
-- Energy armor damage: Increases the armor damage on energy weapons (right now only the plasma bombers have access to energy weapons) by 5%
-- Energy hull damage: Increases the hull damage on energy weapons (right now only the plasma bombers have access to energy weapons) by 5%
-- Energy range: Increases the range on energy weapons (currently no effect in game) by 5%
-- Fabrication speed: Decreases the total time needed for fabricating orders by 5%
-- Fighter engines: Increases the total speed and acceleration of interceptor and bomber class units by 5%
-- Fighter hull: Increases the hull of interceptor and bomber class units by 5%
-- Flagship armor: Increases the armor of your flagship by 5%
-- Flagship engines: Increases the total speed and acceleration of your flagship by 5%
-- Flagship hull: Increases the hull of your flagship by 5%
-- Frigate armor: Increases the armor of your frigate class units by 5%
-- Frigate engines: Increases the total speed and acceleration of your frigate class units by 5%
-- Frigate hull: Increases the hull of your frigate class units by 5%
-- Kinetic armor damage: Increases the armor damage on your flagship kinetic weapons and destroyer damage by 5%
-- Kinetic hull damage: Increases the hull damage on your flagship kinetic weapons and destroyer damage by 5%
-- Kinetic range: Increases the range on your flagship kinetic weapons by 5%
-- Mining yield: Increases the yield of all ore types of the tier from that research upgrade by 10% (so a T2 upgrade gives additional yield for T2 ores)
-- Missile armor damage: Increases the armor damage on your flagship missile weapons and the Tanoch missile corvette by 5%
-- Missile hull damage: Increases the hull damage on your flagship missile weapons and the Tanoch missile corvette by 5%
-- Missile range: Increases the range on your flagship missile weapons by 5%
-- Rare earth chance: Increases the change for your collectors to harvest rare earth resources by 15% (per tier, stackable)
-- Refining speed: Decreases the total time needed for refining orders by 5%
-- Refining efficiency: Decreases the total amount of ores needed to start a refining order (so instead of the base 200 ores for 100 refined metals, it goes down by 5% per upgrade)
-- Research capacity: Increases the total cap on the generated research points capacity by 5%
-- Torpedo armor damage: Increases the armor damage for torpedo based units (torpedo frigate and the T2 / T3 Hiigaran destroyer) by 5%
-- Torpedo hull damage: Increases the hull damage for torpedo based units (torpedo frigate and the T2 / T3 Hiigaran destroyer) by 5%
-- Torpedo range: Increases the range for torpedo based weapons (currently no effect in game) by 5%
-
-In total there are 103 research upgrades. 102 of those are stat based upgrades (34 categories and 3 tiers per category) and the last one is the T1 Pulsar corvette common blueprint unlock
+### What do the different research upgrades do / what is the complete research list?	
+Research is based on a research tree, with a main middle path, and branches to the top and bottom. The middle path unlocks basic gear and stat upgrades, whilst the top mostly has unlocks for more uncommon types of gear	
+and the bottom path has mostly stat upgrades for different gear buffs. Aside from upgrades in the middle path, you will need to find certain Schematics to unlock upgrade from the top and bottom paths	
+Hyperspace- middle	
+- Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines)
+-	Hyperspace jump limit T2 (Increases the cap on hyperjump strength stat for engines)
+-	Hyperspace jump limit T3 (Increases the cap on hyperjump strength stat for engines)
+	
+Mining- middle	
+-	Resource Collector T2 (unlocks T2 collector
+-	Mining yield: ore A (increases T2A yield)
+-	Mining yield: ore B (increases T2B yield)
+-	Mining yield: ore C (increases T2C yield)
+-	Resource Collector T3 (unlocks T3 collector
+-	Mining yield: ore A (increases T3A yield)
+-	Mining yield: ore B (increases T3B yield)
+-	Mining yield: ore C (increases T3C yield)
+	
+Mining- top	
+-	Resource controller schematics (Unlocks T2 resource controllers)
+-	Remote Mining yield: ore A (increases total yield of A type ores in remote mining sessions)
+-	Resource controller schematics (Unlocks T3 resource controllers)
+-	Remote Mining yield: ore A (increases total yield of B type ores in remote mining sessions)
+	
+Mining- Bottom	
+-	Mining speed: Ore M (Increases T0M yield)
+-	Mining speed: Ore A (Increases T1A yield)
+-	Resource collector hull (Increases collector hull)
+-	Resource controller hull (Increases controller hull)
+-	Mining speed: Ore B (Increases T1B yield)
+	
+Strike craft- middle	
+-	Interceptor schematics (unlocks T2 interceptors)
+-	Strike craft speed (increases speed, acceleration and deceleration of T2 strike craft)
+-	Strike craft hull (Increases hull of T2 strike craft)
+-	Strike craft hull damage (Increases hull damage of T2 strike craft)
+-	Strike craft armor damage (Increases armor damage of T2 strike craft)
+-	Interceptor schematics (unlocks T3 interceptors)
+-	Strike craft speed (increases speed, acceleration and deceleration of T3 strike craft)
+-	Strike craft hull (Increases hull of T3 strike craft)
+-	Strike craft hull damage (Increases hull damage of T3 strike craft)
+-	Strike craft armor damage (Increases armor damage of T3 strike craft)
+	
+Strike craft- top	
+-	Plasma bomber schematics (Unlocks T2 plasma bombers)
+-	Assault corvette schematics (Unlocks T2 assault corvettes)
+-	Pulsar corvette schematics (Unlocks T2 pulsar corvettes)
+-	Plasma bomber schematics (Unlocks T3 plasma bombers)
+-	Assault corvette schematics (Unlocks T3 assault corvettes)
+-	Pulsar corvette schematics (Unlocks T3 pulsar corvettes)
+	
+Strike craft- bottom	
+-	Interceptor evasion (increases the change to dodge and agility of all interceptors)
+-	Interceptor speed (increases speed, acceleration and deceleration of all interceptors)
+-	plasma bombers evasion (increases the change to dodge and agility of all plasma bombers)
+-	plasma bombers speed (increases speed, acceleration and deceleration of all plasma bombers)
+	
+Escort- middle	
+-	Assault frigate schematics (Unlocks T2 assault frigates)
+-	Escort ship hull (Increases the hull of T2 escorts)
+-	Escort ship hull damage (Increases the hull damage of T2 escorts)
+-	Escort ship armor (Increases the armor of T2 escorts)
+-	Escort ship armor damage (Increases the armor damage of T2 escorts)
+-	Assault frigate schematics (Unlocks T3 assault frigates)
+-	Escort ship hull (Increases the hull of T3 escorts)
+-	Escort ship hull damage (Increases the hull damage of T3 escorts)
+-	Escort ship armor (Increases the armor of T3 escorts)
+-	Escort ship armor damage (Increases the armor damage of T3 escorts)
+	
+Escorts- top	
+-	Torpedo frigate schematics (Unlocks T2 torpedo frigates)
+-	Destroyer schematics (Unlocks T2 destroyers)
+-	Torpedo frigate schematics (Unlocks T3 torpedo frigates)
+-	Ion cannon frigate schematics (unlocks T3 ion cannon)
+-	Destroyer schematics (Unlocks T3 destroyers)
+	
+Escorts- bottom	
+-	Scouting frigate vision (increases the scouting frigate sensor range)
+-	Explorer hull (increases the hull of explorer class flagships)
+-	Assault frigate hull damage (increases the hull damage of all assault frigates)
+-	Carrier hull (Increases the hull of carrier class flagships)
+-	Ion cannon targeting range (increases the targeting range of ion frigates)
+-	Battlecruiser hull (increases the hull of battlecruiser class flagships)
+	
+Weapons- middle	
+-	Capital mass driver schematics (Unlocks T2 Kinetic weapons)
+-	Kinetic turret rate of fire (Increases the rate of fire of T2 kinetics)
+-	Missile turret rate of fire (Increases the rate of fire of T2 missiles)
+-	Beam turret rate of fire (Increases the rate of fire of T2 ions)
+-	Capital mass driver schematics (Unlocks T3 Kinetic weapons)
+-	Kinetic turret rate of fire (Increases the rate of fire of T3 kinetics)
+-	Missile turret rate of fire (Increases the rate of fire of T3 missiles)
+-	Beam turret rate of fire (Increases the rate of fire of T3 ions and pulsars)
+	
+Weapons- top	
+-	Missile launcher schematics (Unlocks T2 missile weapons
+-	Ion cannon schematics (Unlocks T2 ion weapons
+-	Missile launcher schematics (Unlocks T3 missile weapons
+-	Ion cannon schematics (Unlocks T3 ion weapons
+	
+Weapons- bottom	
+-	Kinetic turret hull damage (increases the hull damage for kinetic weapons)
+-	Missile turret armor damage (increases the armor damage for missile weapons)
+-	Beam turret hull damage (Increases the hull damage of ions and pulsar weapons)
+-	Kinetic turret armor damage (increases the armor damage for kinetic weapons)
 
 ## Strikes & Destroyers
 ### How do I find strikes / join strikes?
-The most stable way to do strikes in a group, is using the lobby system. Clicking on your current objective, or going into your internal view -> bridge -> 3rd button on the left will show you the assignment log
+The most stable way to do strikes in a group, is using the lobby system. Clicking on your current objective, or going into your internal view -> assignments-> red button / bottem button
 Now in the strike tab, you can see several strike. When clicking on one you see a join button. When pressing that, you open a lobby or join an existing one.
 Depending on how many people are active, just sitting in a lobby will most likely not help to find yourself new people, so global chat or the #strike-lobby channel on discord is the way to go
-In global chat, you'll see players posting things like 'SDT2 open' or 'PRT3 up'. These are acronyms for what strikes people are doing for what tier
-PH = Pirate hideout, SD = Station defense and PR = Pahra's rock
+In global chat, you'll see players posting things like 'SDT2 open' or 'PHT2 up'. These are acronyms for what strikes people are doing for what tier
+PH = Pirate hideout, SD = Station defense
 
 ### I'm not seeing certain strike, missing strikes?
 Some strikes are locked behind the main story quests. If you're missing certain strikes that other players do have, progress through the main quest line.
-In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pahra's rock (T2), Pirate hideout Heroic (T2), Station defense Heroic (T3) and Pahra's rock Heroic (T3)
+In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pirate hideout Heroic (T2) and Station defense Heroic (T3)
+
+### Where is Pahra's rock? Is it gone?
+Pahra's rock (PR) has been disabled for now, there seems to be some issues with the current game version. It will most likely be enabled in a later patch (as of 2.63
 
 ### I've built a destroyer, but can't find it anywhere
 Destroyers take up 2 escort slots for fielding one. So if you are either running a T1 flagship, or already have an escort equipped in a T2/3 flagship, you don't see it in your escort roster
