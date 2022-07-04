@@ -50,6 +50,7 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 Frigates are an escort class unit that costs one escort slot. Although they have less health than a flagship or destroyer, they supplement a good amount of additional damage for your fleet. Two frigate will out damage a destroyer of the same tier and rarity.
 
 There are various frigate types:
+- Scouting: Frigates with a large sensor and targeting range, not meant for combat
 - Assault: Anti strike craft frigate that deals mostly hull damage
 - Torpedo: A hard hitting close range frigate that does great hull and armour damage
 - Ion: A long range frigate that does a lot of armour damage
