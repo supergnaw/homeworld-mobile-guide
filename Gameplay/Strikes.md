@@ -16,7 +16,7 @@ After the base and turrets are gone. The 'boss' wave will spawn, this consists o
 
 Lastly there is a purple line to goes to a spot near the frigate spawn point. This is a perfect location for farming xp and T1 insignia's. This spot will allow you to immediately attack the spawning frigate, and stay well outside the range of the turrets. The interceptors and corvettes will try to attack you on this spot but that only allows you to get more xp and salvage. This method is great for power leveling, in which you get a ton of lvl-up rewards including credits and adamant premium currency.
 
-### Recommendations and gear
+### OUTDATED Recommendations and gear
 
 Pirate hideout can be completed by a single player in slightly upgraded T1 gear. A T1 explorer, assault frigate, a handful of corvettes (and collectors for repairs in your inventory) and some lvl 4 T1 weapons should be enough to solo this strike. If you sustain too much damage, pull back outside the range of the spawn points or patrols, and conduct repairs. Within a group, two new players with T1 explorers and their weapon slots filled out, should be enough with the above described tactics
 
@@ -37,7 +37,7 @@ As you might have noticed from the lack of changes in the images, the tactics ar
 
 PHT2 can technically be farmed, but you will need a high-end T3 loadout to make it worthwhile. If you're looking for a xp farm, PHT1 will be your preferred strike.
 
-### Recommendations and gear
+### OUTDATED Recommendations and gear
 
 If this is your first T2 strike, you might want to scroll down towards the Station Defense T2 down below because this one is quite a bit harder. Unless you're getting carried, you want to have a low level T2 loadout, or a T1 flagship with at least T2 weapons, escorts and strike craft. You'll need quite a lot of anti-strike craft capability to survive this strike, so upgrade your squads to T2 and perhaps even uncommon or rare's. Other than that basic T2 escorts are preferred. If the turrets focus target on a T1 escort, it will be quickly taken down. For solo clearing you want to be in at least a T2 flagship with mid to high lvl T2 weapons, anything less will result into losses or plainly a waste of time.
 
@@ -60,7 +60,7 @@ Depending on the amount of players in the group, your best tactic is to split up
 
 After the beacons are destroyed, the boss wave (Marked with B) will spawn a distance away from the station. This fleet consist of multiple frigates and commandships. If they reach the station unopposed, they will quickly destroy it. After the last beacon is destroyed, it's advised to move directly to the 'north' of the station to engage this fleet. Once again target down the frigates first to remove the dps from the hostile fleet and save the commandships until all frigates are destroyed. There is very little time for repairs unless you leave a single beacon open, and move well outside the enemies that will spawn and attack the station for repairs. If you manage to beat the boss wave, the strike will be completed and you'll be some T2 loot richer.
 
-### Recommendations and gear
+### OUTDATED Recommendations and gear
 
 Since station defense is a T2 strike, you'll notice a difficulty spike compared to the T1 pirate hideout strike. Still, this strike is the easiest of the three T2 strikes available. A high-end T1 or a mixed T1 and T2 loadout will be good enough to compete with the enemies here. To solo it however, requires you to have enough dps to destroy all four beacons without the enemies destroying the station in the mean time. A full T2 loadout with around lvl 4 or 5 lvls to them is recommended for soloing SDT2.
 
@@ -81,7 +81,7 @@ Welcome to the strike that you'll grind for most of your T3 gear. As you might h
 
 Similar tactic as to station defense tier 2, but this time you'll need focus down beacon 1 and 4 if you're with few members or with low gear loadouts. If you don't tackle at least one of these spawns, they will burn down the station rather fast. If you're in a group and your gear isn't on point, you only have one goal to really keep in mind: Focus down your beacon. Most of the time a high-end player will join the strike, they will most likely destroy a beacon or two before getting into position for the boss wave. Your one and only task in this strike is taking down your assigned beacon. Enemies can be ignored since they are not needed for the strike objectives. If your beacon is destroyed, move in towards the boss wave to assist and do some damage to help your group mates out. Make sure your escort units and strike craft are either moved away from enemies or docked when they are targeted by too many enemies.
 
-### Recommendations and gear
+### OUTDATED Recommendations and gear
 
 Since your main task is to destroy the beacon (in an acceptable time), you'll need to be strong enough to do just that. This can be done when you're not that geared if you're getting carried by another player. But if you wan't to really contribute to the group and take the fight to the boss wave, I advise you to get at least a high-end T2 loadout. T2 weapons around lvl 6/7 with same rarity units to your side. Since this is a very active strike this is not a necessity but your partners will appreciate it for the extra firepower on the boss wave. For soloing this strike however you'll need a high-end T3 loadout, since the amount of frigates and command ships take a lot of damage, and deal a ton of it themselves. As a added note, the beacons themselves have quite a lot of armour, so the use of bombers or ion weaponry is suggested.
 
@@ -90,7 +90,7 @@ Since your main task is to destroy the beacon (in an acceptable time), you'll ne
 Solo clearing SDT3 is similar to its T2 variant, a race against the clock aka the stations' health. But since we're dealing with command ships spawning at beacons 1 and 4, you'll need to prioritize those two first. On spawning into the strike, move to beacon 4, destroy it and the enemies that have spawned. Then go straight through the middle to beacon 1, destroy the spawns and beacon. After this go to 3 followed by 2. This way both command ships spawns are dealt with, leaving only the softer frigates for your fleet. You can still leave a T3 destroyer at the station to help defend it and stall for extra time. The boss wave is buffed up compared to T2, so you'll need to play it smart. You can try to lure off a few ships from the outsides off the enemy formation, but you don't have much time before the bulk of the forces make their way to the station. This is very much a brawl so a tanky unit like a destroyer and battlecruiser can really help you stand toe to toe with the boss. Keep in mind that these are all epic enemies, so don't underestimate them.
 
 
-## Pahra's rock (PRT2)
+## DISABLED Pahra's rock (PRT2)
 
 ### Objectives and spawns
 
@@ -125,7 +125,7 @@ As you can see from the text above, this strike requires a bit of effort to comp
 To solo PRT2 is to have patience and fast reaction. You want to dock your squads as fast as you can when they take damage, micro your flagship and escorts to target down frigates as soon as you can. When you take critical damage, move away from the base the same direction you came in and destroy any following enemies. After those are dealt with, you have all the time in the world to repair up your fleet en re-engage the enemy. Do this multiple times if needed, if you want to clear all turrets and destroy the reinforcing fleets is up to your build. If you can tank the damage whilst burning down the base, just keep focusing it down. If not, destroy more turrets and frigates to make yourself some breathing room. Repeat till the base is down.
 
 
-## Pahra's rock Heroic (PRT3)
+## DISABLED Pahra's rock Heroic (PRT3)
 
 ### Objectives and spawns
 
