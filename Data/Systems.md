@@ -4,11 +4,13 @@ Homeworld mobile is set around a bunch of systems, that are owned by various fac
 
 - With the removal of nav points, and the addition of the outpost and safe haven stations, every Iyatequa, Tanoch and Yaot system have liaisons. But only trade stations have access to a shipyard and liaison requisitions.
 
-## Hiigaran systems
+## Hiigaran faction
 
 The Hiigaran faction, marked with blue, staked their claim on the south west of the known galactic map. They are the only faction with access to T0 systems, which is the only location that has T0M ores. All systems except their 'capital' system of Lazarus have asteroid belts. But only Lazarus has a trade station with access to a shipyard. The Hiigaran faction currently does not have liaison missions.
 
 - T0 systems are the only systems with T0M ores, these do not need to be refined for use
+
+### Hiigaran systems
 
 |System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
 |-----------|--------|----|-------------|--------------|-------------------------|
@@ -24,11 +26,13 @@ The Hiigaran faction, marked with blue, staked their claim on the south west of 
 |Jonalli    |Hiigaran|0   |no           |yes           |19                       |
 
 
-## Iyatequa systems
+## Iyatequa faction
 
 The Iyatequa faction, marked with brown, are mainly traders in the center of the Nimbus universe. They seem to have a close relation with the Hiigaran's, as can be seen with Hiigaran units protecting their stations and interest. All there systems have liaison missions, and their belts seems to be the main target of Cangacian pirates.
 
 - All systems of the Iyatequa have liaison offices
+
+### Iyatequa systems
 
 |System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
 |-----------|--------|----|-------------|--------------|-------------------------|
@@ -53,11 +57,13 @@ The Iyatequa faction, marked with brown, are mainly traders in the center of the
 |Briuun     |Iyatequa|3   |yes          |yes           |210                      |
 |Edowana    |Iyatequa|1   |yes          |yes           |50                       |
 
-## Tanoch systems
+## Tanoch faction
 
 The Tanoch, marked with yellow, are an imperial faction that seems to be in a conflict with the Yaot. They are located on the north east of the known map. Their liaisons are mostly based to counter the Cangacian pirates and Yaot invaders of their turf. As with the Iyatequa, all their systems have a liaison office.
 
 - All systems of the Tanoch have liaison offices
+
+### Tanoch systems
 
 |System Name|Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
 |-----------|-------|----|-------------|--------------|-------------------------|
@@ -114,6 +120,8 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 
 - All systems of the Yaot have liaison offices
 
+### Yaot systems
+
 |System Name |Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
 |------------|-------|----|-------------|--------------|-------------------------|
 |Saami Ra    |Yaot   |3   |yes          |no            |110                      |
@@ -149,9 +157,11 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 |Tenjaca     |Yaot   |3   |no           |yes           |212                      |
 
 
-## Cangacian
+## Cangacian faction
 
 The Cangacian factions, marked in red, made their wretched hives of scum and villainy in the north west of the known map. They have special outpost called 'safe haven' that gives you a nice little flavor text when you enter the system. As you could expect, outside of the safe haven, cangacians seem to attack you quite a lot in their space. They currently have no liaison offices.
+
+### Cangacian systems
 
 |System Name|Faction  |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
 |-----------|---------|----|-------------|--------------|-------------------------|
