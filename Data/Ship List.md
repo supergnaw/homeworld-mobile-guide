@@ -5,9 +5,9 @@
 The flagship is you main unit, or character in the game. A flagship (or flag for short) can be equipped with various weapons and better sensor arrays (see the modules page) and it has multiple officer slots for its various compartments (see more on the officers page). The flag is the only ship in the game that cannot be permanently destroyed. When its hull reaches zero, it will be disabled and the player will get a prompt to jump back to a trading station for repairs. This means that you can use your flagship as a de facto tank to protect your weaker units
 
 Flagships have three main 'classes':
-- Explorers: Fast ships that have a mix between decent armour and hull. They get additional fabrication slots per tier upgrade
-- Carriers: Ship that deploys a lot of units. Low armour but a lot of hull. They get additional refinery slots per tier upgrade
-- Battlecruisers: Ship that has access to large weapon slots. Lots of armour but low hull
+- Explorers: Fast ships that have a mix between decent armour and hull. They get additional fabrication slots per tier upgrade. They have a internal module capacity of 220 front, 220 middle and 170 back
+- Carriers: Ship that deploys a lot of units. Low armour but a lot of hull. They get additional refinery slots per tier upgrade. They have a internal module capacity of 170 front, 270 middle and 170 back
+- Battlecruisers: Ship that has access to large weapon slots. Lots of armour but low hull, They have a internal module capacity of 170 front, 220 middle and 220 back
 
 Aside from the normal variants, there are also two rare flagships, the Mohaava and the Tiirshak rare explorer class flagships
 - Mohaava: dedicated repair ships with three fixed repair modules that can't be replaced
@@ -15,34 +15,34 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 
 ### Flagships Blueprints
 
-|Unit name                |Ship Type    |Location Found                        |Notes                                                                                                                                                                         |
-|--------------------|-------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Expedition          |Expedition   |Starter ship                          |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 4 squads 1 escort                                                                                                          |
-|Carrier I           |Carrier      |Market / Liaisons (T1)                |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                                                                |
-|Carrier II          |Carrier      |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts<br>Special: Has 2x refinery slots                                                             |
-|Carrier III         |Carrier      |Liaisons (T3)                         |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 10 squads 3 escorts<br>Special: Has 3x refinery slots                                                            |
-|Explorer I          |Explorer     |Market / scannables (Spoils of battle)|Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                                                                |
-|Explorer II         |Explorer     |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts<br>Special: Has 2x fabrication slots                                                          |
-|Explorer II Mohaava |Explorer     |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x fabrication slots<br>Special 2: Has 2x small 1x medium fixed repair turrets|
-|Explorer II Tiirshak|Explorer     |Liaisons (T2), market (adamanat)      |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special: Has 2x fabrication slots<br>Special 2: Has special fixes sensor array             |
-|Explorer III        |Explorer     |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts<br>Special: Has 3x fabrication slots                                                          |
-|Battlecruiser II    |Battlecruiser|Strikes (T2)                          |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                                                      |
-|Battlecruiser III   |Battlecruiser|Strikes (T3)                          |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                                                      |
+|Unit name           |Location Found                        |Notes                                                                                                                                                                         |
+|--------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Expedition          |Starter ship                          |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 4 squads 1 escort                                                                                                          |
+|Carrier I           |Market / Liaisons (T1)                |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                                                                |
+|Carrier II          |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts<br>Special: Has 2x refinery slots                                                             |
+|Carrier III         |Liaisons (T3)                         |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 10 squads 3 escorts<br>Special: Has 3x refinery slots                                                            |
+|Explorer I          |Market / scannables (Spoils of battle)|Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                                                                |
+|Explorer II         |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts<br>Special: Has 2x fabrication slots                                                          |
+|Explorer II Mohaava |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x fabrication slots<br>Special 2: Has 2x small 1x medium fixed repair turrets|
+|Explorer II Tiirshak|Liaisons (T2), market (adamanat)      |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special: Has 2x fabrication slots<br>Special 2: Has special fixes sensor array             |
+|Explorer III        |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts<br>Special: Has 3x fabrication slots                                                          |
+|Battlecruiser II    |Strikes (T2)                          |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                                                      |
+|Battlecruiser III   |Strikes (T3)                          |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                                                      |
 
 ### Flagships Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
-|Carrier I               |RU A I              |4725|RU B I                |1350|RU C I                   |675 |
-|Carrier II              |Large Hull Parts II |7087|Large Weapon Parts II |2025|Large Machinery Parts II |1012|
-|Carrier III             |Large Hull Parts III|4725|Large Weapon Parts III|1350|Large Machinery Parts III|675 |
-|Explorer I              |RU A I              |4725|RU B I                |1350|RU C I                   |675 |
-|Explorer II             |Large Hull Parts II |5670|Large Weapon Parts II |1620|Large Machinery Parts II |810 |
-|Explorer II Mohaava     |Large Hull Parts II |6138|Large Weapon Parts II |1980|Large Machinery Parts II |792 |
-|Explorer II Tiirshak    |Large Hull Parts II |6138|Large Weapon Parts II |1683|Large Machinery Parts II |1089|
-|Explorer III            |Large Hull Parts III|3780|Large Weapon Parts III|1080|Large Machinery Parts III|540 |
-|Battlecruiser II        |Large Hull Parts II |8505|Large Weapon Parts II |2430|Large Machinery Parts II |1215|
-|Battlecruiser III       |Large Hull Parts III|5670|Large Weapon Parts III|1620|Large Machinery Parts III|810 |
+|Carrier I           |RU A I              |4725|RU B I                |1350|RU C I                   |675 |
+|Carrier II          |Large Hull Parts II |7087|Large Weapon Parts II |2025|Large Machinery Parts II |1012|
+|Carrier III         |Large Hull Parts III|4725|Large Weapon Parts III|1350|Large Machinery Parts III|675 |
+|Explorer I          |RU A I              |4725|RU B I                |1350|RU C I                   |675 |
+|Explorer II         |Large Hull Parts II |5670|Large Weapon Parts II |1620|Large Machinery Parts II |810 |
+|Explorer II Mohaava |Large Hull Parts II |6138|Large Weapon Parts II |1980|Large Machinery Parts II |792 |
+|Explorer II Tiirshak|Large Hull Parts II |6138|Large Weapon Parts II |1683|Large Machinery Parts II |1089|
+|Explorer III        |Large Hull Parts III|3780|Large Weapon Parts III|1080|Large Machinery Parts III|540 |
+|Battlecruiser II    |Large Hull Parts II |8505|Large Weapon Parts II |2430|Large Machinery Parts II |1215|
+|Battlecruiser III   |Large Hull Parts III|5670|Large Weapon Parts III|1620|Large Machinery Parts III|810 |
 
 
 ## Escorts - Frigate
@@ -56,35 +56,42 @@ There are various frigate types:
 
 ### Frigate Blueprints
 
-|Unit name                       |Location Found                                             |Notes                                                       |
-|---------------------------|-----------------------------------------------------------|------------------------------------------------------------|
-|Assault Frigate I          |Main questline                                             |                                                            |
-|Assault Frigate II         |Main questline                                             |                                                            |
-|Assault Frigate III        |Market                                                     |                                                            |
-|Uncommon Assault Frigate I |Strikes                                                    |                                                            |
-|Uncommon Assault Frigate II|Strikes                                                    |                                                            |
-|Rare Assault Frigate III   |Strikes (T3) Liaisons (T3)                                 |                                                            |
-|Light Torpedo Frigate I    |Received from the start of the game, no drops              |Benefits from torpedo research upgrade, not missiles        |
-|Torpedo Frigate II         |Liaisons (T2)                                              |Benefits from torpedo research upgrade, not missiles        |
-|Torpedo Frigate III        |Liaisons (T3)                                              |Benefits from torpedo research upgrade, not missiles        |
-|Epic Torpedo Frigate III   |Strike (T3) scannables: Spoils of battle (T3) Liaisons (T3)|Benefits from torpedo research upgrade, not missiles        |
-|Ion Frigate II             |Bugged / assume its from strike T2                         |Unit itself is in the game, but the blueprint drop is bugged|
-|Ion Frigate III            |Strikes (T3)                                               |Benefits from beam research upgrades                        |
-|Yaot assault frigate       |Yaot liaison requisitions - reputation 6                   |Benefits from beam research upgrades                        |
+|Unit name                  |Location Found                                             |
+|---------------------------|-----------------------------------------------------------|
+|Scouting Frigate 0         |New starter ship                                           |
+|Scouting Frigate 1         |                                                           |
+|Assault Frigate 0          |                                                           |
+|Assault Frigate I          |Main questline                                             |
+|Assault Frigate II         |Research                                                   |
+|Assault Frigate III        |Research                                                   |
+|Uncommon Assault Frigate I |Strikes                                                    |
+|Uncommon Assault Frigate II|Strikes                                                    |
+|Rare Assault Frigate III   |Strikes (T3) Liaisons (T3)                                 |
+|Light Torpedo Frigate I    |Old starter ship, unobtainable                             |
+|Torpedo Frigate II         |Research                                                   |
+|Torpedo Frigate III        |Research                                                   |
+|Epic Torpedo Frigate III   |Strike (T3) scannables: Spoils of battle (T3) Liaisons (T3)|
+|Ion Frigate II             |Bugged / assume its from strike T2                         |
+|Ion Frigate III            |Research                                                   |
+|Yaot assault frigate       |Yaot liaison requisitions - reputation 6                   |
 
 ### Frigate Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
-|Assault Frigate I          |RU A I              |787 |RU B I                |225|RU C I                     |112|
+|Scouting frigate I         |RU A I              |472 |RU B I                |135|RU M 0                     |270|
+|Assault Frigate 0          |RU M 0              |1125|                      |   |                           |   |
+|Assault Frigate I          |RU A I              |787 |RU B I                |225|RU M 0                     |450|
 |Assault Frigate II         |Large Hull Parts II |945 |RU B II               |450|RU C II                    |225|
 |Assault Frigate III        |Large Hull Parts III|630 |Large Weapon Parts III|180|RU C III                   |360|
-|Uncommon Assault Frigate I |RU A I              |1181|RU B I                |337|RU C I                     |168|
+|Uncommon Assault Frigate I |RU A I              |1181|RU B I                |337|RU M 0                     |675|
 |Uncommon Assault Frigate II|Large Hull Parts III|1228|RU B II               |585|RU D II                    |219|
 |Rare Assault Frigate III   |Large Hull Parts III|945 |Large Weapon Parts III|270|Large Electronics Parts III|135|
+|Light Torpedo Frigate I    |                    |    |                      |   |                           |   |
 |Torpedo Frigate II         |Large Hull Parts II |1134|RU B II               |540|RU C II                    |270|
 |Torpedo Frigate III        |Large Hull Parts III|756 |Large Weapon Parts III|216|RU C III                   |432|
 |Epic Torpedo Frigate III   |Large Hull Parts III|1323|Large Weapon Parts III|378|Large Electronics Parts III|189|
+|Ion Frigate II             |                    |    |                      |   |                           |   |
 |Ion Frigate III            |Large Hull Parts III|882 |Large Weapon Parts III|252|RU C III                   |504|
 |Yaot Aassault Frigate III  |Large Hull Parts III|543 |Large Weapon Parts III|155|RU D III                   |221|
 
@@ -96,11 +103,11 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 ### Destroyers Blueprints
 
-|Unit name                  |Location Found                              |
+|Unit name             |Location Found                              |
 |----------------------|--------------------------------------------|
 |Destroyer I           |Strikes (T1)                                |
-|Destroyer II          |Strikes (T2)                                |
-|Destroyer III         |Strikes (T3)                                |
+|Destroyer II          |Research                                    |
+|Destroyer III         |Research                                    |
 |Uncommon Destroyer II |Strikes (T2)                                |
 |Uncommon Destroyer III|strikes (T3)                                |
 |Rare Destroyer III    |strikes (T3) (drops more frequently on PRT3)|
@@ -110,13 +117,13 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
-|Destroyer I           |RU A I              |2362|RU B I                |675|RU C I                     |337|
-|Destroyer II          |Large Hull Parts II |2362|Large Weapon Parts II |675|Large Machinery Parts II   |337|
-|Destroyer III         |Large Hull Parts III|1732|Large Weapon Parts III|495|Large Machinery Parts III  |247|
-|Uncommon Destroyer II |Large Hull Parts II |2835|Large Weapon Parts II |810|RU D II                    |506|
-|Uncommon Destroyer III|Large Hull Parts III|2047|Large Weapon Parts III|585|Large Electronics Parts III|292|
-|Rare Destroyer III    |Large Hull Parts III|2677|Large Weapon Parts III|765|Large Electronics Parts III|382|
-|Tanoch Destroyer III  |Large Hull Parts III|1386|Large Weapon Parts III|396|Large Electronics Parts III|198|
+|Destroyer I           |RU A I              |2362|RU B I                |675|RU M 0                     |1350|
+|Destroyer II          |Large Hull Parts II |2362|Large Weapon Parts II |675|Large Machinery Parts II   |337 |
+|Destroyer III         |Large Hull Parts III|1732|Large Weapon Parts III|495|Large Machinery Parts III  |247 |
+|Uncommon Destroyer II |Large Hull Parts II |2835|Large Weapon Parts II |810|RU D II                    |506 |
+|Uncommon Destroyer III|Large Hull Parts III|2047|Large Weapon Parts III|585|Large Electronics Parts III|292 |
+|Rare Destroyer III    |Large Hull Parts III|2677|Large Weapon Parts III|765|Large Electronics Parts III|382 |
+|Tanoch Destroyer III  |Large Hull Parts III|1386|Large Weapon Parts III|396|Large Electronics Parts III|198 |
 
 
 ## Escort - Resource controller
@@ -125,24 +132,23 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 
 ### Resource controller Blueprints
 
-|Unit name                        |Location Found                              |Notes                                               |
-|----------------------------|--------------------------------------------|----------------------------------------------------|
-|Resource Controller I       |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours).|
-|Resource Controller II      |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours).|
-|Resource Controller III     |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours).|
-|Gilded short-term controller II |Iyatequa liaison requisitions - reputation 3|Has the ability to remote mine / afk mine (2 hours).|
-|Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5|Has the ability to remote mine / afk mine (8 hours).|
+|Unit name                      |Location Found                              |Notes                                                                                                                    |
+|-------------------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|Resource Controller I          |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Resource Controller II         |Research                                    |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Resource Controller III        |Research                                    |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Gilded short-term controller II|Iyatequa liaison requisitions - reputation 3|Has the ability to remote mine / afk mine (2 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5|Has the ability to remote mine / afk mine (8 hours). Has a drop-off point for resource collectors and can mine themselves|
 
 ### Resource controller Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
-|Resource Controller I          |RU A I              |787 |RU B I  |225|RU C I                   |112|
+|Resource Controller I          |RU A I              |787 |RU B I  |225|RU M 0                   |450|
 |Resource Controller II         |Large Hull Parts II |945 |RU B II |450|RU C II                  |225|
 |Resource Controller III        |Large Hull Parts III|630 |RU B III|360|Large Machinery Parts III|180|
-|Gilded Short-Term Controller II |Large Hull Parts II |1228|RU D II |438|RU C II                  |292|
+|Gilded Short-Term Controller II|Large Hull Parts II |1228|RU D II |438|RU C II                  |292|
 |Gilded Long-Term Controller II |Large Hull Parts II |1228|RU D II |438|RU C II                  |292|
-
 
 ## Squads - Interceptors and bombers
 
@@ -151,51 +157,55 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 
 ### Interceptors and bombers Blueprints
 
-|Unit name                        |Ship Type  |Location Found                          |Notes                                 |
-|----------------------------|-----------|----------------------------------------|--------------------------------------|
-|Interceptor I               |Interceptor|Market                                  |                                      |
-|Interceptor II              |Interceptor|Market                                  |                                      |
-|Interceptor III             |Interceptor|Market                                  |                                      |
-|Uncommon Interceptor I      |Interceptor|Market                                  |                                      |
-|Uncommon Interceptor II     |Interceptor|                                        |                                      |
-|Uncommon Interceptor III    |Interceptor|                                        |                                      |
-|Rare Interceptor II         |Interceptor|                                        |                                      |
-|Rare Interceptor III        |Interceptor|Strikes                                 |                                      |
-|Epic Interceptor III        |Interceptor|                                        |                                      |
-|Yaot pulsar fighter squadron|Interceptor|Yaot liaison requisitions - reputation 2|Benefits from beam research upgrades  |
-|Plasma Bomber I             |Bomber     |                                        |Benefits from energy research upgrades|
-|Plasma Bomber II            |Bomber     |                                        |Benefits from energy research upgrades|
-|Plasma Bomber III           |Bomber     |                                        |Benefits from energy research upgrades|
-|Uncommon Plasma Bomber I    |Bomber     |                                        |Benefits from energy research upgrades|
-|Uncommon Plasma Bomber II   |Bomber     |                                        |Benefits from energy research upgrades|
-|Uncommon Plasma Bomber III  |Bomber     |                                        |Benefits from energy research upgrades|
-|Rare Plasma Bomber II       |Bomber     |Strikes                                 |Benefits from energy research upgrades|
-|Rare Plasma Bomber III      |Bomber     |Strikes                                 |Benefits from energy research upgrades|
-|Epic Plasma Bomber III      |Bomber     |Strikes                                 |Benefits from energy research upgrades|
+|Unit name                   |Location Found                          |
+|----------------------------|----------------------------------------|
+|Interceptor 0               |                                        |
+|Interceptor I               |Market                                  |
+|Interceptor II              |Research                                |
+|Interceptor III             |Research                                |
+|Uncommon Interceptor I      |Market                                  |
+|Uncommon Interceptor II     |                                        |
+|Uncommon Interceptor III    |                                        |
+|Rare Interceptor II         |                                        |
+|Rare Interceptor III        |Strikes                                 |
+|Epic Interceptor III        |                                        |
+|Yaot pulsar fighter squadron|Yaot liaison requisitions - reputation 2|
+|Plasma Bomber 0             |                                        |
+|Plasma Bomber I             |                                        |
+|Plasma Bomber II            |Research                                |
+|Plasma Bomber III           |Research                                |
+|Uncommon Plasma Bomber I    |                                        |
+|Uncommon Plasma Bomber II   |                                        |
+|Uncommon Plasma Bomber III  |                                        |
+|Rare Plasma Bomber II       |Strikes                                 |
+|Rare Plasma Bomber III      |Strikes                                 |
+|Epic Plasma Bomber III      |Strikes                                 |
 
 ### Interceptors and bombers Build requirements
 
-|Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
-|-------------|----------|----------|----------|----------|----------|----------|
-|Interceptor I             |RU A I              |393 |RU B I                |112|RU C I                     |56 |
-|Interceptor II            |Small Hull Parts II |945 |RU B II               |225|RU C II                    |112|
-|Interceptor III           |Small Hull Parts III|630 |Small Weapon Parts III|180|RU C III                   |180|
-|Uncommon Interceptor I    |RU A I              |568 |RU B I                |162|RU C I                     |81 |
-|Uncommon Interceptor II   |Small Hull Parts II |1260|RU B II               |300|RU D II                    |112|
-|Uncommon Interceptor III  |Small Hull Parts III|787 |Small Weapon Parts III|225|Small Electronics Parts III|112|
-|Rare Interceptor II       |Small Hull Parts II |1575|RU B II               |375|RU D II                    |140|
-|Rare Interceptor III      |Small Hull Parts III|945 |Small Weapon Parts III|270|Small Electronics Parts III|135|
-|Epic Interceptor III      |Small Hull Parts III|1102|Small Weapon Parts III|315|Small Electronics Parts III|157|
-|Yaot Pulsar Fighter III   |Small Hull Parts III|603 |Small Weapon Parts III|172|RU D III                   |123|
-|Plasma Bomber I           |RU A I              |393 |RU B I                |112|RU C I                     |56 |
-|Plasma Bomber II          |Small Hull Parts II |945 |RU B II               |225|RU C II                    |112|
-|Plasma Bomber III         |Small Hull Parts III|630 |Small Weapon Parts III|180|RU C III                   |180|
-|Uncommon Plasma Bomber I  |RU A I              |437 |RU B I                |125|RU C I                     |62 |
-|Uncommon Plasma Bomber II |Small Hull Parts II |1260|RU B II               |300|RU D II                    |112|
-|Uncommon Plasma Bomber III|Small Hull Parts III|787 |Small Weapon Parts III|225|Small Electronics Parts III|112|
-|Rare Plasma Bomber II     |Small Hull Parts II |1575|RU B II               |375|RU D II                    |140|
-|Rare Plasma Bomber III    |Small Hull Parts III|945 |Small Weapon Parts III|270|Small Electronics Parts III|135|
-|Epic Plasma Bomber III    |Small Hull Parts III|1102|Small Weapon Parts III|315|Small Electronics Parts III|157|
+|Unit name                 |Material 1          |Quantity 1|Material 2            |Quantity 2|Material 3                 |Quantity 3|
+|--------------------------|--------------------|----------|----------------------|----------|---------------------------|----------|
+|Interceptor 0             |RU M 0              |625       |                      |          |                           |          |
+|Interceptor I             |RU A I              |393       |RU B I                |112       |RU M 0                     |225       |
+|Interceptor II            |Small Hull Parts II |945       |RU B II               |225       |RU C II                    |112       |
+|Interceptor III           |Small Hull Parts III|630       |Small Weapon Parts III|180       |RU C III                   |180       |
+|Uncommon Interceptor I    |RU A I              |568       |RU B I                |162       |RU M 0                     |325       |
+|Uncommon Interceptor II   |Small Hull Parts II |1260      |RU B II               |300       |RU D II                    |112       |
+|Uncommon Interceptor III  |Small Hull Parts III|787       |Small Weapon Parts III|225       |Small Electronics Parts III|112       |
+|Rare Interceptor II       |Small Hull Parts II |1575      |RU B II               |375       |RU D II                    |140       |
+|Rare Interceptor III      |Small Hull Parts III|945       |Small Weapon Parts III|270       |Small Electronics Parts III|135       |
+|Epic Interceptor III      |Small Hull Parts III|1102      |Small Weapon Parts III|315       |Small Electronics Parts III|157       |
+|Yaot Pulsar Fighter III   |Small Hull Parts III|603       |Small Weapon Parts III|172       |RU D III                   |123       |
+|Plasma Bomber 0           |RU M 0              |625       |                      |          |                           |          |
+|Plasma Bomber I           |RU A I              |393       |RU B I                |112       |RU M 0                     |225       |
+|Plasma Bomber II          |Small Hull Parts II |945       |RU B II               |225       |RU C II                    |112       |
+|Plasma Bomber III         |Small Hull Parts III|630       |Small Weapon Parts III|180       |RU C III                   |180       |
+|Uncommon Plasma Bomber I  |RU A I              |437       |RU B I                |125       |RU M 0                     |250       |
+|Uncommon Plasma Bomber II |Small Hull Parts II |1260      |RU B II               |300       |RU D II                    |112       |
+|Uncommon Plasma Bomber III|Small Hull Parts III|787       |Small Weapon Parts III|225       |Small Electronics Parts III|112       |
+|Rare Plasma Bomber II     |Small Hull Parts II |1575      |RU B II               |375       |RU D II                    |140       |
+|Rare Plasma Bomber III    |Small Hull Parts III|945       |Small Weapon Parts III|270       |Small Electronics Parts III|135       |
+|Epic Plasma Bomber III    |Small Hull Parts III|1102      |Small Weapon Parts III|315       |Small Electronics Parts III|157       |
 
 
 ## Squads - Corvettes
@@ -205,38 +215,37 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 
 ### Corvettes Blueprints
 
-|Unit name                      |Location Found                            |Notes                                                |
-|--------------------------|------------------------------------------|-----------------------------------------------------|
-|Assault Corvette I        |                                          |                                                     |
-|Assault Corvette II       |Market                                    |                                                     |
-|Assault Corvette III      |                                          |                                                     |
-|Rare Assault Corvette II  |Strikes                                   |                                                     |
-|Epic Assault Corvette III |                                          |                                                     |
-|Tanoch Missile corvette II|Tanoch liaison requisitions - reputation 2|Benefits from missile research upgrade, not torpedo's|
-|Tanoch Assault corvette II|Tanoch liaison requisitions - reputation 3|                                                     |
-|Pulsar Corvette I         |Main quest / research unlock              |Benefits from beam research upgrades                 |
-|Pulsar Corvette II        |                                          |Benefits from beam research upgrades                 |
-|Pulsar Corvette III       |                                          |Benefits from beam research upgrades                 |
-|Rare Pulsar Corvette II   |Strikes                                   |Benefits from beam research upgrades                 |
-|Rare Pulsar Corvette III  |Strikes                                   |Benefits from beam research upgrades                 |
+|Unit name                 |Location Found                            |
+|--------------------------|------------------------------------------|
+|Assault Corvette I        |                                          |
+|Assault Corvette II       |Research                                  |
+|Assault Corvette III      |Research                                  |
+|Rare Assault Corvette II  |Strikes                                   |
+|Epic Assault Corvette III |                                          |
+|Tanoch Missile corvette II|Tanoch liaison requisitions - reputation 2|
+|Tanoch Assault corvette II|Tanoch liaison requisitions - reputation 3|
+|Pulsar Corvette I         |Main quest / research unlock              |
+|Pulsar Corvette II        |Research                                  |
+|Pulsar Corvette III       |Research                                  |
+|Rare Pulsar Corvette II   |Strikes                                   |
+|Rare Pulsar Corvette III  |Strikes                                   |
 
 ### Corvettes Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
-|Assault Corvette I        |RU A I              |472 |RU B I                |135|RU C I                     |67 |
+|Assault Corvette I        |RU A I              |472 |RU B I                |135|RU M 0                     |270|
 |Assault Corvette II       |Small Hull Parts II |1134|RU B II               |270|RU C II                    |135|
 |Assault Corvette III      |Small Hull Parts III|756 |Small Weapon Parts III|216|RU C III                   |216|
 |Rare Assault Corvette II  |Small Hull Parts II |1890|RU B II               |450|RU D II                    |168|
 |Epic Assault Corvette III |Small Hull Parts III|1323|Small Weapon Parts III|378|Small Electronics Parts III|189|
 |Tanoch Assault Corvette II|Small Hull Parts II |1470|RU B II               |350|RU D II                    |131|
 |Tanoch Missile Corvette II|Small Hull Parts II |1470|RU B II               |350|RU D II                    |131|
-|Pulsar Corvette I         |RU A I              |472 |RU B I                |135|RU C I                     |67 |
+|Pulsar Corvette I         |RU A I              |472 |RU B I                |135|RU M 0                     |270|
 |Pulsar Corvette II        |Small Hull Parts II |1134|RU B II               |270|RU C II                    |135|
 |Pulsar Corvette III       |Small Hull Parts III|756 |Small Weapon Parts III|216|RU C III                   |216|
 |Rare Pulsar Corvette II   |Small Hull Parts II |1890|RU B II               |450|RU D II                    |168|
 |Rare Pulsar Corvette III  |Small Hull Parts III|1134|Small Weapon Parts III|324|Small Electronics Parts III|162|
-
 
 ## Squads - Resource collectors
 
@@ -245,19 +254,21 @@ Lastly in the squads section, we have resource collectors. These are you main wo
 
 ### Resource collectors Blueprints
 
-|Unit name                        |Location Found                                 |
+|Unit name                   |Location Found                                 |
 |----------------------------|-----------------------------------------------|
+|Resource Collector 0        |                                               |
 |Resource Collector I        |Main questline                                 |
-|Resource Collector II       |Market                                         |
+|Resource Collector II       |Research                                       |
 |Gilded resource collector II|Iyatequa liaison requisitions - reputation 2   |
-|Resource Collector III      |Market                                         |
+|Resource Collector III      |Research                                       |
 |Rare Resource Collector III |Strikes, scannable - Spoils of battle, Liaisons|
 
 ### Resource collectors Build requirements
 
 |Unit name    |Material 1|Quantity 1|Material 2|Quantity 2|Material 3|Quantity 3|
 |-------------|----------|----------|----------|----------|----------|----------|
-|Resource Collector I        |RU A I              |52 |RU B I                     |15|RU C I                   |7 |
+|Resource Collector 0        |RU M 0              |75 |                           |  |                         |  |
+|Resource Collector I        |RU A I              |52 |RU B I                     |15|RU M 0                   |30|
 |Resource Collector II       |Small Hull Parts II |126|RU B II                    |30|RU C II                  |15|
 |Gilded Resource Collector II|Small Hull Parts II |168|RU D II                    |30|RU C II                  |20|
 |Resource Collector III      |Small Hull Parts III|84 |RU B III                   |48|Small Machinery Parts III|12|
