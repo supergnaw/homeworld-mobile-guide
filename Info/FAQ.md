@@ -254,7 +254,7 @@ Some strikes are locked behind the main story quests. If you're missing certain 
 In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pirate hideout Heroic (T2) and Station defense Heroic (T3)
 
 ### Where is Pahra's rock? Is it gone?
-Pahra's rock (PR) has been disabled for now, there seems to be some issues with the current game version. It will most likely be enabled in a later patch (as of 2.63
+Pahra's rock (PR) has been disabled for now, there seems to be some issues with the current game version. It will most likely be enabled in a later patch (as of 2.63)
 
 ### I've built a destroyer, but can't find it anywhere
 Destroyers take up 2 escort slots for fielding one. So if you are either running a T1 flagship, or already have an escort equipped in a T2/3 flagship, you don't see it in your escort roster
