@@ -157,7 +157,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ## Pulsar weapons
 
-Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons, they have mostly armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. Currently there is no ability for pulsar weapons.
+Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons, they have mostly armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. They have one active abilities called Pulsar Burst (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a pulsar gunner (passive perks) and completing beam research upgrades.
 - Yaot pulsars have more damage and range, but a lower fire rate compared to the normal / Hiigaran variant
 
