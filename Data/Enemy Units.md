@@ -32,8 +32,9 @@
 |Deep Space Torpedo  |Frigate  |Yaot      |Used in the 'Tanochet' mission. Need to be destroyed before they reach the targeted stations. BE AWARE that upon destruction, it'll do AoE damage around itself, enough to insta-kill frigates.                                                       |
 |Drone               |Fighter  |Progenitor|Easy to hit but tanky fighters, doesn't do a lot of damage compared to the other fighters                                                                                                                                                             |
 |Mover               |Fighter  |Progenitor|Easy to hit but tanky fighters, doesn't do a lot of damage compared to the other fighters. Only hostile fighter that has armour. (Classed a fighter in HWM, movers are corvettes in HW2)                                                              |
+|Tormentor           |Frigate  |Progenitor|Ion frigate like progenitor unit, seems to be relatively weakly tanked but will try to shoot a progenitor beam from a distance                                                                                                                        |
 |Mine                |Mine     |Progenitor|Layed inbetween the gaps of the defensive line of the main quest 'Temple Toonati'. They do no armour damage but a lot of hull damage. They will destroy your strike craft when you cross the gap, so make sure you dock them before you make the cross|
-|Keeper              |Destroyer|Progenitor|Can only be found in the tutorial, has the highest combat power of all enemies. Run while you can                                                                                                                                                     |
+|Keeper              |Destroyer|Progenitor|Can only be found in the tutorial and as a fail mechanic during progenitor activities missions, has the highest combat power of all enemies. Run while you can                                                                                        |
 
 # Friendly / Neutral
 
@@ -44,12 +45,14 @@
 |Ion frigate            |Frigate      |Hiigaran|Frigate seen escorting other Hiigaran units and various civilian transport ships                                                                                             |
 |Destroyer              |Destroyer    |Hiigaran|Destoryer acting as a 'main' ship, patrolling around Iyatequa trading station. Escorted by other Hiigaran frigates                                                           |
 |Turret platform        |Turret       |Hiigaran|Strongest turret type of all factions, can be seen guarding Iyatequa trading stations. Icons shows both kinetic as pulsar turrets                                            |
+|Damaged turret platform|Turret       |Hiigaran|Objective during Iyatequa liaison platform defense missions. A weaker variant of the turrets guarding stations.                                                              |
 |Freighter              |Frigate      |Hiigaran|Fast transport unit, can be seen around trading stations and as a escort target for scannable missions                                                                       |
 |Trading ship           |Frigate      |Iyatequa|Smaller cousin of the 'main' trading ship. Can be seen around trading stations                                                                                               |
 |Trading ship           |Destroyer    |Iyatequa|Slow but tanky transport unit, can be seen around trading stations and as a escort target for scannable missions                                                             |
 |Stardock               |Station      |Iyatequa|Trading station of the Iyatequa faction, can be seen with various models. Repairs your fleet when near you are at its location                                               |
 |Battlecruiser          |Battlecruiser|Tanoch  |Bigger cousin of the Tanoch destroyer. Seems to be equipped with missiles and kinetics, so most likely a close range unit. Can be seen patrolling Tanoch stations            |
 |Turret platform        |Turret       |Tanoch  |The weakest turrets of all factions, can be seen around Tanoch stations. Both as a Kinetic turrets as a Missile turret                                                       |
+|Damaged turret platform|Turret       |Tanoch  |Objective during Tanoch liaison platform defense missions. A weaker variant of the turrets guarding stations.                                                                |
 |Freighter              |Destroyer    |Tanoch  |Transport unit of the Tanoch faction                                                                                                                                         |
 |Large freighter        |Destroyer    |Tanoch  |Transport unit of the Tanoch faction, Larger and slower than its cousin                                                                                                      |
 |Liner                  |Destroyer    |Tanoch  |Transport unit of the Tanoch faction, seem to be the fastest of the three transport units                                                                                    |
@@ -60,4 +63,5 @@
 |Freighter              |Destroyer    |Yaot    |Transport unit of the Yaot faction. Can be seen with two or four container models                                                                                            |
 |Command ship           |Destroyer    |Yaot    |Stronger version of the Yaot destroyer, can be seen with a hangar bay. Patrols Yaot stations                                                                                 |
 |Defense platform       |Turret       |Yaot    |Middle of the line when it comes to combat power, can be seen around Yaot stations. Equiped with Yaot pulsar weapons                                                         |
+|Damaged turret platform|Turret       |Yaot    |Objective during Yaot liaison platform defense missions. A weaker variant of the turrets guarding stations.                                                                  |
 |Station                |Station      |Yaot    |Trading station of the Yaot faction, can be seen with various models. Repairs your fleet when near you are at its location. Has the lowest combat power of the three factions|
