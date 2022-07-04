@@ -7,7 +7,7 @@
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
 - DUE TO THE NEW UPDATE (2.63), A LOT OF THINGS HAVE CHANGED AND THE CURRENT CONTENT ON THIS DOCUMENT IS NOT COMPLETE. PLEASE CHECK THE PATCH-NOTES IN THE DISCORD FOR MORE INFORMATION
-Altough the content in here is up-to-date, we are still collecting data on various new elements. Expect changes in the near future
+- Altough the content in here is up-to-date, we are still collecting data on various new elements. Expect changes in the near future
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
