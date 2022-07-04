@@ -3,7 +3,7 @@
 Checklist for side missions: As of version 0.2.63, the following side mission series are available.
 
 ## Priority side missions that give T3 small components as its rewards
-- (T3 Small weapon parts from Production & T3 small machinery parts from Combat)
+- (T3 Small weapon parts from Production, T3 small machinery parts from Combat and T3 small hull parrs from Exploration)
 
 ### Production series
 - Production 1
