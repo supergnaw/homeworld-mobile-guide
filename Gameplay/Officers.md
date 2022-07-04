@@ -40,7 +40,9 @@ Launches a single missile with a heavier than normal payload. Effective agains c
 Controlled overload of repair module restores armor of nearby ships. Requires at least one equipped  repair module. Base cooldown: 100 seconds												
 ### Ion Cannon Burst:
 Triggers all of the ship's ion cannons at once. Requires at least one equipped ion cannon. Base cooldown: 13 seconds						
-						
+### Pulsar Burst: 
+Overclocks the ship's pulsar turrets, increasing firerate. Requires at least one equipped pulsar turret. Base cooldown: 10 seconds
+
 ### Kinetic Burst:
 Overclocks the ship's kinetic turrets, increasing firerate. Requires at least one equipped kinetic / mass driver turret. Base cooldown: 10 seconds											
 ### EMP Round: 
