@@ -34,28 +34,28 @@ The Iyatequa faction, marked with brown, are mainly traders in the center of the
 
 ### Iyatequa systems
 
-|System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
-|-----------|--------|----|-------------|--------------|-------------------------|
-|Ariitar    |Iyatequa|1   |yes          |no            |30                       |
-|Niirea Paas|Iyatequa|1   |no           |no            |30                       |
-|Devadaasi  |Iyatequa|1   |yes          |yes           |30                       |
-|Estraiir   |Iyatequa|1   |yes          |no            |30                       |
-|Inayat     |Iyatequa|1   |yes          |no            |30                       |
-|Jishun     |Iyatequa|1   |yes          |yes           |30                       |
-|Naredra    |Iyatequa|1   |yes          |no            |30                       |
-|Ekaam Nar  |Iyatequa|1   |no           |yes           |30                       |
-|Tela Diim  |Iyatequa|1   |no           |no            |30                       |
-|Saraal     |Iyatequa|1   |yes          |no            |30                       |
-|Bishaan Tel|Iyatequa|2   |no           |no            |110                      |
-|Sobel Rem  |Iyatequa|2   |no           |yes           |110                      |
-|Kisho Re   |Iyatequa|2   |no           |yes           |110                      |
-|Marat Kan  |Iyatequa|2   |no           |yes           |110                      |
-|Keid       |Iyatequa|2   |no           |no            |110                      |
-|Mituul     |Iyatequa|2   |no           |yes           |110                      |
-|Zaatas     |Iyatequa|3   |yes          |yes           |210                      |
-|Vaal       |Iyatequa|3   |no           |yes           |210                      |
-|Briuun     |Iyatequa|3   |yes          |yes           |210                      |
-|Edowana    |Iyatequa|1   |yes          |yes           |50                       |
+System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed
+-----------|--------|----|-------------|--------------|-------------------------
+Ariitar    |Iyatequa|1   |yes          |no            |30                       
+Niirea Paas|Iyatequa|1   |no           |no            |30                       
+Devadaasi  |Iyatequa|1   |yes          |9             |30                       
+Estraiir   |Iyatequa|1   |yes          |no            |30                       
+Inayat     |Iyatequa|1   |yes          |no            |30                       
+Jishun     |Iyatequa|1   |yes          |8             |30                       
+Naredra    |Iyatequa|1   |yes          |no            |30                       
+Ekaam Nar  |Iyatequa|1   |no           |2             |30                       
+Tela Diim  |Iyatequa|1   |no           |no            |30                       
+Saraal     |Iyatequa|1   |yes          |no            |30                       
+Bishaan Tel|Iyatequa|2   |no           |no            |110                      
+Sobel Rem  |Iyatequa|2   |no           |1             |110                      
+Kisho Re   |Iyatequa|2   |no           |1             |110                      
+Marat Kan  |Iyatequa|2   |no           |4             |110                      
+Keid       |Iyatequa|2   |no           |no            |110                      
+Mituul     |Iyatequa|2   |no           |1             |110                      
+Zaatas     |Iyatequa|3   |yes          |1             |210                      
+Vaal       |Iyatequa|3   |no           |6             |210                      
+Briuun     |Iyatequa|3   |yes          |4             |210                      
+Edowana    |Iyatequa|1   |yes          |3             |50                       
 
 ## Tanoch faction
 
@@ -65,53 +65,53 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 
 ### Tanoch systems
 
-|System Name|Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
-|-----------|-------|----|-------------|--------------|-------------------------|
-|Tecoalte   |Tanoch |2   |no           |no            |110                      |
-|Chihuat    |Tanoch |2   |no           |yes           |110                      |
-|Jol Ataain |Tanoch |2   |yes          |yes           |110                      |
-|Xocotila   |Tanoch |2   |yes          |yes           |110                      |
-|Cempoalt   |Tanoch |2   |no           |no            |110                      |
-|Tuxpante   |Tanoch |2   |no           |yes           |110                      |
-|Tecpan     |Tanoch |2   |yes          |yes           |110                      |
-|Malinalc   |Tanoch |2   |no           |yes           |110                      |
-|Xalapan    |Tanoch |2   |yes          |no            |110                      |
-|Tlacozau   |Tanoch |2   |no           |yes           |110                      |
-|Cuernava   |Tanoch |2   |yes          |yes           |110                      |
-|Ixtepec    |Tanoch |3   |no           |yes           |210                      |
-|Ayotla     |Tanoch |3   |no           |no            |210                      |
-|Tepecoma   |Tanoch |3   |yes          |no            |210                      |
-|Cuilan     |Tanoch |3   |yes          |no            |210                      |
-|Teozaan    |Tanoch |3   |no           |yes           |210                      |
-|Misantep   |Tanoch |3   |yes          |no            |210                      |
-|Axocotil   |Tanoch |3   |yes          |yes           |210                      |
-|Sijin      |Tanoch |3   |yes          |yes           |210                      |
-|Chiapa     |Tanoch |2   |no           |yes           |150                      |
-|Ixtlan     |Tanoch |2   |yes          |no            |118                      |
-|Teozauhq   |Tanoch |2   |yes          |no            |115                      |
-|Cuilco     |Tanoch |2   |no           |yes           |114                      |
-|Chuua      |Tanoch |2   |no           |yes           |110                      |
-|Tixpan     |Tanoch |2   |no           |no            |110                      |
-|Tepecoal   |Tanoch |2   |yes          |no            |114                      |
-|Tlatlan    |Tanoch |2   |yes          |yes           |110                      |
-|Yoalco     |Tanoch |2   |no           |no            |112                      |
-|Tepec      |Tanoch |2   |yes          |no            |117                      |
-|Ocuitepe   |Tanoch |2   |no           |no            |110                      |
-|Oaxtepex   |Tanoch |2   |no           |yes           |120                      |
-|Zempoalt   |Tanoch |2   |no           |no            |114                      |
-|Tecoacui   |Tanoch |2   |yes          |no            |120                      |
-|Telapente  |Tanoch |2   |yes          |no            |116                      |
-|Tlapan     |Tanoch |2   |no           |yes           |113                      |
-|Tetelad    |Tanoch |2   |no           |yes           |117                      |
-|Cempoalc   |Tanoch |2   |yes          |yes           |111                      |
-|Xala       |Tanoch |2   |yes          |yes           |113                      |
-|Acatlahu   |Tanoch |2   |no           |no            |115                      |
-|Zempoala   |Tanoch |2   |no           |no            |110                      |
-|Coixl      |Tanoch |2   |no           |yes           |117                      |
-|Acatla     |Tanoch |2   |no           |no            |113                      |
-|Teozacoz   |Tanoch |2   |no           |yes           |111                      |
-|Tochteop   |Tanoch |2   |no           |yes           |113                      |
-|Xilotepe   |Tanoch |2   |yes          |yes           |113                      |
+System Name|Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed
+-----------|-------|----|-------------|--------------|-------------------------
+Tecoalte   |Tanoch |2   |no           |no            |110                      
+Tanochetlan|Tanoch |2   |yes          |5             |110                      
+Tochtepe   |Tanoch |2   |no           |no            |110                      
+Chihuat    |Tanoch |2   |no           |9             |110                      
+Xocotila   |Tanoch |2   |yes          |9             |110                      
+Cempoalt   |Tanoch |2   |no           |no            |110                      
+Tuxpante   |Tanoch |2   |no           |2             |110                      
+Tecpan     |Tanoch |2   |yes          |2             |110                      
+Malinalc   |Tanoch |2   |no           |7             |110                      
+Xalapan    |Tanoch |2   |yes          |no            |110                      
+Tlacozau   |Tanoch |2   |no           |1             |110                      
+Cuernava   |Tanoch |2   |yes          |7             |110                      
+Ixtepec    |Tanoch |3   |no           |1             |210                      
+Ayotla     |Tanoch |3   |no           |no            |210                      
+Tepecoma   |Tanoch |3   |yes          |no            |210                      
+Cuilan     |Tanoch |3   |yes          |no            |210                      
+Teozaan    |Tanoch |3   |no           |5             |210                      
+Misantep   |Tanoch |3   |yes          |no            |210                      
+Axocotil   |Tanoch |3   |yes          |5             |210                      
+Sijin      |Tanoch |3   |yes          |10            |210                      
+Ixtlan     |Tanoch |2   |yes          |no            |118                      
+Teozauhq   |Tanoch |2   |yes          |no            |115                      
+Cuilco     |Tanoch |2   |no           |2             |114                      
+Chuua      |Tanoch |2   |no           |1             |110                      
+Tixpan     |Tanoch |2   |no           |no            |110                      
+Tepecoal   |Tanoch |2   |yes          |no            |114                      
+Tlatlan    |Tanoch |2   |yes          |2             |110                      
+Yoalco     |Tanoch |2   |no           |no            |112                      
+Tepec      |Tanoch |2   |yes          |no            |117                      
+Ocuitepe   |Tanoch |2   |no           |no            |110                      
+Oaxtepex   |Tanoch |2   |no           |5             |120                      
+Zempoalt   |Tanoch |2   |no           |no            |114                      
+Tecoacui   |Tanoch |2   |yes          |no            |120                      
+Telapente  |Tanoch |2   |yes          |no            |116                      
+Tlapan     |Tanoch |2   |no           |2             |113                      
+Tetelad    |Tanoch |2   |no           |4             |117                      
+Cempoalc   |Tanoch |2   |yes          |5             |111                      
+Xala       |Tanoch |2   |yes          |9             |113                      
+Acatlahu   |Tanoch |2   |no           |no            |115                      
+Zempoala   |Tanoch |2   |no           |no            |110                      
+Coixl      |Tanoch |2   |no           |3             |117                      
+Acatla     |Tanoch |2   |no           |no            |113                      
+Teozacoz   |Tanoch |2   |no           |1             |111                      
+Tochteop   |Tanoch |2   |no           |3             |113                      
+Xilotepe   |Tanoch |2   |yes          |3             |113                      
 
 
 ## Yaot systems
@@ -122,39 +122,36 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 
 ### Yaot systems
 
-|System Name |Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
-|------------|-------|----|-------------|--------------|-------------------------|
-|Saami Ra    |Yaot   |3   |yes          |no            |110                      |
-|Tunda Miraan|Yaot   |3   |yes          |yes           |110                      |
-|Tibata      |Yaot   |3   |no           |yes           |110                      |
-|Subaca      |Yaot   |3   |yes          |no            |210                      |
-|Tocon       |Yaot   |3   |yes          |no            |210                      |
-|Ytep        |Yaot   |3   |no           |yes           |210                      |
-|Yaotl       |Yaot   |3   |yes          |yes           |210                      |
-|Charatl     |Yaot   |3   |no           |yes           |250                      |
-|Subacuy     |Yaot   |3   |no           |no            |216                      |
-|Chocata     |Yaot   |3   |no           |no            |216                      |
-|Ziipaga     |Yaot   |3   |yes          |yes           |211                      |
-|Oica        |Yaot   |3   |yes          |yes           |216                      |
-|Teuascate   |Yaot   |3   |no           |no            |214                      |
-|Paipaga     |Yaot   |3   |no           |no            |214                      |
-|Topaconta   |Yaot   |3   |no           |yes           |210                      |
-|Topa        |Yaot   |3   |no           |yes           |211                      |
-|Samacon     |Yaot   |3   |yes          |yes           |216                      |
-|Rama        |Yaot   |3   |no           |yes           |216                      |
-|Tocata      |Yaot   |3   |no           |yes           |218                      |
-|Turmequi    |Yaot   |3   |yes          |no            |211                      |
-|Zipate      |Yaot   |3   |yes          |yes           |213                      |
-|Topaque     |Yaot   |3   |no           |yes           |218                      |
-|Teuasia     |Yaot   |3   |no           |yes           |218                      |
-|Zipate      |Yaot   |3   |yes          |yes           |213                      |
-|Topaque     |Yaot   |3   |no           |yes           |218                      |
-|Teuasia     |Yaot   |3   |no           |yes           |218                      |
-|Tiba        |Yaot   |3   |yes          |no            |215                      |
-|Sabio       |Yaot   |3   |no           |no            |210                      |
-|Ubacontl    |Yaot   |3   |yes          |yes           |220                      |
-|Tinjo       |Yaot   |3   |no           |no            |212                      |
-|Tenjaca     |Yaot   |3   |no           |yes           |212                      |
+System Name |Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed
+------------|-------|----|-------------|--------------|-------------------------
+Saami Ra    |Yaot   |3   |yes          |no            |110                      
+Tunda Miraan|Yaot   |3   |yes          |2             |110                      
+Tibata      |Yaot   |3   |no           |5             |110                      
+Subaca      |Yaot   |3   |yes          |no            |210                      
+Tocon       |Yaot   |3   |yes          |no            |210                      
+Ytep        |Yaot   |3   |no           |4             |210                      
+Yaotl       |Yaot   |3   |yes          |5             |210                      
+Charatl     |Yaot   |3   |no           |1             |250                      
+Subacuy     |Yaot   |3   |no           |no            |216                      
+Chocata     |Yaot   |3   |no           |no            |216                      
+Ziipaga     |Yaot   |3   |yes          |3             |211                      
+Oica        |Yaot   |3   |yes          |9             |216                      
+Teuascate   |Yaot   |3   |no           |no            |214                      
+Paipaga     |Yaot   |3   |no           |no            |214                      
+Topaconta   |Yaot   |3   |no           |2             |210                      
+Topa        |Yaot   |3   |no           |4             |211                      
+Samacon     |Yaot   |3   |yes          |11            |216                      
+Rama        |Yaot   |3   |no           |5             |216                      
+Tocata      |Yaot   |3   |no           |4             |218                      
+Turmequi    |Yaot   |3   |yes          |no            |211                      
+Zipate      |Yaot   |3   |yes          |5             |213                      
+Topaque     |Yaot   |3   |no           |6             |218                      
+Teuasia     |Yaot   |3   |no           |4             |218                      
+Tiba        |Yaot   |3   |yes          |no            |215                      
+Sabio       |Yaot   |3   |no           |no            |210                      
+Ubacontl    |Yaot   |3   |yes          |1             |220                      
+Tinjo       |Yaot   |3   |no           |no            |212                      
+Tenjaca     |Yaot   |3   |no           |5             |212                      
 
 
 ## Cangacian faction
@@ -163,11 +160,11 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 
 ### Cangacian systems
 
-|System Name|Faction  |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
-|-----------|---------|----|-------------|--------------|-------------------------|
-|Bescava    |Cangacian|2   |no           |no            |120                      |
-|Larcava    |Cangacian|2   |no           |no            |114                      |
-|Cancava    |Cangacian|2   |no           |no            |120                      |
-|Lura       |Cangacian|2   |no           |yes           |117                      |
-|Kaluari    |Cangacian|2   |no           |yes           |112                      |
-|Larinca    |Cangacian|2   |no           |no            |118                      |
+System Name|Faction  |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed
+-----------|---------|----|-------------|--------------|-------------------------
+Bescava    |Cangacian|2   |no           |no            |120                      
+Larcava    |Cangacian|2   |no           |no            |114                      
+Cancava    |Cangacian|2   |no           |no            |120                      
+Lura       |Cangacian|2   |no           |1             |117                      
+Kaluari    |Cangacian|2   |no           |1             |112                      
+Larinca    |Cangacian|2   |no           |no            |118                      
