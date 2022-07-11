@@ -19,6 +19,12 @@ Chapter 16 - Laboratories, unlocks T2 Hyperspace jump research
 Chapter 20 - Escort ships T2, unlocks the liaison office
 Chapter 23 - Temple Tonaati, unlocks T3 Hyperspace jump research
 
+### I can't make escorts or flagships / I can't collect escorts or flagships?
+Large units (escorts and flagships), need to be made at a shipyard. Shipyards are located at Trade stations, outpost do not have them. Check the system page to find which system has a trade station.
+
+### I can't jump to a specific system / how do I get more hyperspace jump strength?
+Some systems, mostly those of a higher tier, have a minimum requirement of hyperspace jump strength to enter said system. You can get this buy upgrading your engine to a higher lvl, or construction a higher tier flagship.
+
 ### What are tiers / where to find Tx loot?
 In the current version, there are four tiers, tier 0 (T0) tier 1 (T1), tier 2 (T2) and tier 3 (T3). These are marked with Roman numerals (so T0 is 0, T1 I, T2 II, T3 III). Every item, location, enemy and mission has a designated tier to it.
 If you're looking for a certain tier item (lets say T2 ores), you'll find it in a tier 2 system, marked with II (so for example Bishaan Tel II). If a mission requires you to build a T2 interceptor, look for the II on the top right of the blueprint
@@ -132,14 +138,15 @@ Research points are automatically generated in your research lab. Go to your int
 Note that you can't collect RP when you're researching something. RP will still be generated on the background but can only be collected after the research upgrade is done and the slot is free.
 
 ### How do I get more research?
-There are 3 different tiers of the various research upgrades. T1 research is unlocked by doing your main story quests, and by lvling up (until level 420, after that no more T1 research drops)
-For T2 and T3 research, you'll need to do missions. Liaisons, scanabales and strikes all have a chance to drop research upgrades for that tier of missions
+Research is divided in three branches, a middle path - which is your main source of research. A top path that unlocks new units and gear and a bottom path that has mostly stat upgrades.
+The middle path only needs you to research the previous upgrades. For T2, you need to have 2 levels into the previous upgrade. For T3m it is 3 lvls. The top and bottom paths however, needs you to find various schematics in missions.
+Schematics can be found in Liaisons, strikes and scannable missions. Each mission type have a different loot-table so to collector all research, you have to do all three types.
 
 ### What do the different research upgrades do / what is the complete research list?	
 Research is based on a research tree, with a main middle path, and branches to the top and bottom. The middle path unlocks basic gear and stat upgrades, whilst the top mostly has unlocks for more uncommon types of gear	
 and the bottom path has mostly stat upgrades for different gear buffs. Aside from upgrades in the middle path, you will need to find certain Schematics to unlock upgrade from the top and bottom paths	
 Hyperspace- middle	
-- Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines)
+-	Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines)
 -	Hyperspace jump limit T2 (Increases the cap on hyperjump strength stat for engines)
 -	Hyperspace jump limit T3 (Increases the cap on hyperjump strength stat for engines)
 	
@@ -154,9 +161,9 @@ Mining- middle
 -	Mining yield: ore C (increases T3C yield)
 	
 Mining- top	
--	Resource controller schematics (Unlocks T2 resource controllers)
+-	Resource controller schematics (Unlocks T2 resource controllers) - can be found at liaisons
 -	Remote Mining yield: ore A (increases total yield of A type ores in remote mining sessions)
--	Resource controller schematics (Unlocks T3 resource controllers)
+-	Resource controller schematics (Unlocks T3 resource controllers) - can be found at liaisons
 -	Remote Mining yield: ore A (increases total yield of B type ores in remote mining sessions)
 	
 Mining- Bottom	
@@ -205,11 +212,11 @@ Escort- middle
 -	Escort ship armor damage (Increases the armor damage of T3 escorts)
 	
 Escorts- top	
--	Torpedo frigate schematics (Unlocks T2 torpedo frigates)
--	Destroyer schematics (Unlocks T2 destroyers)
--	Torpedo frigate schematics (Unlocks T3 torpedo frigates)
--	Ion cannon frigate schematics (unlocks T3 ion cannon)
--	Destroyer schematics (Unlocks T3 destroyers)
+-	Torpedo frigate schematics (Unlocks T2 torpedo frigates) - can be found at scannable missions
+-	Destroyer schematics (Unlocks T2 destroyers) - can be found at strikes
+-	Torpedo frigate schematics (Unlocks T3 torpedo frigates) - can be found at scannable missions
+-	Ion cannon frigate schematics (Unlocks T3 ion cannon) - can be found at strikes
+-	Destroyer schematics (Unlocks T3 destroyers) - can be found at strikes
 	
 Escorts- bottom	
 -	Scouting frigate vision (increases the scouting frigate sensor range)
@@ -230,15 +237,18 @@ Weapons- middle
 -	Beam turret rate of fire (Increases the rate of fire of T3 ions and pulsars)
 	
 Weapons- top	
--	Missile launcher schematics (Unlocks T2 missile weapons
--	Ion cannon schematics (Unlocks T2 ion weapons
--	Missile launcher schematics (Unlocks T3 missile weapons
--	Ion cannon schematics (Unlocks T3 ion weapons
+-	Missile launcher schematics (Unlocks T2 missile weapons)
+-	Ion cannon schematics (Unlocks T2 ion weapons)
+-	Repair module schematics (Unlocks T2 repair modules) - can be found at strikes
+-	Missile launcher schematics (Unlocks T3 missile weapons)
+-	Ion cannon schematics (Unlocks T3 ion weapons)
+-	Repair module schematics (Unlocks T3 repair modules) - can be found at strikes
+-	Pulsar turret schematics (Unlocks T3 pulsar weapons) - can be found at strikes
 	
 Weapons- bottom	
 -	Kinetic turret hull damage (increases the hull damage for kinetic weapons)
 -	Missile turret armor damage (increases the armor damage for missile weapons)
--	Beam turret hull damage (Increases the hull damage of ions and pulsar weapons)
+-	Beam turret hull damage (Increases the hull damage of ions and pulsar weapons) - can be found at strikes
 -	Kinetic turret armor damage (increases the armor damage for kinetic weapons)
 
 ## Strikes & Destroyers
