@@ -113,7 +113,7 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 |Acatla     |Tanoch |2   |no           |no            |113                      |
 |Teozacoz   |Tanoch |2   |no           |1             |111                      |
 |Tochteop   |Tanoch |2   |no           |3             |113                      |
-|Xilotepe   |Tanoch |2   |yes          |3             |113                      |            
+|Xilotepe   |Tanoch |2   |yes          |3             |113                      |
 
 
 ## Yaot systems
@@ -153,7 +153,7 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 |Sabio       |Yaot   |3   |no           |no            |210                      |
 |Ubacontl    |Yaot   |3   |yes          |1             |220                      |
 |Tinjo       |Yaot   |3   |no           |no            |212                      |
-|Tenjaca     |Yaot   |3   |no           |5             |212                      |                   
+|Tenjaca     |Yaot   |3   |no           |5             |212                      |
 
 
 ## Cangacian faction
