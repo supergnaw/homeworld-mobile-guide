@@ -235,6 +235,29 @@ Internal modules are various boost that can buff up your flagship, from addition
 
 ### Internal modules blueprints - front
 
+|Internal modules        |Module group  |Module capacity cost|Effect                                      |Location Found               |
+|------------------------|--------------|--------------------|--------------------------------------------|-----------------------------|
+|Sensor range booster II |Sensor boost  |28                  |Increases flagship sensor range             |Market                       |
+|Sensor range booster III|Sensor boost  |24                  |Increases flagship sensor range             |Scannables - spoils of battle|
+|System scan booster II  |Sensor boost  |                    |Increases flagship scan reliability         |Scannables - spoils of battle|
+|System scan booster III |Sensor boost  |                    |Increases flagship scan reliability         |Scannables - spoils of battle|
+|Data Storage hub III    |Research boost|                    |Increases flagship research point capacity  |Strikes                      |
+|Parallel Processor III  |Research boost|                    |Increases flagship research point production|Strikes                      |
+
+### Internal modules Build requirements - front
+
+|Internal modules        |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
+|------------------------|--------------------|----------|----------|----------|-------------------------|----------|
+|Sensor range booster II |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
+|Sensor range booster III|Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
+|System scan booster II  |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
+|System scan booster III |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
+|Data Storage hub III    |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
+|Parallel Processor III  |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
+
+
+### Internal modules blueprints - middle
+
 |Internal modules                |Module group|Module capacity cost|Effect                             |Location Found                              |
 |--------------------------------|------------|--------------------|-----------------------------------|--------------------------------------------|
 |Fabricator I                    |Fabricators |72                  |Shorter timers                     |Main quest                                  |
@@ -249,23 +272,6 @@ Internal modules are various boost that can buff up your flagship, from addition
 |Armor Maintenance module III    |Armor boost |                    |Increases flagship armor           |Liaisons                                    |
 |Squadron Maintenance Modules III|Squad boost |                    |Increases strike craft hull        |Liaisons                                    |
 |Squadron Flight Coordinator III |Squad boost |24                  |Increases strike craft dodge chance|Liaisons                                    |
-
-### Internal modules Build requirements - front
-
-|Internal modules                |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
-|--------------------------------|--------------------|----------|----------|----------|-------------------------|----------|
-|Fabricator I                    |RU A I              |500       |RU M 0    |1000      |RU C I                   |1750      |
-|Fabricator II                   |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
-|Fabricator III                  |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
-|Refinery I                      |RU A I              |500       |RU M 0    |1000      |RU C I                   |1750      |
-|Refinery II                     |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
-|Refinery III                    |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
-|Hull maintenance module II      |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
-|Hull maintenance module III     |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
-|Armor Maintenance module II     |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
-|Armor Maintenance module III    |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
-|Squadron Maintenance Modules III|Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
-|Squadron Flight Coordinator III |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
 
 ### Internal modules Build requirements - middle
 
@@ -334,6 +340,7 @@ Internal modules are various boost that can buff up your flagship, from addition
 |Pulsar anti-armor booster III         |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
 |Engine booster II                     |RU A II             |1333      |RU B II   |666       |Large machinery parts II |2800      |
 |Engine booster III                    |Large hull parts III|450       |RU B III  |900       |Large machinery parts III|1575      |
+
 
 ### Internal modules blueprints - anywhere
 
