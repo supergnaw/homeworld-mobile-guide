@@ -12,18 +12,18 @@ The Hiigaran faction, marked with blue, staked their claim on the south west of 
 
 ### Hiigaran systems
 
-|System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|
-|-----------|--------|----|-------------|--------------|-------------------------|
-|Lazarus    |Hiigaran|0   |yes          |no            |5                        |
-|Nokuuna    |Hiigaran|0   |no           |yes           |11                       |
-|Sumaar     |Hiigaran|0   |no           |yes           |18                       |
-|Iniim      |Hiigaran|0   |no           |yes           |11                       |
-|Saaret     |Hiigaran|0   |no           |yes           |20                       |
-|Mitorai    |Hiigaran|0   |no           |yes           |13                       |
-|Roa Tisaad |Hiigaran|0   |no           |yes           |11                       |
-|Fer Lamaan |Hiigaran|0   |no           |yes           |14                       |
-|Toasiim    |Hiigaran|0   |no           |yes           |10                       |
-|Jonalli    |Hiigaran|0   |no           |yes           |19                       |
+System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed
+-----------|--------|----|-------------|--------------|-------------------------
+Lazarus    |Hiigaran|0   |yes          |no            |5                        
+Nokuuna    |Hiigaran|0   |no           |5             |11                       
+Sumaar     |Hiigaran|0   |no           |1             |18                       
+Iniim      |Hiigaran|0   |no           |2             |11                       
+Saaret     |Hiigaran|0   |no           |9             |20                       
+Mitorai    |Hiigaran|0   |no           |11            |13                       
+Roa Tisaad |Hiigaran|0   |no           |3             |11                       
+Fer Lamaan |Hiigaran|0   |no           |4             |14                       
+Toasiim    |Hiigaran|0   |no           |8             |10                       
+Jonalli    |Hiigaran|0   |no           |5             |19                       
 
 
 ## Iyatequa faction
