@@ -62,6 +62,7 @@ An overview of all systems in the game, if they have a trading station or astero
 ### Contributors & links
 As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
 
+
 #### Discords / communities
 
 - Official Homeworld mobile discord (shorturl.at/vxBSV)
