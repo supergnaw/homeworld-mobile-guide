@@ -158,7 +158,7 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 
 ## Cangacian faction
 
-The Cangacian factions, marked in red, made their wretched hives of scum and villainy in the north west of the known map. They have special outpost called 'safe haven' that gives you a nice little flavor text when you enter the system. As you could expect, outside of the safe haven, cangacians seem to attack you quite a lot in their space. They currently have no liaison offices.
+The Cangacian factions, marked in red, made their wretched hives of scum and villainy in the north west of the known map. They have special outpost called 'safe haven' that gives you a nice little flavor text when you enter the system. As you could expect, outside of the safe haven, cangacians seem to attack you quite a lot in their space. They currently have no liaison offices, nor should you even be willing to support the pirate menace.
 
 ### Cangacian systems
 
