@@ -6,9 +6,9 @@ Officers in HWM give various buffs depending on the location they are placed in,
 The three stats that officer have, are Physical, Mind and Aerospace.
 
 ### Physical:
-- Kinetic weapons (K-A3 Turret, Twin Javelin Cannon, Karos-8 Battery). It gives a damage buff to both hull and armour damage
-- Ion weapons (Crimson-4 Array, Fleet Model X2 Battery). It gives a damage buff to both hull and armour damage
-- Pulsar weapons (LT-4 MAG Pointer, Yaot SSL light pulsar, DR-3 MAG Repeater, Yaot SSV Standard pulsar). It gives a damage buff to both hull and armour damage
+- Kinetic weapons. It gives a damage buff to both hull and armour damage
+- Ion weapons. It gives a damage buff to both hull and armour damage
+- Pulsar weapons. It gives a damage buff to both hull and armour damage
 - Mining yield increase for collectors (when slotted into a resource collectors slot)
 - Remote mining yield for controllers (when slotted into a resource controller slot)
 - Armour damage buff for escort ships (when slotted into the escort itself)
@@ -19,8 +19,8 @@ The three stats that officer have, are Physical, Mind and Aerospace.
 - Research time reduction for upgrades
 
 ### Aerospace:
-- Missile weapons (Type-5 Launch Pads, Colchis Launch Clusters, Thundercloud Launch Complex). It increases the range of the turret
-- Repair turrets (REL-12, REL-12DX Twin, REL-14F Mohaava, REL-14XF Mohaava- Matter Projector) It increases the range of the turret				
+- Missile weapons. It increases the range of the turret
+- Repair turrets. It increases the range of the turret				
 - Engines, increase in speed and acceleration
 - Sensors array, increase the scan strength for both system and galaxy
 - Strike craft damage, increase for both hull and armour damage of a (combat) strike craft	
