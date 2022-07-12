@@ -21,6 +21,7 @@ There are item drops so common, that the specific location is not needed. If lef
 
 If you want to download the data behind this site, there is a Google drive excel sheet available at: shorturl.at/nqwCW
 
+
 ## Sections Overview
 
 As of now, the document has the following tabs:
