@@ -152,7 +152,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Fleet Model X2 Battery II      |Large weapons|Research                     |
 |Fleet Model X2 Battery III     |Large weapons|Research                     |
 |Epic Fleet Model X2 Battery III|Large weapons|Liasons                      |
-|Vission-11 Battery III         |Large weapons|Strikes                      |
+|Vission-11 Battery             |Large weapons|Strikes                      |
 
 ### Ion Build requirements
 
