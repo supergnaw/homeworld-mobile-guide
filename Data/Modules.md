@@ -146,7 +146,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Rare Crimson-4 Array II        |Medium weapon|Liaisons                     |
 |Crimson-4 Array III            |Medium weapon|Research                     |
 |Rare Crimson-4 Array III       |Medium weapon|Market (adamant), Liaisons   |
-|Acure-1 Array III              |Medium weapon|Strikes                      |
+|Azure-1 Array III              |Medium weapon|Strikes                      |
 |Epic Twin Azure-1 Array III    |Medium weapon|Strikes                      |
 |Fleet Model X2 Battery I       |Large weapons|Strikes, Liaisons            |
 |Fleet Model X2 Battery II      |Large weapons|Research                     |
@@ -163,7 +163,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Rare Crimson-4 Array II        |RU D II              |125       |Large Weapon Parts II |700       |RU C II                  |333       |
 |Crimson-4 Array III            |RU A III             |160       |Large Weapon Parts III|280       |Large Machinery Parts III|80        |
 |Rare Crimson-4 Array III       |Large Electronics III|50        |Large Weapon Parts III|350       |Large Machinery Parts III|100       |
-|Acure-1 Array III              |RU A III             |160       |Large Weapon Parts III|280       |Large Machinery Parts III|80        |
+|Azure-1 Array III              |RU A III             |160       |Large Weapon Parts III|280       |Large Machinery Parts III|80        |
 |Epic Twin Azure-1 Array III    |RU A III             |280       |Large Weapon Parts II |490       |Large Machinery Parts III|140       |
 |Fleet Model X2 Battery I       |RU M 0               |300       |RU B I                |525       |RU C I                   |150       |
 |Fleet Model X2 Battery II      |RU A III             |90        |Large Weapon Parts II |630       |RU C II                  |300       |
