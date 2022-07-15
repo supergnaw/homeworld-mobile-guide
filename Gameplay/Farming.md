@@ -12,7 +12,6 @@ Since scanable missions seem to be static to each system, and the 1st scanned sy
 
 ### T2
 - Tlapan, Yaot Signal Beta (2nd scan)
-
-And to reset, any other system will do
+- Tecolate, Tanoch signal alpha (2nd scan)
 
 - BE AWARE that epic missions are some of the hardest missions out there. So make sure you are equipped to deal with a lot of strikes craft, and tanky frigates / destroyer class enemies
