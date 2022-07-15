@@ -43,11 +43,11 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Twin Javelin Cannon I           |Medium weapon|Main quest                                |
 |K-X3C Thunderbolt Cannon I      |Medium weapon|Scannables - spoils of battle             |
 |Twin Javelin Cannon II          |Medium weapon|Research                                  |
-|Rare Twin Javelin Cannon II     |Medium weapon|Liasons                                   |
+|Rare Twin Javelin Cannon II     |Medium weapon|Strikes, Scannables - spoils of battle    |
 |Tanoch AX-48 Standard kinetic II|Medium weapon|Tanoch liaison requisitions - reputation 3|
 |K-X3C Thunderbolt Cannon II     |Medium weapon|Scannables - spoils of battle             |
 |Twin Javelin Cannon III         |Medium weapon|Research                                  |
-|Rare Twin Javelin Cannon III    |Medium weapon|Liasons                                   |
+|Rare Twin Javelin Cannon III    |Medium weapon|Strikes, Scannables - spoils of battle    |
 |K-X3C Thunderbolt Cannon III    |Medium weapon|Scannables - spoils of battle             |
 |Karos-8 Battery I               |Large weapons|Scannables - spoils of battle             |
 |Karos-8 Battery II              |Large weapons|Research                                  |
