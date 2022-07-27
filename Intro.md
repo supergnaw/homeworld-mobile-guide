@@ -6,7 +6,7 @@
 
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
-- We are still collecting more data on update 2.63, expect future changes.
+- If you are having trouble with any of the main- or sidequest donations, try the system Mitorai. That system seems to work most of the time.
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
@@ -14,10 +14,9 @@ If there are any issues with the document or you've found relevant data, please 
 
 Most questions that players have, are already answered in the discord. Use the search function or Ctrl + F with a few keywords of your questions, and you'll most likely find the answer. Also, check out the #tips-and-tricks channel posts for additional info. For bug-reporting, check out the pin posted for the right format and see the #known-issues channel to avoided duplicate reports.
 
-For convenience sake, there is a FAQ tab with what we've perceived as the most common questions asked both in game as in the discord. If you've a question, see if it pops-up there. If not ask away in global chat or in the #game-discussion channel.
+For the sake of convenience, there is a FAQ tab with what we've perceived as the most common questions asked both in game as in the discord. If you've a question, see if it pops-up there. If not ask away in global chat or in the #game-discussion channel.
 
 Some stats and drop location are not added into the document, the reason for this is that there is currently no method to determine the base stats of units. So until this can be showed, stats wont be added.
-There are item drops so common, that the specific location is not needed. If left blank, assume that the items drops from all activities.
 
 If you want to download the data behind this site, there is a Google drive excel sheet available at: shorturl.at/nqwCW
 
