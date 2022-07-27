@@ -10,13 +10,17 @@ The main quest now has certain unlocks for gameplay element like fabrication, li
 Chapter 1 - Local Currency, unlocks the fabricator
 Chapter 4 - Bridge, unlocks the shipyard
 Chapter 6 - Delver, unlocks Kiith selection
-Chapter 6 - Blood Ties, unlocks name change
+Chapter 6 - Blood Ties, unlocks name change, unlocks chat
 Chapter 6 - Declaration, unlocks T1 Hyperspace jump research
 Chapter 7 - New Minerals, unlocks the refinery
 Chapter 12 - Hostile History, unlocks external modules
 Chapter 15 - Iyatequa Business, unlocks research
 Chapter 16 - Laboratories, unlocks T2 Hyperspace jump research
+Chapter 17 - Cangacian Attacks, unlocks T2 Interceptor schematics / research
+Chapter 19 - Lazarus Repairs, unlocks T2 Assault frigate schematics / research
+Chapter 19 - Ore deal, unlocks Resources Controller T1
 Chapter 20 - Escort ships T2, unlocks the liaison office
+Chapter 22 - Flagship T2, unlocks T2 Capital mass driver schematics / research
 Chapter 23 - Temple Tonaati, unlocks T3 Hyperspace jump research
 
 ### I can't make escorts or flagships / I can't collect escorts or flagships?
@@ -32,10 +36,6 @@ If you're looking for a certain tier item (lets say T2 ores), you'll find it in 
 ### Where can I find large Weapons / Hull / Machinery parts blueprint?
 Since the introduction of requisitions, the different blueprints can be found in the requisitions stores of the different factions. Large weapon parts blueprints can be found from the Tanoch stations (Stations in the red zone, Gero Niir for example)
 Large hull parts blueprints can be found from the Yaot stations (Stations in the green zone, Xelasii for example) and the large machinery blueprints can be found from the Iyatequa stations (the zone without colour, Bishaan tel for example)
-
-### My fleet is not repairing / after jumping, repairs are not registered? (could be fixed in 2.63)
-In version 2.49, there is a desync bug that stops trading stations from repairing your fleet, or stop registering repairs that had happened when you jump to another location. The following action seems to fix the issue.
-When you notice your repairs not getting through, jump to a trading station and repair to full. After that, jump to another trading station and repair again. Keep doing this until the desync issue is resolved
 
 ### My game crashed after buying IRL purchases / I don't see my bought packs?
 Currently only android devices / accounts are able to buy IRL purchases. iOS devices seem to crash when attempting to buy something. This is due to testflight being a bit weird.
@@ -93,8 +93,8 @@ So TLDR; if you are mining in a group, 1 controller and 4 collectors is a good m
 
 ### How do I earn credits / adamant?
 Credits can be earned by various activities in the game, but there are methods that really help:
-Early on, you can mine T1 resources, make T1 interceptors and sell those on the market. This is currently a very fast and easy way to earn some creds
-When you unlock T2 small components, make and sell those instead of the T1 interceptors. This will net you more credits
+Early on, you can mine T0 resources, make T0 interceptors and sell those on the market. This is currently a very fast and easy way to earn some credits early on
+When you unlock T2 small components, make and sell those instead of the T0 interceptors. This will net you more credits
 If you're strong enough, you can camp the frigate spawn point on pirate hideout T1 strike for xp farming. Level-up rewards give out generous credit caches
 Power-leveling is also the best method to get yourself adamant. Aside from the daily cache and rare drops from progenitor salvage, xp farming will net you a lot of adamant
 
@@ -145,17 +145,18 @@ Schematics can be found in Liaisons, strikes and scannable missions. Each missio
 ### What do the different research upgrades do / what is the complete research list?	
 Research is based on a research tree, with a main middle path, and branches to the top and bottom. The middle path unlocks basic gear and stat upgrades, whilst the top mostly has unlocks for more uncommon types of gear	
 and the bottom path has mostly stat upgrades for different gear buffs. Aside from upgrades in the middle path, you will need to find certain Schematics to unlock upgrade from the top and bottom paths	
+
 Hyperspace- middle	
--	Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines)
--	Hyperspace jump limit T2 (Increases the cap on hyperjump strength stat for engines)
--	Hyperspace jump limit T3 (Increases the cap on hyperjump strength stat for engines)
+-	Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines) - Chapter 6 - Declaration
+-	Hyperspace jump limit T2 (Increases the cap on hyperjump strength stat for engines) - Chapter 16 - Laboratories
+-	Hyperspace jump limit T3 (Increases the cap on hyperjump strength stat for engines) - Chapter 23 - Temple Tonaati
 	
 Mining- middle	
--	Resource Collector T2 (unlocks T2 collector
+-	Resource Collector T2 (unlocks T2 collector)
 -	Mining yield: ore A (increases T2A yield)
 -	Mining yield: ore B (increases T2B yield)
 -	Mining yield: ore C (increases T2C yield)
--	Resource Collector T3 (unlocks T3 collector
+-	Resource Collector T3 (unlocks T3 collector)
 -	Mining yield: ore A (increases T3A yield)
 -	Mining yield: ore B (increases T3B yield)
 -	Mining yield: ore C (increases T3C yield)
@@ -169,12 +170,12 @@ Mining- top
 Mining- Bottom	
 -	Mining speed: Ore M (Increases T0M yield)
 -	Mining speed: Ore A (Increases T1A yield)
--	Resource collector hull (Increases collector hull)
--	Resource controller hull (Increases controller hull)
+-	Resource collector hull (Increases collector hull) - can be found at liaisons
+-	Resource controller hull (Increases controller hull) - can be found at liaisons
 -	Mining speed: Ore B (Increases T1B yield)
 	
 Strike craft- middle	
--	Interceptor schematics (unlocks T2 interceptors)
+-	Interceptor schematics (unlocks T2 interceptors) - Chapter 17 - Cangacian Attacks
 -	Strike craft speed (increases speed, acceleration and deceleration of T2 strike craft)
 -	Strike craft hull (Increases hull of T2 strike craft)
 -	Strike craft hull damage (Increases hull damage of T2 strike craft)
@@ -186,21 +187,21 @@ Strike craft- middle
 -	Strike craft armor damage (Increases armor damage of T3 strike craft)
 	
 Strike craft- top	
--	Plasma bomber schematics (Unlocks T2 plasma bombers)
+-	Plasma bomber schematics (Unlocks T2 plasma bombers) - can be found at scannable missions
 -	Assault corvette schematics (Unlocks T2 assault corvettes)
 -	Pulsar corvette schematics (Unlocks T2 pulsar corvettes)
--	Plasma bomber schematics (Unlocks T3 plasma bombers)
+-	Plasma bomber schematics (Unlocks T3 plasma bombers) - can be found at scannable missions
 -	Assault corvette schematics (Unlocks T3 assault corvettes)
 -	Pulsar corvette schematics (Unlocks T3 pulsar corvettes)
 	
 Strike craft- bottom	
 -	Interceptor evasion (increases the change to dodge and agility of all interceptors)
--	Interceptor speed (increases speed, acceleration and deceleration of all interceptors)
--	plasma bombers evasion (increases the change to dodge and agility of all plasma bombers)
+-	Interceptor speed (increases speed, acceleration and deceleration of all interceptors) - can be found at scannable missions
+-	plasma bombers evasion (increases the change to dodge and agility of all plasma bombers) - can be found at liaisons
 -	plasma bombers speed (increases speed, acceleration and deceleration of all plasma bombers)
 	
 Escort- middle	
--	Assault frigate schematics (Unlocks T2 assault frigates)
+-	Assault frigate schematics (Unlocks T2 assault frigates) - Chapter 19 - Lazarus Repairs
 -	Escort ship hull (Increases the hull of T2 escorts)
 -	Escort ship hull damage (Increases the hull damage of T2 escorts)
 -	Escort ship armor (Increases the armor of T2 escorts)
@@ -227,7 +228,7 @@ Escorts- bottom
 -	Battlecruiser hull (increases the hull of battlecruiser class flagships)
 	
 Weapons- middle	
--	Capital mass driver schematics (Unlocks T2 Kinetic weapons)
+-	Capital mass driver schematics (Unlocks T2 Kinetic weapons) - Chapter 22 - Flagship T2
 -	Kinetic turret rate of fire (Increases the rate of fire of T2 kinetics)
 -	Missile turret rate of fire (Increases the rate of fire of T2 missiles)
 -	Beam turret rate of fire (Increases the rate of fire of T2 ions)
@@ -238,15 +239,15 @@ Weapons- middle
 	
 Weapons- top	
 -	Missile launcher schematics (Unlocks T2 missile weapons)
--	Ion cannon schematics (Unlocks T2 ion weapons)
+-	Ion cannon schematics (Unlocks T2 ion weapons) - can be found at liaison missions
 -	Repair module schematics (Unlocks T2 repair modules) - can be found at strikes
 -	Missile launcher schematics (Unlocks T3 missile weapons)
--	Ion cannon schematics (Unlocks T3 ion weapons)
+-	Ion cannon schematics (Unlocks T3 ion weapons) - can be found at liaison missions
 -	Repair module schematics (Unlocks T3 repair modules) - can be found at strikes
 -	Pulsar turret schematics (Unlocks T3 pulsar weapons) - can be found at strikes
 	
 Weapons- bottom	
--	Kinetic turret hull damage (increases the hull damage for kinetic weapons)
+-	Kinetic turret hull damage (increases the hull damage for kinetic weapons) - can be found at scannable missions
 -	Missile turret armor damage (increases the armor damage for missile weapons)
 -	Beam turret hull damage (Increases the hull damage of ions and pulsar weapons) - can be found at strikes
 -	Kinetic turret armor damage (increases the armor damage for kinetic weapons)
