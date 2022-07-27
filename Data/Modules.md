@@ -335,7 +335,7 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Missile launcher signal booster III   |Missile boost|24                  |Increases turret range                        |Tanoch liaison requisitions - reputation 4|
 |Missile launcher heat sink II         |Missile boost|42                  |Reduces turret cooldown / increases damage    |Strikes                                   |
 |Missile launcher heat sink III        |Missile boost|36                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Ion cannon anti-hull booster II       |Ion boost    |24                  |Increases hull damage                         |                                          |
+|Ion cannon anti-hull booster II       |Ion boost    |28                  |Increases hull damage                         |                                          |
 |Ion cannon anti-hull booster III      |Ion boost    |24                  |Increases hull damage                         |                                          |
 |Ion cannon anti-armor booster II      |Ion boost    |28                  |Increases armor damage                        |Yaot liaison requisitions - reputation 3  |
 |Ion cannon anti-armor booster III     |Ion boost    |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 4  |
