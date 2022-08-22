@@ -90,11 +90,11 @@ Ubacontl T3
 - 1st scan: Progenitor Activities, Progenitor Signal
 
 #### T3 2nd scan only
-Saami Ra
-Zaatas
-Chocata
-Misantep
-Sabio (epic)
+- Saami Ra
+- Zaatas
+- Chocata
+- Misantep
+- Sabio (epic)
 
 
 
