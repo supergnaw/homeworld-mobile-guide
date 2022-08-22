@@ -534,7 +534,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Judaah |Paktu |Kinetic burst ability  |                                                       |
 |Judith |Jaraci|Kinetic burst ability  |                                                       |
 |Julia  |S'jet |Kinetic burst ability  |                                                       |
-|Kamara |S'jet |Repair burst ability   |Can only be received from the Large early prioneer pack|
+|Kamara |S'jet |Repair burst ability   |                                                       |
 |Lance  |Naabal|Escort hull damage     |                                                       |
 |Mahlah |Soban |Missile barrage ability|                                                       |
 |Martell|Paktu |Kinetic burst ability  |Varient                                                |
