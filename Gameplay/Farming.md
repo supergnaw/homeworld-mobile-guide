@@ -4,27 +4,97 @@
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types.
 Down below are all the epic missions that are found so far, if there are any error or I missed something, please let me know!
 
-### Systems with progenitor signals and / or activities
+### Systems with the most Progenitorenitor Signalnal / Activitiesivities missions
+Sobel Rem T2
+- 1st scan: Progenitor Activities Alpha, Progenitor Activities Beta, Progenitor Signal Alpha
+- 2nd scan: Progenitor Activities Gamma, Progenitor Signal Beta
+- 3rd scan: Progenitor Signal Gamma
+
+Kied T2
+- 1st scan: Progenitor Activities Alpha,
+- 2nd scan: Progenitor Activities Beta, Progenitor Signal Alpha
+
+Chihuat T2
+- 1st scan: Progenitor Activities Alpha
+- 2nd scan: Progenitor Activities Beta, Progenitor Signal
+
+Ayotla T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta,
+- 2nd scan: Progenitor Activities
+
+Paipaga T3
+- 1st scan: Progenitor Activities
+- 2nd scan: Progenitor Signal Alpha, Progenitor Signal Beta
+
+Samacon T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Activities
+
+Topaque T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta, Progenitor Signal Gamma
+- 2nd scan: Progenitor Signal Delta
+
+
+### Systems with Progenitorenitor Signalnals and / or Activitiesivities
 #### T2
-- Sobel rem (1st and 2nd scan)
-- Keid
-- Tlapan
+Sobel Rem T2
+- 1st scan: Progenitor Activities Alpha, Progenitor Activities Beta, Progenitor Signal Alpha
+- 2nd scan: Progenitor Activities Gamma, Progenitor Signal Beta
+- 3rd scan: Progenitor Signal Gamma
+
+Kied T2
+- 1st scan: Progenitor Activities Alpha,
+- 2nd scan: Progenitor Activities Beta, Progenitor Signal Alpha
+
+Chihuat T2
+- 1st scan: Progenitor Activities Alpha
+- 2nd scan: Progenitor Activities Beta, Progenitor Signal
+
+Tlapan T2
+- 1st scan: Progenitor Activities
+
+Ixtlan T2
+- 1st scan: Progenitor Signal Alpha, Progenitor Activities Alpha
 
 #### T3
-- Tunda Miraan
-- Briuun
-- Tebecoma
-- Paipaga (1st and 2nd scan)
-- Topaconta
-- Samacon
-- Tiba
-- Ubacontl
+- Tunda Miraan T3
+- 1st scan: Progenitor Signal
+
+Briuun T3
+- 1st scan: Progenitor Activities
+
+Ayotla T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta,
+- 2nd scan: Progenitor Activities
+
+Tebecoma T3
+- 1st scan: Progenitor Activities
+
+Paipaga T3
+- 1st scan: Progenitor Activities
+- 2nd scan: Progenitor Signal Alpha, Progenitor Signal Beta
+
+Topaconta T3
+- 1st scan: Progenitor Activities, Progenitor Signal
+
+Samacon T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Activities
+
+Topaque T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta, Progenitor Signal Gamma
+- 2nd scan: Progenitor Signal Delta
+
+Tiba T3
+- 1st scan: Progenitor Activities
+
+Ubacontl T3
+- 1st scan: Progenitor Activities, Progenitor Signal
+
 #### T3 2nd scan only
-- Saami Ra
-- Zaatas
-- Chocata
-- Misantep
-- Sabio (epic)
+Saami Ra
+Zaatas
+Chocata
+Misantep
+Sabio (epic)
 
 
 
