@@ -4,6 +4,30 @@
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types.
 Down below are all the epic missions that are found so far, if there are any error or I missed something, please let me know!
 
+### Systems with progenitor signals and / or activities
+#### T2
+- Sobel rem (1st and 2nd scan)
+- Keid
+- Tlapan
+
+#### T3
+- Tunda Miraan
+- Briuun
+- Tebecoma
+- Paipaga (1st and 2nd scan)
+- Topaconta
+- Samacon
+- Tiba
+- Ubacontl
+#### T3 2nd scan only
+- Saami Ra
+- Zaatas
+- Chocata
+- Misantep
+- Sabio (epic)
+
+
+
 ### Epic signals T3:
 - Tiba, Cangacian Signal alpha, 1st scan
 - Turmequi, Cangacian Signal, 1st scan
