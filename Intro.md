@@ -7,12 +7,11 @@
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
 - From the 22nd to the 26th of august, there will be an active event! Completing Progenitor activities and Progenitor signal missions will be counted towards a reward for everyone involved (Tier doesn't matter, just the mission type)! Read the latest announcement on the discord for more details, new farm routes have been added in the farming page to help with the event. Progress is server wide, so everyone can chip in to help the fight!																
-
--250 missions (Completed!)														
--1000 missions																
--2000 missions																
--3000 missions																
--4000 missions																
+- 250 missions (Completed!)														
+- 1000 missions																
+- 2000 missions																
+- 3000 missions																
+- 4000 missions																
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
