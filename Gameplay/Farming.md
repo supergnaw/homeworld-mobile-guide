@@ -35,6 +35,34 @@ Topaque T3
 
 
 ### Systems with Progenitorenitor Signalnals and / or Activitiesivities
+#### T0
+Nokuuna T0
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta, Progenitor Signal Gamma
+- 2nd scan: Progenitor Signal Delta
+
+Sumaar T0
+- 1st scan: Progenitor Signal
+
+Saaret T0
+- 1st scan: Progenitor Signal Alpha
+- 2nd scan: Progenitor Signal Beta
+
+Mitorai T0
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta
+
+Roa Tisaad T0
+- 1st scan: Progenitor Signal Alpha
+
+Fer Lamaan T0
+- 1st scan: Progenitor Signal
+
+Toasiim T0
+- 1st scan: Progenitor Signal
+
+#### T1
+Estraiir T1
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta
+
 #### T2
 Sobel Rem T2
 - 1st scan: Progenitor Activities Alpha, Progenitor Activities Beta, Progenitor Signal Alpha
