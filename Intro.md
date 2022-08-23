@@ -9,7 +9,7 @@ Welcome to the Homeworld mobile tips, tricks and data document! In this document
 - From the 22nd to the 26th of august, there will be an active event! Completing Progenitor activities and Progenitor signal missions will be counted towards a reward for everyone involved (Tier doesn't matter, just the mission type)! Read the latest announcement on the discord for more details, new farm routes have been added in the farming page to help with the event. Progress is server wide, so everyone can chip in to help the fight!																
 - 250 missions (Completed!)
 - 1000 missions (Completed!)
-- 2000 missions
+- 2000 missions (Completed!)
 - 3000 missions
 - 4000 missions
 
