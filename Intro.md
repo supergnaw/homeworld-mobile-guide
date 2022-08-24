@@ -14,7 +14,7 @@ Welcome to the Homeworld mobile tips, tricks and data document! In this document
 - 4000 missions (Completed!)
 - NEW TARGET
 - 7500 missions
-
+ 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
 If there are any issues with the document or you've found relevant data, please @Dalco in the discord or send me a DM (Dalco#0413). I'll try to keep this doc up-to-date as soon as I can. (Offical Homeworld mobile discord: shorturl.at/vxBSV )
