@@ -12,6 +12,7 @@ Welcome to the Homeworld mobile tips, tricks and data document! In this document
 - 2000 missions (Completed!)
 - 3000 missions (Completed!)
 - 4000 missions (Completed!)
+- NEW TARGET
 - 7500 missions
 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
