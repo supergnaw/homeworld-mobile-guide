@@ -3,7 +3,7 @@
 ## Scannable farm routes
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types.
 Down below are all the epic missions that are found so far, if there are any error or I missed something, please let me know!
-
+ 
 ### Systems with the most Progenitor Signals / Activities missions
 Sobel Rem T2
 - 1st scan: Progenitor Activities Alpha, Progenitor Activities Beta, Progenitor Signal Alpha
