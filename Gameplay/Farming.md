@@ -4,13 +4,13 @@
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types.
 Down below are all the epic missions that are found so far, if there are any error or I missed something, please let me know!
  
-### Systems with the most Progenitor Signals / Activities missions
+### Systems with the most Progenitor Signal / Activities missions (High impact route)
 Sobel Rem T2
 - 1st scan: Progenitor Activities Alpha, Progenitor Activities Beta, Progenitor Signal Alpha
 - 2nd scan: Progenitor Activities Gamma, Progenitor Signal Beta
 - 3rd scan: Progenitor Signal Gamma
 
-Kied T2
+Keid T2
 - 1st scan: Progenitor Activities Alpha,
 - 2nd scan: Progenitor Activities Beta, Progenitor Signal Alpha
 
@@ -33,6 +33,82 @@ Topaque T3
 - 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta, Progenitor Signal Gamma
 - 2nd scan: Progenitor Signal Delta
 
+### T3 Progenitor route
+Ayotla T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta,
+- 2nd scan: Progenitor Activities
+
+Tebecoma T3
+- 1st scan: Progenitor Activities
+
+Paipaga T3
+- 1st scan: Progenitor Activities
+- 2nd scan: Progenitor Signal Alpha, Progenitor Signal Beta
+
+Topaconta T3
+- 1st scan: Progenitor Activities, Progenitor Signal
+
+Samacon T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Activities
+
+Topaque T3
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta, Progenitor Signal Gamma
+- 2nd scan: Progenitor Signal Delta
+
+Ubacontl T3
+- 1st scan: Progenitor Activities, Progenitor Signal
+
+### T2 Progenitor route
+Sobel Rem T2
+- 1st scan: Progenitor Activities Alpha, Progenitor Activities Beta, Progenitor Signal Alpha
+- 2nd scan: Progenitor Activities Gamma, Progenitor Signal Beta
+- 3rd scan: Progenitor Signal Gamma
+
+Keid T2
+- 1st scan: Progenitor Activities Alpha,
+- 2nd scan: Progenitor Activities Beta, Progenitor Signal Alpha
+
+Chihuat T2
+- 1st scan: Progenitor Activities Alpha
+- 2nd scan: Progenitor Activities Beta, Progenitor Signal
+
+Tecpan T2
+- 1st scan: Progenitor Activities Alpha
+
+Malinalc  T2
+- 1st scan: Progenitor Activities Alpha
+
+Tlapan T2
+- 1st scan: Progenitor Activities
+
+Ixtlan T2
+- 1st scan: Progenitor Signal Alpha, Progenitor Activities Alpha
+
+### T0 / T1 Progenitor route
+
+Nokuuna T0		
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta, Progenitor Signal Gamma		
+- 2nd scan: Progenitor Signal Delta		
+		
+Sumaar T0		
+- 1st scan: Progenitor Signal		
+		
+Saaret T0		
+- 1st scan: Progenitor Signal Alpha		
+- 2nd scan: Progenitor Signal Beta		
+		
+Mitorai T0		
+- 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta		
+		
+Roa Tisaad T0		
+- 1st scan: Progenitor Signal Alpha		
+		
+Fer Lamaan T0		
+- 1st scan: Progenitor Signal		
+		
+Toasiim T0	OR	Estraiir T1
+- Toasiim 1st scan: Progenitor Signal		
+- Estraiir 1st scan: Progenitor Signal Alpha, Progenitor Signal Beta
 
 ### Systems with Progenitor Signals and / or Activities
 #### T0
@@ -69,13 +145,22 @@ Sobel Rem T2
 - 2nd scan: Progenitor Activities Gamma, Progenitor Signal Beta
 - 3rd scan: Progenitor Signal Gamma
 
-Kied T2
+Keid T2
 - 1st scan: Progenitor Activities Alpha,
 - 2nd scan: Progenitor Activities Beta, Progenitor Signal Alpha
 
 Chihuat T2
 - 1st scan: Progenitor Activities Alpha
 - 2nd scan: Progenitor Activities Beta, Progenitor Signal
+
+Tecpan T2
+- 1st scan: Progenitor Activities Alpha
+
+Malinalc  T2
+- 1st scan: Progenitor Activities Alpha
+
+Larinca T2
+- 1st scan: Progenitor Signal
 
 Tlapan T2
 - 1st scan: Progenitor Activities
