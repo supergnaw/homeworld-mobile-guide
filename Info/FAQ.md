@@ -1,5 +1,5 @@
 # Frequently Asked Questions & Basic Info
-
+ 
 ## Basic Info
 ### What Kiithid / faction should I choose?
 With the current game balance, all kiithid are a viable choice. The buff and debuffs you get from them are minimal, so choose which group you like the most lore or colour scheme wise
