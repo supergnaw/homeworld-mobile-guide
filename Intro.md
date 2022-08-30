@@ -6,8 +6,9 @@
 
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
-- Event completed! Look at your ingame mail and collect the various rewards for the completed milestones! The progenitor farm routes will still be available on the farming page for those who want to farm those.
-- If you are stuck on a donation quest, that isn't working out for you. Try to go to the Mitorai system in the blue zone on the bottom left of the map. This system seems work most of the time.
+- HEADSUP, the end of the beta has been announched! 12th of september will be the end of the regional open beta, and a event will start during the last weeks of the beta.
+
+- This event marks the end of the Regional Open Beta. Following this event the server will be closed and all game progress will be wiped. Please keep in mind that while your game progress will reset, you will receive the contents of all Adamant Packs and all Early Pioneer Packs you have previously purchased once the servers are back online. (Basically anything you've bought with IRL cash, will be returned to you on laucnh).
  
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
