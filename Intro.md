@@ -9,7 +9,8 @@ Welcome to the Homeworld mobile tips, tricks and data document! In this document
 - HEADSUP, the end of the beta has been announced! 12th of September will be the end of the regional open beta, and an event will start during the last weeks of the beta.
 
 - This event marks the end of the Regional Open Beta. Following this event the server will be closed and all game progress will be wiped. Please keep in mind that while your game progress will reset, you will receive the contents of all Adamant Packs and all Early Pioneer Packs you have previously purchased once the servers are back online. (Basically anything you've bought with IRL cash, will be returned to you on launch).
- 
+
+
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
 If there are any issues with the document or you've found relevant data, please @Dalco in the discord or send me a DM (Dalco#0413). I'll try to keep this doc up-to-date as soon as I can. (Offical Homeworld mobile discord: shorturl.at/vxBSV )
