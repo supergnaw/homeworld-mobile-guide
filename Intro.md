@@ -6,9 +6,10 @@
 
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
-- HEADSUP, the end of the beta has been announced! 12th of September will be the end of the regional open beta, and an event will start during the last weeks of the beta.
-
-- This event marks the end of the Regional Open Beta. Following this event the server will be closed and all game progress will be wiped. Please keep in mind that while your game progress will reset, you will receive the contents of all Adamant Packs and all Early Pioneer Packs you have previously purchased once the servers are back online. (Basically anything you've bought with IRL cash, will be returned to you on launch).
+- WARNING commanders, PvP is active in the following systems: Edowana (T1), Chiapa (T2) and Charatl (T3)
+- Fog of war is active, so you won't see hostile players until they are in your sensor range. Use interceptors as scouts or sensor range officers to help with spotting them
+- The different systems are tier locked, you can only access Chiapa for example when equipped with at least one T2 item (weapons, ships). Higher tier gear is not allowed in lower tier zones
+- Once in a asteroid belt, other players will be hostile to each other. Your strike craft and escorts can be permantly destroyed
 
  
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
