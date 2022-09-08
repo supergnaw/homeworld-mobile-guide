@@ -89,6 +89,7 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 |Misantep   |Tanoch |3   |yes          |no            |210                      |5         |
 |Axocotil   |Tanoch |3   |yes          |5             |210                      |5         |
 |Sijin      |Tanoch |3   |yes          |10            |210                      |7         |
+|Chiapa     |Tanoch |3   |no           |8             |150                      |2         |
 |Ixtlan     |Tanoch |2   |yes          |no            |118                      |2         |
 |Teozauhq   |Tanoch |2   |yes          |no            |115                      |5         |
 |Cuilco     |Tanoch |2   |no           |2             |114                      |2         |
