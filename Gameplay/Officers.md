@@ -111,6 +111,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ## Officer list
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below.
+
 ### Comms Officers - Perks
 
 |Name     |Kiith  |Perk                          |Comment                                 |
