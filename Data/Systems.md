@@ -26,6 +26,23 @@ The Hiigaran faction, marked with blue, staked their claim on the south west of 
 |Toasiim    |Hiigaran|0   |no           |8             |10                       |1         |
 |Jonalli    |Hiigaran|0   |no           |5             |19                       |1         |
 
+### Hiigaran lore
+
+- this is excluding lore from the main game titles, just what is found on the various loading screen segments.
+
+One in three Hiigaran expeditions sent through the gates to other galaxies fail to return. Nimbus has an exceptionally poor ratio.
+The name for the Nimbus Galaxy originates from the Hiigarans. The name was known to the ancients on Hiigara itself.
+The Lazarus Expedition of 9631 GSY was the largest and best-prepared expedition sent to Nimbus. It was the only time a full mothership ventured there.
+Joanna Naabal was sixteen when the Vaygr bombarded Hiigara. She lived for several hours in fear that a Vaygr missile would strike her house.
+Ahab Naabal, father of Joanna, is one of the prominent Hiigaran fleet admirals and proponent for Hiigaran unified expeditions.
+Joanna chafed against the safe postings given to her by her father. Two rotations in frigate command taught her the vulnerability of these ships.
+Admiral Enoch S’jet was the captain of a destroyer during the final battle against the Vaygr over Hiigara.
+To this day nobody is certain where the Vaygr acquired the planet killers they used against Hiigara in the final days of the war.
+Vashti Soban left Kiith S’jet because she disagreed with her Kiith’s disposition after the war. She believes Karan should have done more to unite their people.
+Few know that the Eye of Aarran is damaged. Karan S’jet is said to be seeking ways to repair it.
+There are functional hyperspace gate connections not on the network controlled by the Eye of Aarran.
+
+
 ## Iyatequa faction
 
 The Iyatequa faction, marked with brown, are mainly traders in the center of the Nimbus universe. They seem to have a close relation with the Hiigaran's, as can be seen with Hiigaran units protecting their stations and interest. All there systems have liaison missions, and their belts seems to be the main target of Cangacian pirates.
@@ -35,28 +52,51 @@ The Iyatequa faction, marked with brown, are mainly traders in the center of the
 
 ### Iyatequa systems
 
-|System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
-|-----------|--------|----|-------------|--------------|-------------------------|----------|
-|Ariitar    |Iyatequa|1   |yes          |no            |30                       |6         |
-|Niirea Paas|Iyatequa|1   |no           |no            |30                       |8         |
-|Devadaasi  |Iyatequa|1   |yes          |9             |30                       |2         |
-|Estraiir   |Iyatequa|1   |yes          |no            |30                       |3         |
-|Inayat     |Iyatequa|1   |yes          |no            |30                       |7         |
-|Jishun     |Iyatequa|1   |yes          |8             |30                       |2         |
-|Naredra    |Iyatequa|1   |yes          |no            |30                       |1         |
-|Ekaam Nar  |Iyatequa|1   |no           |2             |30                       |7         |
-|Tela Diim  |Iyatequa|1   |no           |no            |30                       |6         |
-|Saraal     |Iyatequa|1   |yes          |no            |30                       |8         |
-|Bishaan Tel|Iyatequa|2   |no           |no            |110                      |2         |
-|Sobel Rem  |Iyatequa|2   |no           |1             |110                      |2         |
-|Kisho Re   |Iyatequa|2   |no           |1             |110                      |4         |
-|Marat Kan  |Iyatequa|2   |no           |4             |110                      |1         |
-|Keid       |Iyatequa|2   |no           |no            |110                      |5         |
-|Mituul     |Iyatequa|2   |no           |1             |110                      |3         |
-|Zaatas     |Iyatequa|3   |yes          |1             |210                      |4         |
-|Vaal       |Iyatequa|3   |no           |6             |210                      |7         |
-|Briuun     |Iyatequa|3   |yes          |4             |210                      |8         |
-|Edowana    |Iyatequa|1   |yes          |3             |50                       |2         |
+|System Name  |Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
+|-------------|--------|----|-------------|--------------|-------------------------|----------|
+|Ariitar      |Iyatequa|1   |yes          |no            |30                       |6         |
+|Niirea Paas  |Iyatequa|1   |no           |no            |30                       |8         |
+|Devadaasi    |Iyatequa|1   |yes          |9             |30                       |2         |
+|Estraiir     |Iyatequa|1   |yes          |no            |30                       |3         |
+|Inayat       |Iyatequa|1   |yes          |no            |30                       |7         |
+|Jishun       |Iyatequa|1   |yes          |8             |30                       |2         |
+|Naredra      |Iyatequa|1   |yes          |no            |30                       |1         |
+|Ekaam Nar    |Iyatequa|1   |no           |2             |30                       |7         |
+|Tela Diim    |Iyatequa|1   |no           |no            |30                       |6         |
+|Saraal       |Iyatequa|1   |yes          |no            |30                       |8         |
+|Bishaan Tel  |Iyatequa|2   |no           |no            |110                      |2         |
+|Sobel Rem    |Iyatequa|2   |no           |1             |110                      |2         |
+|Kisho Re     |Iyatequa|2   |no           |1             |110                      |4         |
+|Marat Kan    |Iyatequa|2   |no           |4             |110                      |1         |
+|Keid         |Iyatequa|2   |no           |no            |110                      |5         |
+|Mituul       |Iyatequa|2   |no           |1             |110                      |3         |
+|Zaatas       |Iyatequa|3   |yes          |1             |210                      |4         |
+|Vaal         |Iyatequa|3   |no           |6             |210                      |7         |
+|Briuun       |Iyatequa|3   |yes          |4             |210                      |8         |
+|Edowana      |Iyatequa|1   |yes          |3             |50                       |2         |
+|Tri Tussali  |Iyatequa|1   |no           |4             |31                       |3         |
+|Faaleas      |Iyatequa|1   |yes          |2             |38                       |8         |
+|Xaleraat     |Iyatequa|1   |yes          |5             |31                       |3         |
+|Talessur     |Iyatequa|1   |yes          |no            |40                       |2         |
+|Veraatlan    |Iyatequa|1   |no           |no            |33                       |7         |
+|Jinvalla     |Iyatequa|1   |no           |3             |31                       |5         |
+|Ulant Ti Saar|Iyatequa|1   |yes          |no            |34                       |4         |
+|Liusata      |Iyatequa|1   |yes          |no            |30                       |8         |
+|Visaan Ki    |Iyatequa|1   |yes          |no            |39                       |4         |
+
+### Iyatequa lore
+
+The Iyatequa traders are not native to this area. They maintain outposts and trade stations but do not have planetary possessions.
+The Iyatequa have little to no respect for outsiders. Every relationship with them is transactional.
+The Iyatequa’s reputation as providers extends nearly to all things, and they have few ethical standards.
+The Iyatequa can trade in anything, from Progenitor relics to slaves and access to corrupt politicians.
+The Iyatequa currency database contains thousands of currencies- including many from empires that have gone extinct.
+It is widely believed the Iyatequa unmask only in front of family-kind, but they do not reveal this information to outsiders.
+Nobody knows how the Iyatequa can see through their masks.
+The Iyatequa masks contain highly complex rank ornamentation, based on merit of the trader and accomplishments over their career.
+It is rumored that Iyatequa rank-ornamentation displays debts others owe to that particular trader.
+
+
 
 
 ## Tanoch faction
@@ -116,6 +156,16 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 |Tochteop   |Tanoch |2   |no           |3             |113                      |8         |
 |Xilotepe   |Tanoch |2   |yes          |3             |113                      |5         |
 
+### Tanoch lore
+
+The current Tanoch Empire has existed for over eight thousand years.
+The Tanoch believe Star Totek, the Holy Star, contains the dead spirit of one of their ancient gods.
+The Tanoch are a deeply religious people, bound by faith to the Priest class and the Emperor who is descended from the gods.
+There are three sub-cultures within the Tanoch Empire: The ruling Tanoch, the liberal Chicuat, and the downtrodden Tecuban.
+The Temple forces within the Tanoch Empire answer only to Itaca Taot, High Priest of the Empire.
+The centuries-long conflict between the Yaot and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
+In the Tanoch sky, Star Totek is part of a constellation known as the Eye of Xajaak- a creator deity whose hand is said to shape what is.
+
 
 ## Yaot systems
 
@@ -127,9 +177,9 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 
 |System Name |Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
 |------------|-------|----|-------------|--------------|-------------------------|----------|
-|Saami Ra    |Yaot   |3   |yes          |no            |110                      |3         |
-|Tunda Miraan|Yaot   |3   |yes          |2             |110                      |1         |
-|Tibata      |Yaot   |3   |no           |5             |110                      |1         |
+|Saami Ra    |Yaot   |3   |yes          |no            |210                      |3         |
+|Tunda Miraan|Yaot   |3   |yes          |2             |210                      |1         |
+|Tibata      |Yaot   |3   |no           |5             |210                      |1         |
 |Subaca      |Yaot   |3   |yes          |no            |210                      |1         |
 |Tocon       |Yaot   |3   |yes          |no            |210                      |2         |
 |Ytep        |Yaot   |3   |no           |4             |210                      |4         |
@@ -156,6 +206,11 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 |Tinjo       |Yaot   |3   |no           |no            |212                      |3         |
 |Tenjaca     |Yaot   |3   |no           |5             |212                      |2         |
 
+### Yaot lore
+
+The Yaot Federation is a Gerontocracy, ruled by a council of the eldest from every major house. No member is younger than 60.
+The centuries-long conflict between the Yaot and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
+
 
 ## Cangacian faction
 
@@ -171,3 +226,21 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 |Lura       |Cangacian|2   |no           |1             |117                      |4         |
 |Kaluari    |Cangacian|2   |no           |1             |112                      |8         |
 |Larinca    |Cangacian|2   |no           |no            |118                      |3         |
+
+### Cangacian lore
+
+Many of the Cangacian pirates have ancestry tracing back to the refugees from the ancient Tanoch wars of conquest.
+The Fleet of Rams is the personal fleet of Supay, Cangacian warlord. His ambition is to unite the fringe and invade the Tanoch Empire.
+
+
+## Progenitor faction
+
+Although the Progenitors don't have their own systems (yet?), They can be found in various scannable signals throughout Nimbus.
+
+### Progenitor lore
+
+There are too many conflicting theories behind the fall of the Progenitor empire to ever conclusively establish what destroyed them.
+Few survive an encounter with a Progenitor keeper. Most that do always accomplish the feat through desperation and outside help.
+It is widely rumored the Progenitors had weapons capable of stupefying levels of destruction. No Progenitor planets have ever been found.
+The Hyperspace Gate network is the most visible and lasting accomplishment of the ancient Progenitor Empire.
+Free standing artifacts that are gate-like have been identified and known for centuries as ‘gates’, but their purpose wasn’t revealed until Aarran was opened.
