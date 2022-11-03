@@ -6,10 +6,8 @@
 
 Welcome to the Homeworld mobile tips, tricks and data document! In this document you'll see a bunch of data for gear and its drop locations, locations in the game, quick summary of the hostile units and a (incomplete but still large) list of the officers in the game and an explanation of what they do. Disclaimer for the data that has been used, this is mainly from community members who have been playing across multiple versions of the game. Not all drop locations might be the same as they once were, so use this document is a guideline, not the hard truth.
 
-- The Homeworld Mobile regional beta is over, but on September 27 old beta-testers and all Android and iOS-users that live in Canada, Denmark, Finland, Iceland, Ireland, Norway, Sweden, United Kingdom and Germany will be able to join a pre-play phase.
-- This is basically early access for the release build, with no wipes in between. The progress you had DURING the regional beta has been wiped, so the gear you had in the beta has been wiped. If you bought anything in the market with IRL money, those items will be returned to you during this early-access-to-release period.
+- For the latest news on the game and words from the devs, please join the official discord for the latest news: https://discord.com/invite/N24ZkGWKTn
 
- 
 This game is still in development, expect bugs and stability issues. A majority of the issues can be fixed by restarting the game client, so as always, 'have you tried turning it off and on again?' works most of the time
 
 If there are any issues with the document or you've found relevant data, please @Dalco in the discord or send me a DM (Dalco#0413). I'll try to keep this doc up-to-date as soon as I can. (Offical Homeworld mobile discord: shorturl.at/vxBSV )
@@ -74,16 +72,18 @@ As a little ending / credits, I want to thank the various community members for 
 #### Down below are various links of the ongoing projects and additional info that may be of help to you
 
 - Thanks to mkb1#2542 for his Youtube channel featuring Homeworld mobile guides (shorturl.at/bgqzF)
+- Thanks to Maladjusted Gaming for various HWM content on Youtube (shorturl.at/jpIL5)
+- Thanks to Elixirninja for various tutorials on Youtube (shorturl.at/bjmMY)
 - Thanks to supergnaw#8465 for developing the website version of this document (homeworldsource.net)
 - Thanks to Darth Soban#6657 for the original document (stolen and edited by Dalco#0413 shorturl.at/nqwCW)
-- Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
-- Thanks to Enjoii#1872 for the fabrication calculator ( shorturl.at/qCFY0 )
 - Thanks to Dustybin / Idatae#0027 for the RE drop calculator document ( shorturl.at/nrBUW )
 - Thanks to LostWaif#7428 for the DPS info on various weapon types ( shorturl.at/aegoJ )
 
 #### Outdated projects that are a (few) game versions behind
 
 - Thanks to Dustybin / Idatae#0027 for the scannable missions document ( shorturl.at/elsJU )
+- Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
+- Thanks to Enjoii#1872 for the fabrication calculator ( shorturl.at/qCFY0 )
 
 #### Homeworld mobile related social media
 
