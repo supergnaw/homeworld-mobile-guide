@@ -28,6 +28,7 @@ Sensors can be buffed by upgrading them, fitting in a high aerospace stat office
 Kinetic or CMD weapons are ballistic weapons that go bang bang. With decent hull and armour damage, they are a jack-of-all-trades of the various weapon types. They have two active abilities called Kinetic Burst and EMP Round (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a CMD gunner (passive perks) or completing kinetic research upgrades.
 - Tanoch Kinetics Have a higher fire rate, but a shorter range compared to the normal / Hiigaran variant
+- Kinetics always deal full damage no matter the range, but the hit chance drastically falls off the further the enemy is away. 
 
 ### Kinetics Blueprints
 
@@ -84,6 +85,9 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 Missiles (not to be confused with torpedo's) are a weapon type that go fwoosh boom. With mostly hull damage and very little armour damage, they will shred any unarmoured targets but struggle with armoured enemies. They have two active abilities called Missile Barrage and Fusion Missile (from Operator officers).
 They can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs weapon range), a missile gunner (passive perks) and completing missile research upgrades.
+- All missiles always deal full damage no matter the range. 
+- The small missiles have very high hit chances at close range but drop off drastically at maximum range. 
+- Medium and large have hit penalties at close range, but are drastically better at long range. 
 
 ### Missiles Blueprints
 
@@ -137,6 +141,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 ## Torpedo weapons
 
 Torpdoe's (not to be confused with missiles) are a weapon type that go fwoosh BOOM. With mixed hull damage and armour damage, they can give you a decent mix of damage against larger targets. They can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs weapon range). Currently there are no officers with perks or abilities for torpedo's
+- To emphasize their sluggishness, they have a low hit chance at close range but have a 95% hit chance at medium and max range. They always deal full damage at any range
 
 ### Torpedo weapons Blueprints
 
@@ -153,8 +158,9 @@ Torpdoe's (not to be confused with missiles) are a weapon type that go fwoosh BO
 
 ## Ion weapons
 
-Ion weapons are beam type weapons that go vooomm. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Burst (from Operator officers).
+Ion weapons are beam type weapons that go vooomm. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Shot (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
+-Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance. 
 
 ### Ion Blueprints
 
@@ -198,6 +204,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons, they have mostly armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. They have one active abilities called Pulsar Burst (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a pulsar gunner (passive perks) and completing beam research upgrades.
 - Yaot pulsars have more damage and range, but a lower fire rate compared to the normal / Hiigaran variant
+- Pulsars are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance. 
 
 ### Pulsar Blueprints
 
