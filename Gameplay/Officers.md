@@ -114,7 +114,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ## Officer list
 
-- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below.
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 ### Comms Officers - Perks
 
@@ -188,6 +188,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Comms Officers - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name     |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |---------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -290,6 +292,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Scientist - Perks
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name    |Kiith  |Perk         |Comment                                                   |
 |--------|-------|-------------|----------------------------------------------------------|
 |Abdon   |Paktu  |RP production|                                                          |
@@ -382,6 +386,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Scientist - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name    |Kiith  |Rarity |Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |--------|-------|-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -513,6 +519,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Operator - Perks
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name       |Kiith  |Perk    |Comment                |Operator                                                           |
 |-----------|-------|--------|-----------------------|-------------------------------------------------------------------|
 |Abdon      |Paktu  |Operator|Fusion Missile         |r2 -0.65, r3 -?.??, r4 -1.17                                       |
@@ -579,6 +587,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Operator - Stats
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name   |Kiith |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |-------|------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 |Abdon  |Paktu |C     |24      |156     |95      |        |        |        |        |        |        |        |        |        |
@@ -643,6 +653,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Quartermaster - Perks
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name     |Kiith  |Perk            |Comment                                                |
 |---------|-------|----------------|-------------------------------------------------------|
@@ -727,6 +739,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Quartermaster - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name     |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |---------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -846,6 +860,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Pilot - Perks
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name      |Kiith  |Perk                  |Comment                                  |
 |----------|-------|----------------------|-----------------------------------------|
 |Aaron     |Manaan |Fighter: hull damage  |                                         |
@@ -953,6 +969,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Pilot - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name      |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |----------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -1111,6 +1129,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Medic - Perks
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name     |Kiith  |Perk          |Comment|
 |---------|-------|--------------|-------|
 |Aaron    |Naabal |Refining time |       |
@@ -1148,6 +1168,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Medic - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name     |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |---------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -1201,6 +1223,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Gunner - Perks
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name       |Kiith  |Perk                  |Comment                               |
 |-----------|-------|----------------------|--------------------------------------|
@@ -1326,6 +1350,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Gunner - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name       |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |-----------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -1511,6 +1537,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Miner - Perks
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name     |Kiith  |Perk               |Comment                               |
 |---------|-------|-------------------|--------------------------------------|
 |Abel     |Jaraci |Type B mining yield|Type C mining yield                   |
@@ -1584,6 +1612,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Miner - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name     |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |---------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -1690,6 +1720,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Engineer - Perks
 
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
+
 |Name     |Kiith  |Perk               |Comment             |
 |---------|-------|-------------------|--------------------|
 |Abdon    |Paktu  |Fabrication time   |                    |
@@ -1763,6 +1795,8 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 
 ### Engineer - Stats
+
+- WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
 
 |Name     |Kiith  |Rarity|Phys–L01|Mind–L01|Aero–L01|Phys–L10|Mind–L10|Aero–L10|Phys–L20|Mind–L20|Aero–L20|Phys–L30|Mind–L30|Aero–L30|
 |---------|-------|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
