@@ -1,6 +1,6 @@
 # List of all side missions
 
-Checklist for side missions: As of version 0.2.63, the following side mission series are available.
+Checklist for side missions: As of version 1.0.0, the following side mission series are available.
 
 ## Priority side missions that give T3 small components as its rewards
 - (T3 Small weapon parts from Production, T3 small machinery parts from Combat and T3 small hull parrs from Exploration)
@@ -87,102 +87,101 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 ## Cumulative series that gives non-blueprints / resources as its rewards
 
 ### T1 Mining
--  Mining equipment
--  Mining procedure
--  Mineral samples
--  Refinery activation
--  Refinery shakedown
--  Refinery shakedown 2
--  Refinery shakedown 3
--  Refinery shakedown 4
--  Resource collection certification
--  Refinery certification
+- Mining procedure I
+- Mining procedure II
+- Mining procedure III
+- Mining procedure IV
+- Mining procedure V
+- Mining procedure VI
+- Mining procedure VII
+- Mining procedure VII
+- Mining procedure IX
+- Mining procedure X
   
 ### T2 Mining
-- New mining equipment
--  New mining procedures
--  Refinery tests
--  Refinery upgrades
--  Refinery refit
--  Refinery trials
--  Refinery trials 2
--  Refinery trials 3
--  Refinery trials 4
--  Refinery upgrade certification
+- New mining procedures I
+- New mining procedures II
+- New mining procedures III
+- New mining procedures IV
+- New mining procedures V
+- New mining procedures VI
+- New mining procedures VI
+- New mining procedures VII
+- New mining procedures IX
+- New mining procedures X
   
 ### T3 Mining
-- Advanced mining equipment 
-- Advanced mining procedures
-- Refinery overprocessing 
-- Refinery overhaul 
-- Refinery postprocess 1
-- Refinery postprocess 2
-- Refinery postprocess 3
-- Refinery overhaul adjustments
-- Refinery final refitting
-- Refinery overhaul certification
+- Advanced mining procedures I
+- Advanced mining procedures II
+- Advanced mining procedures III
+- Advanced mining procedures IV
+- Advanced mining procedures V
+- Advanced mining procedures VI
+- Advanced mining procedures VII
+- Advanced mining procedures VIII
+- Advanced mining procedures IX
+- Advanced mining procedures X
  
 Note for the mining side quests, the last step is to mine 768k of type A, B and C ores.
 
 ### Scanning / exlporation
-- Exploration assignment
-- System charts
-- Scanning test
-- Sensor calibration
-- Sensor shakedown
-- Sensor shakedown short range
-- Sensor shakedown long range
-- Sensor shakedown hyperspace
-- Sensor shakedown emissions
-- Sensor shakedown certification
+- System charts I
+- System charts II
+- System charts III
+- System charts IV
+- System charts V
+- System charts VI
+- System charts VII
+- System charts VIII
+- System charts IX
+- System charts X
 
 ### Cangacian / pirate destruction
-- Cangacian raider fleets
-- Pirate chase
-- Local defense
-- Pirate hunting
-- Uproot pirates
-- The fleet of Rams
-- Hunting Rams
-- Fighting Rams
-- Wave of Rams
-- Challenge the Rams
+- Cangacian raider fleets I
+- Cangacian raider fleets II
+- Cangacian raider fleets III
+- Cangacian raider fleets IV
+- Cangacian raider fleets V
+- Cangacian raider fleets VI
+- Cangacian raider fleets VII
+- Cangacian raider fleets VIII
+- Cangacian raider fleets IX
+- Cangacian raider fleets X
 
 ### Yaot destruction
-- Yaot rebel fleets
-- Yaot pursuit
-- Local interference
-- Local disruption
-- Regional interference
-- Regional Disruption
-- Fleet interference
-- Fleet disruption
-- Sector disruption
-- Maximum threat
+- Yaot rebel fleets I
+- Yaot rebel fleets II
+- Yaot rebel fleets III
+- Yaot rebel fleets IV
+- Yaot rebel fleets V
+- Yaot rebel fleets VI
+- Yaot rebel fleets VII
+- Yaot rebel fleets VIII
+- Yaot rebel fleets IX
+- Yaot rebel fleets X
 
 ### Tanoch destruction
-- Rising to the challenge
-- Tanoch renegade fleets
-- Tanoch hunts
-- Local aggression
-- Persistent harassment
-- Regional threat
-- Regional menace
-- Declared hostile
-- Increased threat response
-- Attack on sight
-- Declared public enemy
+- Tanoch renegade fleets I
+- Tanoch renegade fleets II
+- Tanoch renegade fleets III
+- Tanoch renegade fleets IV
+- Tanoch renegade fleets V
+- Tanoch renegade fleets VI
+- Tanoch renegade fleets VII
+- Tanoch renegade fleets VIII
+- Tanoch renegade fleets IX
+- Tanoch renegade fleets X
 
 ### Signal scans completion
-- Keeping an Eye Open
-- Signal Search
-- Scout Group
-- Scout Mission
-- Scout Force
-- Reconnaissance Methods
-- Reconnaissance Mission
-- Reconnaissance Force
-- Cartographer
-- Galactic Observer
+- Signal Search I
+- Signal Search II
+- Signal Search III
+- Signal Search IV
+- Signal Search V
+- Signal Search VI
+- Signal Search VII
+- Signal Search VIII
+- Signal Search IX
+- Signal Search X
 
 Note for the scanning and destruction quests, last step for scans is 40k total scans. For destruction its 6.4k for each faction. The signal scans quests, the last step is 1.3k completed scans
