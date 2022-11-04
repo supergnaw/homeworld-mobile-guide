@@ -5,6 +5,7 @@ Since scanable missions seem to be static to each system, and the 1st scanned sy
 Down below are all the epic missions that are found so far, if there are any error or I missed something, please let me know!
 
 ### T3 Relic farming
+- Zaatas
 - Vaal
 - Ixtpec
 - Sijin
