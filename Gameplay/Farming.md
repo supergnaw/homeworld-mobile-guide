@@ -3,7 +3,14 @@
 ## Scannable farm routes
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types.
 Down below are all the epic missions that are found so far, if there are any error or I missed something, please let me know!
- 
+
+### T3 Relic farming
+- Vaal
+- Ixtpec
+- Sijin
+- Topa
+- Rama
+- Tenjaca
 
 ### Epic signals T3:
 - Tiba, Cangacian Signal alpha, 1st scan
