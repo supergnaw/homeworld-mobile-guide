@@ -162,7 +162,7 @@ Torpdoe's (not to be confused with missiles) are a weapon type that go fwoosh BO
 
 Ion weapons are beam type weapons that go vooomm. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Shot (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
--Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance. 
+-Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance.
 
 ### Ion Blueprints
 
