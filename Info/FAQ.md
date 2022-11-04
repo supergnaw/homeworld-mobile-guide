@@ -1,6 +1,11 @@
 # Frequently Asked Questions & Basic Info
  
 ## Basic Info
+
+### Don't have the resources for a interceptor / stuck on chapter 5 "a Black Eye"
+The arrow that points you to objectives has a chance to bug out at times. During quests that requires you to construct units which you don't have resources for seems to be a common issue.
+Try to construct a lower tier unit instead. For example, chapter 5 a Black Eye, you need to construct a T0 interceptor. But the arrow points you towards a T1 interceptor instead. Read your objective carefully and ignore the arrows.
+
 ### What Kiithid / faction should I choose?
 With the current game balance, all kiithid are a viable choice. The buff and debuffs you get from them are minimal, so choose which group you like the most lore or colour scheme wise
 Same can be said for the weapons and units, the balance right now is pretty solid so dont be afraid to pick whatever you want
@@ -21,6 +26,7 @@ Chapter 19 - Lazarus Repairs, unlocks T2 Assault frigate schematics / research
 Chapter 19 - Ore deal, unlocks Resources Controller T1
 Chapter 20 - Escort ships T2, unlocks the liaison office
 Chapter 22 - Flagship T2, unlocks T2 Capital mass driver schematics / research
+Chapter 23 - Fabricator module, unlocks internal modules
 Chapter 23 - Temple Tonaati, unlocks T3 Hyperspace jump research
 
 ### I can't make escorts or flagships / I can't collect escorts or flagships?
@@ -34,13 +40,12 @@ In the current version, there are four tiers, tier 0 (T0) tier 1 (T1), tier 2 (T
 If you're looking for a certain tier item (lets say T2 ores), you'll find it in a tier 2 system, marked with II (so for example Bishaan Tel II). If a mission requires you to build a T2 interceptor, look for the II on the top right of the blueprint
 
 ### Where can I find large Weapons / Hull / Machinery parts blueprint?
-Since the introduction of requisitions, the different blueprints can be found in the requisitions stores of the different factions. Large weapon parts blueprints can be found from the Tanoch stations (Stations in the red zone, Gero Niir for example)
-Large hull parts blueprints can be found from the Yaot stations (Stations in the green zone, Xelasii for example) and the large machinery blueprints can be found from the Iyatequa stations (the zone without colour, Bishaan tel for example)
+Since the introduction of requisitions, the different blueprints can be found in the requisitions stores of the different factions. Large weapon parts blueprints can be found from the Tanoch stations (Stations in the yellow zone, Tecoalte for example)
+Large hull parts blueprints can be found from the Yaot stations (Stations in the green zone, Saami Ra for example) and the large machinery blueprints can be found from the Iyatequa stations (the zone in the brownish colour zone, Edowana for example)
 
 ### My game crashed after buying IRL purchases / I don't see my bought packs?
-Currently only android devices / accounts are able to buy IRL purchases. iOS devices seem to crash when attempting to buy something. This is due to testflight being a bit weird.
-For android devices, you'll find the bought items in your ships storage (internal view -> storage). If this is not the case, double check if you see the 'sold out' tag on packs.
-If this tag is not present, then you might want to try a different payment method (if money has been withdrawn, the playstore will refund you in a 24h timespan). If this is present but you still don't have the items (after a reset)? Make a ticket in the #bug-report channel
+You'll find the bought items in your ships storage (internal view -> storage). If this is not the case, double check if you see the 'sold out' tag on packs.
+If this tag is not present, then you might want to try a different payment method (if money has been withdrawn, the playstore will refund you in a 24h timespan). If this is present but you still don't have the items (after a reset)? Make a ticket in the #bug-report channel															
 
 ### I can't progress the main quest anymore / main quest missions are too hard?
 The main quest is not meant to be progressed or rushed with back to back missions. If you feel like your fleet is too weak, take a bit of time off to mine and complete other missions to get stronger before attempting the main mission again
@@ -53,16 +58,16 @@ Sometimes during extended sessions, your camera can become stuck. There are two 
 In your system overview (On the top right, the 3rd button from the right) you can scan missions and locations. Press the scan button on the button left to start send your first ever ping across the system.
 
 ## Mining & Upgrades
-### Can I mine without being attacked / Any tips for mining?											
-Yes and no. By completing a scannable mission or a strike, you can stay in that instance and mine the asteroids that are present there. But the mining yield of those asteroid are abysmal because of its low purity.											
-To increase your mining yield, you need to scan down an asteroid belt (marked with a triangle on the map, check the System list tab). Those asteroids have 10x the purity then those in missions. But you'll be attack by pirates when you stay long enough in that instance. And most belts will have continuously spawns
-You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you											
-Popular mining systems are: Toasiim for T0, Jishun for T1, Cuernava for T2 and Tunda Miraan for T3											
+### Can I mine without being attacked / Any tips for mining?		
+Yes and no. By completing a scannable mission or a strike, you can stay in that instance and mine the asteroids that are present there. But the mining yield of those asteroid are abysmal because of its low purity.
+"To increase your mining yield, you need to scan down an asteroid belt (marked with a triangle on the map, check the System list tab). Those asteroids have 10x the purity then those in missions. But you'll be attack by pirates when you stay long enough in that instance. And most belts will have continuously spawns"	
+You can ask in global chat for help whilst mining, players tend to farm those pirate spawns so whilst you are safly mining away, another player can take care of the pirates for you			
+Popular mining systems are: Toasiim for T0, Devadaasi for T1, Marat Kan for T2 and Tibara for T3				
 
-### My scanner does not work / button is greyed out? (Could be fixed in 2.49)
+### My scanner does not work / button is greyed out?
 Scanning something down can be a bit difficult depending on your sensors array. Spamming the scan button does work if you for example have a T1 sensors array and you want to scan down a T2 site
 If your scan button grey's out and is no longer press able, then you've encountered a known bug. A fix for this is to restart your game client.
-To upgrade your sensors array, you can use RE to lvl it up, get a higher tier sensors array or fit in a high aerospace stat officer into your sensors room
+To upgrade your sensors array, you can use RE to lvl it up, get a higher tier sensors array or fit in a high aerospace stat officer into your sensors room	
 
 ### Do asteroids deplete / how long can I mine them?
 Asteroid do not deplete. So keep shooting rocks to your hearts content!
@@ -95,8 +100,7 @@ So TLDR; if you are mining in a group, 1 controller and 4 collectors is a good m
 Credits can be earned by various activities in the game, but there are methods that really help:
 Early on, you can mine T0 resources, make T0 interceptors and sell those on the market. This is currently a very fast and easy way to earn some credits early on
 When you unlock T2 small components, make and sell those instead of the T0 interceptors. This will net you more credits
-If you're strong enough, you can camp the frigate spawn point on pirate hideout T1 strike for xp farming. Level-up rewards give out generous credit caches
-Power-leveling is also the best method to get yourself adamant. Aside from the daily cache and rare drops from progenitor salvage, xp farming will net you a lot of adamant
+Currently the fastest method to earn some credits, is by selling officer insignias. This will drop from all content and enemy salvage. Doing strikes is the most efficient, but any content will do.
 
 ## Blueprints
 ### Building parts & component requirements
@@ -131,11 +135,13 @@ Officer Cryopods have a chance to give you a higher rarity then the rarity of th
 Cryopod Level Up Rewards are structured so that every 50 levels, a uncommon crypod drops, at 250 levels, the minimum rarity is Rare, and on the 1250 level mark, the minimum is Epic.
 
 ### Should I level up my officers / can I sell my insignias?
-Yes and no, in the early game leveling up your officers will be way to costly for its benefit. Use the credits for other upgrades like blueprints from the market. Do yourself a favor and DON'T sell your insignias. This will be a bottleneck for late game in which you need thousands upon thousands of them for your crew. More info on this in the 'Officer List & explanation' tab.
+Yes and no, in the early game leveling up your officers will be way to costly for its benefit. Use the credits for other upgrades like blueprints from the market. Although you will need the credits early on, you will need a ton of insignia's to upgrade your officers. After you have bought all the blueprints you need, it might be wise to save those insignia's for later use.
 
 ### How do you get Research points (RP)?
 Research points are automatically generated in your research lab. Go to your internal view -> research. In there you can see a number on the left stating xxx RP available. Press that to collect it.
 Note that you can't collect RP when you're researching something. RP will still be generated on the background but can only be collected after the research upgrade is done and the slot is free.
+By switching loadouts, accumulated RP will be automatically collected. You can use this to collect RP whilst you are currently researching something.
+The (base) generation rate for RP is 50 per hour. With a (base) cap of 200 (so 4 hours before you reach your cap)
 
 ### How do I get more research?
 Research is divided in three branches, a middle path - which is your main source of research. A top path that unlocks new units and gear and a bottom path that has mostly stat upgrades.
@@ -168,11 +174,11 @@ Mining- top
 -	Remote Mining yield: ore A (increases total yield of B type ores in remote mining sessions)
 	
 Mining- Bottom	
--	Mining speed: Ore M (Increases T0M yield)
--	Mining speed: Ore A (Increases T1A yield)
--	Resource collector hull (Increases collector hull) - can be found at liaisons
+-	Mining speed: Ore M (Increases T0M yield) - can be found at liaisons
+-	Mining speed: Ore A (Increases T1A yield) - can be found at liaisons
+-	Resource collector hull (Increases collector hull) - can be found at strikes
 -	Resource controller hull (Increases controller hull) - can be found at liaisons
--	Mining speed: Ore B (Increases T1B yield)
+-	Mining speed: Ore B (Increases T1B yield) - can be found at liaisons
 	
 Strike craft- middle	
 -	Interceptor schematics (unlocks T2 interceptors) - Chapter 17 - Cangacian Attacks
@@ -188,14 +194,14 @@ Strike craft- middle
 	
 Strike craft- top	
 -	Plasma bomber schematics (Unlocks T2 plasma bombers) - can be found at scannable missions
--	Assault corvette schematics (Unlocks T2 assault corvettes)
--	Pulsar corvette schematics (Unlocks T2 pulsar corvettes)
+-	Assault corvette schematics (Unlocks T2 assault corvettes) - can be found at liaisons
+-	Pulsar corvette schematics (Unlocks T2 pulsar corvettes) - can be found at liaisons
 -	Plasma bomber schematics (Unlocks T3 plasma bombers) - can be found at scannable missions
--	Assault corvette schematics (Unlocks T3 assault corvettes)
--	Pulsar corvette schematics (Unlocks T3 pulsar corvettes)
+-	Assault corvette schematics (Unlocks T3 assault corvettes) - can be found at liaisons
+-	Pulsar corvette schematics (Unlocks T3 pulsar corvettes) - can be found at liaisons
 	
 Strike craft- bottom	
--	Interceptor evasion (increases the change to dodge and agility of all interceptors)
+-	Interceptor evasion (increases the change to dodge and agility of all interceptors) - can be found at liaisons
 -	Interceptor speed (increases speed, acceleration and deceleration of all interceptors) - can be found at scannable missions
 -	plasma bombers evasion (increases the change to dodge and agility of all plasma bombers) - can be found at liaisons
 -	plasma bombers speed (increases speed, acceleration and deceleration of all plasma bombers)
@@ -216,16 +222,16 @@ Escorts- top
 -	Torpedo frigate schematics (Unlocks T2 torpedo frigates) - can be found at scannable missions
 -	Destroyer schematics (Unlocks T2 destroyers) - can be found at strikes
 -	Torpedo frigate schematics (Unlocks T3 torpedo frigates) - can be found at scannable missions
--	Ion cannon frigate schematics (Unlocks T3 ion cannon) - can be found at strikes
+-	Ion cannon frigate schematics (Unlocks T3 ion cannon) - can be found at scannable missions
 -	Destroyer schematics (Unlocks T3 destroyers) - can be found at strikes
 	
 Escorts- bottom	
 -	Scouting frigate vision (increases the scouting frigate sensor range)
--	Explorer hull (increases the hull of explorer class flagships)
+-	Explorer hull (increases the hull of explorer class flagships) - can be found at strikes
 -	Assault frigate hull damage (increases the hull damage of all assault frigates)
--	Carrier hull (Increases the hull of carrier class flagships)
--	Ion cannon targeting range (increases the targeting range of ion frigates)
--	Battlecruiser hull (increases the hull of battlecruiser class flagships)
+-	Carrier hull (Increases the hull of carrier class flagships) - can be found at strikes
+-	Ion cannon targeting range (increases the targeting range of ion frigates) - can be found at liaisons
+-	Battlecruiser hull (increases the hull of battlecruiser class flagships) - can be found at strikes
 	
 Weapons- middle	
 -	Capital mass driver schematics (Unlocks T2 Kinetic weapons) - Chapter 22 - Flagship T2
@@ -238,19 +244,19 @@ Weapons- middle
 -	Beam turret rate of fire (Increases the rate of fire of T3 ions and pulsars)
 	
 Weapons- top	
--	Missile launcher schematics (Unlocks T2 missile weapons)
+-	Missile launcher schematics (Unlocks T2 missile weapons) - can be found at liaisons
 -	Ion cannon schematics (Unlocks T2 ion weapons) - can be found at liaison missions
 -	Repair module schematics (Unlocks T2 repair modules) - can be found at strikes
--	Missile launcher schematics (Unlocks T3 missile weapons)
+-	Missile launcher schematics (Unlocks T3 missile weapons) - can be found at liaisons
 -	Ion cannon schematics (Unlocks T3 ion weapons) - can be found at liaison missions
 -	Repair module schematics (Unlocks T3 repair modules) - can be found at strikes
 -	Pulsar turret schematics (Unlocks T3 pulsar weapons) - can be found at strikes
 	
 Weapons- bottom	
 -	Kinetic turret hull damage (increases the hull damage for kinetic weapons) - can be found at scannable missions
--	Missile turret armor damage (increases the armor damage for missile weapons)
+-	Missile turret armor damage (increases the armor damage for missile weapons) - can be found at liaisons
 -	Beam turret hull damage (Increases the hull damage of ions and pulsar weapons) - can be found at strikes
--	Kinetic turret armor damage (increases the armor damage for kinetic weapons)
+-	Kinetic turret armor damage (increases the armor damage for kinetic weapons) - can be found at scannable missions
 
 ## Strikes & Destroyers
 ### How do I find strikes / join strikes?
@@ -258,14 +264,15 @@ The most stable way to do strikes in a group, is using the lobby system. Clickin
 Now in the strike tab, you can see several strike. When clicking on one you see a join button. When pressing that, you open a lobby or join an existing one.
 Depending on how many people are active, just sitting in a lobby will most likely not help to find yourself new people, so global chat or the #strike-lobby channel on discord is the way to go
 In global chat, you'll see players posting things like 'SDT2 open' or 'PHT2 up'. These are acronyms for what strikes people are doing for what tier
-PH = Pirate hideout, SD = Station defense
+PH = Pirate hideout, SD = Station defense, PR = Pahra's Rock.
 
 ### I'm not seeing certain strike, missing strikes?
 Some strikes are locked behind the main story quests. If you're missing certain strikes that other players do have, progress through the main quest line.
-In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pirate hideout Heroic (T2) and Station defense Heroic (T3)
+In this current version, the following strikes are availble: Pirate hideout (T1), Station defense (T2), Pahra's Rock (T2), Pirate hideout Heroic (T2), Station defense Heroic (T3) and Pahra's Rock Heroic (T3)
 
-### Where is Pahra's rock? Is it gone?
-Pahra's rock (PR) has been disabled for now, there seems to be some issues with the current game version. It will most likely be enabled in a later patch (as of 2.63)
+### I cannot join strikes / infinite circle when joining a strike
+There is currently a bug that prevents people from making lobbies and sometimes even joining someones lobby. To access strikes, you need access to the chat (if you see a locked symbol, it means you won't have access to strikes).
+The Best method to get chat to work again, is to keep restarting until this lock is gone.
 
 ### I've built a destroyer, but can't find it anywhere
 Destroyers take up 2 escort slots for fielding one. So if you are either running a T1 flagship, or already have an escort equipped in a T2/3 flagship, you don't see it in your escort roster
@@ -286,10 +293,3 @@ If your weapons don't seem to do damage, it might be that your flagship or units
 Normally the enemy AI will target the first unit they see in their range, and switch between targets ever so often. But there is an issue with repair modules and repairing in general.
 If you have a repair module equipped on your flagship and you are repairing a unit, enemies will instantly target you down. Same happens to collectors who repair units mid fight. This can be a death sentence for strike and higher tier content
 Unless you're trying to tank a strike, its advised to un-equip repair turrets before going into them. This way the enemies will spread damage across the fleets of all players present.
-
-## End of Beta / Release
-### When does the beta end / when is release?
-The 12th of September will be the end of the beta. Release will be "soon" after that.
-
-### Do I keep my progress after the beta?
-Yes and no, ALL progress will be reset on launch of the game, except for the IRL purchases made (bought packs, adamant or daily resource caches). These will be given to your account upon release
