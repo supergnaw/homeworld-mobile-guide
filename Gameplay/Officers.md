@@ -27,7 +27,7 @@ The three stats that officer have, are Physical, Mind and Aerospace.
 
 Additionally, aside from the stats, officer will also have either a passive perks or active abilities. In the case of passive perks, an officer will get one or two bonuses depending on their category. A comms officer will get a perk for sensors, gunners for weapons etc. But most officer passive perks don't align well with the slot they are supposed to go in. Sensors officers have low aerospace, kinetic weapons officers have low physical stat etc. So what to do in the case a passive perk officer doesn't have the right stat for the job? You place them on your bridge! All flagship specific perks will apply their passive perk bonus to the ship, if placed on the bridge. So this will effectively boost all functions on your flagship when you have for example a high mind officer in your fabrication slot, and a fabrication passive perk officer on your bridge. Both the officer slotted into the fabrication slot as the officers placed on the bridge, will apply their bonus for fabrication orders.
 
-Officer also can have active abilities. If an officer have a symbol underneath the stats, it's indicates an active ability. For this to be used, a player needs to place the officer on the bridge and have the right turret equipped on their flagship. The following abilities have been found in the game version (2.63):
+Officer also can have active abilities. If an officer have a symbol underneath the stats, it's indicates an active ability. For this to be used, a player needs to place the officer on the bridge and have the right turret equipped on their flagship. The following abilities have been found in the game version (1.0.0):
 
 
 ## Abilities
