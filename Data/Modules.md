@@ -91,21 +91,21 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 |------------------------------------|-------------|--------------------------------------------------------|
 |Type-5 Launch Pad I                 |Small weapon |Main quest                                              |
 |Uncommon Type-5 Launch Pad I        |Small weapon |Strikes, scannable - spoils of battle, freight container|
-|Type-5 Launch Pad II                |Small weapon |Research                                                |
+|Type-5 Launch Pad II                |Small weapon |Research found in liaisons                              |
 |Uncommon Type-5 Launch Pad II       |Small weapon |Strikes, scannable - spoils of battle, freight container|
-|Type-5 Launch Pad III               |Small weapon |Research                                                |
+|Type-5 Launch Pad III               |Small weapon |Research found in liaisons                              |
 |Uncommon Type-5 Launch Pad III      |Small weapon |Strikes, scannable - spoils of battle, freight container|
 |Colchis Launch Cluster I            |Medium weapon|Market                                                  |
-|Colchis Launch Cluster II           |Medium weapon|Research                                                |
+|Colchis Launch Cluster II           |Medium weapon|Research found in liaisons                              |
 |Rare Colchis Launch Cluster II      |Medium weapon|Liasons, freight container                              |
 |Talos Launch Cluster II             |Medium weapon|Liasons                                                 |
-|Colchis Launch Cluster III          |Medium weapon|Research                                                |
+|Colchis Launch Cluster III          |Medium weapon|Research found in liaisons                              |
 |Rare Colchis Launch Cluster III     |Medium weapon|Liasons, freight container                              |
 |Talos Launch Cluster III            |Medium weapon|Liasons                                                 |
 |Thundercloud Launch Complex I       |Large weapons|Market                                                  |
-|Thundercloud Launch Complex II      |Large weapons|Research                                                |
+|Thundercloud Launch Complex II      |Large weapons|Research found in liaisons                              |
 |Sandstorm Launch Complex II         |Large weapons|Liaisons                                                |
-|Thundercloud Launch Complex III     |Large weapons|Research                                                |
+|Thundercloud Launch Complex III     |Large weapons|Research found in liaisons                              |
 |Epic Thundercloud Launch Complex III|Large weapons|Strikes, Liasons, freight container                     |
 |Sandstorm Launch Complex III        |Large weapons|Liaisons                                                |
 
@@ -167,7 +167,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Crimson-4 Array III            |Medium weapon|Research found in liaisons                                                  |
 |Rare Crimson-4 Array III       |Medium weapon|Market (adamant), Liaisons, Scannables - spoils of battle, freight container|
 |Azure-1 Array III              |Medium weapon|Strikes, Scannables - spoils of battle                                      |
-|Epic Twin Azure-1 Array III    |Medium weapon|Strikes                                                                     |
+|Epic Twin Azure-1 Array III    |Medium weapon|Strikes (PRT3)                                                              |
 |Fleet Model X2 Battery I       |Large weapons|Strikes, Liaisons                                                           |
 |Fleet Model X2 Battery II      |Large weapons|Research found in liaisons                                                  |
 |Fleet Model X2 Battery III     |Large weapons|Research found in liaisons                                                  |
@@ -269,10 +269,10 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Sensor range booster III|Sensor boost  |24                  |Increases flagship sensor range             |Scannables - spoils of battle          |
 |System scan booster II  |Sensor boost  |                    |Increases flagship scan reliability         |Liaisons, Scannables - spoils of battle|
 |System scan booster III |Sensor boost  |                    |Increases flagship scan reliability         |Liaisons, Scannables - spoils of battle|
-|Data Storage hub II     |Research boost|                    |Increases flagship research point capacity  |Strikes                                |
+|Data Storage hub II     |Research boost|45                  |Increases flagship research point capacity  |Strikes                                |
 |Data Storage hub III    |Research boost|                    |Increases flagship research point capacity  |Strikes                                |
-|Parallel Processor II   |Research boost|                    |Increases flagship research point production|Strikes                                |
-|Parallel Processor III  |Research boost|                    |Increases flagship research point production|Strikes                                |
+|Parallel Processor II   |Research boost|45                  |Increases flagship research point production|Strikes (SDT2)                         |
+|Parallel Processor III  |Research boost|                    |Increases flagship research point production|Strikes (PRT3)                         |
 
 ### Internal modules Build requirements - front
 
@@ -298,9 +298,9 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Refinery I                      |Refineries  |72                  |Shorter timers                     |Main quest                                  |
 |Refinery II                     |Refineries  |60                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 2|
 |Refinery III                    |Refineries  |48                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 3|
-|Squadron Maintenance Modules II |Squad boost |                    |Increases strike craft hull        |Liaisons, Scannables - spoils of battle     |
+|Squadron Maintenance Modules II |Squad boost |28                  |Increases strike craft hull        |Liaisons, Scannables - spoils of battle     |
 |Squadron Maintenance Modules III|Squad boost |24                  |Increases strike craft hull        |Liaisons, Scannables - spoils of battle     |
-|Squadron Flight Coordinator II  |Squad boost |                    |Increases strike craft dodge chance|Liaisons                                    |
+|Squadron Flight Coordinator II  |Squad boost |28                  |Increases strike craft dodge chance|Liaisons                                    |
 |Squadron Flight Coordinator III |Squad boost |24                  |Increases strike craft dodge chance|Liaisons                                    |
 
 ### Internal modules Build requirements - middle
@@ -324,30 +324,30 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Internal modules                      |Module group |Module capacity cost|Effect                                        |Location Found                            |
 |--------------------------------------|-------------|--------------------|----------------------------------------------|------------------------------------------|
 |Mass driver anti-hull booster II      |Kinetic boost|28                  |Increases hull damage                         |Market                                    |
-|Mass driver anti-hull booster III     |Kinetic boost|24                  |Increases hull damage                         |Strikes                                   |
+|Mass driver anti-hull booster III     |Kinetic boost|24                  |Increases hull damage                         |Strikes (SDT3)                            |
 |Mass driver anti-armor booster II     |Kinetic boost|28                  |Increases amor damage                         |Market                                    |
-|Mass driver anti-armor booster III    |Kinetic boost|28                  |Increases amor damage                         |Strikes                                   |
-|Mass driver heat sink II              |Kinetic boost|42                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Mass driver heat sink III             |Kinetic boost|36                  |Reduces turret cooldown / increases damage    |Strikes                                   |
+|Mass driver anti-armor booster III    |Kinetic boost|28                  |Increases amor damage                         |Strikes (SDT3)                            |
+|Mass driver heat sink II              |Kinetic boost|56                  |Reduces turret cooldown / increases damage    |Strikes (PHT2)                            |
+|Mass driver heat sink III             |Kinetic boost|48                  |Reduces turret cooldown / increases damage    |Strikes (PRT3)                            |
 |Missile launcher anti-hull booster II |Missile boost|28                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 3|
 |Missile launcher anti-hull booster III|Missile boost|24                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 5|
 |Missile launcher signal booster II    |Missile boost|28                  |Increases turret range                        |Tanoch liaison requisitions - reputation 2|
 |Missile launcher signal booster III   |Missile boost|24                  |Increases turret range                        |Tanoch liaison requisitions - reputation 4|
-|Missile launcher heat sink II         |Missile boost|42                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Missile launcher heat sink III        |Missile boost|36                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Ion cannon anti-hull booster II       |Ion boost    |28                  |Increases hull damage                         |                                          |
-|Ion cannon anti-hull booster III      |Ion boost    |24                  |Increases hull damage                         |                                          |
-|Ion cannon anti-armor booster II      |Ion boost    |28                  |Increases armor damage                        |Yaot liaison requisitions - reputation 3  |
+|Missile launcher heat sink II         |Missile boost|56                  |Reduces turret cooldown / increases damage    |Strikes                                   |
+|Missile launcher heat sink III        |Missile boost|48                  |Reduces turret cooldown / increases damage    |Strikes (PRT3)                            |
+|Ion cannon anti-hull booster II       |Ion boost    |28                  |Increases hull damage                         |Strikes (PHT2)                            |
+|Ion cannon anti-hull booster III      |Ion boost    |24                  |Increases hull damage                         |Yaot liaison requisitions - reputation 3  |
+|Ion cannon anti-armor booster II      |Ion boost    |28                  |Increases armor damage                        |Strikes (PRT2)                            |
 |Ion cannon anti-armor booster III     |Ion boost    |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 4  |
-|Ion cannon heat sink II               |Ion boost    |42                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Ion cannon heat sink III              |Ion boost    |36                  |Reduces turret cooldown / increases damage    |Strikes                                   |
+|Ion cannon heat sink II               |Ion boost    |56                  |Reduces turret cooldown / increases damage    |Strikes (SDT2)                            |
+|Ion cannon heat sink III              |Ion boost    |48                  |Reduces turret cooldown / increases damage    |Strikes (SDT3)                            |
 |Pulsar anti-hull booster III          |Pulsar boost |24                  |Increases hull damage                         |Yaot liaison requisitions - reputation 8  |
 |Pulsar anti-armor booster III         |Pulsar boost |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 9  |
-|Hull maintenance module II            |Hull boost   |                    |Increases flagship hull                       |Liaisons                                  |
+|Hull maintenance module II            |Hull boost   |42                  |Increases flagship hull                       |Liaisons                                  |
 |Hull maintenance module III           |Hull boost   |36                  |Increases flagship hull                       |Liaisons                                  |
-|Armor Maintenance module II           |Armor boost  |                    |Increases flagship amor                       |Liaisons                                  |
-|Armor Maintenance module III          |Armor boost  |                    |Increases flagship armor                      |Liaisons                                  |
-|Engine booster II                     |Engine boost |                    |Increases speed, acceleration and deceleration|Market                                    |
+|Armor Maintenance module II           |Armor boost  |42                  |Increases flagship amor                       |Liaisons                                  |
+|Armor Maintenance module III          |Armor boost  |36                  |Increases flagship armor                      |Liaisons                                  |
+|Engine booster II                     |Engine boost |28                  |Increases speed, acceleration and deceleration|Market                                    |
 |Engine booster III                    |Engine boost |24                  |Increases speed, acceleration and deceleration|Liaisons                                  |
 
 ### Internal modules Build requirements - back
@@ -386,7 +386,7 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 
 |Internal modules  |Module group |Module capacity cost|Effect                    |Location Found            |
 |------------------|-------------|--------------------|--------------------------|--------------------------|
-|Storage module II |Storage boost|                    |Increases storage capacity|Increases storage capacity|
+|Storage module II |Storage boost|28                  |Increases storage capacity|Increases storage capacity|
 |Storage module III|Storage boost|24                  |Increases storage capacity|Increases storage capacity|
 
 ### Internal modules Build requirements - anywhere
