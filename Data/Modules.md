@@ -168,6 +168,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 |Weapon Module                  |Size         |Location Found                                                              |
 |-------------------------------|-------------|----------------------------------------------------------------------------|
+| testing | testing | testing | 
 |Crimson-4 Array I              |Medium weapon|Scannables - spoils of battle                                               |
 |Crimson-4 Array II             |Medium weapon|Research found in liaisons                                                  |
 |Rare Crimson-4 Array II        |Medium weapon|Liaisons, freight container                                                 |
@@ -287,6 +288,7 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 
 |Internal modules        |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |------------------------|--------------------|----------|----------|----------|-------------------------|----------|
+| testing | testing | testing |
 |Sensor range booster II |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
 |Sensor range booster III|Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |System scan booster II  |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
@@ -332,6 +334,7 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 
 |Internal modules                      |Module group |Module capacity cost|Effect                                        |Location Found                            |
 |--------------------------------------|-------------|--------------------|----------------------------------------------|------------------------------------------|
+| testing | testing | testing |
 |Mass driver anti-hull booster II      |Kinetic boost|28                  |Increases hull damage                         |Market                                    |
 |Mass driver anti-hull booster III     |Kinetic boost|24                  |Increases hull damage                         |Strikes (SDT3)                            |
 |Mass driver anti-armor booster II     |Kinetic boost|28                  |Increases amor damage                         |Market                                    |
