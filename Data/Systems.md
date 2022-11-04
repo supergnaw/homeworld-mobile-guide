@@ -239,6 +239,7 @@ Although the Progenitors don't have their own systems (yet?), They can be found 
 The Keeper is aware. The Keeper understands. The Keeper has seen the enemy.
 
 ### Progenitor lore
+- this is excluding lore from the main game titles, just what is found on the various loading screen segments.
 
 - There are too many conflicting theories behind the fall of the Progenitor empire to ever conclusively establish what destroyed them.
 - Few survive an encounter with a Progenitor keeper. Most that do always accomplish the feat through desperation and outside help.
