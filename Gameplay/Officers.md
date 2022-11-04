@@ -34,12 +34,15 @@ Officer also can have active abilities. If an officer have a symbol underneath t
 
 ### Missile Barrage:
 Fires a volley of missiles at one target, dealing massive damage. Requires at least one equipped missile turret. Base cooldown: 13 seconds						
+
 ### Fusion Missile: 
 Launches a single missile with a heavier than normal payload. Effective agains capital ships. Requires at lease one missile turret. Base cooldown: 13 seconds												
 ### Repair Burst:
 Controlled overload of repair module restores armor of nearby ships. Requires at least one equipped  repair module. Base cooldown: 100 seconds												
-### Ion Cannon Burst:
-Triggers all of the ship's ion cannons at once. Requires at least one equipped ion cannon. Base cooldown: 13 seconds						
+
+### Ion Cannon Shot:
+Triggers a focused ion cannon shot that cripple's the targets weapon systems, slowing down rate of fire for a few seconds. Base cooldown: 13					
+
 ### Pulsar Burst: 
 Overclocks the ship's pulsar turrets, increasing firerate. Requires at least one equipped pulsar turret. Base cooldown: 10 seconds
 
@@ -510,49 +513,68 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Operator - Perks
 
-|Name   |Kiith |Perk                   |Comment                                                |
-|-------|------|-----------------------|-------------------------------------------------------|
-|Abdon  |Paktu |Fusion Missile         |r2 -0.65, r3 -?.??, r4 -1.17                           |
-|Ada    |Kaalel|Ion cannon shot ability|                                                       |
-|Adam   |Magann|Kinetic burst ability  |                                                       |
-|Amal   |Soban |Ion cannon shot ability|                                                       |
-|Andrew |Manaan|Kinetic burst ability  |                                                       |
-|Andrew |Naabal|Ion cannon shot ability|                                                       |
-|Avner  |Paktu |Fusion missile ability |                                                       |
-|Benaiah|Sagald|Ion cannon shot ability|                                                       |
-|Cartiir|Paktu |Escort armor damage    |                                                       |
-|Daan   |Paktu |Escort armor damage    |                                                       |
-|Donar  |Manaan|Missile barrage ability|                                                       |
-|Elas   |Paktu |Kinetic burst ability  |                                                       |
-|Esther |S'Jet |Kinetic burst ability  |                                                       |
-|Eve    |Hraal |Missile barrage ability|                                                       |
-|Eve    |Sagald|Missile barrage ability|                                                       |
-|Geoff  |Sagald|Ion cannon shot ability|                                                       |
-|Hagar  |Jaraci|Kinetic burst ability  |                                                       |
-|Hagar  |Naabal|Escort hull damage     |                                                       |
-|Hannah |Kaalel|Escort armor damage    |                                                       |
-|Huldah |Paktu |EMP round ability      |                                                       |
-|Joaash |Hraal |Escort hull damage     |                                                       |
-|Judaah |Paktu |Kinetic burst ability  |                                                       |
-|Judith |Jaraci|Kinetic burst ability  |                                                       |
-|Julia  |S'jet |Kinetic burst ability  |                                                       |
-|Kamara |S'jet |Repair burst ability   |                                                       |
-|Lance  |Naabal|Escort hull damage     |                                                       |
-|Mahlah |Soban |Missile barrage ability|                                                       |
-|Martell|Paktu |Kinetic burst ability  |Varient                                                |
-|Matara |Kaalel|Escort armor damage    |                                                       |
-|Miriam |Paktu |Missile barrage ability|Varient                                                |
-|Naomi  |Magann|Ion cannon shot ability|                                                       |
-|Raab   |S'jet |kinetic burst ability  |                                                       |
-|Roman  |Magann|Missile barrage ability|                                                       |
-|Roman  |Naabal|Escort hull damage     |                                                       |
-|Silas  |Hraal |Escort hull damage     |                                                       |
-|Stara  |Hraal |Missile barrage ability|                                                       |
-|Uzziah |Magann|Ion cannon shot ability|                                                       |
-|Vaashti|Manaan|Fusion missile ability |                                                       |
-|Viktor |Naabal|Escort hull damage     |                                                       |
-|Zean   |Naabal|Ion cannon shot ability|                                                       |
-|Zuriel |Magann|Kinetic burst ability  |                                                       |
+|Name       |Kiith  |Perk    |Comment                |Operator                                                           |
+|-----------|-------|--------|-----------------------|-------------------------------------------------------------------|
+|Abdon      |Paktu  |Operator|Fusion Missile         |r2 -0.65, r3 -?.??, r4 -1.17                                       |
+|Abiah      |Magann |Operator|Fusion Missile         |                                                                   |
+|Achan      |Paktu  |Operator|Missile barrage ability|                                                                   |
+|Achan      |Sagald |Operator|EMP round ability      |                                                                   |
+|Ada        |Kaalel |Operator|Ion cannon shot ability|                                                                   |
+|Adam       |Magann |Operator|Kinetic burst ability  |                                                                   |
+|Amal       |Soban  |Operator|Ion cannon shot ability|                                                                   |
+|Andrew     |Manaan |Operator|Kinetic burst ability  |                                                                   |
+|Andrew     |Naabal |Operator|Ion cannon shot ability|                                                                   |
+|Aviimelech |Paktu  |Operator|Missile barrage ability|                                                                   |
+|Avisag     |Paktu  |Operator|Kinetic burst ability  |                                                                   |
+|Avner      |Paktu  |Operator|Fusion missile ability |                                                                   |
+|Benaiah    |Sagald |Operator|Ion cannon shot ability|                                                                   |
+|Bethany    |Magann |Operator|Kinetic burst ability  |                                                                   |
+|Cartiir    |Paktu  |Operator|Escort armor damage    |                                                                   |
+|Cryssal    |Sagald |Operator|Missile barrage ability|                                                                   |
+|Daan       |Paktu  |Operator|Escort armor damage    |                                                                   |
+|Dieo       |Naabal |Operator|EMP round ability      |                                                                   |
+|Donar      |Manaan |Operator|Kinetic burst ability  |                                                                   |
+|Efraaim    |Paktu  |Operator|Fusion missile ability |                                                                   |
+|Efraaim    |Sagald |Operator|Fusion missile ability |                                                                   |
+|Elas       |Paktu  |Operator|Kinetic burst ability  |                                                                   |
+|Esther     |S'Jet  |Operator|Kinetic burst ability  |                                                                   |
+|Eve        |Hraal  |Operator|Missile barrage ability|                                                                   |
+|Eve        |Sagald |Operator|Missile barrage ability|                                                                   |
+|Geoff      |Sagald |Operator|Ion cannon shot ability|                                                                   |
+|Hagar      |Jaraci |Operator|Kinetic burst ability  |                                                                   |
+|Hagar      |Naabal |Operator|Escort hull damage     |                                                                   |
+|Hannah     |Kaalel |Operator|Escort armor damage    |                                                                   |
+|Huldah     |Paktu  |Operator|EMP round ability      |                                                                   |
+|Jehonathaan|Magann |Operator|Ion cannon shot ability|                                                                   |
+|Joaash     |Hraal  |Operator|Escort hull damage     |                                                                   |
+|Joseph     |Manaan |Operator|Kinetic burst ability  |                                                                   |
+|Judaah     |Paktu  |Operator|Kinetic burst ability  |                                                                   |
+|Judith     |Jaraci |Operator|Ion cannon shot ability|                                                                   |
+|Julia      |S'jet  |Operator|Kinetic burst ability  |                                                                   |
+|Kamara     |S'jet  |Operator|Repair burst ability   |Can only be received from the Large early prioneer pack (Beta only)|
+|Lance      |Naabal |Operator|Escort hull damage     |                                                                   |
+|Lukaas     |Magann |Operator|Ion cannon shot ability|                                                                   |
+|Mahlah     |Soban  |Operator|Missile barrage ability|                                                                   |
+|Martell    |Paktu  |Operator|Kinetic burst ability  |Varient                                                            |
+|Matara     |Kaalel |Operator|Missile barrage ability|                                                                   |
+|Micah      |Soban  |Operator|Ion cannon shot ability|Can only be received from the Large starter pack                   |
+|Miriam     |Paktu  |Operator|Missile barrage ability|Varient                                                            |
+|Naomi      |Magann |Operator|Ion cannon shot ability|                                                                   |
+|Peninnah   |Sagald |Operator|Ion cannon shot ability|                                                                   |
+|Raab       |S'jet  |Operator|Kinetic burst ability  |                                                                   |
+|Rhonda     |Manaan |Operator|Kinetic burst ability  |                                                                   |
+|Roman      |Magann |Operator|Missile barrage ability|                                                                   |
+|Roman      |Naabal |Operator|Escort hull damage     |                                                                   |
+|Shulammite |Somtaaw|Operator|Repair burst ability   |                                                                   |
+|Silas      |Hraal  |Operator|Escort hull damage     |                                                                   |
+|Sitar      |Hraal  |Operator|Kinetic burst ability  |                                                                   |
+|Sitar      |Tambuur|Operator|EMP round ability      |                                                                   |
+|Stara      |Hraal  |Operator|Missile barrage ability|                                                                   |
+|Uriah      |Soban  |Operator|Ion cannon shot ability|                                                                   |
+|Uzziah     |Magann |Operator|Ion cannon shot ability|                                                                   |
+|Vaashti    |Manaan |Operator|Fusion missile ability |                                                                   |
+|Viktor     |Naabal |Operator|Escort hull damage     |                                                                   |
+|Zean       |Naabal |Operator|Ion cannon shot ability|                                                                   |
 
 
 ### Operator - Stats
@@ -622,85 +644,86 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 
 ### Quartermaster - Perks
 
-|Name     |Kiith  |Perk            |Comment                                 |
-|---------|-------|----------------|----------------------------------------|
-|Abdon    |Kaalel |Fabrication cost|                                        |
-|Abiah    |Kaalel |Fabrication time|                                        |
-|Abriam   |Magann |Fabrication cost|                                        |
-|Ada      |Kaalel |Fabrication cost|                                        |
-|Adam     |Magann |Fabrication cost|                                        |
-|Amal     |Tambuur|Fabrication cost|                                        |
-|Andrew   |Magann |Fabrication cost|                                        |
-|Anna     |Paktu  |Fabrication cost|                                        |
-|Anna     |Sagald |Fabrication cost|                                        |
-|Anna     |Sagald |Fabrication cost|Different picture than the officer above|
-|Bethany  |S'jet  |Fabrication cost|                                        |
-|Bethany  |S'jet  |Fabrication cost|Different picture than the officer above|
-|Boez     |Magann |Fabrication cost|                                        |
-|Braanan  |Manaan |Fabrication cost|                                        |
-|Cain     |Kaalel |Fabrication time|                                        |
-|Cain     |Manaan |Fabrication cost|                                        |
-|Cain     |Kaalel |Fabrication time|                                        |
-|Canir    |Tambuur|Fabrication cost|                                        |
-|Cartiir  |Somtaaw|Fabrication cost|                                        |
-|Chloe    |Somtaaw|Refining time   |                                        |
-|Claudia  |Somtaaw|Refining time   |                                        |
-|Cryssal  |Jaraci |Fabrication cost|                                        |
-|Cryssal  |Kaalel |Fabrication cost|                                        |
-|Damaris  |Kaalel |Fabrication cost|                                        |
-|Damaris  |Kaalel |Fabrication cost|Different picture than the officer above|
-|Damaris  |Tambuur|Fabrication cost|                                        |
-|David    |Magann |Fabrication cost|                                        |
-|Deborah  |Kaalel |Fabrication cost|                                        |
-|Dellah   |Tambuur|Fabrication cost|                                        |
-|Dellah   |Tambuur|Fabrication cost|Different picture than the officer above|
-|Dinah    |Tambuur|Fabrication cost|                                        |
-|Dinah    |Tambuur|Fabrication cost|Different picture than the officer above|
-|Donar    |Kaalel |Fabrication cost|                                        |
-|Elal     |S'jet  |Fabrication cost|                                        |
-|Elas     |Somtaaw|Fabrication cost|                                        |
-|Elizabeth|Magann |Fabrication cost|                                        |
-|Eloheim  |Magann |Fabrication cost|                                        |
-|Erach    |Hraal  |Fabrication cost|                                        |
-|Erach    |Somtaaw|Fabrication cost|                                        |
-|Eshim    |Manaan |Refining time   |                                        |
-|Esther   |Hraal  |Fabrication cost|                                        |
-|Esther   |Magann |Fabrication cost|                                        |
-|Hannah   |Sagald |Fabrication cost|                                        |
-|Heraara  |Kaalel |Fabrication cost|                                        |
-|Isaak    |Magann |Fabrication cost|                                        |
-|Isaak    |Magann |Fabrication cost|Different picture than the officer above|
-|Jacob    |Kaalel |Fabrication cost|                                        |
-|Joaash   |Hraal  |Fabrication cost|                                        |
-|Judith   |Tambuur|Refining time   |                                        |
-|Julia    |S'jet  |Fabrication cost|                                        |
-|Kenan    |Kaalel |Fabrication cost|                                        |
-|Lukaas   |Magann |Fabrication cost|                                        |
-|Lukaas   |Paktu  |Fabrication cost|                                        |
-|Lukaas   |Somtaaw|Refining time   |                                        |
-|Mahlah   |Sagald |Fabrication cost|                                        |
-|Martell  |Tambuur|Fabrication cost|                                        |
-|Melech   |Kaalel |Fabrication time|                                        |
-|Miriam   |Jaraci |Fabrication cost|                                        |
-|Miriam   |Tambuur|Fabrication cost|                                        |
-|Neriah   |Manaan |Fabrication cost|                                        |
-|Neriah   |Tambuur|Fabrication cost|                                        |
-|Persis   |Hraal  |Fabrication cost|                                        |
-|Persis   |Kaalel |Fabrication cost|                                        |
-|Ruth     |Paktu  |Fabrication cost|                                        |
-|Ruuth    |Tambuur|Fabrication cost|                                        |
-|Shaan    |Magann |Fabrication cost|                                        |
-|Shaman   |Magann |Fabrication cost|                                        |
-|Silas    |Hraal  |Fabrication cost|                                        |
-|Simon    |S'jet  |Fabrication cost|                                        |
-|Sitar    |Somtaaw|Refining time   |                                        |
-|Stara    |Paktu  |Fabrication cost|                                        |
-|Taammuz  |Tambuur|Fabrication cost|                                        |
-|Tamar    |Sagald |Fabrication cost|                                        |
-|Will     |Tambuur|Fabrication cost|                                        |
-|Yossarian|Kaalel |Fabrication time|                                        |
-|Yossarian|Kaalel |Fabrication time|Different picture than the officer above|
-|Zuriel   |Magann |Fabrication cost|                                        |
+|Name     |Kiith  |Perk            |Comment                                                |
+|---------|-------|----------------|-------------------------------------------------------|
+|Abdon    |Kaalel |Fabrication cost|                                                       |
+|Abiah    |Kaalel |Fabrication time|                                                       |
+|Abriam   |Magann |Fabrication cost|                                                       |
+|Ada      |Kaalel |Fabrication cost|                                                       |
+|Adam     |Magann |Fabrication cost|                                                       |
+|Amal     |Tambuur|Fabrication cost|                                                       |
+|Andrew   |Magann |Fabrication cost|                                                       |
+|Anna     |Paktu  |Fabrication cost|                                                       |
+|Anna     |Sagald |Fabrication cost|                                                       |
+|Anna     |Sagald |Fabrication cost|Different picture than the officer above               |
+|Bela     |Somtaaw|Fabrication time|Can only be received from the Small starter pack       |
+|Bethany  |S'jet  |Fabrication cost|                                                       |
+|Bethany  |S'jet  |Fabrication cost|Different picture than the officer above               |
+|Boez     |Magann |Fabrication cost|                                                       |
+|Braanan  |Manaan |Fabrication cost|                                                       |
+|Cain     |Kaalel |Fabrication time|                                                       |
+|Cain     |Manaan |Fabrication cost|                                                       |
+|Cain     |Kaalel |Fabrication time|                                                       |
+|Canir    |Tambuur|Fabrication cost|                                                       |
+|Cartiir  |Somtaaw|Fabrication cost|                                                       |
+|Chloe    |Somtaaw|Refining time   |                                                       |
+|Claudia  |Somtaaw|Refining time   |                                                       |
+|Cryssal  |Jaraci |Fabrication cost|                                                       |
+|Cryssal  |Kaalel |Fabrication cost|                                                       |
+|Damaris  |Kaalel |Fabrication cost|                                                       |
+|Damaris  |Kaalel |Fabrication cost|Different picture than the officer above               |
+|Damaris  |Tambuur|Fabrication cost|                                                       |
+|David    |Magann |Fabrication cost|                                                       |
+|Deborah  |Kaalel |Fabrication cost|                                                       |
+|Dellah   |Tambuur|Fabrication cost|                                                       |
+|Dellah   |Tambuur|Fabrication cost|Different picture than the officer above               |
+|Dinah    |Tambuur|Fabrication cost|                                                       |
+|Dinah    |Tambuur|Fabrication cost|Different picture than the officer above               |
+|Donar    |Kaalel |Fabrication cost|                                                       |
+|Elal     |S'jet  |Fabrication cost|                                                       |
+|Elas     |Somtaaw|Fabrication cost|                                                       |
+|Elizabeth|Magann |Fabrication cost|                                                       |
+|Eloheim  |Magann |Fabrication cost|                                                       |
+|Erach    |Hraal  |Fabrication cost|                                                       |
+|Erach    |Somtaaw|Fabrication cost|                                                       |
+|Eshim    |Manaan |Refining time   |Can be received from the early pioneer pack (Beta only)|
+|Esther   |Hraal  |Fabrication cost|                                                       |
+|Esther   |Magann |Fabrication cost|                                                       |
+|Hannah   |Sagald |Fabrication cost|                                                       |
+|Heraara  |Kaalel |Fabrication cost|                                                       |
+|Isaak    |Magann |Fabrication cost|                                                       |
+|Isaak    |Magann |Fabrication cost|Different picture than the officer above               |
+|Jacob    |Kaalel |Fabrication cost|                                                       |
+|Joaash   |Hraal  |Fabrication cost|                                                       |
+|Judith   |Tambuur|Refining time   |                                                       |
+|Julia    |S'jet  |Fabrication cost|                                                       |
+|Kenan    |Kaalel |Fabrication cost|                                                       |
+|Lukaas   |Magann |Fabrication cost|                                                       |
+|Lukaas   |Paktu  |Fabrication cost|                                                       |
+|Lukaas   |Somtaaw|Refining time   |                                                       |
+|Mahlah   |Sagald |Fabrication cost|                                                       |
+|Martell  |Tambuur|Fabrication cost|                                                       |
+|Melech   |Kaalel |Fabrication time|                                                       |
+|Miriam   |Jaraci |Fabrication cost|                                                       |
+|Miriam   |Tambuur|Fabrication cost|                                                       |
+|Neriah   |Manaan |Fabrication cost|                                                       |
+|Neriah   |Tambuur|Fabrication cost|                                                       |
+|Persis   |Hraal  |Fabrication cost|                                                       |
+|Persis   |Kaalel |Fabrication cost|                                                       |
+|Ruth     |Paktu  |Fabrication cost|                                                       |
+|Ruuth    |Tambuur|Fabrication cost|                                                       |
+|Shaan    |Magann |Fabrication cost|                                                       |
+|Shaman   |Magann |Fabrication cost|                                                       |
+|Silas    |Hraal  |Fabrication cost|                                                       |
+|Simon    |S'jet  |Fabrication cost|                                                       |
+|Sitar    |Somtaaw|Refining time   |                                                       |
+|Stara    |Paktu  |Fabrication cost|                                                       |
+|Taammuz  |Tambuur|Fabrication cost|                                                       |
+|Tamar    |Sagald |Fabrication cost|                                                       |
+|Will     |Tambuur|Fabrication cost|                                                       |
+|Yossarian|Kaalel |Fabrication time|                                                       |
+|Yossarian|Kaalel |Fabrication time|Different picture than the officer above               |
+|Zuriel   |Magann |Fabrication cost|                                                       |
 
 
 ### Quartermaster - Stats
@@ -719,6 +742,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Anna     |Paktu  |E     |90      |50      |30      |130     |74      |38      |        |        |        |        |        |        |
 |Anna     |Sagald |U     |90      |86      |31      |        |        |        |        |        |        |        |        |        |
 |Anna     |Sagald |R     |90      |86      |31      |        |        |        |        |        |        |        |        |        |
+|Bela     |Somtaaw|E     |90      |81      |25      |        |        |        |        |        |        |        |        |        |
 |Bethany  |S'jet  |C     |90      |59      |30      |        |        |        |        |        |        |180     |77      |58      |
 |Bethany  |S'jet  |C     |90      |59      |30      |        |        |        |        |        |        |        |        |        |
 |Boez     |Magann |U     |90      |63      |49      |        |        |        |        |        |        |        |        |        |
@@ -766,7 +790,7 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Erach    |Somtaaw|R     |90      |77      |29      |        |        |        |        |        |        |186     |183     |29      |
 |Erach    |Somtaaw|E     |90      |77      |29      |        |        |        |        |        |        |        |        |        |
 |Eshim    |Manaan |R     |89      |73      |29      |129     |73      |61      |        |        |        |        |        |        |
-|Eshim    |Manaan |E     |        |        |        |137     |73      |53      |        |        |        |        |        |        |
+|Eshim    |Manaan |E     |89      |73      |29      |137     |73      |53      |        |        |        |        |        |        |
 |Esther   |Hraal  |C     |89      |64      |29      |        |        |        |        |        |        |        |        |        |
 |Esther   |Magann |C     |90      |56      |40      |        |        |        |        |        |        |        |        |        |
 |Hannah   |Sagald |R     |90      |86      |31      |137     |105     |31      |        |        |        |        |        |        |
