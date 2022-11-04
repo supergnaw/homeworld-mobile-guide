@@ -15,19 +15,19 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 
 ### Flagships Blueprints
 
-|Ship                |Location Found                        |Notes                                                                                                                                                                         |
-|--------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Expedition          |Starter ship                          |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 4 squads 1 escort                                                                                                          |
-|Carrier I           |Market / Liaisons (T1)                |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                                                                |
-|Carrier II          |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts<br>Special: Has 2x refinery slots                                                             |
-|Carrier III         |Liaisons (T3)                         |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 10 squads 3 escorts<br>Special: Has 3x refinery slots                                                            |
-|Explorer I          |Market / scannables (Spoils of battle)|Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                                                                |
-|Explorer II         |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts<br>Special: Has 2x fabrication slots                                                          |
-|Explorer II Mohaava |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x fabrication slots<br>Special 2: Has 2x small 1x medium fixed repair turrets|
-|Explorer II Tiirshak|Liaisons (T2)                         |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special: Has 2x fabrication slots<br>Special 2: Has special fixes sensor array             |
-|Explorer III        |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts<br>Special: Has 3x fabrication slots                                                          |
-|Battlecruiser II    |Strikes (T2)                          |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                                                      |
-|Battlecruiser III   |Strikes (T3)                          |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                                                      |
+|Ship                |Location Found                        |Notes                                                                                                                                  |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|Expedition          |Starter ship                          |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 3 squads 1 escort                                                                   |
+|Carrier I           |Market / Liaisons (T1)                |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                         |
+|Carrier II          |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts                                                        |
+|Carrier III         |Liaisons (T3)                         |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 6 squads 3 escorts                                                        |
+|Explorer I          |Market / scannables (Spoils of battle)|Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                         |
+|Explorer II         |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                        |
+|Explorer II Mohaava |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x small 1x medium fixed repair turrets|
+|Explorer II Tiirshak|Liaisons (T2)                         |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special : Has special fixes sensor array            |
+|Explorer III        |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                        |
+|Battlecruiser II    |Strikes (T2)                          |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                               |
+|Battlecruiser III   |Strikes (T3)                          |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                               |
 
 ### Flagships Build requirements
 
@@ -57,25 +57,27 @@ There are various frigate types:
 
 ### Frigate Blueprints
 
-|Ship                       |Location Found                                                                |
-|---------------------------|------------------------------------------------------------------------------|
-|Scouting Frigate 0         |New starter ship                                                              |
-|Scouting Frigate 1         |Main quest                                                                    |
-|Assault Frigate 0          |Main quest                                                                    |
-|Rare Assault Frigate 0     |Market                                                                        |
-|Assault Frigate I          |Main questline                                                                |
-|Assault Frigate II         |Research                                                                      |
-|Assault Frigate III        |Research                                                                      |
-|Uncommon Assault Frigate I |All sources                                                                   |
-|Uncommon Assault Frigate II|All sources                                                                   |
-|Rare Assault Frigate III   |Strikes (T3) Liaisons (T3)                                                    |
-|Light Torpedo Frigate I    |Old starter ship, unobtainable                                                |
-|Torpedo Frigate II         |Research found in spoils of battle                                            |
-|Torpedo Frigate III        |Research found in spoils of battle                                            |
-|Epic Torpedo Frigate III   |Strike (T3) scannables: Spoils of battle (T3) Liaisons (T3), freight container|
-|Ion Frigate II             |Bugged / assume its from strike T2                                            |
-|Ion Frigate III            |Research                                                                      |
-|Yaot assault frigate       |Yaot liaison requisitions - reputation 6                                      |
+|Ship                            |Location Found                                |
+|--------------------------------|----------------------------------------------|
+|Scouting Frigate 0              |Starter ship                                  |
+|Scouting Frigate 1              |Main quest                                    |
+|Assault Frigate 0               |Main quest                                    |
+|Rare Assault Frigate 0          |Market                                        |
+|Assault Frigate I               |Main questline                                |
+|Assault Frigate II              |Research found in Chapter 19 - Lazarus Repairs|
+|Assault Frigate III             |Research                                      |
+|Uncommon Assault Frigate I      |All sources                                   |
+|Uncommon Assault Frigate II     |All sources                                   |
+|Rare Assault Frigate III        |Strikes (T3) Liaisons (T3)                    |
+|Vetran MD assault frigate II    |Reward from participating in the beta         |
+|Vetran Pulsar Assault Frigate II|Reward from participating in the beta         |
+|Torpedo Frigate II              |Research found in spoils of battle            |
+|Rare Torpedo Frigate II         |From the Large starter pack                   |
+|Torpedo Frigate III             |Research found in spoils of battle            |
+|Epic Torpedo Frigate III        |All sources                                   |
+|Ion Frigate III                 |Research found in spoils of battle            |
+|Uncommon Ion Frigate III        |Market                                        |
+|Yaot assault frigate            |Yaot liaison requisitions - reputation 6      |
 
 ### Frigate Build requirements
 
@@ -90,12 +92,12 @@ There are various frigate types:
 |Uncommon Assault Frigate I |RU A I              |1181|RU B I                |337 |RU M 0                     |675 |
 |Uncommon Assault Frigate II|Large Hull Parts III|491 |RU B II               |585 |RU D II                    |219 |
 |Rare Assault Frigate III   |Large Hull Parts III|378 |Large Weapon Parts III|108 |Large Electronics Parts III|54  |
-|Light Torpedo Frigate I    |                    |    |                      |    |                           |    |
 |Torpedo Frigate II         |Large Hull Parts II |454 |RU B II               |540 |RU C II                    |270 |
+|Rare Torpedo Frigate II    |Large Hull Parts II |567 |RU B II               |675 |RU C II                    |337 |
 |Torpedo Frigate III        |Large Hull Parts III|302 |Large Weapon Parts III|86  |RU C III                   |432 |
 |Epic Torpedo Frigate III   |Large Hull Parts III|529 |Large Weapon Parts III|151 |Large Electronics Parts III|76  |
-|Ion Frigate II             |                    |    |                      |    |                           |    |
 |Ion Frigate III            |Large Hull Parts III|353 |Large Weapon Parts III|101 |RU C III                   |504 |
+|Uncommon Ion Frigate III   |Large Hull Parts III|403 |Large Weapon Parts III|115 |Large Electronics Parts III|57  |
 |Yaot Aassault Frigate III  |Large Hull Parts III|217 |Large Weapon Parts III|62  |RU D III                   |221 |
 
 
@@ -219,21 +221,20 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 
 ### Corvettes Blueprints
 
-|Ship                      |Location Found                                |
-|--------------------------|----------------------------------------------|
-|Assault Corvette 0        |Market                                        |
-|Assault Corvette I        |Main quest                                    |
-|Assault Corvette II       |Research found in Chapter 19 - Lazarus Repairs|
-|Assault Corvette III      |Research                                      |
-|Rare Assault Corvette II  |All sources                                   |
-|Epic Assault Corvette III |All sources                                   |
-|Tanoch Missile corvette II|Tanoch liaison requisitions - reputation 2    |
-|Tanoch Assault corvette II|Tanoch liaison requisitions - reputation 3    |
-|Pulsar Corvette I         |Main quest / research unlock                  |
-|Pulsar Corvette II        |Research                                      |
-|Pulsar Corvette III       |Research                                      |
-|Rare Pulsar Corvette II   |All sources                                   |
-|Rare Pulsar Corvette III  |All sources                                   |
+|Ship                      |Location Found                            |
+|--------------------------|------------------------------------------|
+|Assault Corvette 0        |Market                                    |
+|Assault Corvette I        |Main quest                                |
+|Assault Corvette II       |Research found in liaisons                |
+|Assault Corvette III      |Research found in liaisons                |
+|Rare Assault Corvette II  |All sources                               |
+|Epic Assault Corvette III |All sources                               |
+|Tanoch Missile corvette II|Tanoch liaison requisitions - reputation 2|
+|Tanoch Assault corvette II|Tanoch liaison requisitions - reputation 3|
+|Pulsar Corvette II        |Research found in liaisons                |
+|Pulsar Corvette III       |Research found in liaisons                |
+|Rare Pulsar Corvette II   |All sources                               |
+|Rare Pulsar Corvette III  |All sources                               |
 
 ### Corvettes Build requirements
 
@@ -247,7 +248,6 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 |Epic Assault Corvette III |Small Hull Parts III|529 |Small Weapon Parts III|151 |Small Electronics Parts III|76  |
 |Tanoch Assault Corvette II|Small Hull Parts II |588 |RU B II               |350 |RU D II                    |131 |
 |Tanoch Missile Corvette II|Small Hull Parts II |588 |RU B II               |350 |RU D II                    |131 |
-|Pulsar Corvette I         |RU A I              |472 |RU B I                |135 |RU M 0                     |270 |
 |Pulsar Corvette II        |Small Hull Parts II |454 |RU B II               |270 |RU C II                    |135 |
 |Pulsar Corvette III       |Small Hull Parts III|302 |Small Weapon Parts III|86  |RU C III                   |216 |
 |Rare Pulsar Corvette II   |Small Hull Parts II |756 |RU B II               |450 |RU D II                    |168 |
@@ -261,14 +261,16 @@ Lastly in the squads section, we have resource collectors. These are you main wo
 
 ### Resource collectors Blueprints
 
-|Ship                        |Location Found                                                    |
-|----------------------------|------------------------------------------------------------------|
-|Resource Collector 0        |Main quest                                                        |
-|Resource Collector I        |Main questline                                                    |
-|Resource Collector II       |Research                                                          |
-|Gilded resource collector II|Iyatequa liaison requisitions - reputation 2                      |
-|Resource Collector III      |Research                                                          |
-|Rare Resource Collector III |Strikes, scannable - Spoils of battle, Liaisons, freight container|
+|Ship                         |Location Found                                                    |
+|-----------------------------|------------------------------------------------------------------|
+|Resource Collector 0         |Main quest                                                        |
+|Resource Collector I         |Main questline                                                    |
+|Resource Collector II        |Research                                                          |
+|Uncommon Resource Collector I|Daily login reward                                                |
+|Rare Resource Collector I    |From the Large starter pack                                       |
+|Gilded resource collector II |Iyatequa liaison requisitions - reputation 2                      |
+|Resource Collector III       |Research                                                          |
+|Rare Resource Collector III  |Strikes, scannable - Spoils of battle, Liaisons, freight container|
 
 ### Resource collectors Build requirements
 
