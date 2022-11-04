@@ -164,8 +164,6 @@ Ion weapons are beam type weapons that go vooomm. With mostly armour damage and 
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
 -Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance.
 
-### Ion Blueprints
-
 |Weapon Module                  |Size         |Location Found                                                              |
 |-------------------------------|-------------|----------------------------------------------------------------------------|
 |Crimson-4 Array I              |Medium weapon|Scannables - spoils of battle                                               |
@@ -270,8 +268,6 @@ Every flagship has a base capacity of 170 front, 220 middle and 170 back. But T1
  
 A higher tier modules doesn't mean that the module itself is stronger (aside from fabricators and refineries), but the higher the tier, the lower the capacity cost of the module will be.
 
-### Internal modules blueprints - front
-
 |Internal modules        |Module group  |Module capacity cost|Effect                                      |Location Found                         |
 |------------------------|--------------|--------------------|--------------------------------------------|---------------------------------------|
 |Sensor range booster II |Sensor boost  |28                  |Increases flagship sensor range             |Market                                 |
@@ -329,8 +325,6 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Squadron Flight Coordinator II  |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
 |Squadron Flight Coordinator III |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 
-
-### Internal modules blueprints - back
 
 |Internal modules                      |Module group |Module capacity cost|Effect                                        |Location Found                            |
 |--------------------------------------|-------------|--------------------|----------------------------------------------|------------------------------------------|
