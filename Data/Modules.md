@@ -1,5 +1,7 @@
 # Modules- weapons and sensors
 
+- Because we don't have the drop %'s of all locations, I won't add them for now. But for those containers that we do have (Strikes and freighter containers) can be found here on the mirrored google doc: shorturl.at/kSTV0 (On the loot container tab)
+
 ## Sensor arrays
 
 Sensor array modules can be equipped to your flagship to help the player with scanning objects within a system. They do not affect targeting range or weapon range.
