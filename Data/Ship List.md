@@ -1,5 +1,7 @@
 # Ships- Flagships, escorts and squads
 
+- Because we don't have the drop %'s of all locations, I won't add them for now. But for those containers that we do have (Strikes and freighter containers) can be found here on the mirrored google doc: shorturl.at/kSTV0 (On the loot container tab)
+
 ## Flagships
 
 The flagship is you main unit, or character in the game. A flagship (or flag for short) can be equipped with various weapons and better sensor arrays (see the modules page) and it has multiple officer slots for its various compartments (see more on the officers page). The flag is the only ship in the game that cannot be permanently destroyed. When its hull reaches zero, it will be disabled and the player will get a prompt to jump back to a trading station for repairs. This means that you can use your flagship as a de facto tank to protect your weaker units
