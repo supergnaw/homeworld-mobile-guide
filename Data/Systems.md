@@ -84,6 +84,28 @@ The Iyatequa faction, marked with brown, are mainly traders in the center of the
 |Liusata      |Iyatequa|1   |yes          |no            |30                       |8         |
 |Visaan Ki    |Iyatequa|1   |yes          |no            |39                       |4         |
 
+### Iyatequa Requisitions - Fragments
+
+|Item                              |Fragment type      |Fragment amount|
+|----------------------------------|-------------------|---------------|
+|Explorer Mohaava II               |Ship II            |150            |
+|Hull Maintenance Module II        |Internal Module II |30             |
+|Armor Maintenance Module II       |Internal Module II |30             |
+|Data Storage Hub II               |Internal Module II |30             |
+|Parallel Processor II             |Internal Module II |30             |
+|Hull Maintenance Module III       |Internal Module III|45             |
+|Armor Maintenance Module III      |Internal Module III|45             |
+|Data Storage Hub III              |Internal Module III|45             |
+|Parallel Processor III            |Internal Module III|45             |
+|Resource Controller Schematics II |Research II        |20             |
+|Mining Speed: Ore M II            |Research II        |20             |
+|Mining Speed: Ore A II            |Research II        |20             |
+|Repair Module Schematics II       |Research II        |20             |
+|Resource Controller Schematics III|Research III       |30             |
+|Resource Controller Hull III      |Research III       |30             |
+|Mining Speed: Ore B III           |Research III       |30             |
+|Repair Module Schematics III      |Research III       |30             |
+
 ### Iyatequa lore
 
 - The Iyatequa traders are not native to this area. They maintain outposts and trade stations but do not have planetary possessions.
@@ -156,6 +178,32 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 |Tochteop   |Tanoch |2   |no           |3             |113                      |8         |
 |Xilotepe   |Tanoch |2   |yes          |3             |113                      |5         |
 
+### Tanoch Requisitions - Fragments
+
+|Item                           |Fragment type      |Fragment amount|
+|-------------------------------|-------------------|---------------|
+|Talos Launch Cluster II        |External Module II |60             |
+|Sandstorm Launch Complex II    |External Module II |90             |
+|Talos Launch Cluster III       |External Module III|100            |
+|Sandstorm Launch Complex III   |External Module III|150            |
+|Squadron Maintenance Module II |Internal Module II |30             |
+|Squadron Flight Coordinator II |Internal Module II |30             |
+|System Scan Booster II         |Internal Module II |30             |
+|Missile Launcher Heat Sink II  |Internal Module II |30             |
+|Sensor Range Booster III       |Internal Module III|45             |
+|System Scan Booster III        |Internal Module III|45             |
+|Missile Launcher Heat Sink III |Internal Module III|45             |
+|Torpedo Anti-Armor Booster III |Internal Module III|30             |
+|Assault Corvette Schematics II |Research II        |20             |
+|MIssile Launcher Schematics II |Research II        |20             |
+|Kinetic Turret Hull Damage II  |Research II        |20             |
+|Missile Turret Armor Damage II |Research II        |20             |
+|Assault Frigate Hull Damage II |Research II        |20             |
+|Assault Corvette Schematics III|Research III       |30             |
+|MIssile Launcher Schematics III|Research III       |30             |
+|Torpedo Frigate Schematics III |Research III       |30             |
+
+
 ### Tanoch lore
 
 - The current Tanoch Empire has existed for over eight thousand years.
@@ -206,6 +254,23 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 |Tinjo       |Yaot   |3   |no           |no            |212                      |3         |
 |Tenjaca     |Yaot   |3   |no           |5             |212                      |2         |
 
+### Yaot Requisitions - Fragments
+
+|Item                           |Fragment type      |Fragment amount|
+|-------------------------------|-------------------|---------------|
+|Azure-1 Array III              |External Module III|100            |
+|Vission-11 Battery III         |External Module III|150            |
+|Engine Booster III             |Internal Module III|45             |
+|Squadron Maintenance Module III|Internal Module III|45             |
+|Squadron Flight Coordinator III|Internal Module III|45             |
+|Ion Cannon Heatsink III        |Internal Module III|45             |
+|Pulsar Corvette Schematics III |Research III       |30             |
+|Ion Cannon Schematics III      |Research III       |30             |
+|Pulsar Turret Schematics III   |Research III       |30             |
+|Ion Cannon Targeting Range III |Research III       |30             |
+|Beam Turret Hull Damage III    |Research III       |30             |
+
+
 ### Yaot lore
 
 - The Yaot Federation is a Gerontocracy, ruled by a council of the eldest from every major house. No member is younger than 60.
@@ -231,6 +296,88 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 
 - Many of the Cangacian pirates have ancestry tracing back to the refugees from the ancient Tanoch wars of conquest.
 - The Fleet of Rams is the personal fleet of Supay, Cangacian warlord. His ambition is to unite the fringe and invade the Tanoch Empire.
+
+## Universial Market
+
+### Universial Market - Fragments
+
+|Item                                |Fragment type      |Fragment amount|
+|------------------------------------|-------------------|---------------|
+|Carrier I                           |Ship I             |75             |
+|Carrier II                          |Ship II            |150            |
+|Carrier III                         |Ship III           |300            |
+|Battlecruiser II                    |Ship II            |150            |
+|Battlecruiser III                   |Ship III           |300            |
+|Azure-1 Array II                    |External Module II |60             |
+|Vision-11 Battery II                |External Module II |90             |
+|K-X3C Thunderbolt III               |External Module III|100            |
+|Ion Cannon Heat Sink II             |Internal Module II |30             |
+|Ion Cannon Anti-Armour II           |Internal Module II |30             |
+|Mass Driver Anti-Hull III           |Internal Module III|45             |
+|Mass Driver Heat sink III           |Internal Module III|45             |
+|Torpedo Frigate Schematics II       |Research II        |20             |
+|Pulsar Corvette Schematics II       |Research II        |20             |
+|Ion Cannon Schematics II            |Research II        |20             |
+|Explorer hull II                    |Research II        |20             |
+|Ion Cannon Frigate Schematics III   |Research III       |30             |
+|Carrier hull III                    |Research III       |30             |
+|Battlecruiser hull III              |Research III       |30             |
+|Legendary Hiigaran Recruitment Token|Officer            |120            |
+
+### Universial Market - Prestige
+
+|Item                                   |Prestige amount|
+|---------------------------------------|---------------|
+|500 Gas Pack III                       |100            |
+|300 RE Yy                              |150            |
+|300 RE Pr                              |150            |
+|150 RE Sm & 150 RE Eu                  |150            |
+|100000 Credits                         |200            |
+|200 Adamant                            |200            |
+|Rare Hiigaran Recruitment Token        |99             |
+|K-X3C Thunderbolt I                    |120            |
+|Talos Launch Cluster I                 |120            |
+|K-X3C Thunderbolt II                   |160            |
+|Ion Cannon Anti-Hull II                |160            |
+|Mass Driver Heat Sink II               |160            |
+|Mass Driver Anti-Armour III            |640            |
+|200 - GU Type H Gas T3                 |50             |
+|Plasma Bomber Schematics II            |160            |
+|Interceptor Speed II                   |160            |
+|Interceptor Evasion II                 |160            |
+|Scouting Friage Vision II              |160            |
+|Resource collector Hull II             |160            |
+|Destroyer Schematics II                |320            |
+|Plasma Bomber Schematics III           |640            |
+|Kinetic Turret Armour Damage III       |640            |
+|Destroyer Schematics III               |1280           |
+|10 - Ship Code Fragments II            |30             |
+|10 - Internal Module Code Fragments II |30             |
+|10 - External Module Code Fragments II |30             |
+|5- Research code Fragments II          |30             |
+|10 - Ship Code Fragments III           |15             |
+|10 - Internal Module Code Fragments III|15             |
+|10 - External Module Code Fragments III|15             |
+|5- Research code Fragments III         |15             |
+
+### Tanoch Winter Celebration (2022)
+
+- These items are unique to the Tanoch Winter Celebration. It is unkown IF or WHEN they will return to the market
+
+|Item                                  |Prestige amount|
+|--------------------------------------|---------------|
+|Ada Hraal (Rare research time officer)|600            |
+|Cholula-Class Cannon I                |149            |
+|Cholula-Class Cannon II               |290            |
+|Cholula-Class Cannon III              |490            |
+|Tanoch Assault Corvette Squadron I    |49             |
+|Tanoch Interceptor Squadron II        |99             |
+|Tanoch Assault Frigate II             |590            |
+|Tanoch Attack Bomber Squadron III     |149            |
+|Tanoch Missile Frigate III            |990            |
+|Tanoch Missile Corvette Squadron III  |149            |
+|Tanoch Assault Frigate BP II          |290            |
+|Tanoch Missile Frigate BP III         |490            |
 
 
 ## Progenitor faction
