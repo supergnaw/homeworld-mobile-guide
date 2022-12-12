@@ -1,7 +1,5 @@
 # Modules- weapons and sensors
 
-- Because we don't have the drop %'s of all locations, I won't add them for now. But for those containers that we do have (Strikes and freighter containers) can be found here on the mirrored google doc: shorturl.at/kSTV0 (On the loot container tab)
-
 ## Sensor arrays
 
 Sensor array modules can be equipped to your flagship to help the player with scanning objects within a system. They do not affect targeting range or weapon range.
@@ -9,12 +7,13 @@ Sensors can be buffed by upgrading them, fitting in a high aerospace stat office
 
 ### Sensor arrays Blueprints
 
-|Module                  |Size   |Location Found                |
-|------------------------|-------|------------------------------|
-|Basic Sensor Array I    |Sensors|Market                        |
-|Basic Sensor Array II   |Sensors|Market                        |
-|Basic Sensor Array III  |Sensors|Liaisons                      |
-|Tiirshak sensor array II|Sensors|Fixed on the Triishak flagship|
+|Weapon Module           |Size   |Location Found                              |
+|------------------------|-------|--------------------------------------------|
+|Basic Sensor Array 0    |Sensors|Equiped on new flagships                    |
+|Basic Sensor Array I    |Sensors|Chapter 13 - Progenitor components          |
+|Basic Sensor Array II   |Sensors|Market                                      |
+|Basic Sensor Array III  |Sensors|Iyatequa liaison requisitions - reputation 3|
+|Tiirshak sensor array II|Sensors|Fixed on the Triishak flagship              |
 
 ### Sensor arrays Build requirements
 
@@ -36,26 +35,32 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 |Weapon Module                   |Size         |Location Found                                           |
 |--------------------------------|-------------|---------------------------------------------------------|
-|K-A3 Turret I                   |Small weapon |Market                                                   |
-|Uncommon K-A3 Turret I          |Small weapon |Strikes, scannable - spoils of battle, freight container |
+|K-A3 Turret 0                   |Small weapon |Fixed on the Expedition flagship                         |
+|K-A3 Turret I                   |Small weapon |Chapter 12 - Hostile History                             |
+|Uncommon K-A3 Turret I          |Small weapon |Strikes, scannable, freight container                    |
 |K-A3 Turret II                  |Small weapon |Research found in Chapter 22 - Flagship T2               |
-|Uncommon K-A3 Turret II         |Small weapon |Strikes, scannable - spoils of battle, freight container |
+|Uncommon K-A3 Turret II         |Small weapon |Strikes, scannable, freight container                    |
 |Tanoch AX-44 light kinetic II   |Small weapon |Tanoch liaison requisitions - reputation 3               |
 |K-A3 Turret III                 |Small weapon |Research                                                 |
-|Uncommon K-A3 Turret III        |Small weapon |Strikes, scannable - spoils of battle, freight container |
-|Twin Javelin Cannon I           |Medium weapon|Main quest                                               |
-|K-X3C Thunderbolt Cannon I      |Medium weapon|Scannables - spoils of battle                            |
+|Uncommon K-A3 Turret III        |Small weapon |Strikes, scannable, freight container                    |
+|Tanoch AX-44 light kinetic III  |Small weapon |Chapter 25 - Star Totek (2x blueprints)                  |
+|Twin Javelin Cannon I           |Medium weapon|Chapter 12 - Turret Upgrades                             |
+|K-X3C Thunderbolt Cannon I      |Medium weapon|Market (120 prestige)                                    |
+|Cholula-Class Cannon I          |Medium weapon|Tanoch Winter Celebration (2022) (149 prestige)          |
 |Twin Javelin Cannon II          |Medium weapon|Research found in Chapter 22 - Flagship T2               |
-|Rare Twin Javelin Cannon II     |Medium weapon|Strikes, Scannables - spoils of battle, freight container|
+|Rare Twin Javelin Cannon II     |Medium weapon|Strikes, scannables, freight container                   |
 |Tanoch AX-48 Standard kinetic II|Medium weapon|Tanoch liaison requisitions - reputation 3               |
-|K-X3C Thunderbolt Cannon II     |Medium weapon|Scannables - spoils of battle                            |
+|K-X3C Thunderbolt Cannon II     |Medium weapon|Market (160 prestige)                                    |
+|Cholula-Class Cannon II         |Medium weapon|Tanoch Winter Celebration (2022) (290 prestige)          |
 |Twin Javelin Cannon III         |Medium weapon|Research                                                 |
-|Rare Twin Javelin Cannon III    |Medium weapon|Strikes, Scannables - spoils of battle, freight container|
-|K-X3C Thunderbolt Cannon III    |Medium weapon|Scannables - spoils of battle                            |
-|Karos-8 Battery I               |Large weapons|Scannables - spoils of battle                            |
+|Rare Twin Javelin Cannon III    |Medium weapon|Strikes, scannable, freight container                    |
+|K-X3C Thunderbolt Cannon III    |Medium weapon|Market - T3 100 External module fragments                |
+|Cholula-Class Cannon III        |Medium weapon|Tanoch Winter Celebration (2022) (490 prestige)          |
+|Karos-8 Battery I               |Large weapons|Auto-equiped on flagship build with large weapon slots   |
 |Karos-8 Battery II              |Large weapons|Research found in Chapter 22 - Flagship T2               |
 |Karos-8 Battery III             |Large weapons|Research                                                 |
-|Epic Karos-8 Battery III        |Large weapons|Strikes, Liasons, freight container                      |
+|Epic Karos-8 Battery III        |Large weapons|Strikes, Liasons, freight container, Epic signal missions|
+
 
 ### Kinetics Build requirements
 
@@ -75,11 +80,11 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Twin Javelin Cannon III         |RU A III                   |640       |Large Weapon Parts III|448       |Large Machinery Parts III|128       |
 |Rare Twin Javelin Cannon III    |Large Electronics III      |96        |Large Weapon Parts III|672       |Large Machinery Parts III|192       |
 |K-X3C Thunderbolt Cannon III    |RU A III                   |640       |Large Weapon Parts III|448       |Large Machinery Parts III|128       |
-|Karos-8 Battery I               |RU M 0                     |1250      |RU B I                |2187      |RU C I                   |625       |
 |Karos-8 Battery II              |RU A II                    |625       |Large Weapon Parts II |1050      |RU C II                  |1250      |
 |Karos-8 Battery III             |RU A III                   |1000      |Large Weapon Parts III|700       |Large Machinery Parts III|200       |
 |Epic Karos-8 Battery III        |Large Electronics III      |175       |Large Weapon Parts III|1225      |Large Machinery Parts III|350       |
 |Tanoch AX-44 light kinetic II   |RU D II                    |281       |Small Weapon Parts II |1260      |RU C II                  |750       |
+|Tanoch AX-44 light kinetic III  |Small Electronics parts III|120       |Small Weapon Parts III|840       |Small Machinery Parts III|240       |
 |Tanoch AX-48 Standard kinetic II|RU D II                    |421       |Large Weapon Parts II |945       |RU C II                  |1125      |
 
 
@@ -93,27 +98,29 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 
 ### Missiles Blueprints
 
-|Weapon Module                       |Size         |Location Found                                          |
-|------------------------------------|-------------|--------------------------------------------------------|
-|Type-5 Launch Pad I                 |Small weapon |Main quest                                              |
-|Uncommon Type-5 Launch Pad I        |Small weapon |Strikes, scannable - spoils of battle, freight container|
-|Type-5 Launch Pad II                |Small weapon |Research found in liaisons                              |
-|Uncommon Type-5 Launch Pad II       |Small weapon |Strikes, scannable - spoils of battle, freight container|
-|Type-5 Launch Pad III               |Small weapon |Research found in liaisons                              |
-|Uncommon Type-5 Launch Pad III      |Small weapon |Strikes, scannable - spoils of battle, freight container|
-|Colchis Launch Cluster I            |Medium weapon|Market                                                  |
-|Colchis Launch Cluster II           |Medium weapon|Research found in liaisons                              |
-|Rare Colchis Launch Cluster II      |Medium weapon|Liasons, freight container                              |
-|Talos Launch Cluster II             |Medium weapon|Liasons                                                 |
-|Colchis Launch Cluster III          |Medium weapon|Research found in liaisons                              |
-|Rare Colchis Launch Cluster III     |Medium weapon|Liasons, freight container                              |
-|Talos Launch Cluster III            |Medium weapon|Liasons                                                 |
-|Thundercloud Launch Complex I       |Large weapons|Market                                                  |
-|Thundercloud Launch Complex II      |Large weapons|Research found in liaisons                              |
-|Sandstorm Launch Complex II         |Large weapons|Liaisons                                                |
-|Thundercloud Launch Complex III     |Large weapons|Research found in liaisons                              |
-|Epic Thundercloud Launch Complex III|Large weapons|Strikes, Liasons, freight container                     |
-|Sandstorm Launch Complex III        |Large weapons|Liaisons                                                |
+|Weapon Module                       |Size         |Location Found                                                            |
+|------------------------------------|-------------|--------------------------------------------------------------------------|
+|Type-5 Launch Pad 0                 |Small weapon |Fixed on the Expedition flagship                                          |
+|Type-5 Launch Pad I                 |Small weapon |Chapter 12 - Mounting Turrets                                             |
+|Uncommon Type-5 Launch Pad I        |Small weapon |Strikes, scannable, freight container                                     |
+|Type-5 Launch Pad II                |Small weapon |Research found Tanoch liaison requisitions (20 T2 Research code fragments)|
+|Uncommon Type-5 Launch Pad II       |Small weapon |Strikes, scannable - spoils of battle, freight container                  |
+|Type-5 Launch Pad III               |Small weapon |Research found Tanoch liaison requisitions (30 T3 Research code fragments)|
+|Uncommon Type-5 Launch Pad III      |Small weapon |Strikes, scannable - spoils of battle, freight container                  |
+|Colchis Launch Cluster I            |Medium weapon|Market                                                                    |
+|Talos Launch Cluster I              |Medium weapon|Market (120 prestige)                                                     |
+|Colchis Launch Cluster II           |Medium weapon|Research found Tanoch liaison requisitions (20 T2 Research code fragments)|
+|Rare Colchis Launch Cluster II      |Medium weapon|Liaisons                                                                  |
+|Talos Launch Cluster II             |Medium weapon|Tanoch liaison requisitions - T2 60 External module fragments             |
+|Colchis Launch Cluster III          |Medium weapon|Research found Tanoch liaison requisitions (30 T3 Research code fragments)|
+|Rare Colchis Launch Cluster III     |Medium weapon|Liaisons                                                                  |
+|Talos Launch Cluster III            |Medium weapon|Tanoch liaison requisitions - T3 100 External module fragments            |
+|Thundercloud Launch Complex II      |Large weapons|Research found Tanoch liaison requisitions (20 T2 Research code fragments)|
+|Sandstorm Launch Complex II         |Large weapons|Tanoch liaison requisitions - T2 90 External module fragments             |
+|Thundercloud Launch Complex III     |Large weapons|Research found Tanoch liaison requisitions (30 T3 Research code fragments)|
+|Epic Thundercloud Launch Complex III|Large weapons|Liaisons                                                                  |
+|Sandstorm Launch Complex III        |Large weapons|Tanoch liaison requisitions - T3 150 External module fragments            |
+
 
 ### Missiles Build requirements
 
@@ -166,27 +173,26 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ### Ion Build Blueprints
 
-|Weapon Module                  |Size         |Location Found                                                              |
-|-------------------------------|-------------|----------------------------------------------------------------------------|
-|Crimson-4 Array I              |Medium weapon|Scannables - spoils of battle                                               |
-|Crimson-4 Array II             |Medium weapon|Research found in liaisons                                                  |
-|Rare Crimson-4 Array II        |Medium weapon|Liaisons, freight container                                                 |
-|Azure-1 Array II               |Medium weapon|Strike, Scannables - spoils of battle                                       |
-|Crimson-4 Array III            |Medium weapon|Research found in liaisons                                                  |
-|Rare Crimson-4 Array III       |Medium weapon|Market (adamant), Liaisons, Scannables - spoils of battle, freight container|
-|Azure-1 Array III              |Medium weapon|Strikes, Scannables - spoils of battle                                      |
-|Epic Twin Azure-1 Array III    |Medium weapon|Strikes                                                                     |
-|Fleet Model X2 Battery I       |Large weapons|Strikes, Liaisons                                                           |
-|Fleet Model X2 Battery II      |Large weapons|Research found in liaisons                                                  |
-|Fleet Model X2 Battery III     |Large weapons|Research found in liaisons                                                  |
-|Epic Fleet Model X2 Battery III|Large weapons|Strikes, Liasons, freight container                                         |
-|Vission-11 Battery             |Large weapons|Strikes                                                                     |
+|Weapon Module                  |Size         |Location Found                                                          |
+|-------------------------------|-------------|------------------------------------------------------------------------|
+|Crimson-4 Array II             |Medium weapon|Research found Market (20 T2 Research code fragments)                   |
+|Rare Crimson-4 Array II        |Medium weapon|BUGGED as of 1.1.8                                                      |
+|Azure-1 Array II               |Medium weapon|Market - T2 60 External module fragments                                |
+|Crimson-4 Array III            |Medium weapon|Research found Yaot liaison requisitions (30 T3 Research code fragments)|
+|Rare Crimson-4 Array III       |Medium weapon|Market (adamant), BUGGED as of 1.1.8                                    |
+|Azure-1 Array III              |Medium weapon|Yaot liaison requisitions - T3 100 External module fragments            |
+|Epic Twin Azure-1 Array III    |Medium weapon|Pahra's Rock (Heroic) T3                                                |
+|Fleet Model X2 Battery II      |Large weapons|Research found Market (20 T2 Research code fragments)                   |
+|Vission-11 Battery II          |Large weapons|Market - T2 90 External module fragments                                |
+|Fleet Model X2 Battery III     |Large weapons|Research found Yaot liaison requisitions (30 T3 Research code fragments)|
+|Epic Fleet Model X2 Battery III|Large weapons|BUGGED as of 1.1.8                                                      |
+|Vission-11 Battery III         |Large weapons|Yaot liaison requisitions - T3 150 External module fragments            |
+
 
 ### Ion Build requirements
 
 |Module name                    |Material 1           |Quantity 1|Material 2            |Quantity 2|Material 3               |Quantity 3|
 |-------------------------------|---------------------|----------|----------------------|----------|-------------------------|----------|
-|Crimson-4 Array I              |RU M 0               |1000      |RU B I                |1750      |RU C I                   |500       |
 |Crimson-4 Array II             |RU A II              |500       |Large Weapon Parts II |840       |RU C II                  |1000      |
 |Rare Crimson-4 Array II        |RU D II              |562       |Large Weapon Parts II |1260      |RU C II                  |1500      |
 |Azure-1 Array II               |RU A II              |500       |Large Weapon Parts II |840       |RU C II                  |1000      |
@@ -194,12 +200,10 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Rare Crimson-4 Array III       |Large Electronics III|120       |Large Weapon Parts III|840       |Large Machinery Parts III|240       |
 |Azure-1 Array III              |RU A III             |800       |Large Weapon Parts III|560       |Large Machinery Parts III|160       |
 |Epic Twin Azure-1 Array III    |Large Electronics III|140       |Large Weapon Parts III|980       |Large Machinery Parts III|280       |
-|Fleet Model X2 Battery I       |RU M 0               |1500      |RU B I                |2625      |RU C I                   |750       |
 |Fleet Model X2 Battery II      |RU A III             |750       |Large Weapon Parts II |1260      |RU C II                  |1500      |
 |Fleet Model X2 Battery III     |RU A III             |1200      |Large Weapon Parts III|840       |Large Machinery Parts III|240       |
 |Epic Fleet Model X2 Battery III|Large Electronics III|210       |Large Weapon Parts III|1470      |Large Machinery Parts III|420       |
 |Vission-11 Battery             |RU A III             |1200      |Large Weapon Parts III|840       |Large Machinery Parts III|240       |
-
 
 ## Pulsar weapons
 
@@ -210,13 +214,13 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ### Pulsar Blueprints
 
-|Weapon Module               |Size         |Location Found                          |
-|----------------------------|-------------|----------------------------------------|
-|LT-4 MAG Pointer III        |Small weapon |Research found in strikes               |
-|Yaot SSL Light pulsar III   |Small weapon |Yaot liaison requisitions - reputation 6|
-|DR-3 MAG Repeater III       |Medium weapon|Research found in strikes               |
-|Yaot SSV standard pulsar III|Medium weapon|Yaot liaison requisitions - reputation 7|
-|Twin DR-M MAG Lance III     |Large weapons|Research found in strikes               |
+|Weapon Module               |Size         |Location Found                                                          |
+|----------------------------|-------------|------------------------------------------------------------------------|
+|LT-4 MAG Pointer III        |Small weapon |Research found Yaot liaison requisitions (30 T3 Research code fragments)|
+|Yaot SSL Light pulsar III   |Small weapon |Yaot liaison requisitions - reputation 6                                |
+|DR-3 MAG Repeater III       |Medium weapon|Research found Yaot liaison requisitions (30 T3 Research code fragments)|
+|Yaot SSV standard pulsar III|Medium weapon|Yaot liaison requisitions - reputation 7                                |
+|Twin DR-M MAG Lance III     |Large weapons|Research found Yaot liaison requisitions (30 T3 Research code fragments)|
 
 ### Pulsar Build requirements
 
@@ -237,28 +241,23 @@ They can be buffed by upgrading them and fitting in a high aerospace stat office
 
 ### Repair modules Blueprints
 
-|Weapon Module                       |Size         |Location Found               |
-|------------------------------------|-------------|-----------------------------|
-|REL-12 Matter Projector I           |Small weapon |Liaisons                     |
-|REL-12 Matter Projector II          |Small weapon |Research found in strikes    |
-|REL-12 Matter Projector III         |Small weapon |Research found in strikes    |
-|REL-14F Mohaava Matter Projector II |Small weapon |Fixed on the Mohaava flagship|
-|REL-12DX Twin Matter Projector I    |Medium weapon|Strikes                      |
-|REL-12DX Twin Matter Projector II   |Medium weapon|Research found in strikes    |
-|REL-12DX Twin Matter Projector III  |Medium weapon|Research found in strikes    |
-|REL-14XF Mohaava Matter Projector II|Medium weapon|Fixed on the Mohaava flagship|
+|Weapon Module                       |Size         |Location Found                                                              |
+|------------------------------------|-------------|----------------------------------------------------------------------------|
+|REL-12 Matter Projector II          |Small weapon |Research found Iyatequa liaison requisitions (20 T2 Research code fragments)|
+|REL-12 Matter Projector III         |Small weapon |Research found Iyatequa liaison requisitions (30 T3 Research code fragments)|
+|REL-14F Mohaava Matter Projector II |Small weapon |Fixed on the Mohaava flagship                                               |
+|REL-12DX Twin Matter Projector II   |Medium weapon|Research found Iyatequa liaison requisitions (20 T2 Research code fragments)|
+|REL-12DX Twin Matter Projector III  |Medium weapon|Research found Iyatequa liaison requisitions (30 T3 Research code fragments)|
+|REL-14XF Mohaava Matter Projector II|Medium weapon|Fixed on the Mohaava flagship                                               |
 
 ### Repair modules Build requirements
 
 |Module name                       |Material 1|Quantity 1|Material 2            |Quantity 2|Material 3               |Quantity 3|
 |----------------------------------|----------|----------|----------------------|----------|-------------------------|----------|
-|REL-12 Matter Projector I         |RU M 0    |500       |RU B I                |875       |RU C I                   |250       |
 |REL-12 Matter Projector II        |RU A II   |250       |Small Weapon Parts II |840       |RU C II                  |500       |
 |REL-12 Matter Projector III       |RU A III  |400       |Small Weapon Parts III|560       |Small Machinery Parts III|160       |
-|REL-12DX Twin Matter Projector I  |RU M 0    |750       |RU B I                |1312      |RU C I                   |375       |
 |REL-12DX Twin Matter Projector II |RU A II   |375       |Large Weapon Parts II |630       |RU C II                  |750       |
 |REL-12DX Twin Matter Projector III|RU A III  |600       |Large Weapon Parts III|420       |Large Machinery Parts III|120       |
-
 
 ## Internal modules
 
@@ -272,23 +271,21 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 
 ### Internal modules blueprints - front
 
-|Internal modules        |Module group  |Module capacity cost|Effect                                      |Location Found                         |
-|------------------------|--------------|--------------------|--------------------------------------------|---------------------------------------|
-|Sensor range booster II |Sensor boost  |28                  |Increases flagship sensor range             |Market                                 |
-|Sensor range booster III|Sensor boost  |24                  |Increases flagship sensor range             |Scannables - spoils of battle          |
-|System scan booster II  |Sensor boost  |                    |Increases flagship scan reliability         |Liaisons, Scannables - spoils of battle|
-|System scan booster III |Sensor boost  |                    |Increases flagship scan reliability         |Liaisons, Scannables - spoils of battle|
-|Data Storage hub II     |Research boost|45                  |Increases flagship research point capacity  |Strikes                                |
-|Data Storage hub III    |Research boost|                    |Increases flagship research point capacity  |Strikes                                |
-|Parallel Processor II   |Research boost|45                  |Increases flagship research point production|Strikes                                |
-|Parallel Processor III  |Research boost|                    |Increases flagship research point production|Strikes                                |
-
+|Internal modules        |Module group  |Module capacity cost|Effect                                      |Location Found                                                 |
+|------------------------|--------------|--------------------|--------------------------------------------|---------------------------------------------------------------|
+|Sensor range booster II |Sensor boost  |28                  |Increases flagship sensor range             |Market                                                         |
+|Sensor range booster III|Sensor boost  |24                  |Increases flagship sensor range             |Tanoch liaison requisitions - T3 45 Internal module fragments  |
+|System scan booster II  |Sensor boost  |28                  |Increases flagship scan reliability         |Tanoch liaison requisitions - T2 30 Internal module fragments  |
+|System scan booster III |Sensor boost  |24                  |Increases flagship scan reliability         |Tanoch liaison requisitions - T3 45 Internal module fragments  |
+|Data Storage hub II     |Research boost|45                  |Increases flagship research point capacity  |Iyatequa liaison requisitions - T2 30 Internal module fragments|
+|Data Storage hub III    |Research boost|36                  |Increases flagship research point capacity  |Iyatequa liaison requisitions - T3 45 Internal module fragments|
+|Parallel Processor II   |Research boost|45                  |Increases flagship research point production|Iyatequa liaison requisitions - T2 30 Internal module fragments|
+|Parallel Processor III  |Research boost|36                  |Increases flagship research point production|Iyatequa liaison requisitions - T3 45 Internal module fragments|
 
 ### Internal modules Build requirements - front
 
 |Internal modules        |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
 |------------------------|--------------------|----------|----------|----------|-------------------------|----------|
-| testing | testing | testing |
 |Sensor range booster II |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
 |Sensor range booster III|Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |System scan booster II  |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
@@ -301,18 +298,19 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 
 ### Internal modules blueprints - middle
 
-|Internal modules                |Module group|Module capacity cost|Effect                             |Location Found                              |
-|--------------------------------|------------|--------------------|-----------------------------------|--------------------------------------------|
-|Fabricator I                    |Fabricators |72                  |Shorter timers                     |Main quest                                  |
-|Fabricator II                   |Fabricators |60                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 2|
-|Fabricator III                  |Fabricators |48                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 3|
-|Refinery I                      |Refineries  |72                  |Shorter timers                     |Main quest                                  |
-|Refinery II                     |Refineries  |60                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 2|
-|Refinery III                    |Refineries  |48                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 3|
-|Squadron Maintenance Modules II |Squad boost |28                  |Increases strike craft hull        |Liaisons, Scannables - spoils of battle     |
-|Squadron Maintenance Modules III|Squad boost |24                  |Increases strike craft hull        |Liaisons, Scannables - spoils of battle     |
-|Squadron Flight Coordinator II  |Squad boost |28                  |Increases strike craft dodge chance|Liaisons                                    |
-|Squadron Flight Coordinator III |Squad boost |24                  |Increases strike craft dodge chance|Liaisons                                    |
+|Internal modules                |Module group|Module capacity cost|Effect                             |Location Found                                               |
+|--------------------------------|------------|--------------------|-----------------------------------|-------------------------------------------------------------|
+|Fabricator I                    |Fabricators |72                  |Shorter timers                     |Chapter 23 - Tanochet                                        |
+|Fabricator II                   |Fabricators |60                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 2                 |
+|Fabricator III                  |Fabricators |48                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 3                 |
+|Refinery I                      |Refineries  |72                  |Shorter timers                     |Chapter 23 - Fabricator module                               |
+|Refinery II                     |Refineries  |60                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 2                 |
+|Refinery III                    |Refineries  |48                  |Shorter timers                     |Iyatequa liaison requisitions - reputation 3                 |
+|Squadron Maintenance Modules II |Squad boost |28                  |Increases strike craft hull        |Tanoch liaison requisitions - T2 30 Internal module fragments|
+|Squadron Maintenance Modules III|Squad boost |24                  |Increases strike craft hull        |Yaot liaison requisitions - T3 45 Internal module fragments  |
+|Squadron Flight Coordinator II  |Squad boost |28                  |Increases strike craft dodge chance|Tanoch liaison requisitions - T2 30 Internal module fragments|
+|Squadron Flight Coordinator III |Squad boost |24                  |Increases strike craft dodge chance|Yaot liaison requisitions - T3 45 Internal module fragments  |
+
 
 ### Internal modules Build requirements - middle
 
@@ -331,34 +329,36 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 
 ### Internal modules blueprints - back
 
-|Internal modules                      |Module group |Module capacity cost|Effect                                        |Location Found                            |
-|--------------------------------------|-------------|--------------------|----------------------------------------------|------------------------------------------|
-|Mass driver anti-hull booster II      |Kinetic boost|28                  |Increases hull damage                         |Market                                    |
-|Mass driver anti-hull booster III     |Kinetic boost|24                  |Increases hull damage                         |Strikes                                   |
-|Mass driver anti-armor booster II     |Kinetic boost|28                  |Increases amor damage                         |Market                                    |
-|Mass driver anti-armor booster III    |Kinetic boost|28                  |Increases amor damage                         |Strikes                                   |
-|Mass driver heat sink II              |Kinetic boost|56                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Mass driver heat sink III             |Kinetic boost|48                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Missile launcher anti-hull booster II |Missile boost|28                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 3|
-|Missile launcher anti-hull booster III|Missile boost|24                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 5|
-|Missile launcher signal booster II    |Missile boost|28                  |Increases turret range                        |Tanoch liaison requisitions - reputation 2|
-|Missile launcher signal booster III   |Missile boost|24                  |Increases turret range                        |Tanoch liaison requisitions - reputation 4|
-|Missile launcher heat sink II         |Missile boost|56                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Missile launcher heat sink III        |Missile boost|48                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Ion cannon anti-hull booster II       |Ion boost    |28                  |Increases hull damage                         |Strikes                                   |
-|Ion cannon anti-hull booster III      |Ion boost    |24                  |Increases hull damage                         |Yaot liaison requisitions - reputation 3  |
-|Ion cannon anti-armor booster II      |Ion boost    |28                  |Increases armor damage                        |Strikes                                   |
-|Ion cannon anti-armor booster III     |Ion boost    |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 4  |
-|Ion cannon heat sink II               |Ion boost    |56                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Ion cannon heat sink III              |Ion boost    |48                  |Reduces turret cooldown / increases damage    |Strikes                                   |
-|Pulsar anti-hull booster III          |Pulsar boost |24                  |Increases hull damage                         |Yaot liaison requisitions - reputation 8  |
-|Pulsar anti-armor booster III         |Pulsar boost |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 9  |
-|Hull maintenance module II            |Hull boost   |42                  |Increases flagship hull                       |Liaisons                                  |
-|Hull maintenance module III           |Hull boost   |36                  |Increases flagship hull                       |Liaisons                                  |
-|Armor Maintenance module II           |Armor boost  |42                  |Increases flagship amor                       |Liaisons                                  |
-|Armor Maintenance module III          |Armor boost  |36                  |Increases flagship armor                      |Liaisons                                  |
-|Engine booster II                     |Engine boost |28                  |Increases speed, acceleration and deceleration|Market                                    |
-|Engine booster III                    |Engine boost |24                  |Increases speed, acceleration and deceleration|Liaisons                                  |
+|Internal modules                      |Module group |Module capacity cost|Effect                                        |Location Found                                                 |
+|--------------------------------------|-------------|--------------------|----------------------------------------------|---------------------------------------------------------------|
+|Mass driver anti-hull booster II      |Kinetic boost|28                  |Increases hull damage                         |Market                                                         |
+|Mass driver anti-hull booster III     |Kinetic boost|24                  |Increases hull damage                         |Market - T3 45 Internal module fragments                       |
+|Mass driver anti-armor booster II     |Kinetic boost|28                  |Increases amor damage                         |Market                                                         |
+|Mass driver anti-armor booster III    |Kinetic boost|28                  |Increases amor damage                         |Market (640 prestige)                                          |
+|Mass driver heat sink II              |Kinetic boost|56                  |Reduces turret cooldown / increases damage    |Market (160 prestige)                                          |
+|Mass driver heat sink III             |Kinetic boost|48                  |Reduces turret cooldown / increases damage    |Market - T3 45 Internal module fragments                       |
+|Missile launcher anti-hull booster II |Missile boost|28                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 3                     |
+|Missile launcher anti-hull booster III|Missile boost|24                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 5                     |
+|Missile launcher signal booster II    |Missile boost|28                  |Increases turret range                        |Tanoch liaison requisitions - reputation 2                     |
+|Missile launcher signal booster III   |Missile boost|24                  |Increases turret range                        |Tanoch liaison requisitions - reputation 4                     |
+|Missile launcher heat sink II         |Missile boost|56                  |Reduces turret cooldown / increases damage    |Tanoch liaison requisitions - T2 30 Internal module fragments  |
+|Missile launcher heat sink III        |Missile boost|48                  |Reduces turret cooldown / increases damage    |Tanoch liaison requisitions - T3 45 Internal module fragments  |
+|Ion cannon anti-hull booster II       |Ion boost    |28                  |Increases hull damage                         |Market (160 prestige)                                          |
+|Ion cannon anti-hull booster III      |Ion boost    |24                  |Increases hull damage                         |Yaot liaison requisitions - reputation 3                       |
+|Ion cannon anti-armor booster II      |Ion boost    |28                  |Increases armor damage                        |Market - T2 30 Internal module fragments                       |
+|Ion cannon anti-armor booster III     |Ion boost    |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 4                       |
+|Ion cannon heat sink II               |Ion boost    |56                  |Reduces turret cooldown / increases damage    |Market - T2 30 Internal module fragments                       |
+|Ion cannon heat sink III              |Ion boost    |48                  |Reduces turret cooldown / increases damage    |Yaot liaison requisitions - T3 45 Internal module fragments    |
+|Pulsar anti-hull booster III          |Pulsar boost |24                  |Increases hull damage                         |Yaot liaison requisitions - reputation 8                       |
+|Pulsar anti-armor booster III         |Pulsar boost |24                  |Increases armor damage                        |Yaot liaison requisitions - reputation 9                       |
+|Torpedo anti-hull booster III         |Torpedo boost|24                  |Increases hull damage                         |Tanoch liaison requisitions - reputation 6                     |
+|Torpedo anti-amor booster III         |Torpedo boost|24                  |Increases armor damage                        |Tanoch liaison requisitions - T3 30 Internal module fragments  |
+|Hull maintenance module II            |Hull boost   |42                  |Increases flagship hull                       |Iyatequa liaison requisitions - T2 30 Internal module fragments|
+|Hull maintenance module III           |Hull boost   |36                  |Increases flagship hull                       |Iyatequa liaison requisitions - T3 45 Internal module fragments|
+|Armor Maintenance module II           |Armor boost  |42                  |Increases flagship amor                       |Iyatequa liaison requisitions - T2 30 Internal module fragments|
+|Armor Maintenance module III          |Armor boost  |36                  |Increases flagship armor                      |Iyatequa liaison requisitions - T3 45 Internal module fragments|
+|Engine booster II                     |Engine boost |28                  |Increases speed, acceleration and deceleration|Market                                                         |
+|Engine booster III                    |Engine boost |24                  |Increases speed, acceleration and deceleration|Yaot liaison requisitions - T3 45 Internal module fragments    |
 
 
 ### Internal modules Build requirements - back
@@ -385,20 +385,20 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Ion cannon heat sink III              |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |Pulsar anti-hull booster III          |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |Pulsar anti-armor booster III         |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
-|Hull maintenance module II            |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
-|Hull maintenance module III           |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
-|Armor Maintenance module II           |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
-|Armor Maintenance module III          |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
-|Engine booster II                     |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
-|Engine booster III                    |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Torpedo anti-hull booster III         |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Torpedo anti-amor booster III         |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Squadron Maintenance Modules II       |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
+|Squadron Maintenance Modules III      |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Squadron Flight Coordinator II        |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
+|Squadron Flight Coordinator III       |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 
 
 ### Internal modules blueprints - anywhere
 
-|Internal modules  |Module group |Module capacity cost|Effect                    |Location Found            |
-|------------------|-------------|--------------------|--------------------------|--------------------------|
-|Storage module II |Storage boost|28                  |Increases storage capacity|Increases storage capacity|
-|Storage module III|Storage boost|24                  |Increases storage capacity|Increases storage capacity|
+|Internal modules  |Module group |Module capacity cost|Effect                    |Location Found                              |
+|------------------|-------------|--------------------|--------------------------|--------------------------------------------|
+|Storage module II |Storage boost|28                  |Increases storage capacity|Iyatequa liaison requisitions - reputation 3|
+|Storage module III|Storage boost|24                  |Increases storage capacity|Iyatequa liaison requisitions - reputation 4|
 
 ### Internal modules Build requirements - anywhere
 
