@@ -155,110 +155,108 @@ Research is based on a research tree, with a main middle path, and branches to t
 and the bottom path has mostly stat upgrades for different gear buffs. Aside from upgrades in the middle path, you will need to find certain Schematics to unlock upgrade from the top and bottom paths	
 
 Hyperspace- middle	
--	Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines) - Chapter 6 - Declaration
--	Hyperspace jump limit T2 (Increases the cap on hyperjump strength stat for engines) - Chapter 16 - Laboratories
--	Hyperspace jump limit T3 (Increases the cap on hyperjump strength stat for engines) - Chapter 23 - Temple Tonaati
+- Hyperspace jump limit T1 (Increases the cap on hyperjump strength stat for engines) - Chapter 6 - Declaration
+- Hyperspace jump limit T2 (Increases the cap on hyperjump strength stat for engines) - Chapter 16 - Laboratories
+- Hyperspace jump limit T3 (Increases the cap on hyperjump strength stat for engines) - Chapter 23 - Temple Tonaati
 	
 Mining- middle	
--	Resource Collector T2 (unlocks T2 collector)
--	Mining yield: ore A (increases T2A yield)
--	Mining yield: ore B (increases T2B yield)
--	Mining yield: ore C (increases T2C yield)
--	Resource Collector T3 (unlocks T3 collector)
--	Mining yield: ore A (increases T3A yield)
--	Mining yield: ore B (increases T3B yield)
--	Mining yield: ore C (increases T3C yield)
+- Resource Collector T2 (unlocks T2 collector)
+- Mining yield: ore A (increases T2A yield)
+- Mining yield: ore B (increases T2B yield)
+- Mining yield: ore C (increases T2C yield)
+- Resource Collector T3 (unlocks T3 collector)
+- Mining yield: ore A (increases T3A yield)
+- Mining yield: ore B (increases T3B yield)
+- Mining yield: ore C (increases T3C yield)
 	
 Mining- top	
--	Resource controller schematics (Unlocks T2 resource controllers) - can be found at liaisons
--	Remote Mining yield: ore A (increases total yield of A type ores in remote mining sessions)
--	Resource controller schematics (Unlocks T3 resource controllers) - can be found at liaisons
--	Remote Mining yield: ore A (increases total yield of B type ores in remote mining sessions)
+- Resource controller schematics (Unlocks T2 resource controllers) - can be found in the Iyatequa liaison requisitions (20 T2 Research code fragments)
+- Resource controller schematics (Unlocks T3 resource controllers) - can be found in the Iyatequa liaison requisitions (30 T3 Research code fragments)
 	
 Mining- Bottom	
--	Mining speed: Ore M (Increases T0M yield) - can be found at liaisons
--	Mining speed: Ore A (Increases T1A yield) - can be found at liaisons
--	Resource collector hull (Increases collector hull) - can be found at strikes
--	Resource controller hull (Increases controller hull) - can be found at liaisons
--	Mining speed: Ore B (Increases T1B yield) - can be found at liaisons
+- Mining speed: Ore M (Increases M yield) - can be found in the Iyatequa liaison requisitions (20 T2 Research code fragments)
+- Mining speed: Ore A (Increases A yield) - can be found at liaisons- can be found in the Iyatequa liaison requisitions (20 T2 Research code fragments)
+- Resource collector hull (Increases collector hull) - can be found in the market (160 prestige)
+- Resource controller hull (Increases controller hull) - can be found in the Iyatequa liaison requisitions (30 T3 Research code fragments)
+- Mining speed: Ore B (Increases B yield) - can be found in the Iyatequa liaison requisitions (30 T3 Research code fragments)
 	
 Strike craft- middle	
--	Interceptor schematics (unlocks T2 interceptors) - Chapter 17 - Cangacian Attacks
--	Strike craft speed (increases speed, acceleration and deceleration of T2 strike craft)
--	Strike craft hull (Increases hull of T2 strike craft)
--	Strike craft hull damage (Increases hull damage of T2 strike craft)
--	Strike craft armor damage (Increases armor damage of T2 strike craft)
--	Interceptor schematics (unlocks T3 interceptors)
--	Strike craft speed (increases speed, acceleration and deceleration of T3 strike craft)
--	Strike craft hull (Increases hull of T3 strike craft)
--	Strike craft hull damage (Increases hull damage of T3 strike craft)
--	Strike craft armor damage (Increases armor damage of T3 strike craft)
+- Interceptor schematics (unlocks T2 interceptors) - Chapter 17 - Cangacian Attacks
+- Strike craft speed (increases speed, acceleration and deceleration of T2 strike craft)
+- Strike craft hull (Increases hull of T2 strike craft)
+- Strike craft hull damage (Increases hull damage of T2 strike craft)
+- Strike craft armor damage (Increases armor damage of T2 strike craft)
+- Interceptor schematics (unlocks T3 interceptors)
+- Strike craft speed (increases speed, acceleration and deceleration of T3 strike craft)
+- Strike craft hull (Increases hull of T3 strike craft)
+- Strike craft hull damage (Increases hull damage of T3 strike craft)
+- Strike craft armor damage (Increases armor damage of T3 strike craft)
 	
 Strike craft- top	
--	Plasma bomber schematics (Unlocks T2 plasma bombers) - can be found at scannable missions
--	Assault corvette schematics (Unlocks T2 assault corvettes) - can be found at liaisons
--	Pulsar corvette schematics (Unlocks T2 pulsar corvettes) - can be found at liaisons
--	Plasma bomber schematics (Unlocks T3 plasma bombers) - can be found at scannable missions
--	Assault corvette schematics (Unlocks T3 assault corvettes) - can be found at liaisons
--	Pulsar corvette schematics (Unlocks T3 pulsar corvettes) - can be found at liaisons
+- Plasma bomber schematics (Unlocks T2 plasma bombers) - can be found in the market (160 prestige)
+- Assault corvette schematics (Unlocks T2 assault corvettes) - can be found in the Tanoch liaison requisitions (20 T2 Research code fragments)
+- Pulsar corvette schematics (Unlocks T2 pulsar corvettes) - can be found in the market (20 T2 Research code fragments)
+- Plasma bomber schematics (Unlocks T3 plasma bombers) - can be found in the market (640 prestige)
+- Assault corvette schematics (Unlocks T3 assault corvettes) - can be found in the Tanoch liaison requisitions (30 T3 Research code fragments)
+- Pulsar corvette schematics (Unlocks T3 pulsar corvettes) - can be found in the Yaot liaison requisitions (30 T3 Research code fragments)
 	
 Strike craft- bottom	
--	Interceptor evasion (increases the change to dodge and agility of all interceptors) - can be found at liaisons
--	Interceptor speed (increases speed, acceleration and deceleration of all interceptors) - can be found at scannable missions
--	plasma bombers evasion (increases the change to dodge and agility of all plasma bombers) - can be found at liaisons
--	plasma bombers speed (increases speed, acceleration and deceleration of all plasma bombers)
+- Interceptor evasion (increases the change to dodge and agility of all interceptors) - can be found in the market (160 prestige)
+- Interceptor speed (increases speed, acceleration and deceleration of all interceptors) - can be found in the market (160 prestige)
+- plasma bombers evasion (increases the change to dodge and agility of all plasma bombers) - can be found in the Tanoch liaison requisitions (30 T3 Research code fragments)
+- plasma bombers armor damage (increases armor damage of all plasma bombers) - can be found in the Tanoch liaison requisitions (30 T3 Research code fragments)
 	
 Escort- middle	
--	Assault frigate schematics (Unlocks T2 assault frigates) - Chapter 19 - Lazarus Repairs
--	Escort ship hull (Increases the hull of T2 escorts)
--	Escort ship hull damage (Increases the hull damage of T2 escorts)
--	Escort ship armor (Increases the armor of T2 escorts)
--	Escort ship armor damage (Increases the armor damage of T2 escorts)
--	Assault frigate schematics (Unlocks T3 assault frigates)
--	Escort ship hull (Increases the hull of T3 escorts)
--	Escort ship hull damage (Increases the hull damage of T3 escorts)
--	Escort ship armor (Increases the armor of T3 escorts)
--	Escort ship armor damage (Increases the armor damage of T3 escorts)
+- Assault frigate schematics (Unlocks T2 assault frigates) - Chapter 19 - Lazarus Repairs
+- Escort ship hull (Increases the hull of T2 escorts)
+- Escort ship hull damage (Increases the hull damage of T2 escorts)
+- Escort ship armor (Increases the armor of T2 escorts)
+- Escort ship armor damage (Increases the armor damage of T2 escorts)
+- Assault frigate schematics (Unlocks T3 assault frigates)
+- Escort ship hull (Increases the hull of T3 escorts)
+- Escort ship hull damage (Increases the hull damage of T3 escorts)
+- Escort ship armor (Increases the armor of T3 escorts)
+- Escort ship armor damage (Increases the armor damage of T3 escorts)
 	
 Escorts- top	
--	Torpedo frigate schematics (Unlocks T2 torpedo frigates) - can be found at scannable missions
--	Destroyer schematics (Unlocks T2 destroyers) - can be found at strikes
--	Torpedo frigate schematics (Unlocks T3 torpedo frigates) - can be found at scannable missions
--	Ion cannon frigate schematics (Unlocks T3 ion cannon) - can be found at scannable missions
--	Destroyer schematics (Unlocks T3 destroyers) - can be found at strikes
+- Torpedo frigate schematics (Unlocks T2 torpedo frigates) - can be found in the market (20 T2 Research code fragments)
+- Destroyer schematics (Unlocks T2 destroyers) - can be found in the market (320 prestige)
+- Torpedo frigate schematics (Unlocks T3 torpedo frigates) - can be found in the Tanoch liaison requisitions (30 T3 Research code fragments)
+- Ion cannon frigate schematics (Unlocks T3 ion cannon) - can be found in the market (30 T3 Research code fragments)
+- Destroyer schematics (Unlocks T3 destroyers) - can be found in the market (1280 prestige)
 	
 Escorts- bottom	
--	Scouting frigate vision (increases the scouting frigate sensor range)
--	Explorer hull (increases the hull of explorer class flagships) - can be found at strikes
--	Assault frigate hull damage (increases the hull damage of all assault frigates)
--	Carrier hull (Increases the hull of carrier class flagships) - can be found at strikes
--	Ion cannon targeting range (increases the targeting range of ion frigates) - can be found at liaisons
--	Battlecruiser hull (increases the hull of battlecruiser class flagships) - can be found at strikes
+- Scouting frigate vision (increases the scouting frigate sensor range) - can be found in the market (160 prestige)
+- Explorer hull (increases the hull of explorer class flagships) - can be found in the market (20 T2 Research code fragments)
+- Assault frigate hull damage (increases the hull damage of all assault frigates) - can be found in the Tanoch liaison requisitions (20 T2 Research code fragments)
+- Carrier hull (Increases the hull of carrier class flagships) - can be found in the market (30 T3 Research code fragments)
+- Ion cannon targeting range (increases the targeting range of ion frigates) - can be found in the Yaot liaison requisitions (30 T3 Research code fragments)
+- Battlecruiser hull (increases the hull of battlecruiser class flagships) - can be found in the market (30 T3 Research code fragments)
 	
 Weapons- middle	
--	Capital mass driver schematics (Unlocks T2 Kinetic weapons) - Chapter 22 - Flagship T2
--	Kinetic turret rate of fire (Increases the rate of fire of T2 kinetics)
--	Missile turret rate of fire (Increases the rate of fire of T2 missiles)
--	Beam turret rate of fire (Increases the rate of fire of T2 ions)
--	Capital mass driver schematics (Unlocks T3 Kinetic weapons)
--	Kinetic turret rate of fire (Increases the rate of fire of T3 kinetics)
--	Missile turret rate of fire (Increases the rate of fire of T3 missiles)
--	Beam turret rate of fire (Increases the rate of fire of T3 ions and pulsars)
+- Capital mass driver schematics (Unlocks T2 Kinetic weapons) - Chapter 22 - Flagship T2
+- Kinetic turret rate of fire (Increases the rate of fire of T2 kinetics)
+- Missile turret rate of fire (Increases the rate of fire of T2 missiles)
+- Beam turret rate of fire (Increases the rate of fire of T2 ions)
+- Capital mass driver schematics (Unlocks T3 Kinetic weapons)
+- Kinetic turret rate of fire (Increases the rate of fire of T3 kinetics)
+- Missile turret rate of fire (Increases the rate of fire of T3 missiles)
+- Beam turret rate of fire (Increases the rate of fire of T3 ions and pulsars)
 	
 Weapons- top	
--	Missile launcher schematics (Unlocks T2 missile weapons) - can be found at liaisons
--	Ion cannon schematics (Unlocks T2 ion weapons) - can be found at liaison missions
--	Repair module schematics (Unlocks T2 repair modules) - can be found at strikes
--	Missile launcher schematics (Unlocks T3 missile weapons) - can be found at liaisons
--	Ion cannon schematics (Unlocks T3 ion weapons) - can be found at liaison missions
--	Repair module schematics (Unlocks T3 repair modules) - can be found at strikes
--	Pulsar turret schematics (Unlocks T3 pulsar weapons) - can be found at strikes
+- Missile launcher schematics (Unlocks T2 missile weapons) - can be found in the Tanoch liaison requisitions (20 T2 Research code fragments)
+- Ion cannon schematics (Unlocks T2 ion weapons) - can be found in the market (20 T2 Research code fragments)
+- Repair module schematics (Unlocks T2 repair modules) - can be found in the Iyatequa liaison requisitions (20 T2 Research code fragments)
+- Missile launcher schematics (Unlocks T3 missile weapons) - can be found in the Tanoch liaison requisitions (30 T3 Research code fragments)
+- Ion cannon schematics (Unlocks T3 ion weapons) - can be found in the Yaot liaison requisitions (30 T3 Research code fragments)
+- Repair module schematics (Unlocks T3 repair modules) - can be found in the Iyatequa liaison requisitions (30 T3 Research code fragments)
+- Pulsar turret schematics (Unlocks T3 pulsar weapons) - can be found in the Yaot liaison requisitions (30 T3 Research code fragments)
 	
 Weapons- bottom	
--	Kinetic turret hull damage (increases the hull damage for kinetic weapons) - can be found at scannable missions
--	Missile turret armor damage (increases the armor damage for missile weapons) - can be found at liaisons
--	Beam turret hull damage (Increases the hull damage of ions and pulsar weapons) - can be found at strikes
--	Kinetic turret armor damage (increases the armor damage for kinetic weapons) - can be found at scannable missions
+- Kinetic turret hull damage (increases the hull damage for kinetic weapons) - can be found in the Tanoch liaison requisitions (20 T2 Research code fragments)
+- Missile turret armor damage (increases the armor damage for missile weapons) - can be found in the Tanoch liaison requisitions (20 T2 Research code fragments)
+- Beam turret hull damage (Increases the hull damage of ions and pulsar weapons) - can be found in the Yaot liaison requisitions (30 T3 Research code fragments)
+- Kinetic turret armor damage (increases the armor damage for kinetic weapons) - can be found in the market (640 prestige)
 
 ## Strikes & Destroyers
 ### How do I find strikes / join strikes?
