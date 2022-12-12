@@ -1,5 +1,7 @@
 # Strikes
 
+OUTDATED, THESE GUIDES WERE WRITEN DURING THE BETA, OVERAL TACTICS ARE THE SAME, BUT IT'S NOT 100% ACCURATE
+
 ## Pirate hideout (PHT1)
 
 - WARNING, due to rebalancing of gear and changes in strikes, the guide below will be slightly outdated. Although major tactics and objectives are unchanged, the finer details are not.
