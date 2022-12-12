@@ -1,5 +1,7 @@
 # Frequently Asked Questions & Basic Info
- 
+
+- OUTDDATED FOR SOME SECTIONS, SOME SECTIONS MAY NOT APPLY TO THE CURRENT GAMEPLAY
+
 ## Basic Info
 
 ### Don't have the resources for a interceptor / stuck on chapter 5 "a Black Eye"
