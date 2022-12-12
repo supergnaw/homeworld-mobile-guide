@@ -1,6 +1,6 @@
 # List of all side missions
 
-Checklist for side missions: As of version 1.0.0, the following side mission series are available.
+Checklist for side missions: As of version 1.1.8, the following side mission series are available.
 
 ## Priority side missions that give T3 small components as its rewards
 - (T3 Small weapon parts from Production, T3 small machinery parts from Combat and T3 small hull parrs from Exploration)
@@ -94,7 +94,7 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 - Mining procedure V
 - Mining procedure VI
 - Mining procedure VII
-- Mining procedure VII
+- Mining procedure VIII
 - Mining procedure IX
 - Mining procedure X
   
@@ -105,8 +105,8 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 - New mining procedures IV
 - New mining procedures V
 - New mining procedures VI
-- New mining procedures VI
 - New mining procedures VII
+- New mining procedures VIII
 - New mining procedures IX
 - New mining procedures X
   
