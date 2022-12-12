@@ -1,6 +1,8 @@
 # Farming
 
-- OUTDATED, THESE SIGNALS ARE NO LONGER UP-TO-DATE / IN THESE LOCATIONS
+- NEW SIGNAL OVERVIEW MADE BY Jakdra#2622 (GAME VERSION 1.1.8) shorturl.at/kpxZ1
+
+- OUTDATED, THESE SIGNALS ARE NO LONGER UP-TO-DATE / IN THESE LOCATIONS (THE SIGNALS BELOW, LINK ABOVE IS UP-TO-DATE)
 
 ## Scannable farm routes
 Since scanable missions seem to be static to each system, and the 1st scanned system is 'refreshed' after a 7th system has been scanned, you can make yourself a farm route for different mission types.
