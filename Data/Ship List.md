@@ -17,19 +17,20 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 
 ### Flagships Blueprints
 
-|Ship                |Location Found                        |Notes                                                                                                                                  |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|Expedition          |Starter ship                          |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 3 squads 1 escort                                                                   |
-|Carrier I           |Market / Liaisons (T1)                |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                         |
-|Carrier II          |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts                                                        |
-|Carrier III         |Liaisons (T3)                         |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 6 squads 3 escorts                                                        |
-|Explorer I          |Market / scannables (Spoils of battle)|Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                         |
-|Explorer II         |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                        |
-|Explorer II Mohaava |Liaisons (T2)                         |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x small 1x medium fixed repair turrets|
-|Explorer II Tiirshak|Liaisons (T2)                         |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special : Has special fixes sensor array            |
-|Explorer III        |Market / scannables (Spoils of battle)|Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                        |
-|Battlecruiser II    |Strikes (T2)                          |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                               |
-|Battlecruiser III   |Strikes (T3)                          |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                               |
+|Ship                |Location Found                                            |Notes                                                                                                                                  |
+|--------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|Expedition          |Starter ship                                              |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 3 squads 1 escort                                                                   |
+|Carrier I           |Market (75 T1 Ship code fragments)                        |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                         |
+|Carrier II          |Market (150 T2 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts                                                        |
+|Carrier III         |Market (300 T3 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 6 squads 3 escorts                                                        |
+|Explorer I          |Chapter 10 - Cangacian troubles<br>Market (Credits)       |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                         |
+|Explorer II         |Market (150 T2 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                        |
+|Explorer II Mohaava |Iyatequa liaison requisitions (150 T2 Ship code fragments)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x small 1x medium fixed repair turrets|
+|Explorer II Tiirshak|From the Large starter pack                               |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special : Has special fixes sensor array            |
+|Explorer III        |Market (300 T3 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                        |
+|Battlecruiser II    |Market (150 T2 Ship code fragments)                       |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                               |
+|Battlecruiser III   |Market (300 T3 Ship code fragments)                       |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                               |
+
 
 ### Flagships Build requirements
 
@@ -59,32 +60,36 @@ There are various frigate types:
 
 ### Frigate Blueprints
 
-|Ship                            |Location Found                                |
-|--------------------------------|----------------------------------------------|
-|Scouting Frigate 0              |Starter ship                                  |
-|Scouting Frigate 1              |Main quest                                    |
-|Assault Frigate 0               |Main quest                                    |
-|Rare Assault Frigate 0          |Market                                        |
-|Assault Frigate I               |Main questline                                |
-|Assault Frigate II              |Research found in Chapter 19 - Lazarus Repairs|
-|Assault Frigate III             |Research                                      |
-|Uncommon Assault Frigate I      |All sources                                   |
-|Uncommon Assault Frigate II     |All sources                                   |
-|Rare Assault Frigate III        |Strikes (T3) Liaisons (T3)                    |
-|Vetran MD assault frigate II    |Reward from participating in the beta         |
-|Vetran Pulsar Assault Frigate II|Reward from participating in the beta         |
-|Torpedo Frigate II              |Research found in spoils of battle            |
-|Rare Torpedo Frigate II         |From the Large starter pack                   |
-|Torpedo Frigate III             |Research found in spoils of battle            |
-|Epic Torpedo Frigate III        |All sources                                   |
-|Ion Frigate III                 |Research found in spoils of battle            |
-|Uncommon Ion Frigate III        |Market                                        |
-|Yaot assault frigate            |Yaot liaison requisitions - reputation 6      |
+|Ship                            |Location Found                                                            |
+|--------------------------------|--------------------------------------------------------------------------|
+|Scouting Frigate 0              |Starter ship, Chapter 4 - Escort ships                                    |
+|Scouting Frigate 1              |Chapter 9 - New escorts                                                   |
+|Assault Frigate 0               |Chapter 4 - Bridge                                                        |
+|Rare Assault Frigate 0          |Market                                                                    |
+|Assault Frigate I               |Chapter 9 - Crew experience                                               |
+|Assault Frigate II              |Research found in Chapter 19 - Lazarus Repairs                            |
+|Assault Frigate III             |Research                                                                  |
+|Uncommon Assault Frigate I      |All sources                                                               |
+|Uncommon Assault Frigate II     |All sources                                                               |
+|Rare Assault Frigate III        |All sources                                                               |
+|Vetran MD assault frigate II    |Reward from participating in the beta                                     |
+|Vetran Pulsar Assault Frigate II|Reward from participating in the beta                                     |
+|Tanoch Assault Frigate II       |Tanoch Winter Celebration (2022) (590 prestige prebuild, 290 BP)          |
+|Torpedo Frigate II              |Research found Market (20 T2 Research code fragments)                     |
+|Rare Torpedo Frigate II         |From the Large starter pack                                               |
+|Torpedo Frigate III             |Research found Tanoch liaison requisitions (30 T3 Research code fragments)|
+|Epic Torpedo Frigate III        |All sources                                                               |
+|Tanoch Missile Frigate III      |Tanoch Winter Celebration (2022) (990 prestige prebuild, 490 BP)          |
+|Ion Frigate III                 |Research found Market (30 T3 Research code fragments)                     |
+|Uncommon Ion Frigate III        |Market                                                                    |
+|Yaot assault frigate            |Yaot liaison requisitions - reputation 6                                  |
+
 
 ### Frigate Build requirements
 
 |Unit name                  |Mat1                |Qty1|Mat2                  |Qty2|Mat3                       |Qty3|
 |---------------------------|--------------------|----|----------------------|----|---------------------------|----|
+|Scouting frigate 0         |RU M 0              |675 |                      |    |                           |    |
 |Scouting frigate I         |RU A I              |472 |RU B I                |135 |RU M 0                     |270 |
 |Assault Frigate 0          |RU M 0              |1125|                      |    |                           |    |
 |Rare Assault Frigate 0     |RU M 0              |1575|                      |    |                           |    |
@@ -94,10 +99,12 @@ There are various frigate types:
 |Uncommon Assault Frigate I |RU A I              |1181|RU B I                |337 |RU M 0                     |675 |
 |Uncommon Assault Frigate II|Large Hull Parts III|491 |RU B II               |585 |RU D II                    |219 |
 |Rare Assault Frigate III   |Large Hull Parts III|378 |Large Weapon Parts III|108 |Large Electronics Parts III|54  |
+|Tanoch Assault Frigate II  |Large Hull Parts III|491 |RU B II               |585 |RU D II                    |219 |
 |Torpedo Frigate II         |Large Hull Parts II |454 |RU B II               |540 |RU C II                    |270 |
 |Rare Torpedo Frigate II    |Large Hull Parts II |567 |RU B II               |675 |RU C II                    |337 |
 |Torpedo Frigate III        |Large Hull Parts III|302 |Large Weapon Parts III|86  |RU C III                   |432 |
 |Epic Torpedo Frigate III   |Large Hull Parts III|529 |Large Weapon Parts III|151 |Large Electronics Parts III|76  |
+|Tanoch Missile Frigate III |Large Hull Parts III|390 |Large Weapon Parts III|111 |Large Electronics Parts III|55  |
 |Ion Frigate III            |Large Hull Parts III|353 |Large Weapon Parts III|101 |RU C III                   |504 |
 |Uncommon Ion Frigate III   |Large Hull Parts III|403 |Large Weapon Parts III|115 |Large Electronics Parts III|57  |
 |Yaot Aassault Frigate III  |Large Hull Parts III|217 |Large Weapon Parts III|62  |RU D III                   |221 |
@@ -110,15 +117,15 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 ### Destroyers Blueprints
 
-|Ship                  |Location Found                              |
-|----------------------|--------------------------------------------|
-|Destroyer I           |Strikes (T1)                                |
-|Destroyer II          |Research found in strikes                   |
-|Destroyer III         |Research found in strikes                   |
-|Uncommon Destroyer II |Strikes (T2)                                |
-|Uncommon Destroyer III|strikes (T3)                                |
-|Rare Destroyer III    |strikes (T3) (drops more frequently on PRT3)|
-|Tanoch Destroyer III  |Tanoch liaison requisitions - reputation 9  |
+|Ship                  |Location Found                            |
+|----------------------|------------------------------------------|
+|Destroyer I           |Strikes (T1)                              |
+|Destroyer II          |Research found Market (320 prestige)      |
+|Destroyer III         |Research found Market (1280 prestige)     |
+|Uncommon Destroyer II |Strikes (T2)                              |
+|Uncommon Destroyer III|strikes (T3)                              |
+|Rare Destroyer III    |strikes (T3)                              |
+|Tanoch Destroyer III  |Tanoch liaison requisitions - reputation 9|
 
 ### Destroyers Build requirements
 
@@ -139,13 +146,14 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 
 ### Resource controller Blueprints
 
-|Ship                           |Location Found                              |Notes                                                                                                                    |
-|-------------------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-|Resource Controller I          |Scannables: Spoils of battle                |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Resource Controller II         |Research found in liaisons                  |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Resource Controller III        |Research found in liaisons                  |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Gilded short-term controller II|Iyatequa liaison requisitions - reputation 3|Has the ability to remote mine / afk mine (2 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5|Has the ability to remote mine / afk mine (8 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Ship                           |Location Found                                                              |Notes                                                                                                                    |
+|-------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|Resource Controller I          |Chapter 19 - Ore deal, unlocks Resources Controller T1                      |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Resource Controller II         |Research found Iyatequa liaison requisitions (20 T2 Research code fragments)|Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Resource Controller III        |Research found Iyatequa liaison requisitions (30 T3 Research code fragments)|Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Gilded short-term controller II|Iyatequa liaison requisitions - reputation 3                                |Has the ability to remote mine / afk mine (2 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5                                |Has the ability to remote mine / afk mine (8 hours). Has a drop-off point for resource collectors and can mine themselves|
+
 
 ### Resource controller Build requirements
 
@@ -165,29 +173,32 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 
 ### Interceptors and bombers Blueprints
 
-|Ship                        |Location Found                                  |
-|----------------------------|------------------------------------------------|
-|Interceptor 0               |Main quest                                      |
-|Interceptor I               |Market                                          |
-|Interceptor II              |Research found in Chapter 17 - Cangacian Attacks|
-|Interceptor III             |Research                                        |
-|Uncommon Interceptor I      |All sources                                     |
-|Uncommon Interceptor II     |All sources                                     |
-|Uncommon Interceptor III    |All sources                                     |
-|Rare Interceptor II         |All sources                                     |
-|Rare Interceptor III        |All sources                                     |
-|Epic Interceptor III        |All sources                                     |
-|Yaot pulsar fighter squadron|Yaot liaison requisitions - reputation 2        |
-|Plasma Bomber 0             |Main quest                                      |
-|Plasma Bomber I             |Main quest                                      |
-|Plasma Bomber II            |Research found in spoils of battle              |
-|Plasma Bomber III           |Research found in spoils of battle              |
-|Uncommon Plasma Bomber I    |All sources                                     |
-|Uncommon Plasma Bomber II   |All sources                                     |
-|Uncommon Plasma Bomber III  |All sources                                     |
-|Rare Plasma Bomber II       |All sources                                     |
-|Rare Plasma Bomber III      |All sources                                     |
-|Epic Plasma Bomber III      |All sources                                     |
+|Ship                      |Location Found                                    |
+|--------------------------|--------------------------------------------------|
+|Interceptor 0             |Chapter 1 - Local Currency                        |
+|Interceptor I             |Chapter 8 - Hiigaran Outposts                     |
+|Interceptor II            |Research found in Chapter 17 - Cangacian incursion|
+|Interceptor III           |Research                                          |
+|Uncommon Interceptor I    |All sources                                       |
+|Uncommon Interceptor II   |All sources                                       |
+|Uncommon Interceptor III  |All sources                                       |
+|Rare Interceptor II       |All sources                                       |
+|Rare Interceptor III      |All sources                                       |
+|Epic Interceptor III      |All sources                                       |
+|Tanoch Interceptor II     |Tanoch Winter Celebration (2022) (99 prestige)    |
+|Yaot pulsar fighter III   |Yaot liaison requisitions - reputation 2          |
+|Plasma Bomber 0           |Chapter 2 - Strike craft                          |
+|Plasma Bomber I           |Chapter 8 - Hiigaran Outposts                     |
+|Plasma Bomber II          |Research found Market (160 prestige)              |
+|Plasma Bomber III         |Research found Market (640 prestige)              |
+|Uncommon Plasma Bomber I  |All sources                                       |
+|Uncommon Plasma Bomber II |All sources                                       |
+|Uncommon Plasma Bomber III|All sources                                       |
+|Rare Plasma Bomber II     |All sources                                       |
+|Rare Plasma Bomber III    |All sources                                       |
+|Epic Plasma Bomber III    |All sources                                       |
+|Tanoch Attack Bomber III  |Tanoch Winter Celebration (2022) (149 prestige)   |
+
 
 ### Interceptors and bombers Build requirements
 
@@ -223,20 +234,22 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 
 ### Corvettes Blueprints
 
-|Ship                      |Location Found                            |
-|--------------------------|------------------------------------------|
-|Assault Corvette 0        |Market                                    |
-|Assault Corvette I        |Main quest                                |
-|Assault Corvette II       |Research found in liaisons                |
-|Assault Corvette III      |Research found in liaisons                |
-|Rare Assault Corvette II  |All sources                               |
-|Epic Assault Corvette III |All sources                               |
-|Tanoch Missile corvette II|Tanoch liaison requisitions - reputation 2|
-|Tanoch Assault corvette II|Tanoch liaison requisitions - reputation 3|
-|Pulsar Corvette II        |Research found in liaisons                |
-|Pulsar Corvette III       |Research found in liaisons                |
-|Rare Pulsar Corvette II   |All sources                               |
-|Rare Pulsar Corvette III  |All sources                               |
+|Ship                       |Location Found                                                            |
+|---------------------------|--------------------------------------------------------------------------|
+|Assault Corvette 0         |Market                                                                    |
+|Assault Corvette I         |Chapter 10 - Meropis defense                                              |
+|Assault Corvette II        |Research found Tanoch liaison requisitions (20 T2 Research code fragments)|
+|Assault Corvette III       |Research found Tanoch liaison requisitions (30 T3 Research code fragments)|
+|Rare Assault Corvette II   |All sources                                                               |
+|Epic Assault Corvette III  |All sources                                                               |
+|Tanoch Missile corvette II |Tanoch liaison requisitions - reputation 2                                |
+|Tanoch Missile corvette III|Tanoch Winter Celebration (2022) (149 prestige)                           |
+|Tanoch Assault corvette I  |Tanoch Winter Celebration (2022) (49 prestige)                            |
+|Tanoch Assault corvette II |Tanoch liaison requisitions - reputation 3                                |
+|Pulsar Corvette II         |Research found Market (20 T2 Research code fragments)                     |
+|Pulsar Corvette III        |Research found Yaot liaison requisitions (30 T3 Research code fragments)  |
+|Rare Pulsar Corvette II    |All sources                                                               |
+|Rare Pulsar Corvette III   |All sources                                                               |
 
 ### Corvettes Build requirements
 
@@ -263,16 +276,16 @@ Lastly in the squads section, we have resource collectors. These are you main wo
 
 ### Resource collectors Blueprints
 
-|Ship                         |Location Found                                                    |
-|-----------------------------|------------------------------------------------------------------|
-|Resource Collector 0         |Main quest                                                        |
-|Resource Collector I         |Main questline                                                    |
-|Resource Collector II        |Research                                                          |
-|Uncommon Resource Collector I|Daily login reward                                                |
-|Rare Resource Collector I    |From the Large starter pack                                       |
-|Gilded resource collector II |Iyatequa liaison requisitions - reputation 2                      |
-|Resource Collector III       |Research                                                          |
-|Rare Resource Collector III  |Strikes, scannable - Spoils of battle, Liaisons, freight container|
+|Ship                         |Location Found                              |
+|-----------------------------|--------------------------------------------|
+|Resource Collector 0         |Chapter 2 - Fabricator                      |
+|Resource Collector I         |Chapter 8 - New strike craft                |
+|Uncommon Resource Collector I|Daily login reward                          |
+|Rare Resource Collector I    |From the Large starter pack                 |
+|Resource Collector II        |Research                                    |
+|Gilded resource collector II |Iyatequa liaison requisitions - reputation 2|
+|Resource Collector III       |Research                                    |
+|Rare Resource Collector III  |All sources                                 |
 
 ### Resource collectors Build requirements
 
