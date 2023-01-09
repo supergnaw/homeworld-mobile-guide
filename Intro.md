@@ -7,7 +7,8 @@
 Using data from game-version 1.1.8
 SOME TABS ARE STILL OUTDATED, THE FOLLOWING STILL NEED AN UPDATE: Farming, Fleet, Strike, FAQ
 
-- The Tanoch Winter Celebration is currently live! During the period of 1 to 31 December, the prestige section in the market has unique items for sale.
+- Some features of the game are currently bugged. The community has sourced various aspects of the game in what does and doesn't work here: 
+- https://docs.google.com/spreadsheets/d/1FbcVuIIbK0q15lFvTjyehz2_Ws2UmCTJdWfYnjVqAHs/edit?usp=sharing
 
 - For the latest news on the game and words from the devs, please join the official discord for the latest news: https://discord.com/invite/N24ZkGWKTn
 
@@ -56,28 +57,29 @@ As a little ending / credits, I want to thank the various community members for 
 
 #### Discords / communities
 
-- Official Homeworld mobile discord (shorturl.at/vxBSV)
-- Offcial Homeworld universe discord (shorturl.at/fFLRY)
-- German Homeworld Alliance (German speaking discord) (shorturl.at/axN36)
+- Official Homeworld mobile discord https://discord.gg/homeworldmobile
+- Offcial Homeworld universe discord https://discord.gg/homeworld
+- German Homeworld Alliance (German speaking discord) https://discord.gg/vbQmtJGynS
+- Homeworld Mobile Polska (Polish speaking discord) https://discord.gg/MSHjEUfrpp
 
 #### Down below are various links of the ongoing projects and additional info that may be of help to you
 
-- Thanks to mkb1#2542 for his Youtube channel featuring Homeworld mobile guides (shorturl.at/bgqzF)
-- Thanks to Maladjusted Gaming for various HWM content on Youtube (shorturl.at/jpIL5)
-- Thanks to Elixirninja for various tutorials on Youtube (shorturl.at/bjmMY)
-- Thanks to NepsterCZ 🇺🇦#9999 for making and hosting homeworld.nepster.cz
-- Thanks to supergnaw#8465 for developing the website version of this document (homeworldsource.net)
-- Thanks to Jakdra#2622 for the signal overview of 1.1 ( shorturl.at/kpxZ1 )
-- Thanks to JaTan#0296 for the  RE calculator ( shorturl.at/dfi26 )
-- Thanks to Darth Soban#6657 for the original document (stolen and edited by Dalco#0413 shorturl.at/nqwCW)
-- Thanks to LostWaif#7428 for the DPS info on various weapon types ( shorturl.at/aegoJ )
+- Thanks to NepsterCZ#9999 for mkaing Homeworld mobile wiki https://homeworldwiki.com/ 
+- Thanks to mkb1#2542 for his Youtube channel featuring Homeworld mobile guides shorturl.at/bgqzF
+- Thanks to Maladjusted Gaming for various HWM content on Youtube shorturl.at/jpIL5
+- Thanks to Elixirninja for various tutorials on Youtube shorturl.at/bjmMY
+- Thanks to supergnaw#8465 for developing the website version of this document ( homeworldsource.net )
+- Thanks to Jakdra#2622 for the signal overview of 1.1  shorturl.at/kpxZ1 
+- Thanks to JaTan#0296 for the  RE calculator  shorturl.at/dfi26 
+- Thanks to Darth Soban#6657 for the original document stolen and edited by Dalco#0413 shorturl.at/nqwCW
+- Thanks to LostWaif#7428 for the DPS info on various weapon types  shorturl.at/aegoJ 
 
 #### Outdated projects that are a (few) game versions behind
 
-- Thanks to Dustybin / Idatae#0027 for the RE drop calculator document ( shorturl.at/nrBUW )
-- Thanks to Dustybin / Idatae#0027 for the scannable missions document ( shorturl.at/elsJU )
-- Thanks to Dustybin / Idatae#0027 for the officer stats document ( shorturl.at/boHQ7 )
-- Thanks to Enjoii#1872 for the fabrication calculator ( shorturl.at/qCFY0 )
+- Thanks to Dustybin / Idatae#0027 for the RE drop calculator document  shorturl.at/nrBUW 
+- Thanks to Dustybin / Idatae#0027 for the scannable missions document  shorturl.at/elsJU 
+- Thanks to Dustybin / Idatae#0027 for the officer stats document  shorturl.at/boHQ7 
+- Thanks to Enjoii#1872 for the fabrication calculator  shorturl.at/qCFY0 
 
 #### Homeworld mobile related social media
 
