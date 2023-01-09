@@ -28,7 +28,6 @@ Sensors can be buffed by upgrading them, fitting in a high aerospace stat office
 
 Kinetic or CMD weapons are ballistic weapons that go bang bang. With decent hull and armour damage, they are a jack-of-all-trades of the various weapon types. They have two active abilities called Kinetic Burst and EMP Round (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a CMD gunner (passive perks) or completing kinetic research upgrades.
-- Tanoch Kinetics Have a higher fire rate, but a shorter range compared to the normal / Hiigaran variant
 - Kinetics always deal full damage no matter the range, but the hit chance drastically falls off the further the enemy is away. 
 
 ### Kinetics Blueprints
@@ -167,9 +166,9 @@ Torpdoe's (not to be confused with missiles) are a weapon type that go fwoosh BO
 
 ## Ion weapons
 
-Ion weapons are beam type weapons that go vooomm. With mostly armour damage and less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Shot (from Operator officers).
+Ion weapons are beam type weapons that go vooomm. With the most armour damage of any weapon but less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Shot (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
--Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance.
+- Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance.
 
 ### Ion Build Blueprints
 
@@ -207,7 +206,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 
 ## Pulsar weapons
 
-Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons, they have mostly armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. They have one active abilities called Pulsar Burst (from Operator officers).
+Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons, they have quite a lot of armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. They have one active abilities called Pulsar Burst (from Operator officers).
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a pulsar gunner (passive perks) and completing beam research upgrades.
 - Yaot pulsars have more damage and range, but a lower fire rate compared to the normal / Hiigaran variant
 - Pulsars are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance. 
@@ -387,10 +386,12 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Pulsar anti-armor booster III         |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |Torpedo anti-hull booster III         |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |Torpedo anti-amor booster III         |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
-|Squadron Maintenance Modules II       |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
-|Squadron Maintenance Modules III      |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
-|Squadron Flight Coordinator II        |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
-|Squadron Flight Coordinator III       |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Hull maintenance module II            |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
+|Hull maintenance module III           |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Armor Maintenance module II           |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
+|Armor Maintenance module III          |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
+|Engine booster II                     |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
+|Engine booster III                    |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 
 
 ### Internal modules blueprints - anywhere
