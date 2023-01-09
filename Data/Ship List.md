@@ -182,6 +182,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Uncommon Interceptor I    |All sources                                       |
 |Uncommon Interceptor II   |All sources                                       |
 |Uncommon Interceptor III  |All sources                                       |
+|Rare Interceptor I        |Pirate Hideout                                    |
 |Rare Interceptor II       |All sources                                       |
 |Rare Interceptor III      |All sources                                       |
 |Epic Interceptor III      |All sources                                       |
@@ -194,6 +195,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Uncommon Plasma Bomber I  |All sources                                       |
 |Uncommon Plasma Bomber II |All sources                                       |
 |Uncommon Plasma Bomber III|All sources                                       |
+|Rare Plasma Bomber I      |Pirate Hideout                                    |
 |Rare Plasma Bomber II     |All sources                                       |
 |Rare Plasma Bomber III    |All sources                                       |
 |Epic Plasma Bomber III    |All sources                                       |
@@ -211,6 +213,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Uncommon Interceptor I    |RU A I              |568 |RU B I                |162 |RU M 0                     |325 |
 |Uncommon Interceptor II   |Small Hull Parts II |504 |RU B II               |300 |RU D II                    |112 |
 |Uncommon Interceptor III  |Small Hull Parts III|315 |Small Weapon Parts III|90  |Small Electronics Parts III|45  |
+|Rare Interceptor I        |RU A I              |590 |RU B I                |168 |RU M 0                     |337 |
 |Rare Interceptor II       |Small Hull Parts II |630 |RU B II               |375 |RU D II                    |140 |
 |Rare Interceptor III      |Small Hull Parts III|378 |Small Weapon Parts III|108 |Small Electronics Parts III|54  |
 |Epic Interceptor III      |Small Hull Parts III|441 |Small Weapon Parts III|126 |Small Electronics Parts III|63  |
@@ -222,6 +225,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Uncommon Plasma Bomber I  |RU A I              |437 |RU B I                |125 |RU M 0                     |250 |
 |Uncommon Plasma Bomber II |Small Hull Parts II |504 |RU B II               |300 |RU D II                    |112 |
 |Uncommon Plasma Bomber III|Small Hull Parts III|315 |Small Weapon Parts III|90  |Small Electronics Parts III|45  |
+|Rare Plasma Bomber I      |RU A I              |590 |RU B I                |168 |RU M 0                     |337 |
 |Rare Plasma Bomber II     |Small Hull Parts II |630 |RU B II               |375 |RU D II                    |140 |
 |Rare Plasma Bomber III    |Small Hull Parts III|378 |Small Weapon Parts III|108 |Small Electronics Parts III|54  |
 |Epic Plasma Bomber III    |Small Hull Parts III|441 |Small Weapon Parts III|126 |Small Electronics Parts III|63  |
