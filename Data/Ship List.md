@@ -22,10 +22,10 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 |Carrier II          |Market (150 T2 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts                                                        |
 |Carrier III         |Market (300 T3 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 6 squads 3 escorts                                                        |
 |Explorer I          |Chapter 10 - Cangacian troubles<br>Market (Credits)       |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                         |
-|Explorer II         |Market (150 T2 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                        |
+|Explorer II         |Market (Credits)                                          |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                        |
 |Explorer II Mohaava |Iyatequa liaison requisitions (150 T2 Ship code fragments)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x small 1x medium fixed repair turrets|
 |Explorer II Tiirshak|From the Large starter pack                               |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special : Has special fixes sensor array            |
-|Explorer III        |Market (300 T3 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                        |
+|Explorer III        |Market (Credits)                                          |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                        |
 |Battlecruiser II    |Market (150 T2 Ship code fragments)                       |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                               |
 |Battlecruiser III   |Market (300 T3 Ship code fragments)                       |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                               |
 
@@ -142,6 +142,8 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 Resource controllers are a mining escort unit, unarmed and lightly armoured, they are not meant for any combat roles. Controllers act as a drop-off point of collectors, can mine themselves and go onto a 'remote mining' task that sends them off-map for a couple of hours (depending on the type of controller) and come back with ores of the controllers tier. Meaning that you can deploy a bunch of controllers, and before you log-off for the day, send them on a remote mining session to mine for you whilst you are not on your phone (for example, you deploy 2x T2 controllers, they will return to you with a bunch of T2 ores)
 
+- To send a resource controller on a remote mining mission, equip it in an escort slot, press on the unit so the unit card pops-up, then press the white symbol (mining symbol) on the unit card
+
 ### Resource controller Blueprints
 
 |Ship                           |Location Found                                                              |Notes                                                                                                                    |
@@ -227,7 +229,7 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 
 ## Squads - Corvettes
 
-Corvettes are the largest combat squads you can deploy, with a lot more tank than fighters, they are a less agile, slower but harder hitting variant of their smaller cousins. Assault corvettes have the most hull damage out of all squads, and pulsar corvettes have a good mix of hull and armour damage (although less armour damage than a bomber). Normally corvette squads have 3 units in them, tanoch corvettes seem to have 5 unit within a squad.
+Corvettes are the largest combat squads you can deploy, with a lot more tank than fighters, they are a less agile, slower but harder hitting variant of their smaller cousins. Assault corvettes have the most hull damage out of all squads, and pulsar corvettes have a good mix of hull and armour damage (although less armour damage than a bomber).
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
 ### Corvettes Blueprints
