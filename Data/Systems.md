@@ -349,10 +349,6 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 
 |Item                                   |Prestige amount|
 |---------------------------------------|---------------|
-|500 Gas Pack III                       |100            |
-|300 RE Yy                              |150            |
-|300 RE Pr                              |150            |
-|150 RE Sm & 150 RE Eu                  |150            |
 |100000 Credits                         |200            |
 |200 Adamant                            |200            |
 |Rare Hiigaran Recruitment Token        |99             |
@@ -387,18 +383,22 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 
 |Item                                  |Prestige amount|
 |--------------------------------------|---------------|
-|Ada Hraal (Rare research time officer)|600            |
-|Cholula-Class Cannon I                |149            |
-|Cholula-Class Cannon II               |290            |
-|Cholula-Class Cannon III              |490            |
-|Tanoch Assault Corvette Squadron I    |49             |
-|Tanoch Interceptor Squadron II        |99             |
-|Tanoch Assault Frigate II             |590            |
-|Tanoch Attack Bomber Squadron III     |149            |
-|Tanoch Missile Frigate III            |990            |
-|Tanoch Missile Corvette Squadron III  |149            |
-|Tanoch Assault Frigate BP II          |290            |
-|Tanoch Missile Frigate BP III         |490            |
+|500 Gas Pack III                      |600            |
+|300 RE Yy                             |149            |
+|300 RE Pr                             |290            |
+|150 RE Sm & 150 RE Eu                 |490            |
+|Ada Hraal (Rare research time officer)|49             |
+|Cholula-Class Cannon I                |99             |
+|Cholula-Class Cannon II               |590            |
+|Cholula-Class Cannon III              |149            |
+|Tanoch Assault Corvette Squadron I    |990            |
+|Tanoch Interceptor Squadron II        |149            |
+|Tanoch Assault Frigate II             |290            |
+|Tanoch Attack Bomber Squadron III     |490            |
+|Tanoch Missile Frigate III            |100            |
+|Tanoch Missile Corvette Squadron III  |150            |
+|Tanoch Assault Frigate BP II          |150            |
+|Tanoch Missile Frigate BP III         |150            |
 
 
 ## Progenitor faction
