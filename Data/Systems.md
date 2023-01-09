@@ -26,6 +26,19 @@ The Hiigaran faction, marked with blue, staked their claim on the south west of 
 |Toasiim    |Hiigaran|0   |no           |8             |10                       |1         |
 |Jonalli    |Hiigaran|0   |no           |5             |19                       |1         |
 
+### Hiigaran (playable) Kiithids
+
+|Name         |Perks buff                                               |Perks debuff                |
+|-------------|---------------------------------------------------------|----------------------------|
+|Hiigaran Navy| -                                                       |Fabrication Time +5%        |
+|Kaalel       |Energy Armor Damage + 10%<br>Flagship engine +10%        |Refining Time +10%          |
+|Manaan       |Missile Hull Damage + 10%<br>RP capacity +10%            |Refining time +10%          |
+|Nabaal       |Fighter hull damage +10%<br>Frigate hull damage +10%     |Module fabrication time +10%|
+|Paktu        |Flagship Hull +10%<br>Flagship weapon hull damage +10%   |Ship fabrication time +10%  |
+|S'jet        |Beam Weapon hull +10%<br>Research Time -10%              |Fabrication time +5%        |
+|Soban        |Torpedo weapon armor +10%<br>Flagship weapon cooldown -5%|Research time +10%          |
+|Somtaaw      |Kinetic weapon cooldown -10%<br>Mineral Mining Yield +5% |Research time +10%          |
+
 ### Hiigaran lore
 
 - this is excluding lore from the main game titles, just what is found on the various loading screen segments.
@@ -214,6 +227,14 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 - The centuries-long conflict between the Yaot and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
 - In the Tanoch sky, Star Totek is part of a constellation known as the Eye of Xajaak- a creator deity whose hand is said to shape what is.
 
+### Tanoch lore (winter event)
+
+- The Tanoch Empire is approximately eight thousand years old; records are unclear even among the Tanoch themselves. They are currently led by an Emperor who is advised by a council of priests and high officials.
+- The Tanoch are deeply religious people who are deferral to central authority figures and are skeptical of technology. The Tanoch Empire has repeatedly crushed dissidents and suppressed technological innovation in order to maintain their previous way of life.
+- The Tanoch are worshiping the Progenitors, whom are known as the Makers within Nimbus. This worship is prominent across the entire Tanoch culture. At certain times, the Tanoch go on a pilgrimage to Star Totek which is said to house the spirit of the Makers.
+- The Tanoch Empire is compromised broadly of three different ethnic groups. The Tanoch now control the Empire and are the most pious. The Tanoch Empire also inhibits the Chicuat who are seen as second-class citizens by the Tanoch and are often scapegoated of acts of disobedience, and the even lower-class Techuban who are survivors of the Tanoch Empire's ancient conquests.
+- Recently a beloved Tanoch King died under mysterious circumstances. Therefore, the leadership of the Tanoch Empire has passed onto his young son Cazoma.
+
 
 ## Yaot systems
 
@@ -393,3 +414,25 @@ The Keeper is aware. The Keeper understands. The Keeper has seen the enemy.
 - It is widely rumored the Progenitors had weapons capable of stupefying levels of destruction. No Progenitor planets have ever been found.
 - The Hyperspace Gate network is the most visible and lasting accomplishment of the ancient Progenitor Empire.
 - Free standing artifacts that are gate-like have been identified and known for centuries as ‘gates’, but their purpose wasn’t revealed until Aarran was opened.
+
+
+### Ghost stories
+#### The Gold Fleet
+There is a legend among the Tanoch from the old days of conquest, about the Golden fleet and the Emperor of the time: Altozac the radiant. It is said that before he bombarded Taldonac VI, the wizard-king of that world put a curse on Altozac and his fleet. After the surface of Taldonac was turned to molten glass, the gold fleet jumped to hyperspace and never returned home.
+
+Sightings of the gold fleet have been reported through the millennia, mostly from a distance. They never respond to hails and they don’t always appear on sensors, but they are reported as always moving towards Tanochet broadcasting strange signals. Attempts have been made to discern the fleet’s fate, but no concrete evidence has ever been found. The only thing that remains of the Gold Fleet are rumors and sightings across Tanoch space.
+
+#### The Pariah
+The Iyatequa are known across Nimbus space as traders and dealers of all kinds of wares and goods. Generally they are welcomed, even if they are kept at arms reach, and one can always have goods to buy from them. But there is one Iyatequa tradesman known as Cosoca the Green with whom you must never barter with. 
+
+His deals are fantastic on the surface- promising riches and wealth to those who would only part with their modest, simple belongings. Too many find out after their deals that their loved ones at home have disappeared, leaving only scraps of evidence of what became of them. Even the most guarded individuals who choose to deal with Cosoca the Green have seen their loved ones vanish without a trace. It is said Cosoca is a cursed God, trapped in the form of this cursed tradesman, harvesting souls of the innocent for some great penance he committed in times forgotten.
+
+#### The Israfil
+There are sightings around the Empty Quarter and into Tanoch space of a large vessel of unknown design, about the size of a destroyer. It shows signs of damage from a space battle long ago, with the cargo bays breached and the fuel bays long emptied. Boarding the ship reveals the presence of the long-dead crew, a sealed compartment impervious to all attempts to breach it, and a low-level energy signature of indeterminate location. The logs are too jumbled to read clearly, but it can be learned the ship’s name is the Israfil, it was bound for a planet called Erarat with a cargo of Raw materials some one million years ago.
+
+There are hundreds of encounters with this ship but never in the same place- sometimes many thousands of light years from its last reported location. Crews attempting to salvage the ship often report odd and unsettling occurrences ultimately driving them from the derelict. The ship has claimed the lives of over forty salvagers who have vanished when exploring the ship.
+
+#### Whisper Pearls
+Scattered through the empty quarter are odd gravity anomalies the Cangacian call Whisper Pearls. It is believed they are one of the few catalogued gravity anomalies littered in Nimbus which inhibit casual hyperspace drive (necessitating stronger engines to conduct hyperspace travel). Whisper pearls are unusual in that, in addition to their gravimetric properties, they also broadcast legible transmissions.
+
+What’s unsettling about them is that they broadcast signals that have been trapped there for centuries, possibly millenia. Some of these signals appear to eminate from long-dead civilizations or starships that have long since been destroyed. Since the pearls can be found orbiting large stellar masses and other black-body phenomina invisible to sensors, they have been known to draw would-be rescuers and the curious to their deaths when they try to steer a quantum wave towards them to investigate..
