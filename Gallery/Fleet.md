@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Fleet Roster
 
 Ship models currently in the game (as of 1.0) (OUTDATED, UPDATE SOON)

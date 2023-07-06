@@ -1,17 +1,10 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Introduction
 
 ## Overview
 
 ### Welcome
-
-Using data from game-version 1.1.8
-SOME TABS ARE STILL OUTDATED, THE FOLLOWING STILL NEED AN UPDATE: Farming, Fleet, Strike, FAQ
-
-- Some features of the game are currently bugged. The community has sourced various aspects of the game in what does and doesn't work here: 
-- https://docs.google.com/spreadsheets/d/1FbcVuIIbK0q15lFvTjyehz2_Ws2UmCTJdWfYnjVqAHs/edit?usp=sharing
-
-- For the latest news on the game and words from the devs, please join the official discord for the latest news: https://discord.com/invite/N24ZkGWKTn
-
 
 ## Sections Overview
 
@@ -21,7 +14,7 @@ As of now, the document has the following tabs:
 Frequently Asked Questions, if you've a question about the game, begin here. It also has multiple tips that will help you with your career
 
 ### Strikes OUTDATED:
-guides about the different strikes,  objectives, tactics, recommendations and solo-clearing guide
+guides about the different strikes,  objectives, tactics, recommendations, and solo-clearing guide
 
 ### Fleet OUTDATED:
 Images of all available ship models currently in the game
@@ -64,7 +57,7 @@ As a little ending / credits, I want to thank the various community members for 
 
 #### Down below are various links of the ongoing projects and additional info that may be of help to you
 
-- Thanks to NepsterCZ#9999 for mkaing Homeworld mobile wiki https://homeworldwiki.com/ 
+- Thanks to NepsterCZ#9999 for making Homeworld mobile wiki https://homeworldwiki.com/ 
 - Thanks to mkb1#2542 for his Youtube channel featuring Homeworld mobile guides shorturl.at/bgqzF
 - Thanks to Maladjusted Gaming for various HWM content on Youtube shorturl.at/jpIL5
 - Thanks to Elixirninja for various tutorials on Youtube shorturl.at/bjmMY

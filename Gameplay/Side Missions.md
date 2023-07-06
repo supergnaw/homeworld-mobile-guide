@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # List of all side missions
 
 Checklist for side missions: As of version 1.1.8, the following side mission series are available.

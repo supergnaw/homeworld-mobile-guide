@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Modules- weapons and sensors
 
 ## Sensor arrays

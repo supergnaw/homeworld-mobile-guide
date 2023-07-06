@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Frequently Asked Questions & Basic Info
 
 - OUTDDATED FOR SOME SECTIONS, SOME SECTIONS MAY NOT APPLY TO THE CURRENT GAMEPLAY

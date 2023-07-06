@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Intermediate products / parts
 
 Parts are needed for most T2 and T3 construction processes. It is highly advised to invest into fabrication cost reduction officers to get a discount on all blueprints.
