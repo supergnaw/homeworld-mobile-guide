@@ -6,15 +6,6 @@
 
 ### Welcome
 
-Using data from game-version 1.1.8
-SOME TABS ARE STILL OUTDATED, THE FOLLOWING STILL NEED AN UPDATE: Farming, Fleet, Strike, FAQ
-
-- Some features of the game are currently bugged. The community has sourced various aspects of the game in what does and doesn't work here: 
-- https://docs.google.com/spreadsheets/d/1FbcVuIIbK0q15lFvTjyehz2_Ws2UmCTJdWfYnjVqAHs/edit?usp=sharing
-
-- For the latest news on the game and words from the devs, please join the official discord for the latest news: https://discord.com/invite/N24ZkGWKTn
-
-
 ## Sections Overview
 
 As of now, the document has the following tabs:
