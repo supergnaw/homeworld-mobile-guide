@@ -52,7 +52,7 @@ An overview of all systems in the game, if they have a trading station or astero
 
 
 ### Contributors & links
-As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
+As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website. THIS IS A TEST
 
 
 #### Discords / communities
