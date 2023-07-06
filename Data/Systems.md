@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Systems
 
 Homeworld mobile is set around a bunch of systems, that are owned by various factions. On this page, there will be lists of the various systems, who owns them, what tier they represent, if they have an Trade station or a outpost, are there asteroid belts present, what jump strength is needed to jump to these systems and the designated difficulty of the system.

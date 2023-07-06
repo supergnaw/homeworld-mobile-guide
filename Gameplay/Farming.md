@@ -1,3 +1,5 @@
+- OUTDATED: Using data from game-version 1.1.8
+
 # Farming
 
 - NEW SIGNAL OVERVIEW MADE BY Jakdra#2622 (GAME VERSION 1.1.8) shorturl.at/kpxZ1
