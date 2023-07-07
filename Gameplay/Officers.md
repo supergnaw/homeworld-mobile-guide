@@ -1,55 +1,66 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # Officers List & explanation
+
+- OUTDATED: Using data from game-version 1.1.8
 
 ## Officer stats and perks
 
 Officers in HWM give various buffs depending on the location they are placed in, what stats they have and if they have passive perks or active abilities.
 The three stats that officer have, are Physical, Mind and Aerospace.
 
-### Physical:
+### Physical
+
 - Kinetic weapons (K-A3 Turret, Twin Javelin Cannon, Karos-8 Battery). It gives a damage buff to both hull and armour damage
 - Ion weapons (Crimson-4 Array, Fleet Model X2 Battery). It gives a damage buff to both hull and armour damage
 - Pulsar weapons (LT-4 MAG Pointer, Yaot SSL light pulsar, DR-3 MAG Repeater, Yaot SSV Standard pulsar). It gives a damage buff to both hull and armour damage
 - Mining yield increase for collectors (when slotted into a resource collectors slot)
 - Remote mining yield for controllers (when slotted into a resource controller slot)
-- Damage buff for escort ships (when slotted into the escort itself). The buff type depends on the escort itself	
+- Damage buff for escort ships (when slotted into the escort itself). The buff type depends on the escort itself
 
-### Mind:				
-- Fabrication time reduction for orders	
+### Mind
+
+- Fabrication time reduction for orders
 - Refinery time reduction for orders
 - Research time reduction for upgrades
 
-### Aerospace:
+### Aerospace
+
 - Missile weapons (Type-5 Launch Pads, Colchis Launch Clusters, Thundercloud Launch Complex). It increases the range of the turret
-- Repair turrets (REL-12, REL-12DX Twin, REL-14F Mohaava, REL-14XF Mohaava- Matter Projector) It increases the range of the turret				
+- Repair turrets (REL-12, REL-12DX Twin, REL-14F Mohaava, REL-14XF Mohaava- Matter Projector) It increases the range of the turret
 - Engines, increase in speed and acceleration
 - Sensors array, increase the scan strength for both system and galaxy
-- Strike craft damage, increase for both hull and armour damage of a (combat) strike craft			
+- Strike craft damage, increase for both hull and armour damage of a (combat) strike craft
 
 Officer also can have active abilities. If an officer have a symbol underneath the stats, it's indicates an active ability. For this to be used, a player needs to place the officer on the bridge and have the right turret equipped on their flagship. The following abilities have been found in the game version (1.1.8):
 
-
 ## Abilities
 
-### Missile Barrage:
-Fires a volley of missiles at one target, dealing massive damage. Requires at least one equipped missile turret. Base cooldown: 13 seconds						
+### Missile Barrage
 
-### Fusion Missile: 
-Launches a single missile with a heavier than normal payload. Effective agains capital ships. Requires at lease one missile turret. Base cooldown: 13 seconds												
-### Repair Burst:
-Controlled overload of repair module restores armor of nearby ships. Requires at least one equipped  repair module. Base cooldown: 100 seconds												
+Fires a volley of missiles at one target, dealing massive damage. Requires at least one equipped missile turret. Base cooldown: 13 seconds
 
-### Ion Cannon Shot:
-Triggers a focused ion cannon shot that cripple's the targets weapon systems, slowing down rate of fire for a few seconds. Base cooldown: 13					
+### Fusion Missile
 
-### Pulsar Burst: 
+Launches a single missile with a heavier than normal payload. Effective agains capital ships. Requires at lease one missile turret. Base cooldown: 13 seconds
+
+### Repair Burst
+
+Controlled overload of repair module restores armor of nearby ships. Requires at least one equipped  repair module. Base cooldown: 100 seconds
+
+### Ion Cannon Shot
+
+Triggers a focused ion cannon shot that cripple's the targets weapon systems, slowing down rate of fire for a few seconds. Base cooldown: 13
+
+### Pulsar Burst
+
 Overclocks the ship's pulsar turrets, increasing firerate. Requires at least one equipped pulsar turret. Base cooldown: 10 seconds
 
-### Kinetic Burst:
-Overclocks the ship's kinetic turrets, increasing firerate. Requires at least one equipped kinetic / mass driver turret. Base cooldown: 10 seconds											
-### EMP Round: 
-Fires an EMP capsule, disabling the target ship or squad. Requires at least one equipped  kinetic / mass driver turret. Base cooldown: 13 seconds						
+### Kinetic Burst
+
+Overclocks the ship's kinetic turrets, increasing firerate. Requires at least one equipped kinetic / mass driver turret. Base cooldown: 10 seconds
+
+### EMP Round
+
+Fires an EMP capsule, disabling the target ship or squad. Requires at least one equipped  kinetic / mass driver turret. Base cooldown: 13 seconds
 
 - Officers with perks will generally outperform a higher stat officer for a slotted position
 - In the case you don't have an officer for a certain slot, placing a high stat officer in that slot will suffice
@@ -64,7 +75,6 @@ The hanger slot however does nothing in the current game version (1.1.8)
 - Every time to upgrade an officer, their stats increase. Every 10th upgrade, increases their perk (Ability cooldown reduction, perk buff increase, addition of an extra perk)
 
 Down below is the costs of lvling your officers based on their rarity (C = common, U = uncommon, R = rare,  E = epic and L = Legendary)
-
 
 |to reach level|C  |U  |R   |E   |L   |Credits needed|
 |--------------|---|---|----|----|----|--------------|
@@ -108,14 +118,12 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |39            |39 |78 |195 |312 |624 |46800         |
 |40            |200|400|1000|1600|3200|96000         |
 
-
 |        |C  |U   |R   |E   |L   |Credits needed|
 |--------|---|----|----|----|----|--------------|
 |1 to 10 |94 |188 |470 |752 |1504|76800         |
 |11 to 20|235|470 |1175|1880|3760|210000        |
 |21 to 30|375|750 |1875|3000|6000|342000        |
 |31 to 40|515|1030|2575|4120|8240|474000        |
-
 
 ## Officer list
 
@@ -190,7 +198,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zaadok   |Soban  |range                         |                                        |
 |Zean     |Naabal |range                         |                                        |
 |Zillah   |Jaraci |crit chance (star system)     |                                        |
-
 
 ### Comms Officers - Stats
 
@@ -294,7 +301,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zean     |Naabal |C     |49      |113     |80      |        |        |        |        |        |        |        |        |        |
 |Zillah   |Jaraci |E     |49      |104     |55      |        |        |        |        |        |        |        |        |        |
 
-
 ### Scientist - Perks
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -388,7 +394,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zarata  |Jaraci |RP capacity  |                                                          |
 |Zean    |Sagald |RP capacity  |                                                          |
 |Zuriel  |Jaraci |RP capacity  |                                                          |
-
 
 ### Scientist - Stats
 
@@ -521,7 +526,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zean    |Sagald |C      |24      |128     |30      |        |        |        |        |        |        |        |        |        |
 |Zuriel  |Jaraci |R      |24      |212     |42      |        |        |        |        |        |        |        |        |        |
 
-
 ### Operator - Perks
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -589,7 +593,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Viktor     |Naabal |Operator|Escort hull damage     |                                                                   |
 |Zean       |Naabal |Operator|Ion cannon shot ability|                                                                   |
 
-
 ### Operator - Stats
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -655,7 +658,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zean   |Naabal|U     |24      |156     |80      |24      |180     |83      |24      |198     |95      |24      |213     |110     |
 |Zean   |Naabal|E     |24      |156     |80      |        |        |        |        |        |        |        |        |        |
 |Zuriel |Magann|C     |24      |110     |66      |24      |128     |87      |        |        |        |        |        |        |
-
 
 ### Quartermaster - Perks
 
@@ -741,7 +743,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Yossarian|Kaalel |Fabrication time|                                                       |
 |Yossarian|Kaalel |Fabrication time|Different picture than the officer above               |
 |Zuriel   |Magann |Fabrication cost|                                                       |
-
 
 ### Quartermaster - Stats
 
@@ -862,7 +863,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zuriel   |Magann |U     |90      |60      |33      |        |        |        |        |        |        |        |        |        |
 |Zuriel   |Magann |E     |90      |60      |33      |        |        |        |        |        |        |        |        |        |
 
-
 ### Pilot - Perks
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -971,7 +971,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zaadok    |Sagald |Corvette: speed       |                                         |
 |Zarata    |Manaan |Fighter: speed        |                                         |
 |Zarata    |Sagald |Corvette: hull damage |                                         |
-
 
 ### Pilot - Stats
 
@@ -1131,7 +1130,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zarata    |Manaan |C     |24      |37      |159     |        |        |        |        |        |        |        |        |        |
 |Zarata    |Sagald |C     |24      |33      |212     |        |        |        |        |        |        |        |        |        |
 
-
 ### Medic - Perks
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -1170,7 +1168,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Yossarian|Magann |Refining yield|       |
 |Yossarian|Tambuur|Refining yield|       |
 |Zechariah|Magann |Refining yield|       |
-
 
 ### Medic - Stats
 
@@ -1225,7 +1222,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Yossarian|Magann |C     |49      |161     |41      |        |        |        |        |        |        |        |        |        |
 |Yossarian|Tambuur|U     |49      |90      |28      |        |        |        |        |        |        |        |        |        |
 |Zechariah|Magann |C     |49      |161     |41      |        |        |        |        |        |        |        |        |        |
-
 
 ### Gunner - Perks
 
@@ -1352,7 +1348,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zechariah  |Magann |Kinetic: hull damage  |                                      |
 |Zechariah  |Naabal |Missiles: armor damage|                                      |
 |Zean       |Soban  |Kinetic: hull damage  |                                      |
-
 
 ### Gunner - Stats
 
@@ -1539,7 +1534,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zechariah  |Naabal |C     |49      |28      |117     |        |        |        |        |        |        |        |        |        |
 |Zean       |Soban  |R     |        |        |        |        |        |        |        |        |        |153     |35      |199     |
 
-
 ### Miner - Perks
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -1614,7 +1608,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Yossarian|Sagald |Type B mining yield|                                      |
 |Zaadok   |Sagald |Type B mining yield|                                      |
 |Zipporah |S'jet  |Remote mining yield|                                      |
-
 
 ### Miner - Stats
 
@@ -1722,7 +1715,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Zipporah |S'Jet  |U     |114     |50      |29      |        |        |        |        |        |        |        |        |        |
 |Zipporah |S'jet  |R     |114     |50      |29      |        |        |        |        |        |        |        |        |        |
 
-
 ### Engineer - Perks
 
 - WARNING, this is only a portion of all the officers in the game and this list is heavily outdated. This means that there are a lot more officers out there that are not listed below. Also, these officers are found during the beta, with no guarantee that they will (all) be in the release build.
@@ -1797,7 +1789,6 @@ Down below is the costs of lvling your officers based on their rarity (C = commo
 |Yossarian|Soban  |Engine deceleration|                    |
 |Zechariah|Naabal |Fabrication time   |                    |
 |Zipporah |S'jet  |Engine acceleration|                    |
-
 
 ### Engineer - Stats
 

@@ -1,17 +1,19 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # Ships- Flagships, escorts and squads
+
+- OUTDATED: Using data from game-version 1.1.8
 
 ## Flagships
 
 The flagship is you main unit, or character in the game. A flagship (or flag for short) can be equipped with various weapons and better sensor arrays (see the modules page) and it has multiple officer slots for its various compartments (see more on the officers page). The flag is the only ship in the game that cannot be permanently destroyed. When its hull reaches zero, it will be disabled and the player will get a prompt to jump back to a trading station for repairs. This means that you can use your flagship as a de facto tank to protect your weaker units
 
 Flagships have three main 'classes':
+
 - Explorers: Fast ships that have a mix between decent armour and hull. They get additional fabrication slots per tier upgrade. They have a internal module capacity of 220 front, 220 middle and 170 back
 - Carriers: Ship that deploys a lot of units. Low armour but a lot of hull. They get additional refinery slots per tier upgrade. They have a internal module capacity of 170 front, 270 middle and 170 back
 - Battlecruisers: Ship that has access to large weapon slots. Lots of armour but low hull, They have a internal module capacity of 170 front, 220 middle and 220 back
 
 Aside from the normal variants, there are also two rare flagships, the Mohaava and the Tiirshak rare explorer class flagships
+
 - Mohaava: dedicated repair ships with three fixed repair modules that can't be replaced
 - Tiirshak: dedicated scanner ship with a fixed sensor array and large targeting range
 
@@ -31,7 +33,6 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 |Battlecruiser II    |Market (150 T2 Ship code fragments)                       |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                               |
 |Battlecruiser III   |Market (300 T3 Ship code fragments)                       |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                               |
 
-
 ### Flagships Build requirements
 
 |Unit name           |Mat1                |Qty1|Mat2                  |Qty2|Mat3                     |Qty3|
@@ -47,12 +48,12 @@ Aside from the normal variants, there are also two rare flagships, the Mohaava a
 |Battlecruiser II    |Large Hull Parts II |3402|Large Weapon Parts II |972 |Large Machinery Parts II |486 |
 |Battlecruiser III   |Large Hull Parts III|2268|Large Weapon Parts III|648 |Large Machinery Parts III|324 |
 
-
 ## Escorts - Frigate
 
 Frigates are an escort class unit that costs one escort slot. Although they have less health than a flagship or destroyer, they supplement a good amount of additional damage for your fleet. Two frigate will out damage a destroyer of the same tier and rarity.
 
 There are various frigate types:
+
 - Scouting: Frigates with a large sensor and targeting range, not meant for combat
 - Assault: Anti strike craft frigate that deals mostly hull damage
 - Torpedo: A hard hitting close range frigate that does great hull and armour damage
@@ -84,7 +85,6 @@ There are various frigate types:
 |Uncommon Ion Frigate III        |Market                                                                    |
 |Yaot assault frigate            |Yaot liaison requisitions - reputation 6                                  |
 
-
 ### Frigate Build requirements
 
 |Unit name                  |Mat1                |Qty1|Mat2                  |Qty2|Mat3                       |Qty3|
@@ -109,10 +109,10 @@ There are various frigate types:
 |Uncommon Ion Frigate III   |Large Hull Parts III|403 |Large Weapon Parts III|115 |Large Electronics Parts III|57  |
 |Yaot Aassault Frigate III  |Large Hull Parts III|217 |Large Weapon Parts III|62  |RU D III                   |221 |
 
-
 ## Escort - Destroyers
 
 Destroyers are tanky escort units that costs TWO escort slots, so you will need at least an T2 flagship with no other escort unit equipped. They have a lot of hull and armour, sometimes more than a flagship. They can act as a dedicated tank for you fleet and will be fine on its own for a long time. They deal mostly hull damage and a bit of armour damage. Although a destroyer has more health than two frigates combined, it'll have less damage in total.
+
 - WARNING a destroyer needs two free escort slots to be deployed
 
 ### Destroyers Blueprints
@@ -139,7 +139,6 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 |Rare Destroyer III    |Large Hull Parts III|1071|Large Weapon Parts III|306 |Large Electronics Parts III|153 |
 |Tanoch Destroyer III  |Large Hull Parts III|554 |Large Weapon Parts III|158 |Large Electronics Parts III|79  |
 
-
 ## Escort - Resource controller
 
 Resource controllers are a mining escort unit, unarmed and lightly armoured, they are not meant for any combat roles. Controllers act as a drop-off point of collectors, can mine themselves and go onto a 'remote mining' task that sends them off-map for a couple of hours (depending on the type of controller) and come back with ores of the controllers tier. Meaning that you can deploy a bunch of controllers, and before you log-off for the day, send them on a remote mining session to mine for you whilst you are not on your phone (for example, you deploy 2x T2 controllers, they will return to you with a bunch of T2 ores)
@@ -156,7 +155,6 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 |Gilded short-term controller II|Iyatequa liaison requisitions - reputation 3                                |Has the ability to remote mine / afk mine (2 hours). Has a drop-off point for resource collectors and can mine themselves|
 |Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5                                |Has the ability to remote mine / afk mine (8 hours). Has a drop-off point for resource collectors and can mine themselves|
 
-
 ### Resource controller Build requirements
 
 |Unit name                      |Mat1                |Qty1|Mat2    |Qty2|Mat3                     |Qty3|
@@ -167,10 +165,10 @@ Resource controllers are a mining escort unit, unarmed and lightly armoured, the
 |Gilded Short-Term Controller II|Large Hull Parts II |491 |RU D II |438 |RU C II                  |292 |
 |Gilded Long-Term Controller II |Large Hull Parts II |491 |RU D II |438 |RU C II                  |292 |
 
-
 ## Squads - Interceptors and bombers
 
 Interceptors and bombers (also both known as fighters) are the smallest unit you can deploy from your flagship. Each squad takes up one squad slot, so for most flagships, you are able to deploy four units (unless you use a carrier flagship). Interceptors generally have quite a bit of hull damage, only lacking behind the assault corvettes. They also have a larger sensor radius then other squad types, so they can act as scouts for your fleet. Bombers however have the highest armour damage of all squads in the game. Interceptors are fast and agile, but have lower health then other squad types. Bombers are slower and less agile, but have a bit more tank.
+
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
 ### Interceptors and bombers Blueprints
@@ -203,7 +201,6 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Epic Plasma Bomber III    |All sources                                       |
 |Tanoch Attack Bomber III  |Tanoch Winter Celebration (2022) (149 prestige)   |
 
-
 ### Interceptors and bombers Build requirements
 
 |Unit name                 |Mat1                |Qty1|Mat2                  |Qty2|Mat3                       |Qty3|
@@ -232,10 +229,10 @@ Interceptors and bombers (also both known as fighters) are the smallest unit you
 |Rare Plasma Bomber III    |Small Hull Parts III|378 |Small Weapon Parts III|108 |Small Electronics Parts III|54  |
 |Epic Plasma Bomber III    |Small Hull Parts III|441 |Small Weapon Parts III|126 |Small Electronics Parts III|63  |
 
-
 ## Squads - Corvettes
 
 Corvettes are the largest combat squads you can deploy, with a lot more tank than fighters, they are a less agile, slower but harder hitting variant of their smaller cousins. Assault corvettes have the most hull damage out of all squads, and pulsar corvettes have a good mix of hull and armour damage (although less armour damage than a bomber).
+
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
 ### Corvettes Blueprints
@@ -274,10 +271,10 @@ Corvettes are the largest combat squads you can deploy, with a lot more tank tha
 |Rare Pulsar Corvette II   |Small Hull Parts II |756 |RU B II               |450 |RU D II                    |168 |
 |Rare Pulsar Corvette III  |Small Hull Parts III|454 |Small Weapon Parts III|130 |Small Electronics Parts III|65  |
 
-
 ## Squads - Resource collectors
 
 Lastly in the squads section, we have resource collectors. These are you main workhorses for your fleet, able to mine asteroids, interact with objectives and repair your units for both hull and armour. They are not armed and have very little tank (but they are armoured!) so don't put them to close to an enemy. It may look that the different tiers and rarities have the same stats, but there are hidden modifiers that effect mining speed, repair increases and speed of the unit itself. So it is worth upgrading to a higher tier or rarity.
+
 - Reminder that you can dock your squads to repair them. Even if just one unit in the squad makes it back, it'll replenish the whole squad
 
 ### Resource collectors Blueprints

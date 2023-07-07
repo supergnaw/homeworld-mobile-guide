@@ -1,10 +1,11 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # Modules- weapons and sensors
+
+- OUTDATED: Using data from game-version 1.1.8
 
 ## Sensor arrays
 
 Sensor array modules can be equipped to your flagship to help the player with scanning objects within a system. They do not affect targeting range or weapon range.
+
 Sensors can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs scan strength) or fitting in Comms Officers (passive perks).
 
 ### Sensor arrays Blueprints
@@ -25,12 +26,13 @@ Sensors can be buffed by upgrading them, fitting in a high aerospace stat office
 |Basic Sensor Array II |RU A II             |400       |RU B III  |200       |Small Machinery Parts II |672       |
 |Basic Sensor Array III|Small Hull Parts III|144       |RU B III  |360       |Small Machinery Parts III|504       |
 
-
 ## Kinetics / Capital mass drivers weapons
 
 Kinetic or CMD weapons are ballistic weapons that go bang bang. With decent hull and armour damage, they are a jack-of-all-trades of the various weapon types. They have two active abilities called Kinetic Burst and EMP Round (from Operator officers).
+
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a CMD gunner (passive perks) or completing kinetic research upgrades.
-- Kinetics always deal full damage no matter the range, but the hit chance drastically falls off the further the enemy is away. 
+
+- Kinetics always deal full damage no matter the range, but the hit chance drastically falls off the further the enemy is away.
 
 ### Kinetics Blueprints
 
@@ -62,7 +64,6 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Karos-8 Battery III             |Large weapons|Research                                                 |
 |Epic Karos-8 Battery III        |Large weapons|Strikes, Liasons, freight container, Epic signal missions|
 
-
 ### Kinetics Build requirements
 
 |Module name                     |Material 1                 |Quantity 1|Material 2            |Quantity 2|Material 3               |Quantity 3|
@@ -88,14 +89,15 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Tanoch AX-44 light kinetic III  |Small Electronics parts III|120       |Small Weapon Parts III|840       |Small Machinery Parts III|240       |
 |Tanoch AX-48 Standard kinetic II|RU D II                    |421       |Large Weapon Parts II |945       |RU C II                  |1125      |
 
-
 ## Missiles weapons
 
 Missiles (not to be confused with torpedo's) are a weapon type that go fwoosh boom. With mostly hull damage and very little armour damage, they will shred any unarmoured targets but struggle with armoured enemies. They have two active abilities called Missile Barrage and Fusion Missile (from Operator officers).
+
 They can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs weapon range), a missile gunner (passive perks) and completing missile research upgrades.
-- All missiles always deal full damage no matter the range. 
-- The small missiles have very high hit chances at close range but drop off drastically at maximum range. 
-- Medium and large have hit penalties at close range, but are drastically better at long range. 
+
+- All missiles always deal full damage no matter the range.
+- The small missiles have very high hit chances at close range but drop off drastically at maximum range.
+- Medium and large have hit penalties at close range, but are drastically better at long range.
 
 ### Missiles Blueprints
 
@@ -122,7 +124,6 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 |Epic Thundercloud Launch Complex III|Large weapons|Liaisons                                                                  |
 |Sandstorm Launch Complex III        |Large weapons|Tanoch liaison requisitions - T3 150 External module fragments            |
 
-
 ### Missiles Build requirements
 
 |Module name                         |Material 1                 |Quantity 1|Material 2            |Quantity 2|Material 3               |Quantity 3|
@@ -147,10 +148,10 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 |Epic Thundercloud Launch Complex III|Large Electronics III      |140       |Large Weapon Parts III|980       |Large Machinery Parts III|280       |
 |Sandstorm Launch Complex III        |RU A III                   |800       |Large Weapon Parts III|560       |Large Machinery Parts III|160       |
 
-
 ## Torpedo weapons
 
 Torpdoe's (not to be confused with missiles) are a weapon type that go fwoosh BOOM. With mixed hull damage and armour damage, they can give you a decent mix of damage against larger targets. They can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs weapon range). Currently there are no officers with perks or abilities for torpedo's
+
 - To emphasize their sluggishness, they have a low hit chance at close range but have a 95% hit chance at medium and max range. They always deal full damage at any range
 
 ### Torpedo weapons Blueprints
@@ -165,11 +166,12 @@ Torpdoe's (not to be confused with missiles) are a weapon type that go fwoosh BO
 |----------------------|----------|----------|----------------------|----------|-------------------------|----------|
 |Type 8 Torpedo Bracket|RU A III  |800       |Large Weapon Parts III|560       |Large Machinery Parts III|160       |
 
-
 ## Ion weapons
 
 Ion weapons are beam type weapons that go vooomm. With the most armour damage of any weapon but less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Shot (from Operator officers).
+
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), an ion gunner (passive perks) and completing beam research upgrades.
+
 - Ions are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance.
 
 ### Ion Build Blueprints
@@ -188,7 +190,6 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Fleet Model X2 Battery III     |Large weapons|Research found Yaot liaison requisitions (30 T3 Research code fragments)|
 |Epic Fleet Model X2 Battery III|Large weapons|BUGGED as of 1.1.8                                                      |
 |Vission-11 Battery III         |Large weapons|Yaot liaison requisitions - T3 150 External module fragments            |
-
 
 ### Ion Build requirements
 
@@ -209,9 +210,11 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 ## Pulsar weapons
 
 Pulsar weapons are beam type weapons that go pew zap. Similar to the ion weapons, they have quite a lot of armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. They have one active abilities called Pulsar Burst (from Operator officers).
+
 They can be buffed by upgrading them, fitting in a high physical stat officer (buffs both hull and armour damage), a pulsar gunner (passive perks) and completing beam research upgrades.
+
 - Yaot pulsars have more damage and range, but a lower fire rate compared to the normal / Hiigaran variant
-- Pulsars are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance. 
+- Pulsars are beam weapons, to emphasize their use as long-range weapons, their hit chance increases with range and maxes at around 80% of the maximum distance.
 
 ### Pulsar Blueprints
 
@@ -233,11 +236,12 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Yaot SSV standard pulsar III|RU D III  |857       |Large Weapon Parts III|840       |Large Machinery Parts III|240       |
 |Twin DR-M MAG Lance III     |RU A III  |1280      |Large Weapon Parts III|896       |Large Machinery Parts III|256       |
 
-
 ## Repair modules
 
 Repair modules are 'healing' turrets that go brrrt hummmm. They will repair units in your fleet within range if they have damaged armour (So keep in mind, just your unit, not friendlies. Also, they will only auto repair armour, not hull). They have one ability called Repair Burst that will also repair the armour of friendly units (from Operator officers).
+
 They can be buffed by upgrading them and fitting in a high aerospace stat officer (buffs the range of the module)
+
 - WARNING using repair modules might pull a lot of agro towards your flagship when they are active. Keep this in mind when doing strikes or harder content
 
 ### Repair modules Blueprints
@@ -262,12 +266,14 @@ They can be buffed by upgrading them and fitting in a high aerospace stat office
 
 ## Internal modules
 
-Internal modules are various boost that can buff up your flagship, from additional fabrication or refinery slots, to weapon boosts that gives you insane total stats, internal modules are the way to go for both min-maxers as new players alike. Every flagship has a front, middle and back slots to place modules in. 
-Every flagship has a base capacity of 170 front, 220 middle and 170 back. But T1 flagships and higher get a 50+ boost depending on the class of the flagship. 
+Internal modules are various boost that can buff up your flagship, from additional fabrication or refinery slots, to weapon boosts that gives you insane total stats, internal modules are the way to go for both min-maxers as new players alike. Every flagship has a front, middle and back slots to place modules in.
+
+Every flagship has a base capacity of 170 front, 220 middle and 170 back. But T1 flagships and higher get a 50+ boost depending on the class of the flagship.
+
 - Explorer will get +50 front (so 220 front, 220 middle and 170 back)
 - carriers will get +50 middle (170, 270, 170)
-- battlecruisers will get +50 back (170, 220, 220) 
- 
+- battlecruisers will get +50 back (170, 220, 220)
+
 A higher tier modules doesn't mean that the module itself is stronger (aside from fabricators and refineries), but the higher the tier, the lower the capacity cost of the module will be.
 
 ### Internal modules blueprints - front
@@ -296,7 +302,6 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Parallel Processor II   |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
 |Parallel Processor III  |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 
-
 ### Internal modules blueprints - middle
 
 |Internal modules                |Module group|Module capacity cost|Effect                             |Location Found                                               |
@@ -311,7 +316,6 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Squadron Maintenance Modules III|Squad boost |24                  |Increases strike craft hull        |Yaot liaison requisitions - T3 45 Internal module fragments  |
 |Squadron Flight Coordinator II  |Squad boost |28                  |Increases strike craft dodge chance|Tanoch liaison requisitions - T2 30 Internal module fragments|
 |Squadron Flight Coordinator III |Squad boost |24                  |Increases strike craft dodge chance|Yaot liaison requisitions - T3 45 Internal module fragments  |
-
 
 ### Internal modules Build requirements - middle
 
@@ -361,7 +365,6 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Engine booster II                     |Engine boost |28                  |Increases speed, acceleration and deceleration|Market                                                         |
 |Engine booster III                    |Engine boost |24                  |Increases speed, acceleration and deceleration|Yaot liaison requisitions - T3 45 Internal module fragments    |
 
-
 ### Internal modules Build requirements - back
 
 |Internal modules                      |Material 1          |Quantity 1|Material 2|Quantity 2|Material 3               |Quantity 3|
@@ -394,7 +397,6 @@ A higher tier modules doesn't mean that the module itself is stronger (aside fro
 |Armor Maintenance module III          |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
 |Engine booster II                     |RU A II             |1333      |RU B II   |666       |Large machinery parts II |1120      |
 |Engine booster III                    |Large hull parts III|180       |RU B III  |900       |Large machinery parts III|630       |
-
 
 ### Internal modules blueprints - anywhere
 

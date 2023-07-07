@@ -1,11 +1,10 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # Fleet Roster
+
+- OUTDATED: Using data from game-version 1.1.8
 
 Ship models currently in the game (as of 1.0) (OUTDATED, UPDATE SOON)
 
 Down below you will find the various models of all ship types in the game. Keep in mind that not all tiers have different models and that all colour schemes are based on Kiith Kaalel's. If you are part of a different kiithid, expect a different colour scheme.
-
 
 ## Strike Craft
 
@@ -25,7 +24,7 @@ Down below you will find the various models of all ship types in the game. Keep 
 
 ### Torpedo Frigate
 
-### Destroyer
+### Destroyers
 
 ## Flagships
 
@@ -42,6 +41,7 @@ Down below you will find the various models of all ship types in the game. Keep 
 ### Tiirshak
 
 ## Resource Collection
+
 Resouce collection (all three tiers have the same model, somne for the special Iyateque variants)
 
 ### Resource Collector
@@ -56,7 +56,7 @@ Resouce collection (all three tiers have the same model, somne for the special I
 
 ### Destroyer
 
-## Yaot ships							
+## Yaot ships
 
 ### Pulsar fighters
 

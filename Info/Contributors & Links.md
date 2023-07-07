@@ -1,10 +1,12 @@
-## Contributions
-### About
+# Contributions
+
+## About
+
 As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
 
 Down below are various links of the ongoing projects and additional info that may be of help to you
 
-### Specific Contributions
+## Specific Contributions
 
 - Thanks to supergnaw#8465 for developing the website version of this document (homeworldsource.net)
 
@@ -17,4 +19,3 @@ Down below are various links of the ongoing projects and additional info that ma
 - Thanks to Dustybin / Idatae#0027 for the [scannable missions](https://docs.google.com/spreadsheets/d/1hNW4TC4KyoRIAp17KT9mmLPQZSfBMuzUd_add5SD5Ow/edit) document.
 
 - Thanks to Dustybin / Idatae#0027 for the [RE drop calculator](https://docs.google.com/spreadsheets/d/1JqfBCdCmyBmTJGWVyE3GnRsxNpmXgk2PqaWrbVKSAZk/edit) document.
- 
