@@ -1,6 +1,6 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # Intermediate products / parts
+
+- OUTDATED: Using data from game-version 1.1.8
 
 Parts are needed for most T2 and T3 construction processes. It is highly advised to invest into fabrication cost reduction officers to get a discount on all blueprints.
 
@@ -8,8 +8,7 @@ Once you get into T3 parts production, you will need a new resource type called 
 The various liaison factions sell 4 x 250 gas per day (Iyatequa has gas E, Tanoch have gas F and the Yaot have gas G)
 It also drops from T3 scannable and liaison missions, this is also you only source for gas H
 
-
-### Blueprints
+## Blueprints
 
 |Part                 |Location Found                                                            |
 |---------------------|--------------------------------------------------------------------------|
@@ -28,7 +27,7 @@ It also drops from T3 scannable and liaison missions, this is also you only sour
 |Large machinery III  |Iyatequa liaison requisitions - reputation 3                              |
 |Large electronics III|Iyatequa liaison requisitions - reputation 3                              |
 
-### Build requirements
+## Build requirements
 
 |Part name                  |Material 1|Quantity 1|Material 2              |Quantity 2|Material 3|Quantity 3|
 |---------------------------|----------|----------|------------------------|----------|----------|----------|

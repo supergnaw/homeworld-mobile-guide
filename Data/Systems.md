@@ -1,11 +1,10 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # Systems
+
+- OUTDATED: Using data from game-version 1.1.8
 
 Homeworld mobile is set around a bunch of systems, that are owned by various factions. On this page, there will be lists of the various systems, who owns them, what tier they represent, if they have an Trade station or a outpost, are there asteroid belts present, what jump strength is needed to jump to these systems and the designated difficulty of the system.
 
 - With the removal of nav points, and the addition of the outpost and safe haven stations, every Iyatequa, Tanoch and Yaot system have liaisons. But only trade stations have access to a shipyard and liaison requisitions.
-
 
 ## Hiigaran faction
 
@@ -43,7 +42,7 @@ The Hiigaran faction, marked with blue, staked their claim on the south west of 
 
 ### Hiigaran lore
 
-- this is excluding lore from the main game titles, just what is found on the various loading screen segments.
+This is excluding lore from the main game titles, just what is found on the various loading screen segments.
 
 - One in three Hiigaran expeditions sent through the gates to other galaxies fail to return. Nimbus has an exceptionally poor ratio.
 - The name for the Nimbus Galaxy originates from the Hiigarans. The name was known to the ancients on Hiigara itself.
@@ -57,13 +56,11 @@ The Hiigaran faction, marked with blue, staked their claim on the south west of 
 - Few know that the Eye of Aarran is damaged. Karan S’jet is said to be seeking ways to repair it.
 - There are functional hyperspace gate connections not on the network controlled by the Eye of Aarran.
 
-
 ## Iyatequa faction
 
 The Iyatequa faction, marked with brown, are mainly traders in the center of the Nimbus universe. They seem to have a close relation with the Hiigaran's, as can be seen with Hiigaran units protecting their stations and interest. All there systems have liaison missions, and their belts seems to be the main target of Cangacian pirates.
 
 - All systems of the Iyatequa have liaison offices
-
 
 ### Iyatequa systems
 
@@ -132,9 +129,6 @@ The Iyatequa faction, marked with brown, are mainly traders in the center of the
 - Nobody knows how the Iyatequa can see through their masks.
 - The Iyatequa masks contain highly complex rank ornamentation, based on merit of the trader and accomplishments over their career.
 - It is rumored that Iyatequa rank-ornamentation displays debts others owe to that particular trader.
-
-
-
 
 ## Tanoch faction
 
@@ -218,7 +212,6 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 |MIssile Launcher Schematics III|Research III       |30             |
 |Torpedo Frigate Schematics III |Research III       |30             |
 
-
 ### Tanoch lore
 
 - The current Tanoch Empire has existed for over eight thousand years.
@@ -237,8 +230,7 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 - The Tanoch Empire is compromised broadly of three different ethnic groups. The Tanoch now control the Empire and are the most pious. The Tanoch Empire also inhibits the Chicuat who are seen as second-class citizens by the Tanoch and are often scapegoated of acts of disobedience, and the even lower-class Techuban who are survivors of the Tanoch Empire's ancient conquests.
 - Recently a beloved Tanoch King died under mysterious circumstances. Therefore, the leadership of the Tanoch Empire has passed onto his young son Cazoma.
 
-
-## Yaot systems
+## Yaot faction
 
 The Yaot faction, marked in green, are a mostly unknown faction but seems to be in an aggressive conflict with the Tanoch. They are focused on the south east, and have the most T3 systems of any faction. Their liaisons are mostly based to counter the Cangacian pirates and Tanoch incursions. As with the previous two factions, every system has liaison offices.
 
@@ -293,12 +285,10 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 |Ion Cannon Targeting Range III |Research III       |30             |
 |Beam Turret Hull Damage III    |Research III       |30             |
 
-
 ### Yaot lore
 
 - The Yaot Federation is a Gerontocracy, ruled by a council of the eldest from every major house. No member is younger than 60.
 - The centuries-long conflict between the Yaot and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
-
 
 ## Cangacian faction
 
@@ -402,14 +392,14 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 |Tanoch Assault Frigate BP II          |150            |
 |Tanoch Missile Frigate BP III         |150            |
 
-
 ## Progenitor faction
 
 Although the Progenitors don't have their own systems (yet?), They can be found in various scannable signals throughout Nimbus.
 The Keeper is aware. The Keeper understands. The Keeper has seen the enemy.
 
 ### Progenitor lore
-- this is excluding lore from the main game titles, just what is found on the various loading screen segments.
+
+This is excluding lore from the main game titles, just what is found on the various loading screen segments.
 
 - There are too many conflicting theories behind the fall of the Progenitor empire to ever conclusively establish what destroyed them.
 - Few survive an encounter with a Progenitor keeper. Most that do always accomplish the feat through desperation and outside help.
@@ -417,24 +407,28 @@ The Keeper is aware. The Keeper understands. The Keeper has seen the enemy.
 - The Hyperspace Gate network is the most visible and lasting accomplishment of the ancient Progenitor Empire.
 - Free standing artifacts that are gate-like have been identified and known for centuries as ‘gates’, but their purpose wasn’t revealed until Aarran was opened.
 
-
 ### Ghost stories
+
 #### The Gold Fleet
+
 There is a legend among the Tanoch from the old days of conquest, about the Golden fleet and the Emperor of the time: Altozac the radiant. It is said that before he bombarded Taldonac VI, the wizard-king of that world put a curse on Altozac and his fleet. After the surface of Taldonac was turned to molten glass, the gold fleet jumped to hyperspace and never returned home.
 
 Sightings of the gold fleet have been reported through the millennia, mostly from a distance. They never respond to hails and they don’t always appear on sensors, but they are reported as always moving towards Tanochet broadcasting strange signals. Attempts have been made to discern the fleet’s fate, but no concrete evidence has ever been found. The only thing that remains of the Gold Fleet are rumors and sightings across Tanoch space.
 
 #### The Pariah
-The Iyatequa are known across Nimbus space as traders and dealers of all kinds of wares and goods. Generally they are welcomed, even if they are kept at arms reach, and one can always have goods to buy from them. But there is one Iyatequa tradesman known as Cosoca the Green with whom you must never barter with. 
+
+The Iyatequa are known across Nimbus space as traders and dealers of all kinds of wares and goods. Generally they are welcomed, even if they are kept at arms reach, and one can always have goods to buy from them. But there is one Iyatequa tradesman known as Cosoca the Green with whom you must never barter with.
 
 His deals are fantastic on the surface- promising riches and wealth to those who would only part with their modest, simple belongings. Too many find out after their deals that their loved ones at home have disappeared, leaving only scraps of evidence of what became of them. Even the most guarded individuals who choose to deal with Cosoca the Green have seen their loved ones vanish without a trace. It is said Cosoca is a cursed God, trapped in the form of this cursed tradesman, harvesting souls of the innocent for some great penance he committed in times forgotten.
 
 #### The Israfil
+
 There are sightings around the Empty Quarter and into Tanoch space of a large vessel of unknown design, about the size of a destroyer. It shows signs of damage from a space battle long ago, with the cargo bays breached and the fuel bays long emptied. Boarding the ship reveals the presence of the long-dead crew, a sealed compartment impervious to all attempts to breach it, and a low-level energy signature of indeterminate location. The logs are too jumbled to read clearly, but it can be learned the ship’s name is the Israfil, it was bound for a planet called Erarat with a cargo of Raw materials some one million years ago.
 
 There are hundreds of encounters with this ship but never in the same place- sometimes many thousands of light years from its last reported location. Crews attempting to salvage the ship often report odd and unsettling occurrences ultimately driving them from the derelict. The ship has claimed the lives of over forty salvagers who have vanished when exploring the ship.
 
 #### Whisper Pearls
+
 Scattered through the empty quarter are odd gravity anomalies the Cangacian call Whisper Pearls. It is believed they are one of the few catalogued gravity anomalies littered in Nimbus which inhibit casual hyperspace drive (necessitating stronger engines to conduct hyperspace travel). Whisper pearls are unusual in that, in addition to their gravimetric properties, they also broadcast legible transmissions.
 
 What’s unsettling about them is that they broadcast signals that have been trapped there for centuries, possibly millenia. Some of these signals appear to eminate from long-dead civilizations or starships that have long since been destroyed. Since the pearls can be found orbiting large stellar masses and other black-body phenomina invisible to sensors, they have been known to draw would-be rescuers and the curious to their deaths when they try to steer a quantum wave towards them to investigate..

@@ -1,28 +1,33 @@
-- OUTDATED: Using data from game-version 1.1.8
-
 # List of all side missions
+
+- OUTDATED: Using data from game-version 1.1.8
 
 Checklist for side missions: As of version 1.1.8, the following side mission series are available.
 
 ## Priority side missions that give T3 small components as its rewards
+
 - (T3 Small weapon parts from Production, T3 small machinery parts from Combat and T3 small hull parrs from Exploration)
 
 ### Production series
+
 - Production 1
 - Production 2
 - Production 3
- 
+
 ### Combat series
+
 - Combat 1
 - Combat 2
 - Combat 3
 
 ### Exploration series
+
 - Exploration I
 - Exploration II
 - Exploration III
 
 ## Hiigaran quests, short quest lines with some flavor text for the Hiigaran faction
+
 - Crew promotion
 - Pest control
 - Increasing Firepower
@@ -36,31 +41,36 @@ Checklist for side missions: As of version 1.1.8, the following side mission ser
 - Weapon turret T2
 - Station Defense
 
-## Additional story quests after Temple Tonaati main quest.
+## Additional story quests after Temple Tonaati main quest
 
 ### Path of the Exile
+
 - A test of might
 - The nomad's walk
 - The cartographer's promise
 
 The Path of the Exile quest can sometimes bug out and not show the current objectives. If that happens to you, do the following actions: (if this doesn't fix it, please report it in the discord #bug-reports channel)
+
 - A test of might - Complete 10x T2 strikes and destroy 150 canagacian enemies
 - The nomad's walk - part 1: Mine 15k T2 A, B and C ores. Part 2: Construct 10x T2 strike craft
 - The cartographer's promise - Part 1: Move the the navpoints of Kredulsa, Estaiir and Darodiir. Part 2: Go to the trading station of Earodiir. Part 3: Scan 50 T1's and T2's objects
 
-### Keid	
+### Keid
+
 - The Siege of Keid
 - Rebuilding Keid
 - The future of Keid
 
-### Ytep	
+### Ytep
+
 - Ytep Under Fire
 - Supplying the War Effort
 - To Strengthen Ytep
 
-(The Ytep questline gives a Epic T3 torpedo frigate as its reward)	
+(The Ytep questline gives a Epic T3 torpedo frigate as its reward)
 
 ## Various other story quests
+
 - Defiance
 - Map of the Beast
 - Stone Hearth
@@ -89,6 +99,7 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 ## Cumulative series that gives non-blueprints / resources as its rewards
 
 ### T1 Mining
+
 - Mining procedure I
 - Mining procedure II
 - Mining procedure III
@@ -101,6 +112,7 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 - Mining procedure X
   
 ### T2 Mining
+
 - New mining procedures I
 - New mining procedures II
 - New mining procedures III
@@ -113,6 +125,7 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 - New mining procedures X
   
 ### T3 Mining
+
 - Advanced mining procedures I
 - Advanced mining procedures II
 - Advanced mining procedures III
@@ -123,10 +136,11 @@ The Path of the Exile quest can sometimes bug out and not show the current objec
 - Advanced mining procedures VIII
 - Advanced mining procedures IX
 - Advanced mining procedures X
- 
+
 Note for the mining side quests, the last step is to mine 768k of type A, B and C ores.
 
 ### Scanning / exlporation
+
 - System charts I
 - System charts II
 - System charts III
@@ -139,6 +153,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - System charts X
 
 ### Cangacian / pirate destruction
+
 - Cangacian raider fleets I
 - Cangacian raider fleets II
 - Cangacian raider fleets III
@@ -151,6 +166,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Cangacian raider fleets X
 
 ### Yaot destruction
+
 - Yaot rebel fleets I
 - Yaot rebel fleets II
 - Yaot rebel fleets III
@@ -163,6 +179,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Yaot rebel fleets X
 
 ### Tanoch destruction
+
 - Tanoch renegade fleets I
 - Tanoch renegade fleets II
 - Tanoch renegade fleets III
@@ -175,6 +192,7 @@ Note for the mining side quests, the last step is to mine 768k of type A, B and 
 - Tanoch renegade fleets X
 
 ### Signal scans completion
+
 - Signal Search I
 - Signal Search II
 - Signal Search III
