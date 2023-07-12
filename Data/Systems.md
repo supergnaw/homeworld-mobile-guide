@@ -1,46 +1,44 @@
 # Systems
 
-- OUTDATED: Using data from game-version 1.1.8
+Homeworld mobile is set around a bunch of systems that are owned by various factions. On this page, there are lists of the various systems, who owns them, what tier they represent, if they have an Trade station or a outpost, whether there are asteroid belts, the number of all and the number of mineable Jovian planets, moons, what hyperspace jump strength is needed to jump to these systems and the designated 'difficulty' of the system.
 
-Homeworld mobile is set around a bunch of systems, that are owned by various factions. On this page, there will be lists of the various systems, who owns them, what tier they represent, if they have an Trade station or a outpost, are there asteroid belts present, what jump strength is needed to jump to these systems and the designated difficulty of the system.
+Every system above T0 (Hiigaran) has access to faction liaison missions via an outpost or trading station, but only trade stations have access to a shipyard and faction liaison requisition shops.
 
-- With the removal of nav points, and the addition of the outpost and safe haven stations, every Iyatequa, Tanoch and Yaot system have liaisons. But only trade stations have access to a shipyard and liaison requisitions.
+## Hiigaran Faction
 
-## Hiigaran faction
+The Hiigaran faction, marked with blue, staked their claim on the south west of the known galactic map. They are the only faction with access to T0 systems, which are the only locations that have T0 M ore. All systems except their 'capital' system of Lazarus have asteroid belts. But only Lazarus has a trade station with access to a shipyard. The Hiigaran faction currently does not have liaison missions.
 
-The Hiigaran faction, marked with blue, staked their claim on the south west of the known galactic map. They are the only faction with access to T0 systems, which is the only location that has T0M ores. All systems except their 'capital' system of Lazarus have asteroid belts. But only Lazarus has a trade station with access to a shipyard. The Hiigaran faction currently does not have liaison missions.
+T0 systems are the only systems with T0 M ore, this does not need to be refined for use
 
-- T0 systems are the only systems with T0M ores, these do not need to be refined for use
+### Hiigaran Systems
 
-### Hiigaran systems
+|System Name|Tier|Trade Station|Asteroid Belts|Mineable Jovian Planets|Jovian Planets|Moons|Hyperjump Strength|Difficulty|
+|-----------|----|-------------|--------------|-----------------------|--------------|-----|------------------|----------|
+|Fer Lamaan |0   |no           |3             |1                      |2             |no   |20                |3         |
+|Iniim      |0   |no           |2             |no                     |1             |2    |14                |8         |
+|Jonalli    |0   |no           |5             |no                     |no            |2    |10                |1         |
+|Lazarus    |0   |yes          |no            |no                     |1             |1    |5                 |1         |
+|Mitorai    |0   |no           |11            |no                     |no            |2    |15                |2         |
+|Nokuuna    |0   |no           |5             |no                     |no            |1    |14                |7         |
+|Roa Tisaad |0   |no           |1             |2                      |3             |1    |13                |8         |
+|Saaret     |0   |no           |9             |1                      |1             |4    |15                |7         |
+|Sumaar     |0   |no           |1             |no                     |1             |no   |15                |2         |
+|Toasiim    |0   |no           |3             |1                      |2             |5    |18                |1         |
 
-|System Name|Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
-|-----------|--------|----|-------------|--------------|-------------------------|----------|
-|Lazarus    |Hiigaran|0   |yes          |no            |5                        |1         |
-|Nokuuna    |Hiigaran|0   |no           |5             |11                       |7         |
-|Sumaar     |Hiigaran|0   |no           |1             |18                       |2         |
-|Iniim      |Hiigaran|0   |no           |2             |11                       |8         |
-|Saaret     |Hiigaran|0   |no           |9             |20                       |7         |
-|Mitorai    |Hiigaran|0   |no           |11            |13                       |2         |
-|Roa Tisaad |Hiigaran|0   |no           |3             |11                       |8         |
-|Fer Lamaan |Hiigaran|0   |no           |4             |14                       |3         |
-|Toasiim    |Hiigaran|0   |no           |8             |10                       |1         |
-|Jonalli    |Hiigaran|0   |no           |5             |19                       |1         |
+### Hiigaran Playable Kiithids
 
-### Hiigaran (playable) Kiithids
+|Name         |Perks buff                                                 |Perks debuff                |
+|-------------|-----------------------------------------------------------|----------------------------|
+|Hiigaran Navy| -                                                         |Fabrication Time +5%        |
+|Kaalel       |Energy Armor Damage +10%<br />Flagship engine +10%         |Refining Time +10%          |
+|Manaan       |Missile Hull Damage +10%<br />RP capacity +10%             |Refining time +10%          |
+|Nabaal       |Fighter hull damage +10%<br />Frigate hull damage +10%     |Module fabrication time +10%|
+|Paktu        |Flagship Hull +10%<br />Flagship weapon hull damage +10%   |Ship fabrication time +10%  |
+|S'jet        |Beam Weapon hull +10%<br />Research Time -10%              |Fabrication time +5%        |
+|Soban        |Torpedo weapon armor +10%<br />Flagship weapon cooldown -5%|Research time +10%          |
+|Somtaaw      |Kinetic weapon cooldown -10%<br />Mineral Mining Yield +5% |Research time +10%          |
 
-|Name         |Perks buff                                               |Perks debuff                |
-|-------------|---------------------------------------------------------|----------------------------|
-|Hiigaran Navy| -                                                       |Fabrication Time +5%        |
-|Kaalel       |Energy Armor Damage + 10%<br>Flagship engine +10%        |Refining Time +10%          |
-|Manaan       |Missile Hull Damage + 10%<br>RP capacity +10%            |Refining time +10%          |
-|Nabaal       |Fighter hull damage +10%<br>Frigate hull damage +10%     |Module fabrication time +10%|
-|Paktu        |Flagship Hull +10%<br>Flagship weapon hull damage +10%   |Ship fabrication time +10%  |
-|S'jet        |Beam Weapon hull +10%<br>Research Time -10%              |Fabrication time +5%        |
-|Soban        |Torpedo weapon armor +10%<br>Flagship weapon cooldown -5%|Research time +10%          |
-|Somtaaw      |Kinetic weapon cooldown -10%<br>Mineral Mining Yield +5% |Research time +10%          |
-
-### Hiigaran lore
+### Hiigaran Lore
 
 This is excluding lore from the main game titles, just what is found on the various loading screen segments.
 
@@ -56,69 +54,70 @@ This is excluding lore from the main game titles, just what is found on the vari
 - Few know that the Eye of Aarran is damaged. Karan S’jet is said to be seeking ways to repair it.
 - There are functional hyperspace gate connections not on the network controlled by the Eye of Aarran.
 
-## Iyatequa faction
+## Iyatequa Faction
 
-The Iyatequa faction, marked with brown, are mainly traders in the center of the Nimbus universe. They seem to have a close relation with the Hiigaran's, as can be seen with Hiigaran units protecting their stations and interest. All there systems have liaison missions, and their belts seems to be the main target of Cangacian pirates.
+The Iyatequa faction, marked with brown, are mainly traders in the center of the Nimbus universe. They seem to have a close relation with the [Hiigarans](#hiigaran-faction), as can be seen with Hiigaran units protecting their stations and interest. All there systems have liaison missions, and their belts seems to be the main target of [Cangacian](#cangacian-faction) pirates. All systems of the Iyatequa have liaison offices
 
-- All systems of the Iyatequa have liaison offices
+### Iyatequa Systems
 
-### Iyatequa systems
-
-|System Name  |Faction |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
-|-------------|--------|----|-------------|--------------|-------------------------|----------|
-|Ariitar      |Iyatequa|1   |yes          |no            |30                       |6         |
-|Niirea Paas  |Iyatequa|1   |no           |no            |30                       |8         |
-|Devadaasi    |Iyatequa|1   |yes          |9             |30                       |2         |
-|Estraiir     |Iyatequa|1   |yes          |no            |30                       |3         |
-|Inayat       |Iyatequa|1   |yes          |no            |30                       |7         |
-|Jishun       |Iyatequa|1   |yes          |8             |30                       |2         |
-|Naredra      |Iyatequa|1   |yes          |no            |30                       |1         |
-|Ekaam Nar    |Iyatequa|1   |no           |2             |30                       |7         |
-|Tela Diim    |Iyatequa|1   |no           |no            |30                       |6         |
-|Saraal       |Iyatequa|1   |yes          |no            |30                       |8         |
-|Bishaan Tel  |Iyatequa|2   |no           |no            |110                      |2         |
-|Sobel Rem    |Iyatequa|2   |no           |1             |110                      |2         |
-|Kisho Re     |Iyatequa|2   |no           |1             |110                      |4         |
-|Marat Kan    |Iyatequa|2   |no           |4             |110                      |1         |
-|Keid         |Iyatequa|2   |no           |no            |110                      |5         |
-|Mituul       |Iyatequa|2   |no           |1             |110                      |3         |
-|Zaatas       |Iyatequa|3   |yes          |1             |210                      |4         |
-|Vaal         |Iyatequa|3   |no           |6             |210                      |7         |
-|Briuun       |Iyatequa|3   |yes          |4             |210                      |8         |
-|Edowana      |Iyatequa|1   |yes          |3             |50                       |2         |
-|Tri Tussali  |Iyatequa|1   |no           |4             |31                       |3         |
-|Faaleas      |Iyatequa|1   |yes          |2             |38                       |8         |
-|Xaleraat     |Iyatequa|1   |yes          |5             |31                       |3         |
-|Talessur     |Iyatequa|1   |yes          |no            |40                       |2         |
-|Veraatlan    |Iyatequa|1   |no           |no            |33                       |7         |
-|Jinvalla     |Iyatequa|1   |no           |3             |31                       |5         |
-|Ulant Ti Saar|Iyatequa|1   |yes          |no            |34                       |4         |
-|Liusata      |Iyatequa|1   |yes          |no            |30                       |8         |
-|Visaan Ki    |Iyatequa|1   |yes          |no            |39                       |4         |
+|System Name  |Tier|Trade Station|Asteroid Belts|Mineable Jovian Planets|Jovian Planets|Moons|Hyperjump Strength|Difficulty|
+|-------------|----|-------------|--------------|-----------------------|--------------|-----|------------------|----------|
+|Ariitar      |1   |yes          |no            |1                      |1             |no   |30                |6         |
+|Devadaasi    |1   |no           |7             |1                      |1             |1    |30                |2         |
+|Edowana      |1   |yes          |3             |no                     |1             |no   |50                |2         |
+|Ekaam Nar    |1   |no           |5             |no                     |1             |no   |30                |7         |
+|Estraiir     |1   |yes          |no            |no                     |1             |4    |30                |3         |
+|Faaleas      |1   |yes          |5             |1                      |1             |3    |33                |8         |
+|Inayat       |1   |yes          |no            |1                      |3             |no   |30                |7         |
+|Jinvalla     |1   |no           |8             |no                     |2             |1    |32                |5         |
+|Jishun       |1   |yes          |8             |no                     |no            |no   |30                |2         |
+|Liusata      |1   |no           |3             |no                     |no            |1    |31                |8         |
+|Naredra      |1   |yes          |no            |no                     |1             |1    |30                |1         |
+|Niirea Paas  |1   |no           |no            |no                     |no            |1    |30                |8         |
+|Saraal       |1   |yes          |no            |1                      |1             |2    |30                |8         |
+|Talessur     |1   |no           |6             |1                      |1             |no   |34                |2         |
+|Tela Diim    |1   |no           |no            |4                      |4             |4    |30                |6         |
+|Tri Tussali  |1   |no           |2             |1                      |1             |7    |30                |3         |
+|Ulant Ti Saar|1   |no           |5             |1                      |1             |6    |33                |4         |
+|Veraatlan    |1   |no           |4             |no                     |1             |2    |37                |7         |
+|Visaan Ki    |1   |yes          |2             |1                      |2             |6    |38                |4         |
+|Xaleraat     |1   |no           |19            |2                      |4             |no   |31                |3         |
+|Bishaan Tel  |2   |yes          |3             |no                     |no            |3    |110               |2         |
+|Keid         |2   |no           |no            |2                      |2             |1    |110               |5         |
+|Kisho Re     |2   |no           |1             |1                      |3             |8    |110               |4         |
+|Marat Kan    |2   |no           |4             |2                      |2             |8    |110               |1         |
+|Mituul       |2   |no           |1             |no                     |1             |no   |110               |3         |
+|Sobel Rem    |2   |yes          |3             |no                     |1             |5    |110               |2         |
+|Akalasaya    |3   |no           |2             |no                     |2             |1    |212               |6         |
+|Briuun       |3   |yes          |5             |1                      |1             |1    |210               |8         |
+|Kantalasa    |3   |no           |3             |1                      |2             |5    |211               |4         |
+|Nagaterada   |3   |yes          |1             |no                     |no            |4    |214               |4         |
+|Vaal         |3   |no           |3             |1                      |2             |2    |210               |7         |
+|Zaatas       |3   |yes          |1             |1                      |1             |2    |210               |4         |
 
 ### Iyatequa Requisitions - Fragments
 
 |Item                              |Fragment type      |Fragment amount|
 |----------------------------------|-------------------|---------------|
+|Armor Maintenance Module II       |Internal Module II |30             |
+|Armor Maintenance Module III      |Internal Module III|45             |
+|Data Storage Hub II               |Internal Module II |30             |
+|Data Storage Hub III              |Internal Module III|45             |
 |Explorer Mohaava II               |Ship II            |150            |
 |Hull Maintenance Module II        |Internal Module II |30             |
-|Armor Maintenance Module II       |Internal Module II |30             |
-|Data Storage Hub II               |Internal Module II |30             |
-|Parallel Processor II             |Internal Module II |30             |
 |Hull Maintenance Module III       |Internal Module III|45             |
-|Armor Maintenance Module III      |Internal Module III|45             |
-|Data Storage Hub III              |Internal Module III|45             |
-|Parallel Processor III            |Internal Module III|45             |
-|Resource Controller Schematics II |Research II        |20             |
-|Mining Speed: Ore M II            |Research II        |20             |
-|Mining Speed: Ore A II            |Research II        |20             |
-|Repair Module Schematics II       |Research II        |20             |
-|Resource Controller Schematics III|Research III       |30             |
-|Resource Controller Hull III      |Research III       |30             |
 |Mining Speed: Ore B III           |Research III       |30             |
+|Mining Speed: Ore A II            |Research II        |20             |
+|Mining Speed: Ore M II            |Research II        |20             |
+|Parallel Processor II             |Internal Module II |30             |
+|Parallel Processor III            |Internal Module III|45             |
+|Repair Module Schematics II       |Research II        |20             |
 |Repair Module Schematics III      |Research III       |30             |
+|Resource Controller Hull III      |Research III       |30             |
+|Resource Controller Schematics II |Research II        |20             |
+|Resource Controller Schematics III|Research III       |30             |
 
-### Iyatequa lore
+### Iyatequa Lore
 
 - The Iyatequa traders are not native to this area. They maintain outposts and trade stations but do not have planetary possessions.
 - The Iyatequa have little to no respect for outsiders. Every relationship with them is transactional.
@@ -130,99 +129,97 @@ The Iyatequa faction, marked with brown, are mainly traders in the center of the
 - The Iyatequa masks contain highly complex rank ornamentation, based on merit of the trader and accomplishments over their career.
 - It is rumored that Iyatequa rank-ornamentation displays debts others owe to that particular trader.
 
-## Tanoch faction
+## Tanoch Faction
 
-The Tanoch, marked with yellow, are an imperial faction that seems to be in a conflict with the Yaot. They are located on the north east of the known map. Their liaisons are mostly based to counter the Cangacian pirates and Yaot invaders of their turf. As with the Iyatequa, all their systems have a liaison office.
+The Tanoch, marked with yellow, are an imperial faction that seems to be in a conflict with the [Yaot](#yaot-faction). They are located on the north of the known map. Their liaisons are mostly based to counter the [Cangacian](#cangacian-faction) pirate and [Yaot](#yaot-faction) threats. All systems of the Tanoch have liaison offices.
 
-- All systems of the Tanoch have liaison offices
+### Tanoch Systems
 
-### Tanoch systems
-
-|System Name|Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
-|-----------|-------|----|-------------|--------------|-------------------------|----------|
-|Tecoalte   |Tanoch |2   |no           |no            |110                      |1         |
-|Tanochetlan|Tanoch |2   |yes          |5             |110                      |2         |
-|Tochtepe   |Tanoch |2   |no           |no            |110                      |5         |
-|Chihuat    |Tanoch |2   |no           |9             |110                      |3         |
-|Xocotila   |Tanoch |2   |yes          |2             |110                      |3         |
-|Cempoalt   |Tanoch |2   |no           |no            |110                      |3         |
-|Tuxpante   |Tanoch |2   |no           |2             |110                      |4         |
-|Tecpan     |Tanoch |2   |yes          |2             |110                      |1         |
-|Malinalc   |Tanoch |2   |no           |7             |110                      |3         |
-|Xalapan    |Tanoch |2   |yes          |no            |110                      |6         |
-|Tlacozau   |Tanoch |2   |no           |1             |110                      |7         |
-|Cuernava   |Tanoch |2   |yes          |7             |110                      |7         |
-|Ixtepec    |Tanoch |3   |no           |1             |210                      |8         |
-|Ayotla     |Tanoch |3   |no           |no            |210                      |7         |
-|Tepecoma   |Tanoch |3   |yes          |no            |210                      |6         |
-|Cuilan     |Tanoch |3   |yes          |no            |210                      |2         |
-|Teozaan    |Tanoch |3   |no           |5             |210                      |5         |
-|Misantep   |Tanoch |3   |yes          |no            |210                      |5         |
-|Axocotil   |Tanoch |3   |yes          |5             |210                      |5         |
-|Sijin      |Tanoch |3   |yes          |10            |210                      |7         |
-|Chiapa     |Tanoch |3   |no           |8             |150                      |2         |
-|Ixtlan     |Tanoch |2   |yes          |no            |118                      |2         |
-|Teozauhq   |Tanoch |2   |yes          |no            |115                      |5         |
-|Cuilco     |Tanoch |2   |no           |2             |114                      |2         |
-|Chuua      |Tanoch |2   |no           |1             |110                      |7         |
-|Tixpan     |Tanoch |2   |no           |no            |110                      |5         |
-|Tepecoal   |Tanoch |2   |yes          |no            |114                      |1         |
-|Tlatlan    |Tanoch |2   |yes          |2             |110                      |7         |
-|Yoalco     |Tanoch |2   |no           |no            |112                      |5         |
-|Tepec      |Tanoch |2   |yes          |no            |117                      |6         |
-|Ocuitepe   |Tanoch |2   |no           |no            |110                      |4         |
-|Oaxtepex   |Tanoch |2   |no           |5             |120                      |4         |
-|Zempoalt   |Tanoch |2   |no           |no            |114                      |8         |
-|Tecoacui   |Tanoch |2   |yes          |no            |120                      |8         |
-|Telapente  |Tanoch |2   |yes          |no            |116                      |8         |
-|Tlapan     |Tanoch |2   |no           |2             |113                      |7         |
-|Tetelad    |Tanoch |2   |no           |4             |117                      |1         |
-|Cempoalc   |Tanoch |2   |yes          |5             |111                      |3         |
-|Xala       |Tanoch |2   |yes          |9             |113                      |1         |
-|Acatlahu   |Tanoch |2   |no           |no            |115                      |5         |
-|Zempoala   |Tanoch |2   |no           |no            |110                      |8         |
-|Coixl      |Tanoch |2   |no           |3             |117                      |1         |
-|Acatla     |Tanoch |2   |no           |no            |113                      |8         |
-|Teozacoz   |Tanoch |2   |no           |1             |111                      |2         |
-|Tochteop   |Tanoch |2   |no           |3             |113                      |8         |
-|Xilotepe   |Tanoch |2   |yes          |3             |113                      |5         |
+|System Name|Tier|Trade Station|Asteroid Belts|Mineable Jovian Planets|Jovian Planets|Moons|Hyperjump Strength|Difficulty|
+|-----------|----|-------------|--------------|-----------------------|--------------|-----|------------------|----------|
+|Acatla     |2   |no           |no            |2                      |2             |2    |112               |8         |
+|Acatlahu   |2   |no           |no            |no                     |no            |2    |115               |5         |
+|Cempoalc   |2   |yes          |6             |no                     |1             |no   |116               |3         |
+|Cempoalt   |2   |no           |no            |no                     |1             |3    |110               |3         |
+|Chihuat    |2   |yes          |10            |2                      |4             |2    |110               |3         |
+|Chuua      |2   |no           |4             |2                      |3             |6    |111               |7         |
+|Coixl      |2   |no           |5             |3                      |5             |4    |118               |1         |
+|Cuernava   |2   |no           |5             |1                      |2             |no   |110               |7         |
+|Cuilco     |2   |no           |5             |2                      |3             |4    |117               |2         |
+|Ixtlan     |2   |yes          |no            |1                      |1             |no   |114               |2         |
+|Malinalc   |2   |no           |7             |no                     |1             |4    |110               |3         |
+|Oaxtepex   |2   |no           |5             |no                     |1             |2    |112               |4         |
+|Ocuitepe   |2   |no           |no            |1                      |1             |6    |120               |4         |
+|Tanochetlan|2   |yes          |4             |1                      |3             |7    |110               |2         |
+|Tecoacui   |2   |yes          |no            |no                     |no            |no   |115               |8         |
+|Tecoalte   |2   |no           |no            |3                      |3             |2    |110               |1         |
+|Tecpan     |2   |no           |4             |1                      |3             |no   |110               |1         |
+|Telapente  |2   |yes          |no            |no                     |no            |2    |118               |8         |
+|Teozacoz   |2   |no           |1             |no                     |no            |1    |111               |2         |
+|Teozauhq   |2   |yes          |no            |1                      |1             |1    |118               |5         |
+|Tepec      |2   |yes          |no            |no                     |2             |4    |116               |6         |
+|Tepecoal   |2   |yes          |no            |no                     |1             |no   |119               |1         |
+|Tetelad    |2   |no           |4             |1                      |2             |2    |112               |1         |
+|Tixpan     |2   |no           |no            |no                     |no            |no   |113               |5         |
+|Tlacozau   |2   |no           |1             |no                     |1             |4    |110               |7         |
+|Tlapan     |2   |no           |2             |no                     |no            |no   |110               |7         |
+|Tlatlan    |2   |no           |4             |1                      |3             |5    |113               |7         |
+|Tochteop   |2   |no           |2             |2                      |4             |6    |114               |8         |
+|Tochtepe   |2   |yes          |no            |2                      |5             |14   |110               |5         |
+|Tuxpante   |2   |no           |3             |3                      |3             |4    |110               |4         |
+|Xala       |2   |no           |9             |1                      |3             |2    |117               |1         |
+|Xalapan    |2   |yes          |no            |no                     |no            |1    |110               |6         |
+|Xilotepe   |2   |yes          |3             |1                      |2             |1    |111               |5         |
+|Xocotila   |2   |yes          |2             |no                     |no            |5    |110               |3         |
+|Yoalco     |2   |no           |no            |2                      |2             |3    |113               |5         |
+|Zempoala   |2   |no           |no            |no                     |1             |6    |115               |8         |
+|Zempoalt   |2   |no           |no            |2                      |2             |3    |120               |8         |
+|Axocotil   |3   |no           |4             |2                      |2             |2    |210               |5         |
+|Ayotla     |3   |no           |no            |1                      |2             |3    |210               |7         |
+|Chiapa     |3   |no           |8             |1                      |1             |no   |150               |2         |
+|Cuilan     |3   |yes          |no            |no                     |1             |no   |210               |2         |
+|Ixtepec    |3   |no           |1             |1                      |2             |4    |210               |8         |
+|Misantep   |3   |yes          |no            |no                     |no            |3    |210               |5         |
+|Sijin      |3   |no           |6             |1                      |4             |8    |210               |7         |
+|Teozaan    |3   |no           |5             |no                     |no            |3    |210               |5         |
+|Tepecoma   |3   |yes          |no            |no                     |1             |3    |210               |6         |
 
 ### Tanoch Requisitions - Fragments
 
 |Item                           |Fragment type      |Fragment amount|
 |-------------------------------|-------------------|---------------|
-|Talos Launch Cluster II        |External Module II |60             |
-|Sandstorm Launch Complex II    |External Module II |90             |
-|Talos Launch Cluster III       |External Module III|100            |
-|Sandstorm Launch Complex III   |External Module III|150            |
-|Squadron Maintenance Module II |Internal Module II |30             |
-|Squadron Flight Coordinator II |Internal Module II |30             |
-|System Scan Booster II         |Internal Module II |30             |
-|Missile Launcher Heat Sink II  |Internal Module II |30             |
-|Sensor Range Booster III       |Internal Module III|45             |
-|System Scan Booster III        |Internal Module III|45             |
-|Missile Launcher Heat Sink III |Internal Module III|45             |
-|Torpedo Anti-Armor Booster III |Internal Module III|30             |
 |Assault Corvette Schematics II |Research II        |20             |
-|MIssile Launcher Schematics II |Research II        |20             |
-|Kinetic Turret Hull Damage II  |Research II        |20             |
-|Missile Turret Armor Damage II |Research II        |20             |
-|Assault Frigate Hull Damage II |Research II        |20             |
 |Assault Corvette Schematics III|Research III       |30             |
-|MIssile Launcher Schematics III|Research III       |30             |
+|Assault Frigate Hull Damage II |Research II        |20             |
+|Kinetic Turret Hull Damage II  |Research II        |20             |
+|Missile Launcher Heat Sink II  |Internal Module II |30             |
+|Missile Launcher Heat Sink III |Internal Module III|45             |
+|Missile Launcher Schematics II |Research II        |20             |
+|Missile Launcher Schematics III|Research III       |30             |
+|Missile Turret Armor Damage II |Research II        |20             |
+|Sandstorm Launch Complex II    |External Module II |90             |
+|Sandstorm Launch Complex III   |External Module III|150            |
+|Sensor Range Booster III       |Internal Module III|45             |
+|Squadron Flight Coordinator II |Internal Module II |30             |
+|Squadron Maintenance Module II |Internal Module II |30             |
+|System Scan Booster II         |Internal Module II |30             |
+|System Scan Booster III        |Internal Module III|45             |
+|Talos Launch Cluster II        |External Module II |60             |
+|Talos Launch Cluster III       |External Module III|100            |
+|Torpedo Anti-Armor Booster III |Internal Module III|30             |
 |Torpedo Frigate Schematics III |Research III       |30             |
 
-### Tanoch lore
+### Tanoch Lore
 
 - The current Tanoch Empire has existed for over eight thousand years.
 - The Tanoch believe Star Totek, the Holy Star, contains the dead spirit of one of their ancient gods.
 - The Tanoch are a deeply religious people, bound by faith to the Priest class and the Emperor who is descended from the gods.
 - There are three sub-cultures within the Tanoch Empire: The ruling Tanoch, the liberal Chicuat, and the downtrodden Tecuban.
 - The Temple forces within the Tanoch Empire answer only to Itaca Taot, High Priest of the Empire.
-- The centuries-long conflict between the Yaot and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
+- The centuries-long conflict between the [Yaot](#yaot-faction) and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
 - In the Tanoch sky, Star Totek is part of a constellation known as the Eye of Xajaak- a creator deity whose hand is said to shape what is.
 
-### Tanoch lore (winter event)
+### Tanoch Lore (Winter Celebrations Event)
 
 - The Tanoch Empire is approximately eight thousand years old; records are unclear even among the Tanoch themselves. They are currently led by an Emperor who is advised by a council of priests and high officials.
 - The Tanoch are deeply religious people who are deferral to central authority figures and are skeptical of technology. The Tanoch Empire has repeatedly crushed dissidents and suppressed technological innovation in order to maintain their previous way of life.
@@ -230,84 +227,142 @@ The Tanoch, marked with yellow, are an imperial faction that seems to be in a co
 - The Tanoch Empire is compromised broadly of three different ethnic groups. The Tanoch now control the Empire and are the most pious. The Tanoch Empire also inhibits the Chicuat who are seen as second-class citizens by the Tanoch and are often scapegoated of acts of disobedience, and the even lower-class Techuban who are survivors of the Tanoch Empire's ancient conquests.
 - Recently a beloved Tanoch King died under mysterious circumstances. Therefore, the leadership of the Tanoch Empire has passed onto his young son Cazoma.
 
-## Yaot faction
+## Yaot Faction
 
-The Yaot faction, marked in green, are a mostly unknown faction but seems to be in an aggressive conflict with the Tanoch. They are focused on the south east, and have the most T3 systems of any faction. Their liaisons are mostly based to counter the Cangacian pirates and Tanoch incursions. As with the previous two factions, every system has liaison offices.
+The Yaot faction, marked in green, are a mostly unknown faction but seems to be in an aggressive conflict with the [Tanoch](#tanoch-faction). They are focused on the south, and have the most T3 systems of any faction. Their liaisons are mostly based to counter the [Cangacian](#cangacian-faction) pirates and [Tanoch](#tanoch-faction) incursions. All systems of the Yaot have liaison offices.
 
-- All systems of the Yaot have liaison offices
+### Yaot Systems
 
-### Yaot systems
-
-|System Name |Faction|Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
-|------------|-------|----|-------------|--------------|-------------------------|----------|
-|Saami Ra    |Yaot   |3   |yes          |no            |210                      |3         |
-|Tunda Miraan|Yaot   |3   |yes          |2             |210                      |1         |
-|Tibata      |Yaot   |3   |no           |5             |210                      |1         |
-|Subaca      |Yaot   |3   |yes          |no            |210                      |1         |
-|Tocon       |Yaot   |3   |yes          |no            |210                      |2         |
-|Ytep        |Yaot   |3   |no           |4             |210                      |4         |
-|Yaotl       |Yaot   |3   |yes          |5             |210                      |7         |
-|Charatl     |Yaot   |3   |no           |1             |250                      |2         |
-|Subacuy     |Yaot   |3   |no           |no            |216                      |1         |
-|Chocata     |Yaot   |3   |no           |no            |216                      |6         |
-|Ziipaga     |Yaot   |3   |yes          |3             |211                      |8         |
-|Oica        |Yaot   |3   |yes          |9             |216                      |4         |
-|Teuascate   |Yaot   |3   |no           |no            |214                      |2         |
-|Paipaga     |Yaot   |3   |no           |no            |214                      |6         |
-|Topaconta   |Yaot   |3   |no           |2             |210                      |1         |
-|Topa        |Yaot   |3   |no           |4             |211                      |2         |
-|Samacon     |Yaot   |3   |yes          |11            |216                      |2         |
-|Rama        |Yaot   |3   |no           |5             |216                      |3         |
-|Tocata      |Yaot   |3   |no           |4             |218                      |7         |
-|Turmequi    |Yaot   |3   |yes          |no            |211                      |8         |
-|Zipate      |Yaot   |3   |yes          |5             |213                      |5         |
-|Topaque     |Yaot   |3   |no           |6             |218                      |6         |
-|Teuasia     |Yaot   |3   |no           |4             |218                      |1         |
-|Tiba        |Yaot   |3   |yes          |no            |215                      |1         |
-|Sabio       |Yaot   |3   |no           |no            |210                      |4         |
-|Ubacontl    |Yaot   |3   |yes          |1             |220                      |6         |
-|Tinjo       |Yaot   |3   |no           |no            |212                      |3         |
-|Tenjaca     |Yaot   |3   |no           |5             |212                      |2         |
+|System Name |Tier|Trade Station|Asteroid Belts|Mineable Jovian Planets|Jovian Planets|Moons|Hyperjump Strength|Difficulty|
+|------------|----|-------------|--------------|-----------------------|--------------|-----|------------------|----------|
+|Charatl     |3   |no           |1             |no                     |2             |2    |250                      |2         |
+|Chocata     |3   |no           |no            |3                      |6             |6    |218                      |6         |
+|Oica        |3   |yes          |11            |1                      |1             |no   |215                      |4         |
+|Paipaga     |3   |no           |no            |no                     |1             |1    |216                      |6         |
+|Rama        |3   |no           |3             |2                      |2             |3    |214                      |3         |
+|Saami Ra    |3   |yes          |no            |no                     |no            |no   |210                      |3         |
+|Sabio       |3   |no           |no            |2                      |2             |4    |213                      |4         |
+|Samacon     |3   |no           |8             |1                      |3             |2    |211                      |2         |
+|Subaca      |3   |yes          |no            |2                      |2             |3    |210                      |1         |
+|Subacuy     |3   |no           |no            |2                      |4             |4    |214                      |1         |
+|Tenjaca     |3   |yes          |6             |1                      |2             |6    |213                      |2         |
+|Teuascate   |3   |no           |no            |no                     |1             |4    |219                      |2         |
+|Teuasia     |3   |no           |4             |no                     |1             |no   |210                      |1         |
+|Tiba        |3   |yes          |no            |no                     |no            |5    |213                      |1         |
+|Tibata      |3   |no           |5             |1                      |1             |6    |210                      |1         |
+|Tinjo       |3   |no           |no            |1                      |2             |1    |210                      |3         |
+|Tocata      |3   |no           |4             |no                     |no            |1    |218                      |7         |
+|Tocon       |3   |yes          |no            |no                     |no            |1    |210                      |2         |
+|Topa        |3   |no           |1             |no                     |3             |3    |215                      |2         |
+|Topaconta   |3   |no           |2             |no                     |no            |no   |216                      |1         |
+|Topaque     |3   |yes          |4             |1                      |2             |12   |217                      |6         |
+|Tunda Miraan|3   |yes          |4             |3                      |3             |4    |210                      |1         |
+|Turmequi    |3   |yes          |no            |no                     |1             |3    |218                      |8         |
+|Ubacontl    |3   |yes          |1             |1                      |1             |1    |220                      |6         |
+|Yaotl       |3   |yes          |0             |no                     |no            |6    |210                      |7         |
+|Ytep        |3   |yes          |4             |2                      |2             |2    |210                      |4         |
+|Ziipaga     |3   |yes          |3             |no                     |no            |3    |211                      |8         |
+|Zipate      |3   |no           |1             |2                      |1             |6    |218                      |5         |
 
 ### Yaot Requisitions - Fragments
 
 |Item                           |Fragment type      |Fragment amount|
 |-------------------------------|-------------------|---------------|
 |Azure-1 Array III              |External Module III|100            |
-|Vission-11 Battery III         |External Module III|150            |
-|Engine Booster III             |Internal Module III|45             |
-|Squadron Maintenance Module III|Internal Module III|45             |
-|Squadron Flight Coordinator III|Internal Module III|45             |
-|Ion Cannon Heatsink III        |Internal Module III|45             |
-|Pulsar Corvette Schematics III |Research III       |30             |
-|Ion Cannon Schematics III      |Research III       |30             |
-|Pulsar Turret Schematics III   |Research III       |30             |
-|Ion Cannon Targeting Range III |Research III       |30             |
 |Beam Turret Hull Damage III    |Research III       |30             |
+|Engine Booster III             |Internal Module III|45             |
+|Ion Cannon Heatsink III        |Internal Module III|45             |
+|Ion Cannon Schematics III      |Research III       |30             |
+|Ion Cannon Targeting Range III |Research III       |30             |
+|LT-4 Mag Pointer IV (uncommon) |External Module IV |150            |
+|Pulsar Corvette Schematics III |Research III       |30             |
+|Pulsar Turret Schematics III   |Research III       |30             |
+|Squadron Flight Coordinator III|Internal Module III|45             |
+|Squadron Maintenance Module III|Internal Module III|45             |
+|Twin DR-M Mag Lance IV         |External Module IV |225            |
+|Vission-11 Battery III         |External Module III|150            |
 
-### Yaot lore
+### Yaot Lore
 
 - The Yaot Federation is a Gerontocracy, ruled by a council of the eldest from every major house. No member is younger than 60.
-- The centuries-long conflict between the Yaot and the Tanoch is centered on a group of Progenitor relics known as the Five Pillars.
+- The centuries-long conflict between the Yaot and the [Tanoch](#tanoch-faction) is centered on a group of Progenitor relics known as the Five Pillars.
 
-## Cangacian faction
+### Yaot Lore (Astral Conjunctions Event)
 
-The Cangacian factions, marked in red, made their wretched hives of scum and villainy in the north west of the known map. They have special outpost called 'safe haven' that gives you a nice little flavor text when you enter the system. As you could expect, outside of the safe haven, cangacians seem to attack you quite a lot in their space. They currently have no liaison offices, nor should you even be willing to support the pirate menace.
+- The Yaot:
+  - The Yaot Federation is a technologically advanced gerontocracy galactic south of their mortal enemies, the Tanoch Empire.
+  - Both civilizations are in contention over five massive Progenitor relics known as the Pillars. This conflict of varying intensity has been going on for close to three hundred years.
+- The conjunctions:
+  - Yaotl, the Home system of the Yaot Federation, is populated with twelve planets and over two hundred and twenty asteroids and moonlets.
+  - Since ancient days, the Yaot have believed the conjunctions of the different planets and stars in their sky forecast signs and portents of events to come. Celebrations and festivals are timed to specific conjunctions, making it one of the most significant holidays to the Yaot people.
+- The Ram:
+  - One of the most dire conjunctions of stars in the Yaot sky is the Ram, which portents great upheaval on the horizon and a warning to leaders and members of the religiously inclined.
+  - Three times in the history of the Yaot, great social change and calamity has coincided with the appearance of this conjunction.
+  - The conjunction is due to appear soon, and many are already worried about what tragedy will befall the Yaot people. The council of elders, naturally, has dismissed the superstition.
+- The government:
+  - The Federation is a union of a hundred and eighty or so "old families" which are ruled by a council of firstborn elders from each family.
+  - No member is younger than sixty, making the council of late increasingly out of touch with the needs of the people.
+  - Already social unrest from the young is building over resentment of fighting a religious war that is increasingly unpopular.
 
-### Cangacian systems
+## Amassari Faction
 
-|System Name|Faction  |Tier|Trade Station|Asteroid Belts|Hyperjump Strength needed|Difficulty|
-|-----------|---------|----|-------------|--------------|-------------------------|----------|
-|Bescava    |Cangacian|2   |no           |no            |120                      |2         |
-|Larcava    |Cangacian|2   |no           |no            |114                      |4         |
-|Cancava    |Cangacian|2   |no           |no            |120                      |2         |
-|Lura       |Cangacian|2   |no           |1             |117                      |4         |
-|Kaluari    |Cangacian|2   |no           |1             |112                      |8         |
-|Larinca    |Cangacian|2   |no           |no            |118                      |3         |
+The Amassari faction, marked in yellow, are the degenerated descendants of the formidable Haktar Empire. They are focused on the north east beyond the Nightmare Gulf. Their liaisons are mainly against [Kithless Hiigarans](#kiithless-hiigaran-faction) and other Amassari. Their siege frigates are to be feared; on their own, they have been known to one-shot unwary resource collectors, while groups are eaily a match for the hardiest flagship.
 
-### Cangacian lore
+### Amassari Systems
 
-- Many of the Cangacian pirates have ancestry tracing back to the refugees from the ancient Tanoch wars of conquest.
+|System Name |Tier|Trade Station|Asteroid Belts|Mineable Jovian Planets|Jovian Planets|Moons|Hyperjump Strength|Difficulty|
+|------------|----|-------------|--------------|-----------------------|--------------|-----|------------------|----------|
+|Anad        |4   |no           |no            |3                      |4             |7    |316                      |6         |
+|Antaltan    |4   |yes          |4             |4                      |5             |5    |313                      |7         |
+|Canaxtela   |4   |no           |no            |4                      |4             |2    |310                      |2         |
+|Cansaga     |4   |no           |7             |1                      |1             |3    |310                      |8         |
+|Dandita     |4   |no           |no            |no                     |no            |2    |320                      |2         |
+|Dasdonak    |4   |no           |3             |1                      |1             |no   |312                      |7         |
+|Del         |4   |no           |no            |1                      |1             |no   |310                      |2         |
+|Hataldan    |4   |yes          |no            |1                      |2             |no   |310                      |6         |
+|Iliyin      |4   |yes          |3             |1                      |1             |2    |310                      |8         |
+|Karisara    |4   |no           |4             |1                      |2             |2    |310                      |5         |
+|Kuubata     |4   |no           |5             |no                     |no            |2    |318                      |6         |
+|Makatia     |4   |yes          |13            |3                      |3             |1    |320                      |4         |
+|Manad       |4   |no           |no            |1                      |2             |no   |317                      |5         |
+|Vandita     |4   |no           |2             |no                     |1             |4    |320                      |2         |
+|Venee       |4   |yes          |2             |2                      |2             |4    |310                      |4         |
+|Ventala     |4   |no           |3             |1                      |2             |6    |310                      |8         |
+|Xibalba     |4   |yes          |6             |no                     |2             |no   |314                      |7         |
+
+### Amassari Requisitions - Fragments
+
+|Item                           |Fragment type      |Fragment amount|
+|-------------------------------|-------------------|---------------|
+|Karos-8 Battery IV             |External Module IV |225            |
+
+### Amassari Lore
+
+- The Amassari live amongst the ruins of their shattered empire and progenitor derelicts.
+- There is almost no widespread technological advancement among the Amassari becasue materials are so scarce.
+- The Amassari have lost the knowledge of scientific experimentation.
+- They continue on maintaining their ships through a mixture of tradition and religious practices.
+
+## Cangacian Faction
+
+The Cangacian faction, marked in red, made their wretched hives of scum and villainy in the north west of the known map. They have a special outpost called 'safe haven' that gives you a nice little flavor text when you enter the system. As you could expect, outside of the safe haven, cangacians seem to attack you quite a lot in their space. They currently have no liaison offices, nor should you even be willing to support the pirate menace.
+
+### Cangacian Systems
+
+|System Name|Tier|Trade Station|Asteroid Belts|Mineable Jovian Planets|Jovian Planets|Moons|Hyperjump Strength|Difficulty|
+|-----------|----|-------------|--------------|-----------------------|--------------|-----|------------------|----------|
+|Kriitana   |1   |no           |5             |no                     |1             |no   |32                       |7         |
+|Ze Tavaan  |1   |no           |4             |1                      |3             |12   |31                       |2         |
+|Bescava    |2   |no           |no            |no                     |no            |no   |113                      |2         |
+|Cancava    |2   |no           |no            |no                     |1             |7    |114                      |2         |
+|Kaluari    |2   |no           |1             |no                     |no            |no   |115                      |8         |
+|Larcava    |2   |no           |no            |no                     |no            |1    |118                      |4         |
+|Larinca    |2   |no           |no            |no                     |1             |no   |113                      |3         |
+|Lura       |2   |no           |2             |no                     |1             |1    |119                      |4         |
+
+### Cangacian Lore
+
+- Many of the Cangacian pirates have ancestry tracing back to the refugees from the ancient [Tanoch](#tanoch-faction) wars of conquest.
 - The Fleet of Rams is the personal fleet of Supay, Cangacian warlord. His ambition is to unite the fringe and invade the Tanoch Empire.
 
 ## Universial Market
@@ -316,88 +371,121 @@ The Cangacian factions, marked in red, made their wretched hives of scum and vil
 
 |Item                                |Fragment type      |Fragment amount|
 |------------------------------------|-------------------|---------------|
+|Azure-1 Array II                    |External Module II |60             |
+|Battlecruiser II                    |Ship II            |150            |
+|Battlecruiser III                   |Ship III           |300            |
+|Battlecruiser hull III              |Research III       |30             |
 |Carrier I                           |Ship I             |75             |
 |Carrier II                          |Ship II            |150            |
 |Carrier III                         |Ship III           |300            |
-|Battlecruiser II                    |Ship II            |150            |
-|Battlecruiser III                   |Ship III           |300            |
-|Azure-1 Array II                    |External Module II |60             |
-|Vision-11 Battery II                |External Module II |90             |
-|K-X3C Thunderbolt III               |External Module III|100            |
-|Ion Cannon Heat Sink II             |Internal Module II |30             |
+|Carrier hull III                    |Research III       |30             |
+|Explorer hull II                    |Research II        |20             |
 |Ion Cannon Anti-Armour II           |Internal Module II |30             |
+|Ion Cannon Frigate Schematics III   |Research III       |30             |
+|Ion Cannon Heat Sink II             |Internal Module II |30             |
+|Ion Cannon Schematics II            |Research II        |20             |
+|K-X3C Thunderbolt III               |External Module III|100            |
+|LT-4 Mag Pointer IV (rare)          |External Module IV |150            |
+|Legendary Hiigaran Recruitment Token|Officer            |120            |
 |Mass Driver Anti-Hull III           |Internal Module III|45             |
 |Mass Driver Heat sink III           |Internal Module III|45             |
-|Torpedo Frigate Schematics II       |Research II        |20             |
 |Pulsar Corvette Schematics II       |Research II        |20             |
-|Ion Cannon Schematics II            |Research II        |20             |
-|Explorer hull II                    |Research II        |20             |
-|Ion Cannon Frigate Schematics III   |Research III       |30             |
-|Carrier hull III                    |Research III       |30             |
-|Battlecruiser hull III              |Research III       |30             |
-|Legendary Hiigaran Recruitment Token|Officer            |120            |
+|Torpedo Frigate Schematics II       |Research II        |20             |
+|Type-5 Launch Pad IV (rare)         |External Module IV |150            |
+|Vision-11 Battery II                |External Module II |90             |
 
 ### Universial Market - Prestige
 
-|Item                                   |Prestige amount|
-|---------------------------------------|---------------|
-|100000 Credits                         |200            |
-|200 Adamant                            |200            |
-|Rare Hiigaran Recruitment Token        |99             |
-|K-X3C Thunderbolt I                    |120            |
-|Talos Launch Cluster I                 |120            |
-|K-X3C Thunderbolt II                   |160            |
-|Ion Cannon Anti-Hull II                |160            |
-|Mass Driver Heat Sink II               |160            |
-|Mass Driver Anti-Armour III            |640            |
-|200 - GU Type H Gas T3                 |50             |
-|Plasma Bomber Schematics II            |160            |
-|Interceptor Speed II                   |160            |
-|Interceptor Evasion II                 |160            |
-|Scouting Friage Vision II              |160            |
-|Resource collector Hull II             |160            |
-|Destroyer Schematics II                |320            |
-|Plasma Bomber Schematics III           |640            |
-|Kinetic Turret Armour Damage III       |640            |
-|Destroyer Schematics III               |1280           |
-|10 - Ship Code Fragments II            |30             |
-|10 - Internal Module Code Fragments II |30             |
-|10 - External Module Code Fragments II |30             |
-|5- Research code Fragments II          |30             |
-|10 - Ship Code Fragments III           |15             |
-|10 - Internal Module Code Fragments III|15             |
-|10 - External Module Code Fragments III|15             |
-|5- Research code Fragments III         |15             |
+|Prestige Market: CONTAINERS             |Prestige amount|
+|----------------------------------------|---------------|
+|Adamant (200)                           |200            |
+|Credits (100000)                        |200            |
+|Rare Hiigaran Recruitment Token         |99             |
+
+|Prestige Market: MODULES                |Prestige amount|
+|----------------------------------------|---------------|
+|Crimson-4 Array IV (rare)               |900            |
+|DR-3 Mag Repeater IV (rare)             |900            |
+|Ion Cannon Anti-Hull II                 |160            |
+|Kinetic Turret Armour Damage III        |640            |
+|K-X3C Thunderbolt Cannon I              |120            |
+|K-X3C Thunderbolt Cannon II             |160            |
+|Mass Driver Anti-Armour III             |640            |
+|Mass Driver Heat Sink II                |160            |
+|Scouting Friage Vision II               |160            |
+|Talos Launch Cluster I                  |120            |
+|Twin Javelin Cannon IV (rare)           |900            |
+
+|Prestige Market: SHIPS                  |Prestige amount|
+|----------------------------------------|---------------|
+|Gas Collector IV (rare)                 |500            |
+|Resource Collector IV (rare)            |500            |
+
+|Prestige Market: RESOURCES              |Prestige amount|
+|----------------------------------------|---------------|
+|GU Type H Gas T3 (200)                  |50             |
+
+|Prestige Market: RESEARCH PRODUCTS      |Prestige amount|
+|----------------------------------------|---------------|
+|Destroyer Hull IV                       |1280           |
+|Destroyer Schematics II                 |320            |
+|Destroyer Schematics III                |1280           |
+|Explosive Turret Hull Damage research IV|1280           |
+|Interceptor Evasion II                  |160            |
+|Interceptor Speed II                    |160            |
+|Plasma Bomber Schematics II             |160            |
+|Plasma Bomber Schematics III            |640            |
+|Resource collector Hull II              |160            |
+
+|Prestige Market: CODE FRAGMENTS         |Prestige amount|
+|----------------------------------------|---------------|
+|External Module Code Fragments II (10)  |30             |
+|External Module Code Fragments III (10) |30             |
+|External Module Code Fragments IV (10)  |30             |
+|Internal Module Code Fragments II (10)  |30             |
+|Internal Module Code Fragments III (10) |30             |
+|Internal Module Code Fragments IV (10)  |30             |
+|Research code Fragments II (5)          |15             |
+|Research code Fragments III (5)         |15             |
+|Research code Fragments IV (5)          |15             |
+|Ship Code Fragments II (10)             |30             |
+|Ship Code Fragments III (10)            |30             |
+|Ship Code Fragments IV (10)             |30             |
 
 ### Tanoch Winter Celebration (2022)
 
-- These items are unique to the Tanoch Winter Celebration. It is unkown IF or WHEN they will return to the market
+These items are unique to the "Tanoch Winter Celebration event". It is unkown IF or WHEN they will return to the market
 
 |Item                                  |Prestige amount|
 |--------------------------------------|---------------|
-|500 Gas Pack III                      |600            |
-|300 RE Yy                             |149            |
-|300 RE Pr                             |290            |
 |150 RE Sm & 150 RE Eu                 |490            |
+|300 RE Pr                             |290            |
+|300 RE Yy                             |149            |
+|500 Gas Pack III                      |600            |
 |Ada Hraal (Rare research time officer)|49             |
 |Cholula-Class Cannon I                |99             |
 |Cholula-Class Cannon II               |590            |
 |Cholula-Class Cannon III              |149            |
 |Tanoch Assault Corvette Squadron I    |990            |
-|Tanoch Interceptor Squadron II        |149            |
+|Tanoch Assault Frigate BP II          |150            |
 |Tanoch Assault Frigate II             |290            |
 |Tanoch Attack Bomber Squadron III     |490            |
-|Tanoch Missile Frigate III            |100            |
+|Tanoch Interceptor Squadron II        |149            |
 |Tanoch Missile Corvette Squadron III  |150            |
-|Tanoch Assault Frigate BP II          |150            |
 |Tanoch Missile Frigate BP III         |150            |
+|Tanoch Missile Frigate III            |100            |
 
-## Progenitor faction
+## Kiithless Hiigaran faction
+
+Very little is known of this faction at this time, although their paintjob rocks.
+
+## Progenitor Faction
 
 Although the Progenitors don't have their own systems (yet?), They can be found in various scannable signals throughout Nimbus.
+
 The Keeper is aware. The Keeper understands. The Keeper has seen the enemy.
 
-### Progenitor lore
+### Progenitor Lore
 
 This is excluding lore from the main game titles, just what is found on the various loading screen segments.
 
@@ -407,7 +495,7 @@ This is excluding lore from the main game titles, just what is found on the vari
 - The Hyperspace Gate network is the most visible and lasting accomplishment of the ancient Progenitor Empire.
 - Free standing artifacts that are gate-like have been identified and known for centuries as ‘gates’, but their purpose wasn’t revealed until Aarran was opened.
 
-### Ghost stories
+### Ghost Stories
 
 #### The Gold Fleet
 
