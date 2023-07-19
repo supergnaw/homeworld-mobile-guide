@@ -1,6 +1,7 @@
 # Ships- Flagships, escorts and squads
 
 - OUTDATED: Using data from game-version 1.1.8
+- Flagship info (except build requirements) should be correct.
 
 ## Flagships
 
@@ -8,30 +9,37 @@ The flagship is you main unit, or character in the game. A flagship (or flag for
 
 Flagships have three main 'classes':
 
-- Explorers: Fast ships that have a mix between decent armour and hull. They get additional fabrication slots per tier upgrade. They have a internal module capacity of 220 front, 220 middle and 170 back
-- Carriers: Ship that deploys a lot of units. Low armour but a lot of hull. They get additional refinery slots per tier upgrade. They have a internal module capacity of 170 front, 270 middle and 170 back
-- Battlecruisers: Ship that has access to large weapon slots. Lots of armour but low hull, They have a internal module capacity of 170 front, 220 middle and 220 back
+- **Explorers**: Fast ships that have a mix between decent armour and hull. They have a internal module capacities of:
+  - 220 front, 220 middle, 170 back (T1, T2 & T3)
+  - 240 front, 220 middle, 170 back (T4)
+- **Carriers**: Ship that deploys a lot of units. Low armour but a lot of hull. They have a internal module capacities of 170 front, 270 middle, 170 back for all tiers
+- **Battlecruisers**: Ship that has access to large weapon slots. Lots of armour but low hull, They have a internal module capacities of:
+  - 170 front, 220 middle, 220 back (T1, T2 & T3)
+  - 170 front, 220 middle, 240 back (T4)
 
 Aside from the normal variants, there are also two rare flagships, the Mohaava and the Tiirshak rare explorer class flagships
 
-- Mohaava: dedicated repair ships with three fixed repair modules that can't be replaced
-- Tiirshak: dedicated scanner ship with a fixed sensor array and large targeting range
+- **Mohaava**: dedicated repair ships with three fixed repair modules (2x Small and 1 Medium) that cannot be removed.
+- **Tiirshak**: dedicated scanner ship with a fixed sensor array and large targeting range.
 
 ### Flagships Blueprints
 
-|Ship                |Location Found                                            |Notes                                                                                                                                  |
-|--------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|Expedition          |Starter ship                                              |Weapons: 2x small<br>Targeting range: 50<br>Fleet: 3 squads 1 escort                                                                   |
-|Carrier I           |Market (75 T1 Ship code fragments)                        |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 6 squads 1 escort                                                         |
-|Carrier II          |Market (150 T2 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 6 squads 2 escorts                                                        |
-|Carrier III         |Market (300 T3 Ship code fragments)                       |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 6 squads 3 escorts                                                        |
-|Explorer I          |Chapter 10 - Cangacian troubles<br>Market (Credits)       |Weapons: 1x small 2x medium<br>Targeting range: 60<br>Fleet: 4 squads 1 escort                                                         |
-|Explorer II         |Market (Credits)                                          |Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                                        |
-|Explorer II Mohaava |Iyatequa liaison requisitions (150 T2 Ship code fragments)|Weapons: 4x small 2x medium<br>Targeting range: 70<br>Fleet: 4 squads 3 escorts<br>Special: Has 2x small 1x medium fixed repair turrets|
-|Explorer II Tiirshak|From the Large starter pack                               |Weapons: 3x small 1x medium<br>Targeting range: 90<br>Fleet: 4 squads 2 escorts<br>Special : Has special fixes sensor array            |
-|Explorer III        |Market (Credits)                                          |Weapons: 4x small 2x medium<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                                        |
-|Battlecruiser II    |Market (150 T2 Ship code fragments)                       |Weapons: 2x small 2x medium 2x large<br>Targeting range: 70<br>Fleet: 4 squads 2 escorts                                               |
-|Battlecruiser III   |Market (300 T3 Ship code fragments)                       |Weapons: 2x small 3x medium 2x large<br>Targeting range: 80<br>Fleet: 4 squads 2 escorts                                               |
+|Ship                |Location                     |Cost                               |Weapons                      |Targeting Range|Squads|Escorts|Notes|
+|--------------------|-----------------------------|-----------------------------------|-----------------------------|---------------|------|-------|-----|
+|Expedition          |Starter ship                 | -                                 |2x Small                     |50             |3     |1      |     |
+|Carrier I           |Market                       |75 Ship Code fragments I           |1x Small; 2x Medium          |60             |6     |1      |     |
+|Carrier II          |Market                       |150 Ship Code fragments II         |4x Small; 2x Medium          |70             |6     |2      |     |
+|Carrier III         |Market                       |300 Ship Code fragments III        |4x Small; 2x Medium          |80             |6     |3      |     |
+|Carrier IV          |Market                       |600 Ship Code fragments IV         |3x Small; 3x Medium          |80             |6     |3      |     |
+|Explorer I          |Chapter 10 (Cangacian Troubles)<br />Market| - <br />129K Credits|1x Small; 2x Medium          |60             |4     |1      |     |
+|Explorer II         |Market                       |249K Credits                       |4x Small; 2x Medium          |70             |4     |2      |     |
+|Explorer II Mohaava |Iyatequa liaison requisitions|150 Ship code fragments II         |4x Small; 2x Medium          |70             |4     |3      |2x Small 1x Medium fixed repair turrets|
+|Explorer II Tiirshak|Large Starter Pack           |Real money                         |3x Small; 1x Medium          |90             |4     |2      |Fixed sensor array|
+|Explorer III        |Market                       |449K Credits                       |4x Small; 2x Medium          |80             |4     |2      |     |
+|Explorer IV         |Market                       |6.9M Credits                       |2x Small; 4x Medium          |80             |4     |2      |     |
+|Battlecruiser II    |Market                       |150 Ship code fragments II         |4x Small; 2x Medium          |70             |4     |2      |     |
+|Battlecruiser III   |Market                       |300 Ship code fragments III        |2x Small; 3x Medium; 2x Large|80             |4     |2      |     |
+|Battlecruiser IV    |Market                       |600 Ship code fragments IV         |4x Medium; 2x Large          |80             |4     |2      |     |
 
 ### Flagships Build requirements
 
@@ -141,21 +149,34 @@ Destroyers are tanky escort units that costs TWO escort slots, so you will need 
 
 ## Escort - Resource controller
 
-Resource controllers are a mining escort unit, unarmed and lightly armoured, they are not meant for any combat roles. Controllers act as a drop-off point of collectors, can mine themselves and go onto a 'remote mining' task that sends them off-map for a couple of hours (depending on the type of controller) and come back with ores of the controllers tier. Meaning that you can deploy a bunch of controllers, and before you log-off for the day, send them on a remote mining session to mine for you whilst you are not on your phone (for example, you deploy 2x T2 controllers, they will return to you with a bunch of T2 ores)
+Resource controllers are a mining escort unit, unarmed and lightly armoured, they are not meant for any combat roles. All resource controllers have the following features:
 
-- To send a resource controller on a remote mining mission, equip it in an escort slot, press on the unit so the unit card pops-up, then press the white symbol (mining symbol) on the unit card
+- Can act as a drop off point for [Resource Collectors](#squads---resource-collectors).
+- Can mine themselves
+- Can be sent to "remote mine" for a number of hours (based on the type of resource controller) while you are not playing.
+
+To send a resource controller on a remote mining mission:
+
+1. Equip it in an escort slot,
+2. press on the unit so the unit card pops-up,
+3. then press the white symbol (mining symbol) on the unit card.
 
 ### Resource controller Blueprints
 
-|Ship                           |Location Found                                                              |Notes                                                                                                                    |
-|-------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-|Resource Controller I          |Chapter 19 - Ore deal, unlocks Resources Controller T1                      |Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Resource Controller II         |Research found Iyatequa liaison requisitions (20 T2 Research code fragments)|Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Resource Controller III        |Research found Iyatequa liaison requisitions (30 T3 Research code fragments)|Has the ability to remote mine / afk mine (4 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Gilded short-term controller II|Iyatequa liaison requisitions - reputation 3                                |Has the ability to remote mine / afk mine (2 hours). Has a drop-off point for resource collectors and can mine themselves|
-|Gilded long-term controller II |Iyatequa liaison requisitions - reputation 5                                |Has the ability to remote mine / afk mine (8 hours). Has a drop-off point for resource collectors and can mine themselves|
+|Ship                                      |Location                                        |Cost                          |Remote mining duration|
+|------------------------------------------|------------------------------------------------|------------------------------|----------------------|
+|Resource Controller I                     |Chapter 19 - Ore deal (unlocks upon completion) |                              |4 hours               |
+|Resource Controller I (gilded)            |Iyatequa liaison requisitions - reputation ?    |20K Credits                   |4 hours               |
+|Resource Controller II                    |Iyatequa liaison requisitions (research) - rep ?|20 Research Code fragments II |4 hours               |
+|Resource Controller II (gilded short-term)|Iyatequa liaison requisitions - reputation 3    |30K Credits                   |2 hours               |
+|Resource Controller II (gilded)           |Iyatequa liaison requisitions - reputation 5    |200K Credits                  |8 hours               |
+|Resource Controller III                   |Iyatequa liaison requisitions (research) - rep ?|30 Research Code fragments III|4 hours               |
+|Resource Controller IV                    |Iyatequa liaison requisitions - reputation ?    |800K Credits                  |4 hours               |
+|Resource Controller IV (rare)             |Clan store                                      |3990 Clan coins               |4 hours               |
 
 ### Resource controller Build requirements
+
+- OUTDATED: Using data from game-version 1.1.8
 
 |Unit name                      |Mat1                |Qty1|Mat2    |Qty2|Mat3                     |Qty3|
 |-------------------------------|--------------------|----|--------|----|-------------------------|----|

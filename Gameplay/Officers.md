@@ -919,11 +919,11 @@ Down below is the insignia and credit costs of leveling your officers based on t
 Cumulative insignia and credit costs to reach each tenth level:
 
 |Levels  |Insignia Tier|Common|Uncommon|Rare|Epic|Legendary     |Credits needed|
-|--------|-------------|------|--------|----|----|---------|--------------|
-|1 to 10 |T1           |94    |188     |470 |752 |1504     |76800         |
-|11 to 20|T2           |235   |470     |1175|1880|3760     |210000        |
-|21 to 30|T3           |375   |750     |1875|3000|6000     |342000        |
-|31 to 40|T4           |515   |1030    |2575|4120|8240     |474000        |
+|--------|-------------|------|--------|----|----|--------------|--------------|
+|1 to 10 |T1           |94    |188     |470 |752 |1504          |76800         |
+|11 to 20|T2           |235   |470     |1175|1880|3760          |210000        |
+|21 to 30|T3           |375   |750     |1875|3000|6000          |342000        |
+|31 to 40|T4           |515   |1030    |2575|4120|8240          |474000        |
 
 ## Split Perks
 
@@ -993,8 +993,8 @@ Rarity: **Legendary**
 
 |Perks                               |Level 1|Level 10|Level 20|Level 30|Level 40|
 |------------------------------------|-------|--------|--------|--------|--------|
-|Sensor: Flagship Targetting Range   |+24%   |        |        |        |        |
-|Escort Ship: Escort Targetting Range|+24%   |        |        |        |        |
+|Sensor: Flagship Targetting Range   |+24%   |+27%    |+30%    |+30%    |+33%    |
+|Escort Ship: Escort Targetting Range|+24%   |+24%    |+24%    |+27%    |+27%    |
 
 Hector Soban was available as part of the "Amassari Stories: Rise of the Kiithless" event.
 
