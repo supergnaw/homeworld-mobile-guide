@@ -963,7 +963,7 @@ All officers obtained in the game, except for the named market legendary officer
 
 #### Ada Hraal
 
-Portrait to follow
+![Ada Hraal](/img/officers/ada-hraal.png)
 
 > Former lead scientist of the second expedition to Nimbus. Veteran research specialist.
 
@@ -974,9 +974,9 @@ Ada Hraal was available as part of the "Tanoch Winter Celebrations" event.
 
 #### Elise Liirhra
 
-Portrait to follow
+![Elise Liirha](/img/officers/elise-liirhra.png)
 
-> Bio to follow
+> Elise started out as a beam weapon technician in the Hiigaran fleet, but climbed the ranks quickly after implementing Yaot technology into Hiigaran weapons. Today she is known as a friend to the Yaot - and an expert in pulsar weaponry.
 
 Rarity: **Epic**  
 Perk: [Pulsar Burst](#pulsar-burst)
