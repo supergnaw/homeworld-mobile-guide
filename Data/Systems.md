@@ -306,7 +306,7 @@ The Yaot faction, marked in green, are a mostly unknown faction but seems to be 
 
 ## Amassari Faction
 
-The Amassari faction, marked in yellow, are the degenerated descendants of the formidable Haktar Empire. They are focused on the north east beyond the Nightmare Gulf. Their liaisons are mainly against [Kithless Hiigarans](#kiithless-hiigaran-faction) and other Amassari. Their siege frigates are to be feared; on their own, they have been known to one-shot unwary resource collectors, while groups are eaily a match for the hardiest flagship.
+The Amassari faction, marked in yellow, are the degenerated descendants of the formidable Hagthar Empire. They are focused on the north east beyond the Nightmare Gulf. Their liaisons are mainly against [Kithless Hiigarans](#kiithless-hiigaran-faction) and other Amassari. Their siege frigates are to be feared; on their own, they have been known to one-shot unwary resource collectors, while groups are eaily a match for the hardiest flagship.
 
 ### Amassari Systems
 
